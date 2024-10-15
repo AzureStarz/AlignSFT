@@ -1,13 +1,14 @@
-# export TRANSFORMERS_CACHE=/mnt/sda/dongkeun/huggingface
-# export HF_DATASETS_CACHE=/mnt/sda/dongkeun/huggingface_datasets
-# export CUDA_VISIBLE_DEVICES=0
+#!/bin/env bash
+ckpt_path=${1:-"/home/export/base/ycsc_chenkh/hitici_02/online1/LangBridge/checkpoints/debug"}
+output_path=${2:-"/home/export/base/ycsc_chenkh/hitici_02/online1/LangBridge/eval_outputs/mgsm/debug"}
+enc_tokenizer_path=${3:-"/home/export/base/ycsc_chenkh/hitici_02/online1/LangBridge/pretrained-models/mt5-xl-lm-adapt"}
 
-python /home/export/base/ycsc_chenkh/hitici_02/online1/enhance_alignment/python_scripts/eval_langbridge.py \
-  --checkpoint_path /home/export/base/ycsc_chenkh/hitici_02/online1/enhance_alignment/LLaMA-Factory/saves/llama2-7b/full/lb/llama2_metamath_1st-stage_full_sft \
-  --enc_tokenizer /home/export/base/ycsc_chenkh/hitici_02/online1/enhance_alignment/LLaMA-Factory/saves/llama2-7b/full/lb/llama2_metamath_1st-stage_full_sft/encoder_tokenizer \
-  --tasks mgsm_en,mgsm_es,mgsm_fr,mgsm_de,mgsm_ru,mgsm_zh,mgsm_ja,mgsm_th,mgsm_sw,mgsm_bn,mgsm_te\
-  --instruction_template mathoctopus \
+python python_scripts/eval_langbridge.py \
+  --checkpoint_path ${ckpt_path} \
+  --enc_tokenizer ${enc_tokenizer_path} \
+  --tasks mgsm_en \
+  --instruction_template metamath \
   --batch_size 1 \
-  --output_path eval_outputs/mgsm/llama2_metamath_1st-stage_full_sft \
+  --output_path ${output_path} \
   --device cuda:0 \
   --no_cache
