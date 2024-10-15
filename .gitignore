@@ -1,0 +1,3 @@
+*.pyc
+eval_outputs/
+saves/*

@@ -1,0 +1,52 @@
+### model
+model_name_or_path: /home/export/base/ycsc_chenkh/hitici_02/online1/enhance_alignment/LLaMA-Factory/saves/llama2-7b/full/lb/llama2_metamath_1st-stage_full_sft
+enc_name_or_path: /home/export/base/ycsc_chenkh/hitici_02/online1/LangBridge/pretrained-models/mt5-xl-lm-adapt
+lm_name_or_path: /home/export/base/ycsc_chenkh/hitici_02/online1/data/pretrained-models/Llama-2-7b
+alignments: linear
+enc_hidden_size: 2048
+lm_hidden_size: 4096
+add_new_lines_to_enc: True
+exp_run_name: llama2_metamath_2nd-stage_full_sft
+
+### method
+stage: lb
+do_train: true
+finetuning_type: full
+print_param_status: True
+deepspeed: /home/export/base/ycsc_chenkh/hitici_02/online1/enhance_alignment/LLaMA-Factory/examples/deepspeed/ds_z2_config.json
+
+### dataset
+dataset: llama2_metamath_2nd-stage_data
+remove_unused_columns: False
+template: empty
+cutoff_len: 1280
+max_length_enc: 1024
+overwrite_cache: true
+preprocessing_num_workers: 16
+
+### output
+output_dir: /home/export/base/ycsc_chenkh/hitici_02/online1/enhance_alignment/LLaMA-Factory/saves/llama2-7b/full/lb/llama2_metamath_2nd-stage_full_sft
+logging_steps: 10
+save_steps: 1000
+save_total_limit: 1
+plot_loss: true
+overwrite_output_dir: true
+
+### train
+freeze_language_model: False
+freeze_encoder: True
+freeze_alignment: True
+use_lb_custom_optimizer: True
+learning_rate_alignment: 6.0e-4
+learning_rate_enc: 2.0e-5
+learning_rate_lm: 2.0e-5
+w_decay_alignment: 0.0
+w_decay_enc: 0.1
+w_decay_lm: 0.0
+per_device_train_batch_size: 4
+gradient_accumulation_steps: 8
+num_train_epochs: 3.0
+lr_scheduler_type: cosine
+warmup_steps: 0
+bf16: true
+ddp_timeout: 180000000
