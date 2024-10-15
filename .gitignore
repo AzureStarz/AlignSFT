@@ -1,3 +1,4 @@
 *.pyc
 eval_outputs/
 saves/*
+*.slurm
