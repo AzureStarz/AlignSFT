@@ -12,7 +12,7 @@ from transformers import BatchEncoding
 
 from lm_eval import utils
 from lm_eval.base import BaseLM
-from langbridge import LangBridgeModel
+from model.modeling_langbridge import LangBridgeModel
 
 TokenSequence = Union[List[int], torch.LongTensor, torch.Tensor, BatchEncoding]
 
