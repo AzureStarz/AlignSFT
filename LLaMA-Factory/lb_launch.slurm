@@ -1,8 +1,8 @@
 #!/bin/bash
 #SBATCH --job-name=llama2_metamath_2nd-stage_full_sft    #作业名称
 #SBATCH --partition=q_intel_gpu_nvidia_h20   #指定队列
-#SBATCH --output=/home/export/base/ycsc_chenkh/hitici_02/online1/enhance_alignment/LLaMA-Factory/logs/run-job%j.out     #正常输出
-#SBATCH --error=/home/export/base/ycsc_chenkh/hitici_02/online1/enhance_alignment/LLaMA-Factory/logs/run-job%j.err   #错误输出
+#SBATCH --output=/home/export/base/ycsc_chenkh/hitici_02/online1/AlignSFT/LLaMA-Factory/logs/run-job%j.out     #正常输出
+#SBATCH --error=/home/export/base/ycsc_chenkh/hitici_02/online1/AlignSFT/LLaMA-Factory/logs/run-job%j.err   #错误输出
 #SBATCH --gres=gpu:6       #指定GPU数量
 #SBATCH --ntasks-per-node=1
 #SBATCH --nodelist=gpu031
@@ -21,7 +21,7 @@ nvcc -V
 source activate
 conda activate new_llama_factory
 
-project_dir=/home/export/base/ycsc_chenkh/hitici_02/online1/enhance_alignment/LLaMA-Factory
+project_dir=/home/export/base/ycsc_chenkh/hitici_02/online1/AlignSFT/LLaMA-Factory
 cd ${project_dir}
 save_dir=${project_dir}/saves
 
