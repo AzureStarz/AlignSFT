@@ -55,7 +55,7 @@ INVALID_ANS = "[invalid]"
 
 class MSVAMP(Task):
     VERSION = 0
-    DATASET_PATH = "Mathoctopus/MSVAMP"
+    DATASET_PATH = "/online1/ycsc_chenkh/hitici_02/data/eval_data/msvamp"
     DATASET_NAME = None
 
     def has_training_docs(self):
