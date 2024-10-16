@@ -217,7 +217,7 @@ def get_dataset(
     training_args: "Seq2SeqTrainingArguments",
     stage: Literal["pt", "sft", "rm", "ppo", "kto", "lb"],
     tokenizer: "PreTrainedTokenizer",
-    encoder_tokenizer: "PreTrainedTokenizer",
+    encoder_tokenizer: Optional["PreTrainedTokenizer"] = None,
     processor: Optional["ProcessorMixin"] = None,
 ) -> "DatasetModule":
     r"""
