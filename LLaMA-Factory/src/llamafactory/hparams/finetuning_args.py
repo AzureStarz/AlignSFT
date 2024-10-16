@@ -215,7 +215,7 @@ class RLHFArguments:
     w_decay_alignment: float = field(default=0)
     w_decay_enc: float = field(default=0.1)
     w_decay_lm: float = field(default=0)
-    use_lb_custom_optimizer: bool = field(default=True)
+    use_lb_custom_optimizer: bool = field(default=False)
 
 @dataclass
 class GaloreArguments:
