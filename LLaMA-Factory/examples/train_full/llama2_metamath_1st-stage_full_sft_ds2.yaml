@@ -24,7 +24,7 @@ overwrite_cache: true
 preprocessing_num_workers: 16
 
 ### output
-output_dir: /home/export/base/ycsc_chenkh/hitici_02/online1/enhance_alignment/LLaMA-Factory/saves/llama2-7b/full/lb/llama2_metamath_1st-stage_full_sft
+output_dir: /home/export/base/ycsc_chenkh/hitici_02/online1/AlignSFT/LLaMA-Factory/saves/llama2-7b/full/lb/llama2_metamath_1st-stage_full_sft
 logging_steps: 10
 save_steps: 500
 save_total_limit: 1

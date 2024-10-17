@@ -17,6 +17,12 @@
   "llama2_metamath_2nd-stage_data": {
     "file_name": "/home/export/base/ycsc_chenkh/hitici_02/online1/data/InstructData/MetaMathQA/train.json"
   },
+  "MetaMathQA": {
+    "file_name": "/home/export/base/ycsc_chenkh/hitici_02/online1/data/InstructData/MetaMathQA/train.json"
+  },
+  "MathInstruct": {
+    "file_name": "/home/export/base/ycsc_chenkh/hitici_02/online1/data/InstructData/MathInstruct/train.json"
+  },
   "glaive_toolcall_en_demo": {
     "file_name": "glaive_toolcall_en_demo.json",
     "formatting": "sharegpt",
