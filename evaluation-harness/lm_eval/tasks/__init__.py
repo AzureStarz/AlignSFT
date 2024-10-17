@@ -69,6 +69,7 @@ from . import haerae
 from . import cmmlu
 from . import bigbench_bn
 from . import msvamp
+from . import m_mmlu_math
 
 ########################################
 # Translation tasks
@@ -357,6 +358,7 @@ TASK_REGISTRY = {
     **cmmlu.create_all_tasks(),
     **bigbench_bn.create_all_tasks(),
     **msvamp.construct_tasks(),
+    **m_mmlu_math.construct_tasks(),
 }
 
 
