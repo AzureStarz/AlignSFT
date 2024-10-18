@@ -14,7 +14,9 @@
 # WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 # See the License for the specific language governing permissions and
 # limitations under the License.
-
+import sys
+import os
+sys.path.append(os.path.abspath('/home/export/base/ycsc_chenkh/hitici_02/online1/AlignSFT'))
 import logging
 import string
 from typing import TYPE_CHECKING, List, Optional, Dict
@@ -26,8 +28,8 @@ from ...data import LangbridgeDataCollatorForSeq2Seq, get_dataset, get_template_
 from ...extras.constants import IGNORE_INDEX
 from ...extras.ploting import plot_loss
 from ...model.adapter import init_adapter
-from model.configuration_langbridge import LangBridgeConfig
-from model.modeling_langbridge import LangBridgeModel
+from ...model.configuration_langbridge import LangBridgeConfig
+from ...model.modeling_langbridge import LangBridgeModel
 from ...extras.misc import count_parameters
 from ..trainer_utils import create_modelcard_and_push
 from .trainer import CustomSeq2SeqTrainer

@@ -13,7 +13,7 @@ stage: lb
 do_train: true
 finetuning_type: full
 print_param_status: True
-deepspeed: /home/export/base/ycsc_chenkh/hitici_02/online1/enhance_alignment/LLaMA-Factory/examples/deepspeed/ds_z2_config.json
+deepspeed: /home/export/base/ycsc_chenkh/hitici_02/online1/AlignSFT/LLaMA-Factory/examples/deepspeed/ds_z2_config.json
 
 ### dataset
 dataset: MetaMathQA,MathInstruct
@@ -43,7 +43,7 @@ learning_rate_lm: 2.0e-5
 w_decay_alignment: 0.0
 w_decay_enc: 0.1
 w_decay_lm: 0.0
-per_device_train_batch_size: 4
+per_device_train_batch_size: 3
 gradient_accumulation_steps: 8
 num_train_epochs: 1.0
 lr_scheduler_type: cosine

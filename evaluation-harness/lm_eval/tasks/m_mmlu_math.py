@@ -107,10 +107,10 @@ class M_MMLU_MATH(Task):
         return self.dataset["test"]
 
     def doc_to_text(self, doc, instruction_template=None):
-        if doc["answer"] is not None:
-            text = doc["question"]
-        else:
-            text = self.QUESTION + " " + doc["question"] + f'\nAnswer Choices: (A) {doc["option_a"]} (B) {doc["option_b"]} (C) {doc["option_c"]} (D) {doc["option_d"]}'
+        # if doc["answer"] is not None:
+        #     text = doc["question"]
+        # else:
+        text = self.QUESTION + " " + doc["question"] + f'\nAnswer Choices: (A) {doc["option_a"]} (B) {doc["option_b"]} (C) {doc["option_c"]} (D) {doc["option_d"]}'
 
         if not instruction_template:
             text = text + "\n" + self.ANSWER
@@ -167,10 +167,25 @@ class M_MMLU_MATH(Task):
         else:
             return 0.0
 
-    def _is_correct(self, completion, answer):
+    def _extract_choice(self, completion, direct_answer_trigger: tuple):
+        # model may generate "The answer is choice (a)"
+        completion = completion.strip('\n')
+        completion = re.split('|'.join(direct_answer_trigger), completion)[-1]
+        completion = completion.strip('\n').rstrip('.').rstrip('/').strip(' ')
+        pred = re.findall(r'\b(A|B|C|D|E|F|G|H|I|J)\b', completion.upper())
+        if pred is None:
+            pred = ""
+        if len(pred) > 0:
+            pred = pred[-1]
+        # Remove the period at the end, again!
+        pred = pred.rstrip('.').rstrip('/')
+        return pred
+
+    def _is_correct(self, completion, answer, answer_choice):
         gold = answer
         assert gold != INVALID_ANS, "No ground truth answer found in the document."
-        return self._extract_answer(completion) == float(gold)
+        direct_answer_trigger = ('####', 'The answer is')
+        return self._extract_answer(completion) == float(gold) or self._extract_choice(completion, direct_answer_trigger) == answer_choice
 
     def process_results(self, doc, results):
         """Take a single document and the LM results and evaluates, returning a
@@ -184,7 +199,8 @@ class M_MMLU_MATH(Task):
         """
         completion = results[0]
         answer = doc["answer_number"]
-        return {"acc": self._is_correct(completion, answer)}
+        answer_choice = doc["answer"]
+        return {"acc": self._is_correct(completion, answer, answer_choice)}
 
     def aggregation(self):
         """

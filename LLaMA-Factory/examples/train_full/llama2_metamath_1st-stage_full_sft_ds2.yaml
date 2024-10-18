@@ -12,7 +12,7 @@ stage: lb
 do_train: true
 finetuning_type: full
 print_param_status: True
-deepspeed: /home/export/base/ycsc_chenkh/hitici_02/online1/enhance_alignment/LLaMA-Factory/examples/deepspeed/ds_z2_config.json
+deepspeed: /home/export/base/ycsc_chenkh/hitici_02/online1/AlignSFT/LLaMA-Factory/examples/deepspeed/ds_z2_config.json
 
 ### dataset
 dataset: llama2_metamath_1st-stage_data
