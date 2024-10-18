@@ -89,6 +89,24 @@ class MSVAMP(Task):
                     input_lang=self.LANG_NAME,
                     output_lang=self.LANG_NAME,
                     user_message=text)
+            elif instruction_template == 'mcot':
+                # Define prompts for different languages
+                prompts = {
+                    "bn": "আসুন ধাপে ধাপে চিন্তা করি।",
+                    "de": "Denken wir Schritt für Schritt.",
+                    "en": "Let's think step by step.",
+                    "es": "Pensemos paso a paso.",
+                    "fr": "Réfléchissons étape par étape.",
+                    "ja": "段階的に考えてみましょう。",
+                    "ru": "Давайте думать поэтапно.",
+                    "sw": "Hebu fikiria hatua kwa hatua.",
+                    "te": "అంచెలంచెలుగా ఆలోచిద్దాం.",
+                    "th": "ลองคิดทีละขั้นตอน",
+                    "zh": "让我们一步步思考。"
+                }
+                text = template.format(
+                    language=prompts[self.LANG_NAME],
+                    user_message=text)
         return text
 
     def doc_to_target(self, doc, instruction_template=None):

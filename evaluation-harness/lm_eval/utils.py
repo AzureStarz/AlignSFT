@@ -35,6 +35,20 @@ class InstructionTemplates:
                 "Write a response that appropriately completes the request in {input_lang}. Please answer in {output_lang}.\n\n"
                 "### Instruction:\n{user_message}\n\n### Response:"
             )
+        elif 'wizardmath' in template_name:
+            return (
+                "Below is an instruction that describes a task. "
+                "Write a response that appropriately completes the request.\n\n"
+                "### Instruction:\n{user_message}\n\n### Response: Let's think step by step."
+            )
+        elif 'mammoth' in template_name:
+            return (
+                "Below is an instruction that describes a task. "
+                "Write a response that appropriately completes the request.\n\n"
+                "### Instruction:\n{user_message}\n\n### Response:"
+            )
+        elif 'mcot' in template_name:
+            return "Question: \n{user_message} \nAnswer: \n{language}\n"
         else:
             raise NotImplementedError
 

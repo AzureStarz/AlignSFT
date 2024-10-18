@@ -3,15 +3,10 @@ ckpt_path=${1:-"/home/export/base/ycsc_chenkh/hitici_02/online1/LangBridge/check
 template_name=${2:-"metamath"}
 output_path=${3:-"/home/export/base/ycsc_chenkh/hitici_02/online1/LangBridge/eval_outputs/mgsm/debug"}
 
-_LANG="ar bn ca da de en es eu fr gu hi hr hu hy id is it ja kn ml mr nb ne nl pt ro ru sk sr sv sw ta te th uk vi zh"
-# _LANG="en"
-task=$(echo $_LANG | sed 's/ /,m_mmlu_math_/g')
-task="m_mmlu_math_${task}"
-
 python python_scripts/eval_baseline.py \
   --model hf-causal-experimental \
   --model_args dtype="bfloat16",pretrained=${ckpt_path} \
-  --tasks ${task} \
+  --tasks msvamp_en,msvamp_es,msvamp_fr,msvamp_de,msvamp_ru,msvamp_zh,msvamp_ja,msvamp_th,msvamp_sw,msvamp_bn \
   --instruction_template ${template_name} \
   --batch_size 1 \
   --output_path ${output_path}  \
