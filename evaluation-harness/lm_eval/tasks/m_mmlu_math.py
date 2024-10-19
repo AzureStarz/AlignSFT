@@ -121,7 +121,7 @@ class M_MMLU_MATH(Task):
                 text = template.format(
                     system_message=self.ORCA_SYSTEM,
                     user_message=text)
-            elif instruction_template == 'metamath':
+            elif instruction_template == 'metamath' or instruction_template == 'wizardmath' or instruction_template == 'mammoth':
                 text = template.format(
                     user_message=text)
             elif instruction_template == 'mathoctopus':

@@ -77,11 +77,11 @@ class MSVAMP(Task):
         return self.dataset["test"]
 
     def doc_to_text(self, doc, instruction_template=None):
-        text = doc['m_query']
+        text = "Question:" + " " + doc['m_query']
 
         if instruction_template:
             template = InstructionTemplates.get_template(instruction_template)
-            if instruction_template == 'metamath':
+            if instruction_template == 'metamath' or instruction_template == 'wizardmath' or instruction_template == 'mammoth':
                 text = template.format(
                     user_message=text)
             elif instruction_template == 'mathoctopus':
@@ -90,6 +90,7 @@ class MSVAMP(Task):
                     output_lang=self.LANG_NAME,
                     user_message=text)
             elif instruction_template == 'mcot':
+                text = doc['m_query']
                 # Define prompts for different languages
                 prompts = {
                     "bn": "আসুন ধাপে ধাপে চিন্তা করি।",
