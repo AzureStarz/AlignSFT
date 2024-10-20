@@ -1,0 +1,7 @@
+include: _arc_yaml
+task: arc_sk
+dataset_path: /online1/ycsc_chenkh/hitici_02/data/eval_data/m_arc
+dataset_name: sk
+training_split: train
+validation_split: validation
+test_split: test

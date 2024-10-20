@@ -146,7 +146,7 @@ class MGSM(Task):
                     "zh": "让我们一步步思考。"
                 }
                 text = template.format(
-                    language=prompts[self.LANG_NAME],
+                    language=prompts[self.DATASET_NAME],
                     user_message=text)
         return text
 

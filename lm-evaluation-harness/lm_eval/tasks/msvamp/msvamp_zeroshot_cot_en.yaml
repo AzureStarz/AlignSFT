@@ -1,0 +1,2 @@
+task: msvamp_zeroshot_cot_en
+class: !function task.MSVAMP_English

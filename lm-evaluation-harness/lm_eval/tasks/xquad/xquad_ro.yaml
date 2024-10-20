@@ -1,0 +1,2 @@
+task: xquad_ro
+class: !function task.roXQuAD

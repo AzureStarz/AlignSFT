@@ -1,0 +1,2 @@
+task: orca_xcopa_th
+class: !function xcopa.XCopaTh

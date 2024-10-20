@@ -1,0 +1,2 @@
+task: orca_xcopa_it
+class: !function xcopa.XCopaIt

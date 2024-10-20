@@ -1,0 +1,15 @@
+group: jigsawx
+task:
+  - jigsaw_it
+  - jigsaw_es
+  - jigsaw_fr
+  - jigsaw_ru
+  - jigsaw_tr
+  - jigsaw_pt
+aggregate_metric_list:
+  - metric: acc
+    aggregation: mean
+    weight_by_size: true
+    higher_is_better: true
+metadata:
+  version: 0.0

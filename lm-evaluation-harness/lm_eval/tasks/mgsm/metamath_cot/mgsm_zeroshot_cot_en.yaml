@@ -1,0 +1,2 @@
+task: mgsm_zeroshot_cot_en
+class: !function task.MGSM_English

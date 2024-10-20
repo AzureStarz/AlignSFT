@@ -58,7 +58,7 @@ class M_MMLU_MATH(Task):
     DATASET_PATH = "/home/export/base/ycsc_chenkh/hitici_02/online1/data/eval_data/m_mmlu_math"
     DATASET_NAME = None
     QUESTION = "Question:"
-    ANSWER = "Step-by-Step Answer:"
+    ANSWER = "Answer Choices:"
 
     ORCA_SYSTEM = (
         "You are an AI assistant. User will you give you a task. "
@@ -110,7 +110,7 @@ class M_MMLU_MATH(Task):
         # if doc["answer"] is not None:
         #     text = doc["question"]
         # else:
-        text = self.QUESTION + " " + doc["question"] + f'\nAnswer Choices: (A) {doc["option_a"]} (B) {doc["option_b"]} (C) {doc["option_c"]} (D) {doc["option_d"]}'
+        text = self.QUESTION + " " + doc["question"] + f'\n{self.ANSWER} (A) {doc["option_a"]} (B) {doc["option_b"]} (C) {doc["option_c"]} (D) {doc["option_d"]}'
 
         if not instruction_template:
             text = text + "\n" + self.ANSWER
@@ -241,224 +241,224 @@ class M_MMLU_MATH(Task):
 class M_MMLU_MATH_Arabic(M_MMLU_MATH):
     DATASET_NAME = "ar"
     LANG_NAME = "Arabic"
-    QUESTION = "سؤال:"
-
+    QUESTION = "السؤال:"
+    ANSWER = "خيارات الإجابة:"
 
 class M_MMLU_MATH_Bengali(M_MMLU_MATH):
     DATASET_NAME = "bn"
     LANG_NAME = "Bengali"
     QUESTION = "প্রশ্ন:"
-
+    ANSWER = "উত্তর বিকল্পসমূহ:"
 
 class M_MMLU_MATH_Catalan(M_MMLU_MATH):
     DATASET_NAME = "ca"
     LANG_NAME = "Catalan"
     QUESTION = "Pregunta:"
-
+    ANSWER = "Opcions de resposta:"
 
 class M_MMLU_MATH_Danish(M_MMLU_MATH):
     DATASET_NAME = "da"
     LANG_NAME = "Danish"
     QUESTION = "Spørgsmål:"
-
+    ANSWER = "Svarmuligheder:"
 
 class M_MMLU_MATH_German(M_MMLU_MATH):
     DATASET_NAME = "de"
     LANG_NAME = "German"
     QUESTION = "Frage:"
-
-
-class M_MMLU_MATH_English(M_MMLU_MATH):
-    DATASET_NAME = "en"
-    LANG_NAME = "English"
-    QUESTION = "Question:"
-
+    ANSWER = "Antwortmöglichkeiten:"
 
 class M_MMLU_MATH_Spanish(M_MMLU_MATH):
     DATASET_NAME = "es"
     LANG_NAME = "Spanish"
     QUESTION = "Pregunta:"
-
+    ANSWER = "Opciones de respuesta:"
 
 class M_MMLU_MATH_Basque(M_MMLU_MATH):
     DATASET_NAME = "eu"
     LANG_NAME = "Basque"
     QUESTION = "Galdera:"
-
+    ANSWER = "Erantzun aukerak:"
 
 class M_MMLU_MATH_French(M_MMLU_MATH):
     DATASET_NAME = "fr"
     LANG_NAME = "French"
-    QUESTION = "Question :"
-
+    QUESTION = "Question:"
+    ANSWER = "Choix de réponses:"
 
 class M_MMLU_MATH_Gujarati(M_MMLU_MATH):
     DATASET_NAME = "gu"
     LANG_NAME = "Gujarati"
     QUESTION = "પ્રશ્ન:"
-
+    ANSWER = "જવાબ પસંદગીઓ:"
 
 class M_MMLU_MATH_Hindi(M_MMLU_MATH):
     DATASET_NAME = "hi"
     LANG_NAME = "Hindi"
     QUESTION = "प्रश्न:"
-
+    ANSWER = "उत्तर विकल्प:"
 
 class M_MMLU_MATH_Croatian(M_MMLU_MATH):
     DATASET_NAME = "hr"
     LANG_NAME = "Croatian"
     QUESTION = "Pitanje:"
-
+    ANSWER = "Mogućnosti odgovora:"
 
 class M_MMLU_MATH_Hungarian(M_MMLU_MATH):
     DATASET_NAME = "hu"
     LANG_NAME = "Hungarian"
     QUESTION = "Kérdés:"
-
+    ANSWER = "Válaszlehetőségek:"
 
 class M_MMLU_MATH_Armenian(M_MMLU_MATH):
     DATASET_NAME = "hy"
     LANG_NAME = "Armenian"
     QUESTION = "Հարց:"
-
+    ANSWER = "Պատասխանների ընտրանքներ:"
 
 class M_MMLU_MATH_Indonesian(M_MMLU_MATH):
     DATASET_NAME = "id"
     LANG_NAME = "Indonesian"
     QUESTION = "Pertanyaan:"
-
+    ANSWER = "Pilihan Jawaban:"
 
 class M_MMLU_MATH_Icelandic(M_MMLU_MATH):
     DATASET_NAME = "is"
     LANG_NAME = "Icelandic"
     QUESTION = "Spurning:"
-
+    ANSWER = "Svarmöguleikar:"
 
 class M_MMLU_MATH_Italian(M_MMLU_MATH):
     DATASET_NAME = "it"
     LANG_NAME = "Italian"
     QUESTION = "Domanda:"
-
+    ANSWER = "Scelte di risposta:"
 
 class M_MMLU_MATH_Japanese(M_MMLU_MATH):
     DATASET_NAME = "ja"
     LANG_NAME = "Japanese"
     QUESTION = "質問:"
-
+    ANSWER = "回答の選択肢:"
 
 class M_MMLU_MATH_Kannada(M_MMLU_MATH):
     DATASET_NAME = "kn"
     LANG_NAME = "Kannada"
     QUESTION = "ಪ್ರಶ್ನೆ:"
-
+    ANSWER = "ಉತ್ತರ ಆಯ್ಕೆಗಳು:"
 
 class M_MMLU_MATH_Malayalam(M_MMLU_MATH):
     DATASET_NAME = "ml"
     LANG_NAME = "Malayalam"
     QUESTION = "ചോദ്യം:"
-
+    ANSWER = "ഉത്തരം തിരഞ്ഞെടുക്കൽ:"
 
 class M_MMLU_MATH_Marathi(M_MMLU_MATH):
     DATASET_NAME = "mr"
     LANG_NAME = "Marathi"
     QUESTION = "प्रश्न:"
-
+    ANSWER = "उत्तर पर्याय:"
 
 class M_MMLU_MATH_NorwegianBokmal(M_MMLU_MATH):
     DATASET_NAME = "nb"
     LANG_NAME = "Norwegian Bokmål"
     QUESTION = "Spørsmål:"
-
+    ANSWER = "Svaralternativer:"
 
 class M_MMLU_MATH_Nepali(M_MMLU_MATH):
     DATASET_NAME = "ne"
     LANG_NAME = "Nepali"
     QUESTION = "प्रश्न:"
-
+    ANSWER = "उत्तर विकल्पहरू:"
 
 class M_MMLU_MATH_Dutch(M_MMLU_MATH):
     DATASET_NAME = "nl"
     LANG_NAME = "Dutch"
     QUESTION = "Vraag:"
-
+    ANSWER = "Antwoordmogelijkheden:"
 
 class M_MMLU_MATH_Portuguese(M_MMLU_MATH):
     DATASET_NAME = "pt"
     LANG_NAME = "Portuguese"
     QUESTION = "Pergunta:"
-
+    ANSWER = "Opções de resposta:"
 
 class M_MMLU_MATH_Romanian(M_MMLU_MATH):
     DATASET_NAME = "ro"
     LANG_NAME = "Romanian"
     QUESTION = "Întrebare:"
-
+    ANSWER = "Opțiuni de răspuns:"
 
 class M_MMLU_MATH_Russian(M_MMLU_MATH):
     DATASET_NAME = "ru"
     LANG_NAME = "Russian"
     QUESTION = "Вопрос:"
-
+    ANSWER = "Варианты ответов:"
 
 class M_MMLU_MATH_Slovak(M_MMLU_MATH):
     DATASET_NAME = "sk"
     LANG_NAME = "Slovak"
     QUESTION = "Otázka:"
-
+    ANSWER = "Možnosti odpovede:"
 
 class M_MMLU_MATH_Serbian(M_MMLU_MATH):
     DATASET_NAME = "sr"
     LANG_NAME = "Serbian"
     QUESTION = "Питање:"
-
+    ANSWER = "Опције одговора:"
 
 class M_MMLU_MATH_Swedish(M_MMLU_MATH):
     DATASET_NAME = "sv"
     LANG_NAME = "Swedish"
     QUESTION = "Fråga:"
-
+    ANSWER = "Svarsalternativ:"
 
 class M_MMLU_MATH_Swahili(M_MMLU_MATH):
     DATASET_NAME = "sw"
     LANG_NAME = "Swahili"
     QUESTION = "Swali:"
-
+    ANSWER = "Chaguo la Majibu:"
 
 class M_MMLU_MATH_Tamil(M_MMLU_MATH):
     DATASET_NAME = "ta"
     LANG_NAME = "Tamil"
     QUESTION = "கேள்வி:"
-
+    ANSWER = "பதில் தேர்வுகள்:"
 
 class M_MMLU_MATH_Telugu(M_MMLU_MATH):
     DATASET_NAME = "te"
     LANG_NAME = "Telugu"
     QUESTION = "ప్రశ్న:"
-
+    ANSWER = "సమాధాన ఎంపికలు:"
 
 class M_MMLU_MATH_Thai(M_MMLU_MATH):
     DATASET_NAME = "th"
     LANG_NAME = "Thai"
     QUESTION = "คำถาม:"
-
+    ANSWER = "ตัวเลือกคำตอบ:"
 
 class M_MMLU_MATH_Ukrainian(M_MMLU_MATH):
     DATASET_NAME = "uk"
     LANG_NAME = "Ukrainian"
     QUESTION = "Питання:"
-
+    ANSWER = "Варіанти відповідей:"
 
 class M_MMLU_MATH_Vietnamese(M_MMLU_MATH):
     DATASET_NAME = "vi"
     LANG_NAME = "Vietnamese"
     QUESTION = "Câu hỏi:"
+    ANSWER = "Các lựa chọn đáp án:"
 
+class M_MMLU_MATH_English(M_MMLU_MATH):
+    DATASET_NAME = "en"
+    LANG_NAME = "English"
+    QUESTION = "Question:"
+    ANSWER = "Answer Choices:"
 
 class M_MMLU_MATH_Chinese(M_MMLU_MATH):
     DATASET_NAME = "zh"
     LANG_NAME = "Chinese"
     QUESTION = "问题:"
-
+    ANSWER = "答案选项:"
 
 LANGS = """
 ar  bn  ca  da  de  en  es  eu  fr  gu  hi  hr  hu  hy  id  is  it  ja  kn  ml  mr  nb  ne  nl  pt  ro  ru  sk  sr  sv  sw  ta  te  th  uk  vi  zh

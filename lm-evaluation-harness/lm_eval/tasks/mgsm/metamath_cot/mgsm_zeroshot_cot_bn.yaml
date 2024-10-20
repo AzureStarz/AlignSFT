@@ -1,0 +1,2 @@
+task: mgsm_zeroshot_cot_bn
+class: !function task.MGSM_Bengali

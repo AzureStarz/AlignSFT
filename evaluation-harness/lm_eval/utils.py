@@ -23,7 +23,7 @@ class InstructionTemplates:
             return (
                 "Below is an instruction that describes a task. "
                 "Write a response that appropriately completes the request.\n\n"
-                "### Instruction:\n{user_message}\n\n### Response:\n"
+                "### Instruction:\n{user_message}\n\n### Response: Let's think step by step."
             )
         elif 'bactrian' in template_name:
             return (

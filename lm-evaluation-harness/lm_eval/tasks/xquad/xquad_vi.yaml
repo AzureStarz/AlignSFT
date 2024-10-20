@@ -1,0 +1,2 @@
+task: xquad_vi
+class: !function task.viXQuAD

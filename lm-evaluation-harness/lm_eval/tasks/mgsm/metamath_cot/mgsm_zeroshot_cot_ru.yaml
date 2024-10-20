@@ -1,0 +1,2 @@
+task: mgsm_zeroshot_cot_ru
+class: !function task.MGSM_Russian

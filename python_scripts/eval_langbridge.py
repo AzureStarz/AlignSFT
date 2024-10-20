@@ -2,16 +2,17 @@ import argparse
 import json
 import logging
 import os
+import sys
 
 import torch
 from transformers import AutoTokenizer
-
-from model.modeling_langbridge import LangBridgeModel
 
 from lm_eval import tasks, evaluator, utils
 from lm_eval.models.langbridge import LBSeq2SeqLM
 
 logging.getLogger("openai").setLevel(logging.WARNING)
+
+from model.modeling_langbridge import LangBridgeModel
 
 
 def parse_args():

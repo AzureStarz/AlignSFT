@@ -77,7 +77,8 @@ class MSVAMP(Task):
         return self.dataset["test"]
 
     def doc_to_text(self, doc, instruction_template=None):
-        text = "Question:" + " " + doc['m_query']
+        # text = "Question:" + " " + doc['m_query']
+        text = self.QUESTION + " " + doc['m_query']
 
         if instruction_template:
             template = InstructionTemplates.get_template(instruction_template)

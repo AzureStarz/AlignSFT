@@ -1,0 +1,22 @@
+group: msvamp
+task:
+  - task: msvamp_zeroshot_cot_zh
+    class: !function task.MSVAMP_Chinese
+  - task: msvamp_zeroshot_cot_en
+    class: !function task.MSVAMP_English
+  - task: msvamp_zeroshot_cot_es
+    class: !function task.MSVAMP_Spanish
+  - task: msvamp_zeroshot_cot_fr
+    class: !function task.MSVAMP_French
+  - task: msvamp_zeroshot_cot_de
+    class: !function task.MSVAMP_German
+  - task: msvamp_zeroshot_cot_ru
+    class: !function task.MSVAMP_Russian
+  - task: msvamp_zeroshot_cot_ja
+    class: !function task.MSVAMP_Japanese
+  - task: msvamp_zeroshot_cot_th
+    class: !function task.MSVAMP_Thai
+  - task: msvamp_zeroshot_cot_sw
+    class: !function task.MSVAMP_Swahili
+  - task: msvamp_zeroshot_cot_bn
+    class: !function task.MSVAMP_Bengali

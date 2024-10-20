@@ -1,0 +1,2 @@
+task: orca_copa
+class: !function copa.Copa

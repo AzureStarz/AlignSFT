@@ -1,0 +1,2 @@
+task: mgsm_zeroshot_cot_th
+class: !function task.MGSM_Thai

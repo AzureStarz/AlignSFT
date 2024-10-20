@@ -17,8 +17,8 @@ from transformers.modeling_outputs import (
     CausalLMOutputWithPast
 )
 
-from .configuration_langbridge import LangBridgeConfig
-from .alignment_modules import LinearWithAddedEos, PerceiverResampler, FFNWithAddedEos
+from model.configuration_langbridge import LangBridgeConfig
+from model.alignment_modules import LinearWithAddedEos, PerceiverResampler, FFNWithAddedEos
 
 
 @contextlib.contextmanager
