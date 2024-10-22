@@ -23,6 +23,9 @@
   "MathInstruct": {
     "file_name": "/home/export/base/ycsc_chenkh/hitici_02/online1/data/InstructData/MathInstruct/train.json"
   },
+  "MGSM8KInstruct": {
+    "file_name": "/home/export/base/ycsc_chenkh/hitici_02/online1/data/InstructData/MGSM8KInstruct/train.json"
+  },
   "glaive_toolcall_en_demo": {
     "file_name": "glaive_toolcall_en_demo.json",
     "formatting": "sharegpt",
