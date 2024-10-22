@@ -38,5 +38,5 @@ for ((i = 0; i < ${#ckpt_paths[@]}; i += subarray_length)); do
         --task msvamp \
         --inp_path ./eval_data \
         --out_path ./eval_outputs \
-        --num_gpus ${num_of_gpu} \
+        --num_gpus ${num_of_gpu}
 done
