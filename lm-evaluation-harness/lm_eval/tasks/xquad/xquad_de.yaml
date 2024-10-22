@@ -1,2 +1,0 @@
-task: xquad_de
-class: !function task.deXQuAD

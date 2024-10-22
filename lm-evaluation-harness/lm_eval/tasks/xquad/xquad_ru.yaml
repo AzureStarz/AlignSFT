@@ -1,2 +1,0 @@
-task: xquad_ru
-class: !function task.ruXQuAD

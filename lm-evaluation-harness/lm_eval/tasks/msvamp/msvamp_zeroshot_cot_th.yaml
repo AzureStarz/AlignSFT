@@ -1,2 +1,0 @@
-task: msvamp_zeroshot_cot_th
-class: !function task.MSVAMP_Thai

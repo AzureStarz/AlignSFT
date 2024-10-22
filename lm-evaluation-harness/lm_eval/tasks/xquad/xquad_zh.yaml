@@ -1,2 +1,0 @@
-task: xquad_zh
-class: !function task.zhXQuAD
