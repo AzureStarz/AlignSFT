@@ -102,6 +102,8 @@ def _extract_choice(completion, direct_answer_trigger: tuple):
         pred = ""
     if len(pred) > 0:
         pred = pred[-1]
+    else:
+        pred = ""
     # Remove the period at the end, again!
     pred = pred.rstrip('.').rstrip('/')
     return pred
@@ -137,7 +139,7 @@ def test_answers(pred_str, answer):
             return False, pred, answer
 
 
-def read_mmlu_inputs(lang, file_path, template_name):
+def read_mmlu_inputs(lang, file_path, template_name, lang_mapping):
     answer_choices = []
     answer_numbers = []
     questions = []
@@ -150,13 +152,13 @@ def read_mmlu_inputs(lang, file_path, template_name):
             instruction = doc['instruction'] + f'\nAnswer Choices: (A) {doc["option_a"]} (B) {doc["option_b"]} (C) {doc["option_c"]} (D) {doc["option_d"]}'
             if 'mathoctopus' in template_name:
                 question = prompt.format(
-                    input_lang=LANGUAGE_DICT[lang],
-                    output_lang=LANGUAGE_DICT[lang],
+                    input_lang=lang_mapping[lang],
+                    output_lang=lang_mapping[lang],
                     user_message=instruction.strip(),
                 )
             elif 'mcot' in template_name:
                 question = prompt.format(
-                    language=MCOT_PROMPTS[lang].strip(),
+                    language=MCOT_PROMPTS[lang].strip() if lang in MCOT_PROMPTS.keys() else MCOT_PROMPTS['en'].strip(),
                     user_message=instruction.strip(),
                 )
             else:
@@ -169,24 +171,29 @@ def read_mmlu_inputs(lang, file_path, template_name):
 
     return questions, answer_numbers, answer_choices
 
-def read_inputs(lang, file_path, template_name):
+def read_inputs(lang, file_path, template_name, lang_mapping=None):
     answers = []
     questions = []
     
     prompt = InstructionTemplates.get_template(template_name)
+    
+    if lang_mapping:
+        lang_mapping_dict = lang_mapping
+    else:
+        lang_mapping_dict = LANGUAGE_DICT
     
     with open(file_path, 'r', encoding="utf-8") as f:
         f=json.load(f)
         for line in f:
             if 'mathoctopus' in template_name:
                 question = prompt.format(
-                    input_lang=LANGUAGE_DICT[lang],
-                    output_lang=LANGUAGE_DICT[lang],
+                    input_lang=lang_mapping_dict[lang],
+                    output_lang=lang_mapping_dict[lang],
                     user_message=line['question'].strip(),
                 )
             elif 'mcot' in template_name:
                 question = prompt.format(
-                    language=MCOT_PROMPTS[lang].strip(),
+                    language=MCOT_PROMPTS[lang].strip() if lang in MCOT_PROMPTS.keys() else MCOT_PROMPTS['en'].strip(),
                     user_message=line['question'].strip(),
                 )
             else:
@@ -251,17 +258,52 @@ if __name__ == '__main__':
         ar  ca  de  es  fr  hi  hu  id  it  kn  nb  nl  ro  sk  sw  te  uk  zh
         bn  da  en  eu  gu  hr  hy  is  ja  ml  mr  ne  pt  ru  sr  sv  ta  th  vi
         """.split()
+        # 使用 sorted() 函数进行排序
+        langs = sorted(langs)
+    elif args.task == 'masdiv':
+        langs = ["en"]
+        # 使用 sorted() 函数进行排序
+        langs = sorted(langs)
+    elif args.task == 'mawps':
+        langs = ["en"]
+        # 使用 sorted() 函数进行排序
+        langs = sorted(langs)
+    elif args.task == 'm_asdiv_mawps':
+        langs = """
+        ar  af  bg  ca  cs  de  es  fr  fi  hi  hu  id  it  ko  kn  nb  nl  ro  sl  sk  sw  te  uk  zh  
+        bn  be  da  en  eu  gu  ha  hr  hy  is  ja  ml  mr  ne  pl  pt  ru  sr  sv  ta  th  vi  mk  lb  
+        """.split()
+        # 使用 sorted() 函数进行排序
+        langs = sorted(langs)
     else:
         raise NotImplementedError
 
     accuracies = {}
 
     for lang in langs:
+        print(f'[info] Evaluating Task: {args.task} \t Language: {lang} \t')
         test_data_path = os.path.join(args.inp_path, f'{args.task}', f'test_{lang}.json')
         # Reading data with prompt template
         answer_choices = None
         if args.task == "m_mmlu_math":
-            questions, answers, answer_choices = read_mmlu_inputs(lang, test_data_path, args.template_name)
+            test_data_path = os.path.join(args.inp_path, f'{args.task}', f'{lang}/test.jsonl')
+            lang_mapping_path = os.path.join(args.inp_path, f'{args.task}', f'langmapping.txt')
+            lang_mapping = {}
+            with open(lang_mapping_path, 'r', encoding='utf-8') as f:
+                for line in f.readlines():
+                    line = line.strip()
+                    split_line = line.split(' | ')
+                    lang_mapping[split_line[2]] = split_line[0]
+            questions, answers, answer_choices = read_mmlu_inputs(lang, test_data_path, args.template_name, lang_mapping)
+        elif args.task == "m_asdiv_mawps":
+            lang_mapping_path = os.path.join(args.inp_path, f'{args.task}', f'langmapping.txt')
+            lang_mapping = {}
+            with open(lang_mapping_path, 'r', encoding='utf-8') as f:
+                for line in f.readlines():
+                    line = line.strip()
+                    split_line = line.split(' | ')
+                    lang_mapping[split_line[2]] = split_line[0]
+            questions, answers = read_inputs(lang, test_data_path, args.template_name, lang_mapping)
         else:
             questions, answers = read_inputs(lang, test_data_path, args.template_name)
         print('[info] Data loaded')

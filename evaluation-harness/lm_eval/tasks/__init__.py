@@ -70,6 +70,7 @@ from . import cmmlu
 from . import bigbench_bn
 from . import msvamp
 from . import m_mmlu_math
+from . import m_asdiv_mawps
 
 ########################################
 # Translation tasks
@@ -359,6 +360,7 @@ TASK_REGISTRY = {
     **bigbench_bn.create_all_tasks(),
     **msvamp.construct_tasks(),
     **m_mmlu_math.construct_tasks(),
+    **m_asdiv_mawps.construct_tasks(),
 }
 
 
