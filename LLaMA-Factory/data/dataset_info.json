@@ -11,6 +11,12 @@
   "QAalign_1st-stage_data": {
     "file_name": "/home/export/base/ycsc_chenkh/hitici_02/online1/QAlign/data/gsmtrans/qa_mt.json"
   },
+  "llama2_openmath2_1st-stage_data": {
+    "file_name": "/home/export/base/ycsc_chenkh/hitici_02/online1/data/InstructData/AlignSFT/1st_stage_data.json"
+  },
+  "llama2_openmath2_2nd-stage_data": {
+    "file_name": "/home/export/base/ycsc_chenkh/hitici_02/online1/data/InstructData/OpenMathInstruct-2/openmathinstruct2_1m.jsonl"
+  },
   "AlignSFT_1st-stage_data": {
     "file_name": "/home/export/base/ycsc_chenkh/hitici_02/online1/data/InstructData/AlignSFT/1st_stage_data.json"
   },
