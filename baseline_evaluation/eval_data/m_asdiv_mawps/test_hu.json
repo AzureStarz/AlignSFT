@@ -1,0 +1,3246 @@
+[
+    {
+        "question": "15 év után Ariel négyszer annyi idős lesz, mint most. Határozza meg a jelenlegi korát.",
+        "answer": "5 "
+    },
+    {
+        "question": "Osszon 39 léggömböt 7 egyenlő csoportra. Hány lufi van minden csoportban?",
+        "answer": "5 "
+    },
+    {
+        "question": "Egy edényben 1050 ml tea volt. Anna néhány csészébe töltötte a teát. Ha minden csészében 65 ml tea volt, mennyi tea maradt az edényben?",
+        "answer": "10 "
+    },
+    {
+        "question": "Olsen úr matematika órájában a tanulók 0,7-e kapott A-t, 0,2-en pedig B-t. A tanulók hány része kapott A-t vagy B-t?",
+        "answer": "0.9"
+    },
+    {
+        "question": "Joan 15 dollárt költött rövidnadrágra, 14,82 dollárt egy kabátra és 12,51 dollárt egy ingre. Elment 3 boltba. Összességében mennyi pénzt költött Joan ruházatra?",
+        "answer": "42.33"
+    },
+    {
+        "question": "Egy pincérnek 47 ügyfele volt, akire várnia kellett. Ha 41 ügyfél távozna, és további 20 ügyfele lenne, hány ügyfele lenne?",
+        "answer": "26 "
+    },
+    {
+        "question": "A tanár egyformán 12 diáknak adott 42 ceruzát. Hány ceruzát kapott minden diák?",
+        "answer": "3 "
+    },
+    {
+        "question": "Egy mosógép naponta 28 kiló ruhát képes kimosni. Ha naponta 200 kiló ruhát kell kimosni, hány mosógépre van szükség?",
+        "answer": "8 "
+    },
+    {
+        "question": "Egy busz 48 utas szállítására alkalmas. Ha egy 1230 diákból és tanárból álló iskola kirándulni megy, hány buszt kell bérelni?",
+        "answer": "26 "
+    },
+    {
+        "question": "A Gloriának 9 doboz jegye van. Minden dobozban 5 jegy fér el, és egy dobozban 10 doboz található. Hány jegye van a Gloriának?",
+        "answer": "45.0"
+    },
+    {
+        "question": "Az Indiai-óceán egyik szigete 4 mérföld széles és 7 mérföld hosszú volt. Mekkora a sziget kerülete?",
+        "answer": "22 "
+    },
+    {
+        "question": "Egyre népszerűbb egy új szakácskönyv. A helyi könyvesbolt szeptemberben 4, októberben 6, novemberben 8, decemberben 10 példányt rendelt. Ha ez a minta folytatódik, hány példányt rendel a könyvesbolt januárban?",
+        "answer": "12 "
+    },
+    {
+        "question": "Corey extra pénzt keres elveszett golflabdák megtalálásával. Célja, hogy minden hétvégén 48 golflabdát találjon. Szombaton 16 golflabdát talált. Vasárnap további 18 golflabdát talált. Hány golflabdát kell még találnia Coreynak, hogy elérje célját?",
+        "answer": "14 "
+    },
+    {
+        "question": "J.T. van néhány szuperhős kereskedési kártyája. Ebből 14-et elveszített. Ebből 19-et a legjobb barátjának adott. Most 45 lapja maradt. Hány kártyát tett J.T. van eleinte?",
+        "answer": "78 "
+    },
+    {
+        "question": "Faye egy garázsvásáron árulta a nyakláncait. 3 gyöngy nyakláncot és 7 drágakő nyakláncot adott el. Ha minden nyaklánc 7 dollárba került, mennyi pénzt keresett?",
+        "answer": "70.0"
+    },
+    {
+        "question": "Egy négyzet alakú közlekedési tábla kerülete 16 láb. Milyen hosszú a közlekedési tábla mindkét oldala?",
+        "answer": "4 "
+    },
+    {
+        "question": "Carmen vasárnap 4, hétfőn 8, kedden 16, szerdán 32, csütörtökön pedig 64 felülést végzett. Ha ez a minta folytatódik, hány felülést fog végezni Carmen pénteken?",
+        "answer": "128 "
+    },
+    {
+        "question": "Vanessa hatszázhuszonkét dollárt kapott születésnapjára. Később talált néhány játékot, amelyek mindegyike kilenc dollárba került. Mennyi pénze maradt volna, ha annyit vásárol, amennyit csak tud?",
+        "answer": "1 "
+    },
+    {
+        "question": "Amandának és Sadie-nek van egy bandája. Amanda zenekara 2-es, Sadie bandája pedig 9-es szettben játszik dalokat. A közös fellépés után mindkét banda rájön, hogy ugyanannyi dalt játszottak el. Hány dalt tudtak a legkevesebbet előadni az egyes bandák?",
+        "answer": "18 "
+    },
+    {
+        "question": "Timnek 39 pár fejhallgatója és 13 zenelejátszója van. Tim az összes fejhallgatót és zenelejátszót azonos csomagban akarja eladni. Hány csomagot készíthet Tim a legtöbb?",
+        "answer": "13 "
+    },
+    {
+        "question": "Egy tévés főzőműsorban készült gyümölcssalátához sárgadinnye és mézharmat darabokra van szükség. Hány adagot készíthet a legtöbb gyümölcsből, ha van 30 darab sárgadinnye és 42 darab mézharmat?",
+        "answer": "6 "
+    },
+    {
+        "question": "Dan csatlakozott az iskolája zenekarához. 130,30 dollárért vett egy klarinétot és 11,24 dollárért egy daloskönyvet. Dan 12,32 dollárt talált a zsebében. Mennyit költött Dan a zeneboltban?",
+        "answer": "141.54"
+    },
+    {
+        "question": "A Hay's Linens kéztörlőket 17 darabos készletekben, fürdőlepedőket pedig 6 darabos készletekben árul. Ha a bolt ugyanannyi darabot adott el ma reggel, hány törülközőtípusból adott el a legkisebb darabszámot az üzlet?",
+        "answer": "102 "
+    },
+    {
+        "question": "Egy egyenlő oldalú háromszög kerülete 54 cm. Határozza meg a háromszög mindkét oldalának hosszát!",
+        "answer": "18 "
+    },
+    {
+        "question": "A vásár első 6 órájában a következő vásárlók száma volt: 58, 58, 62, 55, 49 és 48. Mennyi a vásárlók számának átlaga?",
+        "answer": "55 "
+    },
+    {
+        "question": "A Montoya család költségvetésének 0,6-át költi élelmiszerekre, és további 0,2-t elmegy enni. Összességében a költségvetésüknek mekkora részét költi a Montoya család élelmiszerre?",
+        "answer": "0.8"
+    },
+    {
+        "question": "A lazacok minden évben felfelé haladnak, és az óceántól eljutnak a folyókig, ahol születtek. Idén 712261 hím és 259378 nőstény lazac tért vissza folyóiba. Hány lazac tette meg az utat?",
+        "answer": "971639.0"
+    },
+    {
+        "question": "Hétfőn háromszázkilencvenhat diák ment kirándulni az állatkertbe. Mind a hét busz megtelt, négy diáknak pedig autóval kellett utaznia. Hány diák utazott az egyes buszon?",
+        "answer": "56 "
+    },
+    {
+        "question": "A távirányítós versenyautók számára kialakított pályán az A versenyautó 28 másodperc alatt, míg a B versenyautó 24 másodperc alatt teszi meg a pályát. Ha mindketten egyszerre indulnak, hány másodperc múlva lesznek újra egymás mellett?",
+        "answer": "168 "
+    },
+    {
+        "question": "52 gyerek és 29 felnőtt ment a pályatalálkozóra. A stadion 95 férőhelyes. Hány hely volt üres?",
+        "answer": "14  "
+    },
+    {
+        "question": "A pályacsapatban 18 lány és 15 fiú szerepelt. További 7 lány csatlakozott a csapathoz. 4 fiú kilépett a csapatból. Hány gyerek volt akkor a pályacsapatban?",
+        "answer": "36 "
+    },
+    {
+        "question": "9 fiú ment fákat öntözni. 29 fa volt. Ha mindegyik azonos mennyiségű fát öntöz, hány fa marad?",
+        "answer": "2 "
+    },
+    {
+        "question": "Mike 6 kagylót és 4 tengeri csillagot talált, de a kagylók közül 4 eltörött. Hány töretlen kagylót talált Mike?",
+        "answer": "2.0"
+    },
+    {
+        "question": "Marian egy szombaton kenyeret, sütiket és péksüteményeket sütött otthon családjának és barátainak ebben az ünnepi időszakban. 47 mézeskalácsot készített, amelyeket egyenlő arányban oszt el apró üvegedényekben. Ha minden tégelyben hat süti van, akkor hány süteményt nem teszünk egy üvegbe?",
+        "answer": "5 "
+    },
+    {
+        "question": "Cindynek 41 cukorka volt. Reggel hat darabot evett, délután pedig még tizenkét darabot. Hány cukorka maradt neki?",
+        "answer": "23 "
+    },
+    {
+        "question": "Egy iskolában több tanár versenyt rendezett, hogy melyik osztály szerezheti a legtöbb apróságpontot. Mrs.William osztálya 50 pontot ért el. Mr. Adams osztály 57 pontot szerzett. Mrs. Brown osztálya 49-et, Mrs.Daniel osztálya 57-et ért el. Mennyi a szerzett pontok átlaga?",
+        "answer": "53.3 "
+    },
+    {
+        "question": "A képeslap kerülete 20 hüvelyk. A képeslap 6 hüvelyk széles. Milyen magas?",
+        "answer": "4 "
+    },
+    {
+        "question": "Két 448 cm és 616 cm hosszú vezetéket azonos hosszúságú darabokra kell vágni, maradék nélkül. Mekkora a darabok lehető legnagyobb hossza?",
+        "answer": "56 "
+    },
+    {
+        "question": "Martin egyforma méretű négyzet alakú színes papírdarabokat ragaszt egy 72 cm x 90 cm-es táblára. Ha csak egész négyzet alakú darabokat használunk, és a táblát teljesen le kell fedni, mekkora lehet az egyes négyzet alakú színes papírok oldalának legnagyobb hossza?",
+        "answer": "18 "
+    },
+    {
+        "question": "Miközben elhajtott az üzletek mellett, Dave megszámolta a parkolókban lévő autók számát. Megszámolta: 30, 14, 14, 21 és 25. Mi az általa megszámolt autók átlaga?",
+        "answer": "20.8 "
+    },
+    {
+        "question": "Kayla új videojátékot kapott. Az első szinten 2, a második szinten 3, a harmadikon 5, a negyedik szinten 8, az ötödik szinten 12 pontot szerzett. Ha ez a minta folytatódik, hány pontot szerez Kayla a hatodik szinten?",
+        "answer": "17 "
+    },
+    {
+        "question": "Morris kétféle madarat figyelt meg: kacsákat és darvakat. Míg a kacsák 13 fős csapatokban, a darvak 17 fős csapatokban haladtak. Ha Morris ugyanannyi kacsát és darut figyelt meg, mennyi a legkisebb számú kacsa, amelyet megfigyelhetett?",
+        "answer": "221 "
+    },
+    {
+        "question": "Egy szenátusi kampány során egy önkéntes kiadta a „Szavazz Hatfieldre” gombot. A kampánygomb átmérője 8 centiméter. Mekkora a gomb kerülete?",
+        "answer": "25.12 "
+    },
+    {
+        "question": "Rupert és Ronald sikeresen teljesítette a matematika tesztjét. Így hát édesanyjuk tegnap vett nekik egy csodálatos trambulint. Ronald 157-et ugrott a trambulinon. Rupert 86-szor ugrott többet, mint Ronald. Hányszor ugrottak összesen?",
+        "answer": "243.0"
+    },
+    {
+        "question": "Mrs. Hilt és a nővére egy 78 mérföldre lévő koncertre mentek. 32 mérföldet vezettek, majd megálltak benzinért. A nővére 28 liter benzint töltött az autóba. Hány mérföldjük maradt még vezetni?",
+        "answer": "46.0"
+    },
+    {
+        "question": "Evannek nagy könyvgyűjteménye van. Legjobb barátjának 14 könyvet adott. Öccsének 8 könyvet adott. Most Evannek 60 könyve van a gyűjteményében. Hány könyve volt először?",
+        "answer": "82 "
+    },
+    {
+        "question": "Marynek 18 baseballkártyája volt, és 8 elszakadt. Fred 26 új baseballkártyát adott Marynek. Mary vett 40 baseball kártyát. Hány baseball kártyája van most Marynek?",
+        "answer": "84.0"
+    },
+    {
+        "question": "A drámaklub 3 naponta, az énekkar 5 naponta találkozik az iskola aulájában. Ha a csoportok ma találkoznak az előadóteremben, akkor hány nap múlva kell osztozniuk a nézőtéren?",
+        "answer": "15 "
+    },
+    {
+        "question": "Egy kétjegyű szám számjegyeinek összege 15. Ha a tizedik számjegyek 8, keressük meg a kétjegyű számot.",
+        "answer": "87"
+    },
+    {
+        "question": "Sherman minden hatodik nap golfozni megy, Brad pedig minden hetedik nap. Ha Sherman és Brad is golfozni mentek ma, hány nap múlva indulnak újra golfozni ugyanazon a napon?",
+        "answer": "42 "
+    },
+    {
+        "question": "Sarának 16 piros és 24 sárga virága van. Csokrokat szeretne készíteni, minden egyes színű virágból ugyanannyit. Mennyi csokrot készíthet a legtöbben?",
+        "answer": "8 "
+    },
+    {
+        "question": "Az influenza szezon közeledtével Lexi úgy dönt, hogy gyógyulj meg készleteket. Van 10 konzerv csirkeleves és 15 doboz papírzsebkendő, amiből egyforma készleteket szeretne készíteni anélkül, hogy anyag maradna. Mennyi a legtöbb gyógyulj meg-hamarosan készlet, amelyet Lexi készíthet?",
+        "answer": "5 "
+    },
+    {
+        "question": "Jessica a juttatás felét moziba költötte. Lemosta a családi autót, és hat dollárt keresett. Mennyi a heti juttatása, ha tizenegy dollárral végződött?",
+        "answer": "10 "
+    },
+    {
+        "question": "Devon 12 éves. Kora 2 évvel több, mint Steven kora. Keresse meg Steven korát.",
+        "answer": "20 "
+    },
+    {
+        "question": "Whitney 4 pólót és 20 gombot gyűjtött össze kedvenc bandájától. Egyforma készletekké szeretné egyesíteni őket, hogy eladja őket, anélkül, hogy darabok maradnának. Hány szettet tud a legtöbb Whitney elkészíteni?",
+        "answer": "4 "
+    },
+    {
+        "question": "Egy iskolában 14 diák jelentkezett be a trivia csapatokba. Ha 4 csapatot szeretnének, minden csapatban ugyanannyi tanuló legyen, hány diáknak kellene még jelentkeznie?",
+        "answer": "2 "
+    },
+    {
+        "question": "Mrs. Smith 53 epret adott 8 lánynak egyformán. Hány epret kapott minden lány?",
+        "answer": "6 "
+    },
+    {
+        "question": "Az Oceanside Bike Rental Shop 17 dolláros fix díjat és óránként 7 dollárt számít fel a kerékpárbérlésért. Mary 80 dollárt fizetett egy kerékpárbérlésért. Hány órát fizetett a bicikli kivizsgálásáért?",
+        "answer": "9 "
+    },
+    {
+        "question": "40 lány és 32 fiú szeretne részt venni a 6. osztályos intramurálokon. Ha minden csapatnak ugyanannyi lányból és ugyanannyi fiúból kell állnia, hány csapat vehet részt az intramurálokon?",
+        "answer": "8 "
+    },
+    {
+        "question": "George-nak van 2 doboz blokkja. Minden doboz 6 blokkot tartalmaz, és 5 doboz van egy tokban. Hány blokkja van George-nak?",
+        "answer": "12.0"
+    },
+    {
+        "question": "Sara 35 körtét és 27 almát szedett a gyümölcsösből. 28 körtét adott Dannek . Hány körte van Sarának?",
+        "answer": "7.0"
+    },
+    {
+        "question": "Egy bohócnak kétszázhuszonhét lufira volt szüksége egy partihoz, ahová ment, de a lufi csak kettős csomagban érkezett. Hány csomag lufit kell vennie?",
+        "answer": "114 "
+    },
+    {
+        "question": "John apja vett négyszáztizennégy méter zsinórt. Ha darabokra akarta vágni a zsinórt úgy, hogy mindegyik darab hét méter hosszú legyen, hány teljes méretű darabot tudna készíteni?",
+        "answer": "59 "
+    },
+    {
+        "question": "86 ananász volt egy boltban. A tulajdonos 48 ananászt adott el. A megmaradt ananászok közül 9 megrohadt és kidobott. Hány friss ananász maradt?",
+        "answer": "29 "
+    },
+    {
+        "question": "Shaquira sütiket süt, amelyeket csomagokba tesz egy adománygyűjtő akcióhoz. Shaquira 86 csokis kekszet és 42 cukros kekszet készített. Shaquira azonos cookie-csomagokat szeretne létrehozni az értékesítéshez, és az összes cookie-t fel kell használnia. Hány azonos csomagot készíthet a Shaquira a legtöbb?",
+        "answer": "2 "
+    },
+    {
+        "question": "Egy könyv hossza 5 hüvelyk, teljes területe 50 négyzethüvelyk volt. Milyen széles a könyv?",
+        "answer": "10 "
+    },
+    {
+        "question": "Lisa tevékenységi kosarakat készít, hogy jótékony célra adományozhasson. 12 kifestőkönyve, 28 markere és 36 zsírkrétája van. Hány kosarat tud a legtöbb kosarat készíteni, ha minden típusú játékot egyenlően osztanak el a kosarak között?",
+        "answer": "4 "
+    },
+    {
+        "question": "32 tanuló van az osztályban. A tanár 5 egyenlő csoportra osztotta őket. Hány tanuló van az egyes csoportokban?",
+        "answer": "6 "
+    },
+    {
+        "question": "Mrs. Hiltnek 43 centje volt. 20 centért vett egy ceruzát és 5 centért egy édességet. Mennyi pénze maradt?",
+        "answer": "18 "
+    },
+    {
+        "question": "egy számra gondolok. Ha kivonok 6-ot a számból, és elosztom 13-mal, akkor az eredményt 2-nek kapom. Keresse meg a számot az elmémben.",
+        "answer": "32"
+    },
+    {
+        "question": "A távolsági telefonszolgáltatásért Milan 2 dollár havi díjat, plusz 12 centet fizet percenként. A múlt hónapban Milánó távolsági számla 23,36 dollár volt. Hány percre volt számlázva Milánónak?",
+        "answer": "178.0"
+    },
+    {
+        "question": "Edward elindította saját fűnyíró vállalkozását. Tavasszal 2 dollárt keresett füvet nyírni, nyáron 27 dollárt. Ha 5 dollárt kellett költenie kellékek vásárlására, mennyi pénze lett végül?",
+        "answer": "24 "
+    },
+    {
+        "question": "Cristina 17 croissant-t sütött. Ha azt tervezte, hogy hét vendégének egyformán kiszolgálja ezt, hány vendége lesz?",
+        "answer": "2 "
+    },
+    {
+        "question": "Egy kertben 52 soros és 15 oszlopos babterv található. Hány növény van összesen?",
+        "answer": "780.0"
+    },
+    {
+        "question": "Néhány gomb rendezése közben Malia 1 gombot tett az első dobozba, 3 gombot a másodikba, 9 gombot a harmadikba, 27 gombot a negyedikbe és 81 gombot az ötödikbe. Ha ez a minta folytatódik, hány gombot tesz Malia a hatodik dobozba?",
+        "answer": "243 "
+    },
+    {
+        "question": "Egy osztály 122 dobozt gyűjtött össze újrahasznosításra. Ha minden zacskóba 57 dobozt tehetnének, körülbelül hány zsákra lenne szükségük?",
+        "answer": "2 "
+    },
+    {
+        "question": "A fővárosi épületben állami pecsét lóg, amely kerek. 2 méter átmérőjű. Mekkora a fóka területe?",
+        "answer": "3.14 "
+    },
+    {
+        "question": "Tiffany videojátékkal játszott, és 43 életét vesztette. A játék nehéz szakaszában 14 életet vesztett. Ha még 27 életet kapna a következő szinten, hány élete lenne?",
+        "answer": "56 "
+    },
+    {
+        "question": "Caitlin egy óriási csúszda 13. lépcsőjén áll. Lesétált 4 lépcsőn, hogy beszéljen barátjával, Danával. Aztán felment 12 lépcsőn a csúcsra. Hány lépcsős az óriáscsúszda?",
+        "answer": "21 "
+    },
+    {
+        "question": "Kate, Maggie és Sue összeadták életkorukat. Az összesen 48 volt. Kate 19 és Maggie 17. Hány éves Sue?",
+        "answer": "12 "
+    },
+    {
+        "question": "A Lomjárőr szombaton 10 üvegpalackot és 8 alumíniumdobozt vett fel. Hány darab almot szedtek össze összesen?",
+        "answer": "18.0"
+    },
+    {
+        "question": "Jessica egy füzért szeretne készíteni 8 rózsából, 12 százszorszépből és 48 körömvirágból. Hány elrendezést tud készíteni ezekkel a virágokkal, hogy ne maradjon virág.",
+        "answer": "4 "
+    },
+    {
+        "question": "Mrs. Hilt pitét sütött a múlt hétvégén egy ünnepi vacsorára. 16 pekándiós pitét és 14 almás pitét sütött. Ha az összes pitéket 5-5 pitékből álló sorokba szeretné rendezni, hány sora lesz?",
+        "answer": "30.0"
+    },
+    {
+        "question": "Gwen 8 pontot kapott minden egyes újrahasznosított konzervdobozért. Ha lett volna 4 táskája, de 2-t nem hasznosított volna újra, hány pontot kapott volna?",
+        "answer": "16.0"
+    },
+    {
+        "question": "A fiókban 54 olló található. Keith 22 ollót helyezett a fiókba. Hány olló van most összesen?",
+        "answer": "76.0"
+    },
+    {
+        "question": "Alyssa vett néhány játékot. 5,71 dollárért vett egy focilabdát, és 6,59 dollárt költött golyókra. Összességében mennyit költött Alyssa játékokra?",
+        "answer": "12.3"
+    },
+    {
+        "question": "Véletlenül a Luther's Paint Supplies tegnap egyenlő mennyiségben adott el két festékszínt: a sárgát és a kéket. Az összes sárga festéket 2 literes kiszerelésben, míg a kék festéket 19 literes kiszerelésben árusítják. Mennyi az egyes festékszínekből a legkisebb mennyiség, amelyet a boltnak el kellett adnia?",
+        "answer": "38 "
+    },
+    {
+        "question": "Jamesnek 1222 léggömbje van. Amynek 513 léggömbje van. Hány lufija van Jamesnek, mint Amynek?",
+        "answer": "208.0"
+    },
+    {
+        "question": "A számgép megváltoztatja a benne elhelyezett számok értékét. A számgépem hozzáad 15-öt egy számhoz, majd kivon 6-ot az összegből. Ha beírom a 68-as számot, milyen szám jön ki a gépből?",
+        "answer": "77"
+    },
+    {
+        "question": "Paige-nek volt egy papírlapja, amely 9 hüvelyk hosszú és 10 hüvelyk széles volt. Mekkora a papír területe?",
+        "answer": "90 "
+    },
+    {
+        "question": "Robinnak hétszázharminchat fényképet kellett elhelyeznie egy fotóalbumba. Ha minden oldal hat fényképet tartalmaz, hány teljes oldala lesz?",
+        "answer": "122 "
+    },
+    {
+        "question": "Egy boltban 40 narancs volt a kukában. Ha kidobnának 25-öt a régiből, és 21 újat raknának a kukába, hány kerülne a kukába?",
+        "answer": "36 "
+    },
+    {
+        "question": "Benny eladta képregényeinek felét, majd vett még hatot. Jelenleg 17-e van. Hány számmal kezdte?",
+        "answer": "22 "
+    },
+    {
+        "question": "Bennek volt néhány baseballkártyája. A barátjának, Timnek 20 lapja volt. Miután Ben vett még 3 kártyát, kétszer annyi kártyája volt, mint Timnek. Hány kártyája volt Bennek először?",
+        "answer": "37 "
+    },
+    {
+        "question": "Az istállóban 32, a fészerben 26 bála széna volt. Jason ma bálákat rakott az istállóba . Jelenleg 98 bála széna van az istállóban. Hány bálát tárolt az istállóban?",
+        "answer": "66.0"
+    },
+    {
+        "question": "Egy téglalap alakú szekrény hossza 6 m, kerülete 20 m. Keresse meg a szekrény szélességét.",
+        "answer": "4 "
+    },
+    {
+        "question": "119 gyufásdoboz volt náluk színes fényes csomagolásba csomagolva. Ha egyenlő arányban osztják szét a gyufásdobozokat az első blokk 9 házában, hány színes gyufásdoboz marad?",
+        "answer": "2 "
+    },
+    {
+        "question": "94 diák jelentkezett számítástechnikai osztályra. 24 második osztályos és 29 harmadikos volt. A többi tanuló negyedik osztályos volt. Hány negyedikes vett részt számítástechnikai órákon?",
+        "answer": "41 "
+    },
+    {
+        "question": "A Joan's High School idén 864 baseballmeccset játszott, ebből 128-at éjszaka. 395 meccsen vett részt. Hány baseballmeccset hagyott ki Joan?",
+        "answer": "469.0"
+    },
+    {
+        "question": "Mike 8 körtét, Jason pedig 7 körtét szedett le a körtefáról. Fred leszedett 6 almát az almafáról. Hány körtét szedtek összesen?",
+        "answer": "15.0"
+    },
+    {
+        "question": "Oliver rendszerezi a könyveit, és polcokra teszi őket. Az első polcra 2, a második polcra 6, a harmadik polcra 18, a negyedik polcra 54 könyvet tett. Ha ez a minta folytatódik, hány könyvet tesz fel Oliver az ötödik polcra?",
+        "answer": "162 "
+    },
+    {
+        "question": "Tanner 17 dollárt takarított meg szeptemberben. Októberben 48 dollárt, novemberben 25 dollárt spórolt. Aztán Tanner 49 dollárt költött egy videojátékra. Mennyi pénze maradt Tannernek?",
+        "answer": "41.0"
+    },
+    {
+        "question": "A virágbolt minden hónapban más-más számú rózsát tesz ki az elülső ablakban. Októberben 108 rózsát, novemberben 120 rózsát, decemberben 132 rózsát, januárban 144 rózsát mutatott be. Ha ez a minta folytatódik, hány rózsa lesz a virágos kirakatban februárban?",
+        "answer": "156 "
+    },
+    {
+        "question": "Joe, Susie testvére összegyűjtötte mind a 94 kereskedési kártyát a szobájában, és dobozokba tette. Ha egy teli dobozban maximum 8 kártya fér el, hány kártya van a kitöltetlen dobozban?",
+        "answer": "6 "
+    },
+    {
+        "question": "Jack egy 285 oldalas könyvet olvas. Ha naponta 23 oldalt olvas el, hány oldalt fog elolvasni az utolsó napon?",
+        "answer": "9 "
+    },
+    {
+        "question": "Isha ceruzája 22 hüvelyk hosszú. Ha hétfőn két centit, kedden pedig két centit élesít, akkor milyen hosszú lesz a ceruzája?",
+        "answer": "18 "
+    },
+    {
+        "question": "Egy kétjegyű szám négyszerese a számjegyei összegének és kétszerese a számjegyek szorzatának. Keresse meg a számot.",
+        "answer": "36"
+    },
+    {
+        "question": "Egy autógyártó cég 3884 autót gyártott Észak-Amerikában és 2871 autót Európában. Hány autó ez összesen?",
+        "answer": "6755.0"
+    },
+    {
+        "question": "Hétfőn Debby 2 kilométert kocogott. Kedden 5 kilométert, szerdán 9 kilométert kocogott. Hány kilométert kocogott összesen?",
+        "answer": "16 "
+    },
+    {
+        "question": "Egy filmplakát 4 hüvelyk széles és 7 hüvelyk magas volt. Mekkora a plakát területe?",
+        "answer": "28 "
+    },
+    {
+        "question": "Joan 37 narancsot, Sara pedig 10 narancsot szedett. Alyssa 30 körtét szedett. Hány narancsot szedtek összesen?",
+        "answer": "47.0"
+    },
+    {
+        "question": "A kekszeket 18 darabos kiszerelésben szállítják. Betty 45 kekszet evett. Hány keksz maradt neki?",
+        "answer": "9 "
+    },
+    {
+        "question": "Cristina 17 croissant-t sütött. Ha Cristina croissant-ját egyenlő arányban szolgálják fel hét vendége között, mennyi marad Cristinának?",
+        "answer": "3 "
+    },
+    {
+        "question": "Egy turistacsoport 26 főből áll. Egy szállodában szeretnének bérelni néhány nagy szobát 3 fő részére, és néhány kisebb szobát 2 fő részére. Hány nagy szobát kell bérelni annak érdekében, hogy a legkevesebb szobát béreljen, és minden szoba teljesen foglalt legyen?",
+        "answer": "8 "
+    },
+    {
+        "question": "Egy edényben 1050 ml tea volt. Anna néhány csészébe töltötte a teát. Ha minden csészében 65 ml tea volt, hány csésze lett megtöltve teával?",
+        "answer": "16 "
+    },
+    {
+        "question": "A szám egyharmada mínusz hét nyolcat ad. Keresse meg a számot.",
+        "answer": "45"
+    },
+    {
+        "question": "Willie-nek 48 banánja van. Charlesnak 14 banánja van. 35-öt veszít. Hány banánja lesz Willie-nek?",
+        "answer": "13.0"
+    },
+    {
+        "question": "Jake cukorkatartót állított fel az udvarán. 80 darab édességet kell eladnia. Hétfőn 15 darab édességet adott el. Ennél sokkal többet adott el kedden. Szerdára Jakesnek már csak 7 darabja maradt. Hány darab édességet adott el Jake kedden?",
+        "answer": "58 "
+    },
+    {
+        "question": "A fiókban 41 zsírkréta és 26 ceruza található. Sam 12 zsírkrétát tett a fiókba. Hány zsírkréta van most összesen?",
+        "answer": "53.0"
+    },
+    {
+        "question": "Joan csatlakozott az iskolája zenekarához. Vett egy trombitát 149,16 dollárért, egy zenei eszközt 9,98 dollárért és egy daloskönyvet, amely 4,14 dollárért volt. Joan 8,65 dollárt talált a zsebében. Mennyit költött Joan a zeneboltban?",
+        "answer": "163.28"
+    },
+    {
+        "question": "Az osztályteremben 46 gyerek jár, minden tanuló 4 tucat ceruzát kap. Hány ceruzát kell kiadnia a tanárnak?",
+        "answer": "2208.0"
+    },
+    {
+        "question": "Hány süteményed lenne, ha 37 zacskó süteményed lenne, mindegyik tasakban 19 sütivel?",
+        "answer": "703.0"
+    },
+    {
+        "question": "Betettem egy másik számot a gépembe. A gép hozzáadott 15-öt, majd kivont 6-ot. A 35-ös szám jött ki a gépből. Milyen számot írtam be?",
+        "answer": "26"
+    },
+    {
+        "question": "Jonathan szeretne vásárolni egy szótárt, ami 11 dollárba kerül, egy dinoszaurusz-könyvet, amely 19 dollárba kerül, és egy gyerekszakácskönyvet, amely 7 dollárba kerül. Megspórolt 8 dollárt a segélyéből. Mennyi pénzre van még szüksége Jonathannak mindhárom könyv megvásárlásához?",
+        "answer": "29.0"
+    },
+    {
+        "question": "Ronald és Tim is kimosott ma. Ronald 6 naponta mos, Tim pedig 9 naponta. Hány nap telik el, amíg Ronald és Tim ugyanazon a napon újra kimosnak?",
+        "answer": "18 "
+    },
+    {
+        "question": "Joan 72 kagylót és 12 tengeri csillagot talált a tengerparton. Adott Alyssának néhány kagylóját. 28 kagylója van. Hány kagylót adott Alyssának?",
+        "answer": "44.0"
+    },
+    {
+        "question": "Egy pizzaboltban 11 darab pepperoni volt, amit a pizzájára kellett tenni. Ha minden pizza 2 darabot kapna, hány darab pepperoni lenne még?",
+        "answer": "1 "
+    },
+    {
+        "question": "Faye szövetet vágott egy barátjának. Vágott egy darabot, amely 3 centiméter széles és 24 négyzetcentiméter volt. Milyen hosszú volt a darab?",
+        "answer": "8 "
+    },
+    {
+        "question": "Mika nagyítón méri a lencsét, és kiszámolja, hogy a kerülete 31,4 centiméter. Mekkora az objektív átmérője?",
+        "answer": "10 "
+    },
+    {
+        "question": "Adam falat festett a szobájában. A fal 4 láb széles és 4 láb magas volt. Mekkora a fal területe, amelyet festenie kell?",
+        "answer": "16 "
+    },
+    {
+        "question": "Tessának van 4 almája. Anita adott neki még 5-öt. 10 almára van szüksége egy pite elkészítéséhez. Van neki elég pitét készíteni?",
+        "answer": "9.0"
+    },
+    {
+        "question": "Tom 15 kagylót, Fred pedig 43 kagylót talált a tengerparton. Amikor megtisztították őket , felfedezték , hogy 29 megrepedt . Hány kagylót találtak együtt?",
+        "answer": "58.0"
+    },
+    {
+        "question": "Mrs. Hilt vett egy notebookot 1,30 dollárért. Nikkellel fizetett. Hány nikkelt használt fel a notebook megvásárlására?",
+        "answer": "26 "
+    },
+    {
+        "question": "Rachel a harmadik a sorban. Julie 2 hellyel előtte van. Hol van a sorban Julie?",
+        "answer": "1"
+    },
+    {
+        "question": "Timnek van egy zacskója 36 narancsízű édességgel, Péternek pedig 44 szőlőízű édességgel. Az édességeket kis tálcákra kell osztani, egyenlő számú édességgel; minden tálca csak narancs vagy szőlő ízű édességet tartalmaz. Ha nincs maradék, hány édesség lehet az egyes tálcákon?",
+        "answer": "4 "
+    },
+    {
+        "question": "Melody 26 kivágott karácsonyfát készített piros fényes golyókkal. Ha azt tervezte, hogy ebből 4-et beragaszt bizonyos számú kártya elülső borítójára, hány lapot tud majd készíteni?",
+        "answer": "6 "
+    },
+    {
+        "question": "Nancy, Melanie, Mary és Alyssa egyenként 540 baseball kártyát vásároltak, amelyek 20-as csomagokban vannak. Hány baseball-kártyacsomagjuk van összesen?",
+        "answer": "108.0"
+    },
+    {
+        "question": "Egy 2 jegyű számban a tízes számjegy négyszerese az egységszámjegynek. A számjegyek felcserélésekor az új szám 54-gyel kisebb, mint az eredeti szám. Keresse meg az eredeti számot.",
+        "answer": "82"
+    },
+    {
+        "question": "Sushi apja vett x nyalókát. 5-öt megettek a gyerekek. Ha 7 nyalóka maradt, hány nyalókát hozott sushi apja?",
+        "answer": "12 "
+    },
+    {
+        "question": "Rita, Peter és Skeeter pingvinek. Összesen 90 kilogrammot nyomnak. Rita és Péter tudják, hogy ugyanannyit nyomnak. Peter és Skeeter tudják, hogy együtt 68 fontot nyomnak. Mennyi a Skeeter súlya?",
+        "answer": "46 "
+    },
+    {
+        "question": "December mozgalmas hónap a játékboltban. 95 játék volt a polcon. Az első héten 68 játékot adtak el. Az üzlet még 47 játékot kapott a gyárból. Hány játékuk volt akkor?",
+        "answer": "74 "
+    },
+    {
+        "question": "Minden házhoz, amelyet egy asztalos épít, hat mosogatóra van szüksége. Ha vásárolna kétszázhatvanhat mosogatót, hány házat fedne az?",
+        "answer": "44 "
+    },
+    {
+        "question": "Egy festőnek 12 szobát kellett kifestenie egy épületben. Minden helyiség festése 7 órát vesz igénybe. Ha már kifestett 5 szobát, mennyi ideig tart a többi kifestése?",
+        "answer": "49.0"
+    },
+    {
+        "question": "Sandra a ceruzákat dobozokba válogatja. Az első dobozba 78, a másodikba 87, a harmadikba 96, a negyedikbe pedig 105 ceruzát tett. Ha ez a minta folytatódik, hány ceruzát tesz Sandra az ötödik dobozba?",
+        "answer": "114 "
+    },
+    {
+        "question": "Tom májusban 2, júniusban 6 és júliusban 10 könyvet olvasott el. Hány könyvet olvasott el Tom?",
+        "answer": "18 "
+    },
+    {
+        "question": "Jane 16 váza virágot tud elrendezni egy nap alatt. Ha 248 virágvázát kell elrendezni, hány virágvázát fog elrendezni az utolsó napon?",
+        "answer": "8 "
+    },
+    {
+        "question": "2 piros kulacs, 3 fekete kulacs és 4 kék vizes palack van a hűtőben. Ha 5 kulacsot veszünk ki, hány kulacs marad a hűtőben?",
+        "answer": "4 "
+    },
+    {
+        "question": "Porvihar söpör végig a prérin. 64535 hektárnyi préri területet borít be porban, de 522 hektárt érintetlenül hagy. Hány hektárt borít a préri?",
+        "answer": "64013.0"
+    },
+    {
+        "question": "Egy étteremnek háromszáznyolcvanhét új tányért kell vásárolnia. Ha minden dobozban öt tányér van, hány dobozt kell vásárolniuk?",
+        "answer": "78 "
+    },
+    {
+        "question": "Egy darab rétegelt lemezt úgy vágtak le, hogy a hossza 6 láb x 5 láb volt. Mekkora a fa kerülete?",
+        "answer": "22 "
+    },
+    {
+        "question": "Anya vett egy kis krumplit. A burgonyából 15-öt salátához, 24-et pedig burgonyapüréhez használt fel. Ha 13 krumpli maradt, hány krumplit vett anya először?",
+        "answer": "52 "
+    },
+    {
+        "question": "Robert a labdarúgáshoz akarja gyakorolni a gólrúgásokat. Úgy dönt, hogy 98 rúgást végez, mielőtt hazamegy a parkból. 43 rúgást végez, mielőtt szünetet tart, hogy igyon vizet. Ezután újabb 36 rúgást végez. Hány rúgást kell még végrehajtania, mielőtt hazamegy?",
+        "answer": "19 "
+    },
+    {
+        "question": "Jacqueline-nak 16 szilva, 18 guava és 21 alma volt. Néhányat Jane-nek adott, és 15 gyümölcs maradt. Hány gyümölcsöt adott Jacqueline Jane-nek?",
+        "answer": "40 "
+    },
+    {
+        "question": "Halloween alkalmából Faye 47 darab édességet szerzett. Az első este 25 darabot evett, majd a nővére adott neki még 40 darabot. Hány darab édessége van most Faye-nek?",
+        "answer": "62 "
+    },
+    {
+        "question": "A mező egy egyenlő oldalú háromszög alakú, amely a téglalap szélességéhez kapcsolódik, ahol a téglalap szélessége és a háromszög oldala azonos. A téglalap alakú terület hossza 76 láb, a háromszög alakú terület oldala pedig 42 láb. Határozza meg a mező kerületét.",
+        "answer": "90 "
+    },
+    {
+        "question": "Egy mozihoz négyszázhuszonhat popcornos vödör kellett. Ha minden csomagban nyolc vödör van, hány csomagot kell megvásárolniuk?",
+        "answer": "54 "
+    },
+    {
+        "question": "Dannek 97 baseballkártyája volt, és 8 elszakadt. Sam vásárolt Dan 15 baseballkártyájából. Hány baseball kártyája van most Dannek?",
+        "answer": "82.0"
+    },
+    {
+        "question": "Alvinnak 57 golyója volt, és két meccset játszott. Az első játék során 18 golyót veszített. A második játszmában 25 golyót nyert. Hány golyója volt akkor Alvinnak?",
+        "answer": "64 "
+    },
+    {
+        "question": "Mr. Johnson 80 méter kerítést használt egy téglalap alakú kert bekerítésére. A kert hossza 25 méter. Milyen széles a kert?",
+        "answer": "15 "
+    },
+    {
+        "question": "Egy teherautóban négy doboz fér el. Ha nyolcszázhetvenegy dobozt kellene átvinned a városon keresztül, hány utat kellene megtenned?",
+        "answer": "218 "
+    },
+    {
+        "question": "A harmadik osztályosok vásárt tartanak. 90 eladható jegyük van. Az első héten 38, a második héten 17 jegyet adtak el. Hány eladható jegyük maradt?",
+        "answer": "35 "
+    },
+    {
+        "question": "George vett 17 darab édességet, hogy 5 barátjának odaadja. Ha minden barátjának ugyanannyit akar adni, hány darab maradna?",
+        "answer": "2 "
+    },
+    {
+        "question": "Bryannek 8 drágakő volt a gyűjteményében, amelyeket eladott barátjának az ékszerboltból. Ha a köveket egyenként 1785 dollárért adták el, mennyi pénzt kapott Bryan összesen?",
+        "answer": "14280.0"
+    },
+    {
+        "question": "A cukorkák 4 darabos kiszerelésben vannak. Shirley 10 cukorkát evett. Hány cukorka maradt neki?",
+        "answer": "2 "
+    },
+    {
+        "question": "Franknek 10 láb átmérőjű kerek terítője van. Mekkora az abrosz sugara?",
+        "answer": "5 "
+    },
+    {
+        "question": "A szövetet az üzletekben 45 vagy 60 hüvelyk széles csavarokból árulják. Mekkora a legszélesebb szövetcsíkok szélessége, amelyeket bármelyik csavarból levághat anélkül, hogy az anyag elvesztegetné, ha mindegyik csík azonos szélességű?",
+        "answer": "15 "
+    },
+    {
+        "question": "Sok család minden családtagnak felszolgál egy 6 uncia pohár narancslevet minden reggel. Ha gallonra vásárolják a narancslevet, hány teljes adag gyümölcslevet kapnak egy gallon (egy gallon = 4 liter, 1 liter = 32 uncia) léből?",
+        "answer": "21 "
+    },
+    {
+        "question": "6 cukorka van egy kupacban az asztalon. Mindegyik cukorka 15 db-os csomagban érkezik. 4 cukorka kerül a kupacba. Hány cukorka van a kupacban?",
+        "answer": "10.0"
+    },
+    {
+        "question": "A könyvtár különböző részekre van felosztva a különböző típusú könyvek számára. A sci-fi szekciónak 8 könyve van. Ha minden könyvnek 478 oldala van, hány oldala van az összes könyvnek?",
+        "answer": "3824.0"
+    },
+    {
+        "question": "Egy gyár 50 nyomtatót és 21 szkennert gyártott. Miután 41 nyomtatót értékesítettek, további 16 szkennert gyártott. Hány nyomtató és szkenner volt végül a gyárban?",
+        "answer": "46 "
+    },
+    {
+        "question": "Egy modern művészeti festményen az első sorban 3 zöld, a másodikban 6, a harmadikban 9 zöld, a negyedikben 12 zöld pont található. Ha ez a minta folytatódik, hány zöld pont lesz az ötödik sorban?",
+        "answer": "15 "
+    },
+    {
+        "question": "Susie és családja korán ébredt a tavasz első hétvégéjén. Hosszú volt a tavaszi takarításhoz szükséges tevékenységek listája. Susie anyja 74 répapálcát készített reggelire. Ha a sárgarépát egyformán 12 embernek adták fel, hány répát hagytak elfogyasztani?",
+        "answer": "2 "
+    },
+    {
+        "question": "Bennek 18, Johnnak 17 golyója volt. Ben a golyói felét Johnnak adta. Hány golyója volt Johnnak akkoriban, mint Bennek?",
+        "answer": "17 "
+    },
+    {
+        "question": "Egy péksütemény 10 hüvelyk széles és 2 hüvelyk hosszú volt. Mekkora a sütilapjuk kerülete?",
+        "answer": "24 "
+    },
+    {
+        "question": "Egy szám plusz önmaga, plusz önmaga kétszerese, plusz önmaga 4-szerese egyenlő 104-gyel. Mi a szám?",
+        "answer": "13"
+    },
+    {
+        "question": "A buszon 46 utas utazott. Az első megállónál 19 utas szállt le. A második megállónál 15 utas szállt le. Hány utas maradt a buszon?",
+        "answer": "12 "
+    },
+    {
+        "question": "Egy sütemény elkészítéséhez 3 tojás kell. Hány tortát tudsz elkészíteni 37 tojásból?",
+        "answer": "12 "
+    },
+    {
+        "question": "A Kentucky Fried Chickenben a konyha személyzete 96 csirkecombot, 144 combot és 224 szárnyat sütött. A személyzetnek tányért kellett készítenie egy ebédhez egy irodában. Minden tálnak ugyanannyi lába, combja és szárnya lesz. Hány tálat készíthet a személyzet, ha a legtöbb csirkedarabot szeretné minden tálra?",
+        "answer": "16 "
+    },
+    {
+        "question": "Egy online játékboltban volt néhány játék. Az első héten 38, a második héten 26 játékot adott el. Ha 19 játék maradt, hány játék volt készleten az elején?",
+        "answer": "83 "
+    },
+    {
+        "question": "Amynek 67 léggömbje van. Ebből 29 piros és 17 zöld. A többi léggömb kék. Hány kék léggömbje van Amynek?",
+        "answer": "21 "
+    },
+    {
+        "question": "Rachel vett két kifestőkönyvet. Az egyiken 24, a másikon 39 kép volt. Egy hét múlva már 4-et kiszínezett. Hány képet kell még kiszíneznie?",
+        "answer": "59.0"
+    },
+    {
+        "question": "A négyzet alakú névcímkék oldalai 9 centiméter hosszúak. Mi a névcímke kerülete?",
+        "answer": "36 "
+    },
+    {
+        "question": "Az iskola kirándulást tervez. Minden iskolabuszon 28 diák és 7 ülőhely van. Hány buszra van szükség az utazáshoz?",
+        "answer": "4.0"
+    },
+    {
+        "question": "Melody bolti vásárlás helyett karácsonyi képeslapokat készített az idősek otthonában. 99 kék flitter volt, amelyeket hópelyhekként szeretne használni a kártyákhoz. Ha a flittereket egyenlően elosztja 12 lapon, hány flitter marad Melodynak?",
+        "answer": "3 "
+    },
+    {
+        "question": "A tanár segítője sütiket rakott a tányérokra. Az első tányérra 5, a második tányérra 7, a harmadik tányérra 10, a negyedikre 14, az ötödik tányérra 19 süteményt tett. Ha ez a minta folytatódik, hány sütit tesz a segítő a hatodik tányérra?",
+        "answer": "25 "
+    },
+    {
+        "question": "A vásáron 10 ember állt sorban a lökhárítós autókért. Ha 2-en megunták a várakozást és elmennének, és még 2-en sorra kerülnének, hányan állnának a sorba?",
+        "answer": "10 "
+    },
+    {
+        "question": "A citromfejek 5 db-os kiszerelésben kaphatók. Ann 78 citromfejet evett. Hány citromfeje maradt?",
+        "answer": "3 "
+    },
+    {
+        "question": "119 gyufásdoboz volt náluk, amelyek színes fényes csomagolásba voltak csomagolva. Ha egyenlően osztják ki a gyufásdobozokat az első blokk 9 háza között, hogyan kaphatják meg a gyufásdobozokat minden ház?",
+        "answer": "13 "
+    },
+    {
+        "question": "Egy új videojáték-konzolhoz öt számítógépes chipre van szükség. Ha egy gép naponta négyszázhatvanhét számítógépes chipet tud létrehozni, hány videojáték-konzolt lehet létrehozni egy nap?",
+        "answer": "93 "
+    },
+    {
+        "question": "Blithe-nek sok játéka van. 6-ot elveszített, 9-et a szekrényében talált. Ha ezután 43 volt, hány játéka volt Blithe-nek először?",
+        "answer": "40 "
+    },
+    {
+        "question": "Melanie 4 gumigolyót ad el egyenként nyolc centért. Mennyi pénzt kaphat Melanie a gumigolyók eladásából?",
+        "answer": "32.0"
+    },
+    {
+        "question": "Miközben az aprópénzt malacperselyekbe rendezte, Diane 72 érmét tett az első malacperselybe, 81 érmét a második malacperselybe, 90 érmét a harmadik malacperselybe, 99 érmét a negyedik malacperselybe és 108 érmét az ötödik malacperselybe. . Ha ez a minta folytatódik, hány érmét tesz Diane a hatodik malacperselybe?",
+        "answer": "117 "
+    },
+    {
+        "question": "Egy játékban 2 élettel kezdesz. Ha 6 plusz életet kapna az első szinten, és további 11-et a másodikon, hány élete lenne?",
+        "answer": "19 "
+    },
+    {
+        "question": "Egy ipari gép naponta háromszázhuszonegy zsírkrétát tud készíteni. Ha minden doboz zsírkrétában hét zsírkréta van, hány teli dobozt készít a gép egy nap?",
+        "answer": "45 "
+    },
+    {
+        "question": "A téglalap alakú tetőzsindely 10 hüvelyk hosszú és 7 hüvelyk széles. Mi a területe?",
+        "answer": "70 "
+    },
+    {
+        "question": "Joan 75 kagylót és 14 tengeri csillagot talált a tengerparton. Adott Timnek néhány kagylót . 62 kagylója van. Hány kagylót adott Timnek?",
+        "answer": "13.0"
+    },
+    {
+        "question": "Manuel megtakarítási számlát nyitott 177 dollár kezdeti letéttel. Ha 500 dollárt akar megtakarítani a következő 19 hét során, mennyit kell megtakarítania minden héten dollárban?",
+        "answer": "17.0"
+    },
+    {
+        "question": "Victor csokoládét árult egy iskolai adománygyűjtőnek. Az első héten 75-öt adott el. A második héten 67-et. A harmadik héten 75-öt. A negyedik héten 70-et, az utolsó héten 68-at. Mi az általa eladott csokoládé darabok átlaga ?",
+        "answer": "71 "
+    },
+    {
+        "question": "Lenának volt egy kis zsebpénze. 4 dollárt vesztett, anyja pedig 9 dollárt adott neki. Ha ezután 66 dollárja volt, hány dollárja volt Lenának először?",
+        "answer": "61 "
+    },
+    {
+        "question": "Egy rendezvényen 12 felnőtt és 20 gyermek vesz részt. A rendezvényszervező azt akarja, hogy minden asztal egyforma legyen, a felnőttek és a gyerekek azonos kombinációjával, és ne maradjanak emberek. Hány táblát tud a tervező felállítani?",
+        "answer": "4 "
+    },
+    {
+        "question": "Melanie vett egy Batman játékot 6,95 dollárért, egy stratégiai játékot 7,90 dollárért és egy Superman játékot 7,73 dollárért. Melanie-nak már 4 játéka van. Mennyit költött Melanie videojátékokra?",
+        "answer": "22.58"
+    },
+    {
+        "question": "Múlt szombaton Marie 425 magazint és 275 újságot adott el. Mennyi az általa eladott olvasnivalók száma?",
+        "answer": "700.0"
+    },
+    {
+        "question": "Mitchnek van egy vállalkozása, és két alkalmazottját beosztja a műszakba. Az első dolgozói műszakokat 2 órás, a második dolgozói műszakokat 11 órás blokkokban osztja be. Ha mindkét dolgozónak ugyanannyi órát kell kapnia, hány órát kell kiosztani egyenként?",
+        "answer": "22 "
+    },
+    {
+        "question": "Bianca minden nap pontosan 5 üveg vizet akart meginni, ezért 47 palackot vásárolt, amikor akciós volt. Hány üveget kell még vásárolnia az utolsó napon?",
+        "answer": "3 "
+    },
+    {
+        "question": "Codynak 45 dollárja volt. Születésnapjára kapott még 9 dollárt, de 19-et költött egy új játékra. Mennyi pénze van most?",
+        "answer": "35 "
+    },
+    {
+        "question": "Christina most utalt át 69 dollárt a bankszámlájáról. Ennek eredményeként a számlán most 26935 dollár van. Mennyi pénz volt a számlán az utalás előtt?",
+        "answer": "27004.0"
+    },
+    {
+        "question": "Fred szereti a kártyákkal kereskedni. Vett 2 csomag futballkártyát egyenként 2,73 dollárért, egy csomag Pokemon kártyát 4,01 dollárért és egy pakli baseball kártyát 8,95 dollárért. Mennyit költött Fred kártyákra?",
+        "answer": "18.42"
+    },
+    {
+        "question": "Elizabeth elment a szalonba, és 0,375 centiméternyi hajat vágott le. Másnap visszament, és újabb 0,5 hüvelyket kért, hogy vágjanak le. Mennyi haját vágták le összesen?",
+        "answer": "0.875"
+    },
+    {
+        "question": "Két motoros egy körösvényen halad. Az első versenyző 12 perc alatt teljesít egy kört. A második versenyző 18 perc alatt teljesít egy kört. Ha mindketten ugyanabban a helyen és időben indultak, és ugyanabba az irányba mennek, hány perc múlva találkoznak újra a kiindulási ponton?",
+        "answer": "36 "
+    },
+    {
+        "question": "Egy művész júniusban 2 képet festett. Júliusban festett még 2-t, augusztusban 9-et. Hány képet festett összesen?",
+        "answer": "13 "
+    },
+    {
+        "question": "34 ceruzát szeretne megosztani 6 barátja között. Hányat kapna minden barát?",
+        "answer": "5 "
+    },
+    {
+        "question": "Doug szabályos ötszög alakú sátrat épített. Kerülete 60 láb. Mekkora a sátor mindkét oldalának hossza?",
+        "answer": "12 "
+    },
+    {
+        "question": "Karennek 252 markere van. Az anyja még 34 jelzőt ad neki. Karen 11 jelzőt veszít. Hány markere van most?",
+        "answer": "275 "
+    },
+    {
+        "question": "Egy négyzet alakú papír kerülete 32 centiméter. Nicky kutyája, Rocky letépte a papír 1/4-ét. Mekkora a maradék papír területe?",
+        "answer": "48 "
+    },
+    {
+        "question": "Egyszerre két fényreklám van bekapcsolva. mindkét jel villog, amikor be van kapcsolva. 9 másodpercenként villog egy jel. A másik jel 15 másodpercenként villog. Hány másodperc múlva pislognak újra együtt?",
+        "answer": "45 "
+    },
+    {
+        "question": "Mrs. Smith 53 epret adott 8 lánynak egyformán. Hány eper maradt?",
+        "answer": "5 "
+    },
+    {
+        "question": "Mrs. Walkernek 56 almája lesz az almáért való bömböléshez. Minden vödörben 9 alma fér el. Hány vödörre lesz szüksége?",
+        "answer": "7 "
+    },
+    {
+        "question": "Egy könyvtárban 14240 könyv található. Polcokon helyezkednek el, amelyeken egyenként 8 könyv található. Hány polc van a könyvtárban?",
+        "answer": "1780.0"
+    },
+    {
+        "question": "Egy űrhajó 0,5 fényévet utazott a Földről az X bolygóra és 0,1 fényévet az X bolygóról az Y bolygóra. Ezután 0,1 fényévet utazott vissza az Y bolygóról a Földre. Hány fényévet utazott összesen az űrhajó?",
+        "answer": "0.7"
+    },
+    {
+        "question": "Tess verset ír. Az első sorba 23 szót ír, a másodikba 26 szót, a harmadikba 29 szót, a negyedikbe 32 szót, az ötödikbe pedig 35 szót ír. Ha ez a minta folytatódik, hány szót ír le Tess a hatodik sorba?",
+        "answer": "38 "
+    },
+    {
+        "question": "Egy pék süteményeket rak a tálcákra, hogy kihűljenek. 3 cupcake-t tett az első tálcára, 6 cupcake-t a második tálcára, 12 cupcake-t a harmadik tálcára és 24 cupcake-t a negyedik tálcára. Ha ez a minta folytatódik, hány süteményt tesz a pék az ötödik tálcára?",
+        "answer": "48 "
+    },
+    {
+        "question": "Jack egy 285 oldalas könyvet olvas. Ha naponta 23 oldalt olvas el, hány nap kell ahhoz, hogy befejezze a könyv elolvasását?",
+        "answer": "13 "
+    },
+    {
+        "question": "Karen egyenlő mennyiségben csomagol perecet és kekszet uzsonnára. Karen 5 fős csoportokban csomagolja a perecet, a kekszet pedig 7 fős csoportokban. Hány kekszet tud a legkevesebbet csomagolni?",
+        "answer": "35 "
+    },
+    {
+        "question": "172 diák alkot csapatot egy hegymászó versenyen. Minden csapatnak 18 tanulónak kell lennie. Hány csapatot alkothatnak?",
+        "answer": "9 "
+    },
+    {
+        "question": "Charlene 60 gyöngy nyakláncot készített. 16 darabot adott el egy kézműves vásáron. 18-at adott a barátainak. Hány nyaklánca volt akkor Charlene-nek?",
+        "answer": "26 "
+    },
+    {
+        "question": "Mary 9 doboz Do-Si-Dót adott el. Hány 6 dobozból és plusz dobozból álló dobozt kell Marynek szállítania?",
+        "answer": "2 "
+    },
+    {
+        "question": "Egy élelmiszerboltnak nyolcszáztíz doboz borsóra volt szüksége. Ha a borsó dobozban érkezik, minden dobozban négy dobozzal, hány dobozra lenne szükségük rendelni?",
+        "answer": "203 "
+    },
+    {
+        "question": "Jason 23 görögdinnyét és 18 karalábét termesztett. Nancy 28 görögdinnyét termesztett. Hány görögdinnye nőtt összesen?",
+        "answer": "51.0"
+    },
+    {
+        "question": "Paul 3 dollárt keresett füvet nyírni és 3 dollárt füvet evett. Ha csak heti 3 dollárt költene, meddig tartana a pénz?",
+        "answer": "2.0"
+    },
+    {
+        "question": "Kétjegyű számban a tízes számjegy az egység számjegyének háromszorosa. Ha a számot 54-gyel csökkentjük, a számjegyek megfordulnak. Keresse meg a számot.",
+        "answer": "93"
+    },
+    {
+        "question": "P és Q egyszerre indul ugyanabban az irányban, hogy megkerülje a stadiont. P 252 másodperc alatt, Q 198 másodperc alatt teljesít egy kört, mindkettő ugyanabban a pontban kezdődik. Mennyi idő múlva találkoznak újra a kiindulóponton?",
+        "answer": "2772 "
+    },
+    {
+        "question": "Abe 54 tölgyfát és 27 fenyőt ültet. Abe olyan sorokba szeretné ültetni a fákat, amelyek mindegyikében ugyanannyi fa van, és csak egyfajta fából állnak. Abe-nek hány fája lehet az egyes sorban?",
+        "answer": "27 "
+    },
+    {
+        "question": "Clarence-nek 5 narancsa van. Még 3-at kap Joyce-tól. Később Clarence vesz 9 teket a boltban. Összesen hány narancsa van Clarence-nek?",
+        "answer": "8.0"
+    },
+    {
+        "question": "Wendy 103 virágot szedett barátja esküvőjére. Csokrot készített, mindegyikben 8 virág volt. Ha 47 virág elhervadna az esküvő előtt, hány csokrot tud még készíteni?",
+        "answer": "7.0"
+    },
+    {
+        "question": "A Mika teáscsészéjéhez való csészealj 3 centiméter sugarú. Mekkora a csészealj területe?",
+        "answer": "28.26 "
+    },
+    {
+        "question": "Egy tartály űrtartalma 32 gallon. Ha egy cég 728 gallon olajat vásárolt, mennyi olaj van a tartályban, amely nincs tele?",
+        "answer": "24 "
+    },
+    {
+        "question": "37 kosár van. Minden kosárban 17 alma található. Hány alma van összesen?",
+        "answer": "629.0"
+    },
+    {
+        "question": "Georgia 4 sárga, 2 fekete és 3 zöld gombbal rendelkezik. A gombok egy részét Marynek adja, és 5 darabja maradt. Hány gombot adott Georgia Marrynek?",
+        "answer": "4 "
+    },
+    {
+        "question": "A kávézóban 50 alma volt. Ebédre 5-öt osztottak ki a diákoknak, a többiből pedig úgy döntöttek, hogy pitéket készítenek. Ha minden lepényhez 5 alma kerül, hány pitét tudnának elkészíteni?",
+        "answer": "9.0"
+    },
+    {
+        "question": "Sam kutyájának voltak kölykei és 8-nak foltos. 2-t adott a barátainak. Jelenleg 6 kiskutyája van. Hány kiskutyával kellett kezdenie?",
+        "answer": "8.0"
+    },
+    {
+        "question": "A két számjegy hétszerese a számjegyek sorrendjének megfordításával kapott szám négyszerese, a számjegyek összege pedig 3. Keresse meg a számot!",
+        "answer": "12"
+    },
+    {
+        "question": "A Sweettarts 7 darabos kiszerelésben érkezik. Stephen 64 édességet evett. Hány Sweettartsa maradt?",
+        "answer": "1 "
+    },
+    {
+        "question": "Egy téglalap alakú nappali 12 láb x 10 láb méretű. A padlóra helyezett szőnyeg 2 láb széles szegélyt hagy maga körül. Mekkora a határ területe?",
+        "answer": "72 "
+    },
+    {
+        "question": "Egy dobozban 55 narancs van. Deborah-nak 11 narancs van egy zacskójában. Susan 35 narancsot vesz ki a dobozból. Hány narancs maradt a dobozban?",
+        "answer": "20.0"
+    },
+    {
+        "question": "Az iskola étkezdéjében minden hatodik napon tacot, nyolcadik napon sajtburgert szolgálnak fel. Ha a taco és a sajtburger is szerepel a mai étlapon, hány nap múlva kerül újra az étlapra?",
+        "answer": "24 "
+    },
+    {
+        "question": "Kristen 12 db-os csomagban talált ajándékzacskót és 5 db-os csomagban masnit. Ha Kristen ugyanannyi ajándéktáskát szeretne, mint masnit, mennyi ajándéktáskát kellene a legkevesebbet vásárolnia?",
+        "answer": "60 "
+    },
+    {
+        "question": "Egy élelmiszeripari cégnek hétszázhetvenhét kilogramm élelmiszere van, amit dobozokba kell tennie. Ha minden doboz pontosan két kilogrammot kap, hány teli dobozuk lesz?",
+        "answer": "388 "
+    },
+    {
+        "question": "Egy homokozó 312 centiméter hosszú és 146 centiméter széles. Hány négyzetcentiméternyi talajt fed le a homokozó?",
+        "answer": "45552.0"
+    },
+    {
+        "question": "Jelenleg 47 orchideabokor található a parkban. A park dolgozói ma 37, holnap pedig 25 orchideabokrot ültetnek el. A munka befejezéséhez 35 munkásra volt szükség. Hány orchideabokor lesz a parkban, ha végeznek a munkásokkal?",
+        "answer": "109.0"
+    },
+    {
+        "question": "Amikor Joant meglátogatta a fogtündér, kapott 14-14 negyedet, fél dollárt és centet. Mennyi pénzt hagyott a fogtündér Joanra?",
+        "answer": "11.9"
+    },
+    {
+        "question": "Jasonnak 18 könyve van, és ebből 9-et elolvasott. Marynek 42 könyve van. Hány könyvük van együtt?",
+        "answer": "60.0"
+    },
+    {
+        "question": "Jeannek volt egy zacskó édessége. 18 darabot adott a barátjának. Jean 7 darabot evett. Most 16 darabja maradt. Hány cukorka volt Jeannek először?",
+        "answer": "41 "
+    },
+    {
+        "question": "Abe családja a Bahamákról Japánba költözött, így átváltották a pénzüket japán jenre. A folyószámlájuk most 6359 jen, a megtakarítási számlájuk pedig 3485 jen. Hány jenük van?",
+        "answer": "9844.0"
+    },
+    {
+        "question": "Tonynak 20 dollárja volt. 8 dollárt fizetett egy baseballmeccsre szóló jegyért. A játékon vett egy hot dogot 3 dollárért. Mennyi pénze volt akkor Tonynak?",
+        "answer": "9 "
+    },
+    {
+        "question": "261 haltál van. Minden haltálban 23 hal van. Hány hal van?",
+        "answer": "6003.0"
+    },
+    {
+        "question": "Aylin 18 fotóból és 20 újságkivágásból egy albumot készít. Azt szeretné, ha az összes oldal egyformán lenne beállítva, minden oldalon ugyanazzal a kombinációval a fényképek és az újságkivágások. Gondoskodni akar arról is, hogy ne maradjanak túl tárgyak. Hány scrapbook-oldalt tud Aylin létrehozni?",
+        "answer": "2 "
+    },
+    {
+        "question": "12 kevesebb, mint egy szám kétszerese 20. Keresse meg a számot.",
+        "answer": "16"
+    },
+    {
+        "question": "A helyi stadionban két lámpa villog. Mindketten csak pislákoltak egyszerre. Az egyik lámpa 7 másodpercenként, a másik 8 másodpercenként villog. Hány másodperc múlva kezd újra egy időben villogni mindkét lámpa?",
+        "answer": "56 "
+    },
+    {
+        "question": "Márta 18 csomag ceruzát és 14 csomag tollat ​​vásárol a boltból. Ha Martha ugyanannyi ceruzát szeretne vásárolni, mint tollat, hány tollat ​​vásárolhat a legkisebb számban?",
+        "answer": "126 "
+    },
+    {
+        "question": "A szülők szendvicseket készítenek az osztálypiknikre. 72 pulykaszelet, 48 sajtszelet és 96 paradicsomszelet van. Hány szendvicset készíthetnek a legtöbben, ha minden szendvicsben ugyanaz a töltelék?",
+        "answer": "24 "
+    },
+    {
+        "question": "Ma délután Alec észrevette, hogy a házi feladathoz rendelt oldal száma osztható 4-gyel és 13-mal is. Mi a lehető legkisebb oldalszám, amit hozzá lehetett volna rendelni?",
+        "answer": "52 "
+    },
+    {
+        "question": "Egy papírzacskóba 16 süti fér. Ha Edgar vesz 292 sütit, hány aprósütemény van a papírzacskóban, ami nincs tele?",
+        "answer": "4 "
+    },
+    {
+        "question": "Egy étteremben 4 pitét szolgáltak fel ebéd közben és 9 pitét ma vacsora közben. Az étterem tegnap 7 pitét és 2 pizzát szolgált fel. Hány pitét szolgáltak fel összesen?",
+        "answer": "20.0"
+    },
+    {
+        "question": "A táncegyüttes szalaggal alkotott téglalapot. A téglalap 20 láb hosszú és 15 láb széles volt. Milyen hosszú volt a szalagdarab?",
+        "answer": "70 "
+    },
+    {
+        "question": "Adam egy trivia játék közben összesen 283 pontot szerzett. Ha minden fordulóban 71 pontot szerzett, körülbelül hány kört játszott?",
+        "answer": "4 "
+    },
+    {
+        "question": "Alyssa 17 szilvát, Jason pedig 10 szilvát szedett. Melanie 35 körtét szedett le . Hány szilvát szedtek összesen?",
+        "answer": "27.0"
+    },
+    {
+        "question": "Az Irene's Bakery muffinokat 18 db-os, sütiket 5 db-os kiszerelésben árul. A tegnapi bizonylatokat átlapozva egy üzletvezető észreveszi, hogy a pékség tegnap délután ugyanannyi muffint és sütit adott el. Hány muffint tudott volna eladni a legkevesebb darab a pékség?",
+        "answer": "90 "
+    },
+    {
+        "question": "15 diák osztott szét 122 festményportfóliót. Minden tanulónak ugyanannyi portfóliót kell kapnia. Hány festményportfóliót kapnak mindegyikük?",
+        "answer": "8 "
+    },
+    {
+        "question": "Greg anyja sütit készített a családnak. A sütik olyan hatalmasak voltak, hogy úgy döntött, félbevágja őket. Greg 4 felet evett, a bátyja, Brad pedig 6 felet. 18 félidő volt hátra. Hány egész sütit készített Greg anyja?",
+        "answer": "14 "
+    },
+    {
+        "question": "Carey és Pat székeket szállítanak az edzőterembe. Megállapodtak 74 szék áthelyezéséről. Carey 28 széket mozgott meg. Pat 29 széket mozgatott. Hány székük maradt még, hogy költözzenek?",
+        "answer": "17 "
+    },
+    {
+        "question": "Alexa egy Nancy Drew-rejtélyt olvas. 95 oldal van a könyvében. Az első napon 18 oldalt olvasott el. Másnap Alexa egyszerűen nem tudta abbahagyni az olvasást. 58 oldalt olvasott el. Hány oldalt kell elolvasnia Alexának?",
+        "answer": "19 "
+    },
+    {
+        "question": "Joannak 695 Pokemon kártyája volt, és 6 elszakadt. Sara 133 db Joan Pokemon kártyát vásárolt . Hány Pokemon kártyája van most Joannak?",
+        "answer": "562.0"
+    },
+    {
+        "question": "A DVD-gyűjtemény rendezése közben Seth 2 DVD-t tett az első állványra, 4 DVD-t a másodikra, 8 DVD-t a harmadikra, 16 DVD-t a negyedik állványra és 32 DVD-t az ötödik állványra. Ha ez a minta folytatódik, hány DVD-t tesz Seth a hatodik állványra?",
+        "answer": "64 "
+    },
+    {
+        "question": "Ha Tom 158 óra megjavítását tervezi napi 12 óra ütemben, hány napra van szüksége az órák javítására?",
+        "answer": "14 "
+    },
+    {
+        "question": "Frednek 90 centje van a bankjában.  Hány centje van Frednek?",
+        "answer": "9.0"
+    },
+    {
+        "question": "Nancy 45 doboz Tagalongot adott el. Hány 12 dobozból és plusz dobozból álló dobozra van szüksége Nancynek?",
+        "answer": "4 "
+    },
+    {
+        "question": "Egy téglalap alakú fémdarab 16 centiméter széles és 19 centiméter hosszú. Mi a kerülete?",
+        "answer": "70 "
+    },
+    {
+        "question": "86 diák indul túrázni. Egy iskolabusz 9 diákot szállíthat. Hány diák maradt?",
+        "answer": "5 "
+    },
+    {
+        "question": "Egy busz 48 utas szállítására alkalmas. Ha egy 1230 diákból és tanárból álló iskola kirándulásra megy, hány utas van a nem teljesen foglalt buszon?",
+        "answer": "30 "
+    },
+    {
+        "question": "Péternek 18 narancsa, 27 körte és 12 banánja van. Gyümölcskosarakat szeretne készíteni, minden egyes kosárban ugyanannyi gyümölcsből. Hány gyümölcskosarat tud a legtöbbet készíteni?",
+        "answer": "3 "
+    },
+    {
+        "question": "Abe jelenlegi és 7 év előtti korának összege 31. Határozza meg Abe jelenlegi korát!",
+        "answer": "19 "
+    },
+    {
+        "question": "Kiara 30 zabpehelysütit és 48 csokis kekszet sütött, amelyeket műanyag edényekbe csomagoltak az iskolai tanár barátainak. A sütiket azonos tárolóedényekre szeretné osztani úgy, hogy minden tartályban ugyanannyi legyen minden típusú sütiből. Ha azt szeretné, hogy minden edényben a lehető legtöbb sütemény legyen, hány műanyag edényre van szüksége?",
+        "answer": "6 "
+    },
+    {
+        "question": "A négyzet alakú fotó területe 25 négyzethüvelyk. Angie úgy döntött, hogy az oldalak megduplázásával felnagyítja a képet. Mi lesz az új terület?",
+        "answer": "100 "
+    },
+    {
+        "question": "Annának összesen 28 nikkelje van a malacperselyében. 8-cal kevesebb nikkelje van, mint fillérrel. Hány centje van Annának?",
+        "answer": "18 "
+    },
+    {
+        "question": "Luke 9 dollárt keresett füvet nyírni és 18 dollárt füvet fogyasztani. Ha csak heti 3 dollárt költene, meddig tartana a pénz?",
+        "answer": "9.0"
+    },
+    {
+        "question": "A síközpont 65 centiméter hóról számolt be januárban. 18 hüvelyk havat mértek az első héten. A második héten 25 hüvelyk havat mértek. Mennyi hó esett a hónap hátralévő részében?",
+        "answer": "22 "
+    },
+    {
+        "question": "Mike 118,54 dollárt költött autójára hangszórókra és 106,33 dollárt új gumikra. Mike 3 CD-t akart 4,58 dollárért, de úgy döntött, hogy nem. Összességében mennyit költött Mike autóalkatrészekre?",
+        "answer": "224.87"
+    },
+    {
+        "question": "A háromszoros számhoz hozzáadott szám 20. Alakítsa át ezt az állítást algebrai egyenletté, és keresse meg a számot.",
+        "answer": "5"
+    },
+    {
+        "question": "Mike 123 narancsot, Melanie pedig 104 narancsot szedett. Fred 130 almát szedett le. Hány narancsot szedtek összesen?",
+        "answer": "227.0"
+    },
+    {
+        "question": "Anthony minden nap 75 centet kap ebédre. 27 centért vett egy gyümölcsleves dobozt. Vásárolt egy cupcake-t is. Anthonynak 8 centje maradt. Mennyibe került a cupcake?",
+        "answer": "40 "
+    },
+    {
+        "question": "A kutyája megevett 12 jegyzetlapját az iskolába. Ez volt a jegyzetlapjainak 3/4-e, amelyet be kell adnia. Hány jegyzetkártyát töltött ki?",
+        "answer": "16 "
+    },
+    {
+        "question": "Singleton gazdálkodónak van egy telke paradicsomnövényekkel. Az első sorban 4 db, a másodikban 8 db, a harmadikban 16 db, a negyedikben 32 db, az ötödikben 64 db paradicsomnövény található. Ha ez a minta folytatódik, hány paradicsomnövény lesz a hatodik sorban?",
+        "answer": "128 "
+    },
+    {
+        "question": "Mitch családja 1 hét alatt 0,5 karton normál tejet és 0,1 karton szójatejet ivott meg. Mennyi tejet ittak összesen?",
+        "answer": "0.6"
+    },
+    {
+        "question": "Frednek 5 sárga lufija van, Samnek 6 sárga lufija van, Marynek pedig 7 sárga lufija van. A léggömbök 5 dollárba kerülnek. Hány sárga lufi van összesen?",
+        "answer": "18.0"
+    },
+    {
+        "question": "Gwen és barátai újrahasznosították a papírt az osztályuknak. Minden újrahasznosított 3 font után egy pontot kaptak. Ha Gwen 5 fontot, a barátai pedig 13 fontot hasznosítottak újra, hány pontot szereztek?",
+        "answer": "6.0"
+    },
+    {
+        "question": "Yadira anyja hot dogot és virsli zsemlét vásárol a családi grillezéshez. A virsli 12 darabos, a virsli zsemle pedig 9 darabos kiszerelésben érkezik. Az üzlet nem árul egy csomag részeit, Yadira anyja pedig ugyanannyi hot dogot szeretne, mint a hot dog zsemlét. Összesen hány hot dogot vásárolhat meg Yadira édesanyja?",
+        "answer": "36 "
+    },
+    {
+        "question": "Egy kávézó tejesdobozokat rakott halomba. Hétszázkilencvenkilenc kartondobozuk volt, és azokat egy halomba rakták, mindegyikben hat kartonnal. Hány teljes stacket tudtak csinálni?",
+        "answer": "133 "
+    },
+    {
+        "question": "Egy négyzet kerülete 24 hüvelyk. Mekkora a tér területe?",
+        "answer": "36 "
+    },
+    {
+        "question": "Amy osztálytermi felmérést végzett. Megkérdezte a lányokat az osztályban, hogy hány testvérük van, és feljegyezte az eredményeket: 1, 6, 10, 4, 3, 3, 11, 3 és 10. Mi az eredmények átlaga?",
+        "answer": "5.7 "
+    },
+    {
+        "question": "Billy falat festett a szobájában. A teljes terület 8 négyzetméter volt. Ha a fal 2 láb széles lenne, milyen magas?",
+        "answer": "4 "
+    },
+    {
+        "question": "Mr. White szőnyeget vásárolt egy 800 négyzetméteres téglalap alakú csarnokhoz. A csarnok hossza 32 yard. Keresse meg a szőnyeg kívánt szélességét.",
+        "answer": "25 "
+    },
+    {
+        "question": "Adam vásárolt egy új, 21 négyzetméteres síkképernyős tévét. A képernyő 3 láb széles. Milyen magas?",
+        "answer": "7 "
+    },
+    {
+        "question": "Sally 113 fehérrépát és 118 tököt termesztett. Mary 129 fehérrépát nevelt. Hány fehérrépa termett összesen?",
+        "answer": "242.0"
+    },
+    {
+        "question": "Az iskolai étkezdében 17 alma volt. Ha 2-t használnának ebédelni a diákoknak, majd vennének még 23-at, hány almát kapnának?",
+        "answer": "38 "
+    },
+    {
+        "question": "Egy étteremben 67 paradicsom van. 32-ből salátát készítenek. További 21-ből tésztaszósz készül. Hány paradicsom maradt?",
+        "answer": "14 "
+    },
+    {
+        "question": "A játszótéren az új homokozó 4 méter széles és 2 méter hosszú volt. Mekkora a homokozó területe?",
+        "answer": "8 "
+    },
+    {
+        "question": "Coltonnak 16 kék és 8 fehér golyója van. Ha azonos csoportokba akarja helyezni őket anélkül, hogy golyók maradtak volna, hány csoportot készíthet Colton?",
+        "answer": "8 "
+    },
+    {
+        "question": "Jenny 24 doboz Trefoil-t adott el. Hány 8 dobozból és plusz dobozból álló dobozt kell Jennynek szállítania?",
+        "answer": "3.0"
+    },
+    {
+        "question": "Rita virághagymákat vásárol a kertjébe. Ugyanannyi tulipánt és nárciszt szeretne vásárolni. Ha a tulipánhagymák 15 darabos, a nárciszhagymák pedig 16 darabos kiszerelésben kaphatók, mennyit kell Ritának vásárolnia az egyes hagymák közül?",
+        "answer": "240 "
+    },
+    {
+        "question": "Tayli reklámozni kívánja vállalkozását, ezért 13 darab piros szórólapot ad minden étteremtulajdonosnak és 20 kék szórólapot minden ruhaüzlet tulajdonosnak. A nap végén Tayli rájön, hogy ugyanannyi piros és kék szórólapot adott ki. Mennyi a minimális számú szórólap az egyes színekből, amelyeket ő terjeszt?",
+        "answer": "260 "
+    },
+    {
+        "question": "Az iskola kirándulást tervez. Minden iskolabuszon 45 diák és 9 ülőhely található. Hány buszra van szükség az utazáshoz?",
+        "answer": "5.0"
+    },
+    {
+        "question": "Az első tanulónak 29 arany, a másodiknak 35, a harmadiknak 41, a negyediknek 47, az ötödiknek 53 arany matricát adott a tanár. Ha ez a minta folytatódik, hány arany matricát ad a tanár a hatodik diáknak?",
+        "answer": "59 "
+    },
+    {
+        "question": "Egy kétjegyű szám számjegyeinek összege 9. Ezen kívül ennek a számnak a kilencszerese kétszerese a számjegyek sorrendjének megfordításával kapott számnak. Keresse meg a számot.",
+        "answer": "18"
+    },
+    {
+        "question": "Nancy 35 kagylót és 25 tengeri csillagot talált a tengerparton. 17 kagylót adott Jasonnak. Hány kagylója van most Nancy-nek?",
+        "answer": "18.0"
+    },
+    {
+        "question": "A Joe's Bath Shop 5 darabos dobozos szappant és 19 palackos dobozos szappant árul. Egy alkalmazott meglepődve tapasztalja, hogy a bolt ugyanannyi rudat és palackot árult a múlt héten. Az egyes szappanfajtákból mennyi a legkisebb darabszám, amit a bolt el tudott volna adni?",
+        "answer": "95 "
+    },
+    {
+        "question": "Egy féreg beleesett egy 26 hüvelyk mély lyukba. Minden nap 8 centit mászik felfelé és 3 centit visszacsúszik. Hány napig tart, hogy a féreg elérje a csúcsot?",
+        "answer": "5 "
+    },
+    {
+        "question": "Egy tanárnak 60 fiút és 72 lányt kell sorba rendeznie. Ezeket úgy kívánja elrendezni, hogy csak fiúk vagy lányok legyenek sorban. Keresse meg a sorba rendezhető legtöbb tanulót.",
+        "answer": "12 "
+    },
+    {
+        "question": "Andrew talált néhány üres szemeteskukát, amelybe a konzervdobozokat helyezte újrahasznosítás céljából. Az első kukába 2 üres, a másodikba 4 üres, a harmadikba 7, a negyedikbe 11 üres, az ötödikbe 16 üres dobozt tett. Ha ez a minta folytatódik, hány üres dobozt tesz Andrew a hatodik szemetesbe?",
+        "answer": "22 "
+    },
+    {
+        "question": "Cindynek 105 matricája van. 23 matricát használ. Vásárol még 45 matricát. Hány matricája van most Cindynek?",
+        "answer": "127 "
+    },
+    {
+        "question": "Egy kád narancslé százötvenhárom pint volt. Ha a kádat öt pohárba akarná önteni, mindegyik pohárban ugyanannyi mennyiséggel, hány pint lenne minden pohárban?",
+        "answer": "30 "
+    },
+    {
+        "question": "Mrs. Hilt megmérte a távolságot az íróasztalától a szökőkútig. 30 láb volt. Hány métert tesz meg Mrs. Hilt a szökőkúthoz vezető útja során, ha ma négyszer megy a szökőkúthoz?",
+        "answer": "120.0"
+    },
+    {
+        "question": "Egy gazda becslése szerint 48097 köböl búzát fog betakarítani. Az időjárás tökéletes a tenyészidőszakban, így a vártnál 684 mázsa búzát takarít be. Hány köböl búzát arat a gazda?",
+        "answer": "48781.0"
+    },
+    {
+        "question": "Ötszázötvennégy diák vesz részt egy apróságversenyen. Ha minden iskolai furgonban kilenc diák fér el, hány furgonra lesz szükségük?",
+        "answer": "62 "
+    },
+    {
+        "question": "2 zöld könyv, 1 kék könyv és 4 narancssárga könyv található egy könyvespolcon. Ha ebből 3-at kiveszünk olvasni, hány könyv marad a könyvespolcon?",
+        "answer": "4 "
+    },
+    {
+        "question": "Ryan 89 levelet gyűjtött össze. 24 levelet vesztett és 43 levelet dobott el. Hány levele maradt Ryannek?",
+        "answer": "22 "
+    },
+    {
+        "question": "Sally 25,00 dollárt keres minden ház után, amit kitakarít. Ha 96 házat kitakarít, hány tucat dollárt keres?",
+        "answer": "200.0"
+    },
+    {
+        "question": "A pofatörők 8 darabot tartalmaznak. Sarah 20 pofát evett. Hány pofatörője maradt?",
+        "answer": "4 "
+    },
+    {
+        "question": "Egy bizonyos szám egyharmada ötödével hozzáadva a szám nyolctizenötödét adja. Keresse meg a számot, és ellenőrizze a számítást.",
+        "answer": "1"
+    },
+    {
+        "question": "Egy mosógép naponta 28 kiló ruhát képes kimosni. Ha naponta 200 kilónyi ruhát kell kimosni, hány kiló ruhát mos ki naponta a nem teljesen megtöltött mosógép?",
+        "answer": "4 "
+    },
+    {
+        "question": "Laviniában 9 pohár és 6 bögre van. Szeretné őket egyforma csoportokba rendezni, anélkül, hogy egy sem maradna, egy vacsorára készülve. Lavinia hány csoportot tud felállítani?",
+        "answer": "3 "
+    },
+    {
+        "question": "Mr. Lee 134 tonna gyümölcsöt akar berakni. Egy nagy teherautó 15 tonna gyümölcsöt, a kis teherautó 7 tonnát tud berakni. Hány nagy teherautót kell használni ahhoz, hogy a legkevesebb teherautót használjunk, és minden teherautó teljesen elfoglalt legyen?",
+        "answer": "8 "
+    },
+    {
+        "question": "Nyolc gramm műanyag szükséges egy vonalzó elkészítéséhez. Ha egy cégnek nyolcszázhuszonnyolc gramm műanyaga lenne, hány egész vonalzót tudnának készíteni?",
+        "answer": "103 "
+    },
+    {
+        "question": "Gabe és Steven pénzt keresnek azzal, hogy a környék háziállatait sétáltatják. A munkájukról folytatott beszélgetés során rájönnek, hogy mindketten ugyanannyi háziállatot sétálnak, még akkor is, ha Gabe 2 fős csoportokban, Steven pedig 10 fős csoportokban sétáltat. Mennyi lehet a legkisebb háziállatok száma. sétálni?",
+        "answer": "10 "
+    },
+    {
+        "question": "Egy kórustanár 10 szopránt és 15 altot oszt énekcsoportokra. Azt akarja, hogy minden csoportban ugyanaz legyen a szoprán és altok kombinációja, és ne maradjanak énekesek. Hány csoportot alkothat a legtöbb?",
+        "answer": "5 "
+    },
+    {
+        "question": "Egy flash meghajtó kilenc giga adatot tud tárolni. Ha négyszázhatvankét koncertet kellene tárolnia, hány pendrive-ra lenne szüksége?",
+        "answer": "52 "
+    },
+    {
+        "question": "Tom vásárolt egy Batman játékot 13,60 dollárért és egy Superman játékot 5,06 dollárért. Tomnak már van 2 játéka. Mennyit költött Tom videojátékokra?",
+        "answer": "18.66"
+    },
+    {
+        "question": "Shelleynek 12 villája és 16 kése van, amelyeket az edénytartókba kell helyeznie a gyorsétteremben, ahol dolgozik. Egyenlően szeretné elosztani őket, villa vagy kés nélkül. Hány ezüst edénytartót tud a Shelley a legtöbben készletezni?",
+        "answer": "4 "
+    },
+    {
+        "question": "Wilson egy számot tart a fejében. Ha elveszi belőle a szám egyharmadát, az eredmény tizenhatharmad lesz. Keresse meg a számot.",
+        "answer": "8"
+    },
+    {
+        "question": "Ava egy újrahasznosítási út után zacskóba zárta a műanyag palackokat. Az első zacskóba 45, a másodikba 53, a harmadikba 61, a negyedik zacskóba 69 palackot helyezett. Ha ez a minta folytatódik, hány műanyag palackot tesz Ava az ötödik zacskóba?",
+        "answer": "77 "
+    },
+    {
+        "question": "Ha Simonnak 519 ajándékzacskót kell készítenie napi 42 tasak ütemben, hány ajándékzacskót készít az utolsó napon?",
+        "answer": "15 "
+    },
+    {
+        "question": "Kétszáznyolcvanhét ember vesz részt egy ebéden. Ha egy asztalon kilenc ember fér el, hány asztalra van szükségük?",
+        "answer": "32 "
+    },
+    {
+        "question": "Jeremynek két fadarabja van: az egyik 90 hüvelykes, a másik 72 hüvelykes. Mindkét fadarabot kisebb darabokra akarja vágni, hogy ezek a darabok egyforma hosszúak legyenek. Mennyi ideig vágja mindkét fadarabot?",
+        "answer": "18 "
+    },
+    {
+        "question": "Dan 42 fehérrépát és 38 kantelopot nevelt. Jessica 47 fehérrépát nevelt. Hány fehérrépa termett összesen?",
+        "answer": "89.0"
+    },
+    {
+        "question": "Van néhány gyerek egy pékségben. Miközben eldöntötték, hogy mit vegyenek, 24 lány jött be, és 31 fiú távozott. Ha végül 78 gyerek van a pékségben, hány gyerek volt eleinte?",
+        "answer": "85 "
+    },
+    {
+        "question": "757 font homokot kell zsákokba tölteni. Ha minden táska 65 font űrtartalmú, hány zsákra van szükség?",
+        "answer": "12 "
+    },
+    {
+        "question": "Dave segített a büfé dolgozóinak felvenni az ebédtálcákat, de egyszerre csak 9 tálcát tudott vinni. Ha 17 tálcát kellene felvennie az egyik asztalról, és 55 tálcát a másikról, hány utat fog megtenni?",
+        "answer": "8.0"
+    },
+    {
+        "question": "Miközben az ebédlőben számolta a székeket, Marie észrevette, hogy az első sorban 14 szék, a második sorban 23, a harmadik sorban 32, a negyedik sorban 41, az ötödik sorban pedig 50 szék található. Ha ez a minta folytatódik, hány szék lesz a hatodik sorban?",
+        "answer": "50 "
+    },
+    {
+        "question": "A szám egyharmada és az 5 közötti különbség 10. Keresse meg a számot.",
+        "answer": "45"
+    },
+    {
+        "question": "A tekekék 6 darabot tartalmaznak. Juan 24 teket evett. Hány Skittle-je maradt?",
+        "answer": "0 "
+    },
+    {
+        "question": "Egy téglalap alakú kert körüli távolság 36 láb. Az egyik oldal 10 láb hosszú. Mekkora a kert területe?",
+        "answer": "80 "
+    },
+    {
+        "question": "Fred vett öt új baseball kártyát, hogy kiegészítse gyűjteményét. Másnap a kutyája megette a gyűjteménye felét. Már csak huszonhat kártya maradt. Hány lappal kezdett Fred?",
+        "answer": "47 "
+    },
+    {
+        "question": "Jasper felel a frissítőkért. 27 zacskó chipset adott el. 8-cal kevesebb hot dogot adott el, mint chipset. 12 itallal többet adott el, mint hot dogot. Hány italt adott el Jasper?",
+        "answer": "31 "
+    },
+    {
+        "question": "Samanthának van két ruhadarabja. Az egyik darab 72 hüvelyk, a másik darab 90 hüvelyk széles. Mindkét darabot egyenlő szélességű, a lehető legszélesebb csíkokra akarja vágni. Milyen szélesre vágja a csíkokat?",
+        "answer": "18 "
+    },
+    {
+        "question": "Benny 79 dollárt és 9 mozijegyet kapott születésnapjára. Elment egy sportszerboltba, és vett egy baseball-kesztyűt, egy baseball-ütőt és egy ütőt. 32 dollár felett volt, mennyit költött baseball-felszerelésre?",
+        "answer": "47.0"
+    },
+    {
+        "question": "Ha van 1 tízdolláros bankjegye, 1 negyede és 1 nikkelje, mennyi pénze van?",
+        "answer": "10.3 "
+    },
+    {
+        "question": "Chris megtakarította a pénzét, hogy vegyen egy új futballkapcsot és egy labdát. A nagymamája 25 dollárt adott neki születésnapjára. A nagynénje és a nagybátyja 20 dollárt, a szülei pedig 75 dollárt adtak neki. Most 279 dollárja volt. Mennyi pénze volt a születésnapja előtt?",
+        "answer": "159 "
+    },
+    {
+        "question": "44 laptop volt a boltban, és Mike egyenlően osztotta 5 sorra. Hányan maradtak?",
+        "answer": "4 "
+    },
+    {
+        "question": "Keith 6,51 dollárt költött egy nyúljátékra, 5,79 dollárt állateledelre, egy ketrec pedig 12,51 dollárba került. Talált egy dolláros bankjegyet a földön. Mennyi volt Keith vásárlásainak teljes költsége?",
+        "answer": "24.81"
+    },
+    {
+        "question": "Egy vacsorához Ábrahám egyéni előételeket készít. 9 répapúdja és 18 zellerrudaja van. Ha azt akarja, hogy minden adag egyforma legyen, és ne maradjon étel, hány adagot tud készíteni Ábrahám?",
+        "answer": "9 "
+    },
+    {
+        "question": "Egy könyv hossza 2 hüvelyk és szélessége 3 hüvelyk volt. Mi a könyv területe?",
+        "answer": "6 "
+    },
+    {
+        "question": "Christine meggyet oszt néhány tál között. Az első tálba 35, a másodikba 40, a harmadikba 45, a negyedik tálba 50, az ötödik tálba 55 meggyet tett. Ha ez a minta folytatódik, hány cseresznyét tesz Christine a hatodik tálba?",
+        "answer": "60 "
+    },
+    {
+        "question": "Kiera 16 zsák dióból és 6 zsák szárított gyümölcsből készít nyomkeveréket. Azt akarja, hogy a trail mix minden új adagja azonos legyen, ugyanazt a kombinációt tartalmazza a diózsákok és a szárított gyümölcsök zacskóiból, anélkül, hogy zacskó maradna. Hány adagot készíthet a Kiera trail mixből?",
+        "answer": "2 "
+    },
+    {
+        "question": "Ericnek két kötéldarabja van. Az egyik darab 10 hüvelykkel hosszabb, mint a másik. A két darab teljes hossza 40 hüvelyk. Milyen hosszú a rövidebb darab?",
+        "answer": "15 "
+    },
+    {
+        "question": "Egy Halloween boltban 3 zöld, 2 kék és 3 piros köpeny található. Ha 6 köpenyt vásárol, hány köpeny marad?",
+        "answer": "2 "
+    },
+    {
+        "question": "Evelynnek 95 golyója van. Még 9-et kap Henrytől. Később Evelyn vesz 6 kártyát a boltban. Hány golyója van Evelynnek összesen?",
+        "answer": "104.0"
+    },
+    {
+        "question": "Drew 61 adag vajkaramellt készített. Ha arra számít, hogy 6 édesszájú vendége egyenlő arányban osztja meg a vajkaramellt, hányan maradnak elfogyasztva?",
+        "answer": "1 "
+    },
+    {
+        "question": "Robinnak 27 csomag gumija van. Minden csomagban 18 darab található. Hány darab gumija van Robinnak?",
+        "answer": "486.0"
+    },
+    {
+        "question": "December előtt a vásárlók 1346 fülvédőt vásároltak a bevásárlóközpontban. December folyamán 6444-el vásárolnak többet, és egy sem maradt. Összességében hány fülvédőt vásárolnak a vásárlók?",
+        "answer": "7790.0"
+    },
+    {
+        "question": "Két óra egyszerre csörög. Ezt követően az első óra 90 percenként, a második pedig 60 percenként csörög. Hány perc múlva csengenek újra együtt?",
+        "answer": "180 "
+    },
+    {
+        "question": "Ha ötöt hozzáadunk egy bizonyos számnál több háromhoz, az eredmény 19. Mi ez a szám?",
+        "answer": "11"
+    },
+    {
+        "question": "Egy bizonyos szám kétszer hozzáadva önmagához egyenlő 96-tal. Mi ez a szám?",
+        "answer": "32"
+    },
+    {
+        "question": "Van 3 százasom, 8 tízesem és 3 egyesem. Milyen szám vagyok?",
+        "answer": "383"
+    },
+    {
+        "question": "Keith 136,01 dollárt költött hangszórókra, 139,38 dollárt CD-lejátszóra és 112,46 dollárt új gumikra. 3 CD-t akart 6,16 dollárért, de nem vette meg. Összességében mennyit költött?",
+        "answer": "387.85"
+    },
+    {
+        "question": "Sam 9 fillért kapott ruhamosásért, és 7 negyedet fűnyírásért. Mennyi pénze van Samnek?",
+        "answer": "1.84"
+    },
+    {
+        "question": "Az utolsó felvonásra a cirkusz koronát viselő, táncoló állatokat hozott elő. Ha minden korona 7 különböző színű tollal készül, hány toll kell 934 koronához?",
+        "answer": "6538.0"
+    },
+    {
+        "question": "A matematika csapatban 72 fiú és 90 lány szerepel. A következő matematikai versenyen Mr. Johnson szeretné az összes tanulót egyenlő sorokba rendezni úgy, hogy minden sorban csak lányok vagy fiúk legyenek. Hány tanuló lehet az egyes sorban?",
+        "answer": "18 "
+    },
+    {
+        "question": "Nancy 12 sárgarépát szedett a kertjéből. Ha kidobna belőle kettőt, majd másnap még 21-et szedne, hány sárgarépája lenne összesen?",
+        "answer": "31 "
+    },
+    {
+        "question": "Tomnak nyolcszáznegyvenkilenc táblát kell eladnia, hogy utazást nyerjen. Ha minden doboz öt csokit tartalmaz, hány dobozt kell eladnia, hogy megnyerje az utat?",
+        "answer": "170 "
+    },
+    {
+        "question": "A postahivatalból származó boríték 6 hüvelyk széles, teljes területe 36 négyzet hüvelyk. Mekkora a boríték magassága?",
+        "answer": "6 "
+    },
+    {
+        "question": "Egy üzletben 92 számítógép található. 31 eladva. 20 darabot elszállítanak egy céghez. Hány számítógép maradt?",
+        "answer": "41 "
+    },
+    {
+        "question": "Dan 11,76 dollárt költött egy kígyójátékra, egy ketrec pedig 14,54 dollárba került. Dan talált egy dollárost is a földön. Mennyi volt Dan vásárlásainak összköltsége?",
+        "answer": "26.3"
+    },
+    {
+        "question": "Sarah csapata 8 kosárlabdát játszott. A 8 meccs alatt csapata pontszáma: 69, 68, 70, 61, 74, 62, 65 és 74. Mi a pontszámok átlaga?",
+        "answer": "67.9 "
+    },
+    {
+        "question": "44 laptop volt az üzletben, és Mike egyenlően osztotta őket 5 sorba. Hány laptop van egy sorban?",
+        "answer": "8 "
+    },
+    {
+        "question": "Egy kabátgyárnak 29 kabátja volt. Ha 3 dobozba akarnák rakni őket, minden dobozban ugyanannyi kabáttal, hány extra kabát maradna?",
+        "answer": "2 "
+    },
+    {
+        "question": "A hullámvasút az állami vásáron hat jegybe kerül menetenként. Ha nyolcszázhatvannyolc jegyed lenne, hány jegyed maradt volna, ha annyiszor utazol, amennyit csak tudsz?",
+        "answer": "4 "
+    },
+    {
+        "question": "Egy kosárban kevesebb mint 6 tucat tojás van. Ha a tojásokat egyszerre 2, 3, 4 vagy 5 darabot számolunk, egy sem marad. Hány tojás van a kosárban?",
+        "answer": "60 "
+    },
+    {
+        "question": "A Math Counts Club bulit tartott az iskolában. 20 süti és 40 szelet pizza volt egyenlő arányban. Minden tanulónak ugyanannyi egész sütije és ugyanannyi pizzaszeletje volt úgy, hogy nem maradt semmi. Hány sütit és pizzaszeletet kaphatnak a tanulók a legtöbben?",
+        "answer": "20 "
+    },
+    {
+        "question": "Osszon 39 léggömböt 7 egyenlő csoportra. Hány léggömb maradt?",
+        "answer": "4 "
+    },
+    {
+        "question": "A Lou's Shoes-nak havonta 80 pár cipőt kell eladnia. Múlt héten 27, a héten 12 párat adtak el. Hány pár cipőt kell még eladniuk?",
+        "answer": "41 "
+    },
+    {
+        "question": "172 diák alkot csapatot egy hegymászó versenyen. Minden csapatnak 18 tanulónak kell lennie. Hány diák nem lesz egy csapatban?",
+        "answer": "10 "
+    },
+    {
+        "question": "Ha Karen 36 doboz Tagalongot adott el, hány 12 dobozos dobozt vesz fel Karen a sütis anyától?",
+        "answer": "3.0"
+    },
+    {
+        "question": "Mattnek két darab zsinórja van, az egyik 15 láb hosszú, a másik 12 láb hosszú. Fel akarja vágni őket, hogy sok darab egyforma hosszúságú zsinórdarabot készítsen anélkül, hogy zsinór maradna. Mekkora a legnagyobb hosszúság lábban, amit el tud készíteni?",
+        "answer": "3 "
+    },
+    {
+        "question": "Egy multinacionális vállalatnak 2041 részmunkaidős alkalmazottja és 63093 fő teljes munkaidős alkalmazottja van. Hány alkalmazott dolgozik a vállalatnál?",
+        "answer": "65134.0"
+    },
+    {
+        "question": "A Sweet Time Bakery most nyílt meg, és növeli az általuk készített termékek számát. Például októberben 19, novemberben 21, decemberben 23, januárban 25 répatorta készült a pékségben. Ha ez a minta folytatódik, hány répatortát készít a pékség februárban?",
+        "answer": "27 "
+    },
+    {
+        "question": "Az árkádon Jerry 29 jegyet nyert a „Wack a Mole” játékra és 17 jegyet a „skee ball”-ra. Ha 12 jegyét egy kalapra költötte, hány jegye maradt Jerrynek?",
+        "answer": "34 "
+    },
+    {
+        "question": "Az Edeena egyenlő számú almaszeletet és szőlőt csomagol harapnivalókhoz. Edeena az almaszeleteket 18 fős csoportokba, a szőlőt pedig 9 fős csoportokba csomagolja. Hány szőlőt tud a legkevesebbet csomagolni?",
+        "answer": "18 "
+    },
+    {
+        "question": "Zack 14 fős csoportokban oktatja a diákokat. Eközben Karen 10 fős csoportokban oktatja a diákokat. Munkájuk megbeszélése közben a tutorok rájönnek, hogy mindketten ugyanannyi diákkal dolgoznak. Mennyi lehet a legkisebb tanulólétszám?",
+        "answer": "70 "
+    },
+    {
+        "question": "A Magellan úgy döntött, hogy partikosarakat készít az alapgyűjtő számára. A lufikat 20-as zacskókban, a partikürtöket 10-es zacskókban árulják, és egy csomagban 8 db cukorka van. Hány darabot vegyen mindegyikből, hogy minden kosárban azonos számú léggömb, kürt és cukorka legyen?",
+        "answer": "40 "
+    },
+    {
+        "question": "Miguel 46 éves. 4 évvel idősebb, mint a fia háromszorosa. Keresse meg a fia életkorát.",
+        "answer": "14 "
+    },
+    {
+        "question": "Fred idén 36 kosárlabdameccsen játszott, de 35-öt kihagyott. Tavaly 11 meccsen vett részt. Fred hány kosárlabdameccsen ment összesen?",
+        "answer": "47.0"
+    },
+    {
+        "question": "Mrs. Hilt 11 napon belül új cipőt vásárol. Hány percet kell várnia, mielőtt megveheti az új cipőjét?",
+        "answer": "15840 "
+    },
+    {
+        "question": "8 alma van egy kupacban az íróasztalon. Minden alma 11-es csomagban érkezik. 5 almát adunk a kupachoz. Hány alma van a kupacban?",
+        "answer": "13.0"
+    },
+    {
+        "question": "Egy cég 935 ceruzát adományoz egy iskolának. A ceruzák egyenletesen vannak elosztva 9 tanterem között. A többi ceruzát a könyvtár kapja. Hány ceruzát adományoztak a könyvtárnak?",
+        "answer": "8 "
+    },
+    {
+        "question": "Egy téglalap alakú virágágyás összterülete 35 négyzetméter. Ha 5 yard széles, milyen hosszú?",
+        "answer": "7 "
+    },
+    {
+        "question": "124 diák 3-3 csillagot készít az iskola falára. Hány csillagot csinálnak együtt?",
+        "answer": "372.0"
+    },
+    {
+        "question": "Seannek 45 csillagkitörése volt. Ha Sean ugyanannyi Csillagkitörést adott a 18 barátjának, majd megette, ami megmaradt, hány Csillagkitörést evett meg mindenki?",
+        "answer": "2 "
+    },
+    {
+        "question": "Szerdán Joan 4 fél dollárt költött flipperre. Másnap 14 fél dollárt költött flipperre. Mennyi volt a teljes összeg, amit Joan flipperre költött?",
+        "answer": "9.0"
+    },
+    {
+        "question": "Az iskolai pékáru akcióra Amy péksüteményeket készített. 15 cupcake-t és 48 sütit sütött. Az eladás után 12-t kellett hazavinnie. Hány péksüteményt adott el?",
+        "answer": "51 "
+    },
+    {
+        "question": "Alyssa macskájának 8 cicája volt és 8 foltos volt. 4-et adott a barátainak. Hány cicája van most?",
+        "answer": "4.0"
+    },
+    {
+        "question": "9 fiú ment fákat öntözni. 29 fa volt. Ha mindegyikük azonos mennyiségű fát öntözött, akkor hány fát öntözött meg mindegyik fiú?",
+        "answer": "3 "
+    },
+    {
+        "question": "Ellának van 2 kutyája. Minden nap egy kutya megeszik 0,125 kanál kutyaeledelt, a másik kutya pedig 0,125 kanál kutyaeledelt. Együtt mennyi kutyaeledelt eszik meg a 2 kutya naponta?",
+        "answer": "0.25"
+    },
+    {
+        "question": "Egy szám egyenlő a szám és a 4 közötti különbség ötszörösével. Keresse meg a számot.",
+        "answer": "5"
+    },
+    {
+        "question": "Egy angoltanár 10 fiút és 15 lányt szeretne csoportokra osztani, mindegyikben ugyanaz a kombináció fiúk és lányok, és senki sem maradna ki. Hány csoportot lehet a legtöbb létrehozni?",
+        "answer": "5 "
+    },
+    {
+        "question": "Benny 67 dollárt kapott születésnapjára. Elment egy sportszerboltba, és vett egy baseball-kesztyűt, egy baseball-ütőt és egy ütőt. 33 dollár felett volt , mennyit költött baseball felszerelésre ?",
+        "answer": "34.0"
+    },
+    {
+        "question": "Egy iskolában 542 lány és 387 fiú tanul. Hány tanuló van abban az iskolában?",
+        "answer": "929.0"
+    },
+    {
+        "question": "Egy virágüzletnek 50 rózsája volt. Ha 15 rózsát adna el, majd később szedne még 21-et, hány rózsája lenne?",
+        "answer": "56 "
+    },
+    {
+        "question": "Marknak 24, Evannek 3 golyója volt. Mark adott néhány golyóját Evannek. Marknak pontosan kétszer annyi golyója van, mint Evannek. Hány golyót adott Mark Evannek?",
+        "answer": "6 "
+    },
+    {
+        "question": "Maddie, Luisa és Amy megszámolták a könyveiket. Maddie-nek 15 könyve volt. Luisának 18 könyve volt. Amynek és Luisának együtt 9 könyvvel több volt, mint Maddie-nek. Hány könyve volt Amynek?",
+        "answer": "6 "
+    },
+    {
+        "question": "Egy hajót 5973 tonna rakomány tölt meg. A Bahamákon áll meg, ahol a tengerészek további 8723 tonna rakományt raknak a fedélzetére. Hány tonna rakományt tart most a hajó?",
+        "answer": "14696.0"
+    },
+    {
+        "question": "15 diák osztott szét 122 festményportfóliót. Minden tanulónak ugyanannyi portfóliót kell kapnia. Hány festményportfólió marad?",
+        "answer": "2 "
+    },
+    {
+        "question": "Tomnak 19 dollárja volt, és annyi mappát akart vásárolni, amennyit csak tudott. Ha egy mappa 2 dollárba kerül, hány mappát vásárolhat meg Tom?",
+        "answer": "9 "
+    },
+    {
+        "question": "Egy autókereskedő hétfőn 8-at, kedden 3-at, szerdán 10-et, csütörtökön 4-et, pénteken 4-et, szombaton 4-et adott el. Mennyi az általa eladott autók számának átlaga?",
+        "answer": "5.5 "
+    },
+    {
+        "question": "A fiókban 48 db ceruza és 40 db olló található. Joan 29 ceruzát tett a fiókba. Hány ceruza van most összesen?",
+        "answer": "77.0"
+    },
+    {
+        "question": "Tess összesen 45 szívmatricával és 27 csillagmatricával díszít papírokat az általa ápolt gyereknek. Ha az összes papírt egyformavá akarja tenni, a szív és a csillag matricák azonos kombinációjával, és nem marad matrica, akkor Tess hány oldalt tud a legtöbbet díszíteni?",
+        "answer": "9 "
+    },
+    {
+        "question": "Bryan a könyveit is megnézte. Ha Bryannek 56 könyve van mind a 9 könyvespolcán, hány könyve van összesen?",
+        "answer": "504.0"
+    },
+    {
+        "question": "A taxi díja egy városban egy fix díjból és a megtett távolság díjából áll. 10 km-es út esetén a fizetendő díj 75 USD, 15 km-es út esetén pedig 110 USD. Mennyit kell fizetnie egy személynek, ha 25 km-t tesz meg?",
+        "answer": "180 "
+    },
+    {
+        "question": "Az Állami Egyetemen a tandíj plusz szoba és ellátás teljes költsége 2584 dollár. A tandíj 704 dollárral többe kerül, mint a szoba és az ellátás. Mennyi a tandíj?",
+        "answer": "1644 "
+    },
+    {
+        "question": "Joe-nak 45 narancsa van, amelyeket dobozokba kell tenni. Daniel jön, hogy segítsen, és hoz 16 sütit, hogy megosszák Joe-val. Ha 9 doboz van, hány narancsnak kell egy dobozba kerülnie?",
+        "answer": "5.0"
+    },
+    {
+        "question": "Egy háromszög kerülete 90 cm. A három oldal hossza 5:12:13 arányban van. Mekkora a legrövidebb oldal hossza?",
+        "answer": "15 "
+    },
+    {
+        "question": "A Martha's Blossoms 9 fős csoportokban árul rózsákat. A város egész területén a Rachel's Blooms 19 fős csoportokban árul rózsákat. Ha egy vásárló ugyanannyi rózsát szeretne vásárolni mindkét eladótól, akkor a vásárlónak hány rózsát kell vásárolnia a legkisebb mennyiségben. minden eladó?",
+        "answer": "171 "
+    },
+    {
+        "question": "Egy edényben 1 zöld gyöngy, 2 barna gyöngy és 3 piros gyöngy található. Tom kivett néhány gyöngyöt a tartályból, és 4 hüvelyket hagyott. Hány gyöngyöt vett ki Tom?",
+        "answer": "2 "
+    },
+    {
+        "question": "Sam egyenlő hosszúságú szalagdarabokat vágott ki egy 3730 cm hosszú szalagból. Ha minden darab 73 cm hosszú volt, hány 73 cm-es szalagdarabot készített Sam?",
+        "answer": "51 "
+    },
+    {
+        "question": "105 ember megy moziba. Minden autóban 6 fő ülhet. Hány autóra van szükség ahhoz, hogy mind a 105 ember eljusson a filmre?",
+        "answer": "18 "
+    },
+    {
+        "question": "Emily tojásokat gyűjtött a tyúktól, és 303 kosárba tette. Minden kosárba 28 tojást tett. Hány tojást gyűjtött össze Emily?",
+        "answer": "8484.0"
+    },
+    {
+        "question": "Egy üzlettulajdonosnak két alkalmazottja volt, és kilencszázhuszonhét egyenruhát vásárolt nekik. Ha minden alkalmazottnak ugyanannyi egyenruhát szeretne adni, hány darabot vegyen még, hogy ne legyen többlet?",
+        "answer": "1 "
+    },
+    {
+        "question": "Három egymást követő páratlan szám összege százhuszonhárom. Mi a legkisebb a három szám közül?",
+        "answer": "39"
+    },
+    {
+        "question": "Mr. Bradley matematikai feladatot adott az osztályának, amit meg kell oldania. Azt mondta: \"Kezdje a 28-as számmal. Adjon hozzá 12-t. Majd adjon hozzá még 7-et.\" Ned tökéletesen követte az utasításokat, de Billy levont 7-et. Mi a különbség a fiúk válaszai között?",
+        "answer": "14"
+    },
+    {
+        "question": "Egyik nap Trent és barátai 2 fős asztaloknál ebédeltek. Egy másik napon 8 fős asztaloknál ebédeltek. Hány ember lehet a csoportban?",
+        "answer": "8 "
+    },
+    {
+        "question": "35 fagyöngy matricája volt, és egyformán szerette volna elhelyezni őket 8 kártyán. Hány fagyöngy matricája marad?",
+        "answer": "3 "
+    },
+    {
+        "question": "Seannak 8 hüvelykes játékvasútja van, Ruthnak pedig 18 hüvelykes vonatvágánya. Hány darabra van szüksége minden gyereknek egyforma hosszúságú pályák építéséhez?",
+        "answer": "72 "
+    },
+    {
+        "question": "Laurie-nak 12-vel több golyója van, mint Kurtnak. Kurtnak 45 golyóval kevesebb van, mint Dennisnek. Dennisnek 70 golyója van. Hány golyója van Laurie-nak?",
+        "answer": "37 "
+    },
+    {
+        "question": "A jégpályán 85 pár korcsolya bérelhető. A jégpálya megnyitásakor 18 ember bérelt korcsolyát. Az első órában további 25-en béreltek korcsolyát. Hány pár korcsolya maradt?",
+        "answer": "42 "
+    },
+    {
+        "question": "Jelenleg 42 diófa és 12 narancsfa található a parkban. A park dolgozóinak 13 megsérült diófát kellett kivágniuk. Hány diófa lesz a parkban, ha végeznek a munkásokkal?",
+        "answer": "29.0"
+    },
+    {
+        "question": "Egy négyzet alakú fémlemez mindkét oldala 7 méter hosszú. Mekkora a fémlemez kerülete?",
+        "answer": "28 "
+    },
+    {
+        "question": "Ezra anyákat és csavarokat vásárol egy helyi vasboltban. Az üzletben anyákat 13 darabos kiszerelésben, csavarokat pedig 8 darabos kiszerelésben árulnak. Ha Ezra ugyanannyi anyát és csavart szeretne vásárolni, hány anyát vásárolhat a legkisebb mennyiségben?",
+        "answer": "104 "
+    },
+    {
+        "question": "Jelenleg 2 juharfa és 5 népszerű fa található a parkban. A park dolgozói ma 9 juharfát ültetnek el. Hány juharfa lesz a parkban, ha végeznek a munkásokkal?",
+        "answer": "11.0"
+    },
+    {
+        "question": "Egy iskolai rendezvényen a felnőtteket pontosan 17 fős csoportokba, a gyerekeket pedig pontosan 15 fős csoportokba ültetik. Ha a felnőttek száma ugyanannyi, mint a gyerekek, mennyi a minimális felnőtt létszám?",
+        "answer": "255 "
+    },
+    {
+        "question": "Matthew 12 naponta kirándul és 6 naponta úszik. Ma mindkét fajta gyakorlatot végezte. Hány nap múlva fog újra kirándulni és úszni?",
+        "answer": "12 "
+    },
+    {
+        "question": "Egy bélyeg ára 34 cent. Ha minden bélyeg ára változatlan marad, mennyibe kerülne 4 bélyeg?",
+        "answer": "134.0"
+    },
+    {
+        "question": "Mennyibe kerülne 136 darab rágógumi, ha minden darab 18 centbe kerül?",
+        "answer": "2448.0"
+    },
+    {
+        "question": "Egy péknek 7 doboza volt a fánknak. Végül 48 fánkot készített, és egyenletesen elosztotta a dobozok között. Hány plusz fánkot kapott a végén?",
+        "answer": "6 "
+    },
+    {
+        "question": "Egy téglalap területe 360 ​​négyzetcentiméter. 20 centiméter hosszú. Mi a kerülete?",
+        "answer": "76 "
+    },
+    {
+        "question": "Joe, Susie bátyja összegyűjtötte a szobájában szétszórt 94 kereskedési kártyát, és dobozokba tette. Ha egy teli dobozban maximum 8 kártya fér el, hány doboz volt teljesen kitöltve?",
+        "answer": "11 "
+    },
+    {
+        "question": "Mary 14 narancsot, Jason pedig 41 narancsot szedett. Keith 38 almát szedett le. Hány narancsot szedtek összesen?",
+        "answer": "55.0"
+    },
+    {
+        "question": "Laverne-nek 20 baseball- és 15 kosárlabdája van. Ha azonos csoportokra akarja osztani őket anélkül, hogy golyók maradnának, hány csoportot hozhat létre Laverne?",
+        "answer": "5 "
+    },
+    {
+        "question": "A Sarah's Shipping és a Ryan's Mail Services egyaránt csomagokat szállít. Sarah teherautói csak 18 csomagot szállítanak. Ezzel szemben Ryan teherautói csak 11 csomagot szállítanak. Ha mindkét vállalkozás ugyanannyi csomagot szállított ki ma reggel, hány csomagot kell feladniuk?",
+        "answer": "198 "
+    },
+    {
+        "question": "Tavaly a Springtown Hardware júniusban 3, júliusban 4, augusztusban 6, szeptemberben pedig 9 kalapácsot rendelt. Ha ez a minta folytatódik, hány kalapácsot rendel az üzlet októberben?",
+        "answer": "13 "
+    },
+    {
+        "question": "Melody 26 kivágott karácsonyfát készített piros fényes golyókkal. Ha azt tervezte, hogy ebből 4-et felragaszt bizonyos számú kártya előlapjára, akkor hány kivágott karácsonyfa marad Melody-nak?",
+        "answer": "2 "
+    },
+    {
+        "question": "Egy tapasztalt jégkorcsolyázó megpörög a jégen, tökéletes kört alkotva. Utána kiszámítja, hogy a kerülete 6,28 yard. Mekkora a kör átmérője?",
+        "answer": "2 "
+    },
+    {
+        "question": "A tanár 42 ceruzát adott 12 tanulónak egyformán. Hány ceruza maradt?",
+        "answer": "6 "
+    },
+    {
+        "question": "Amikor Jose egy buszon ült, észrevette, hogy néhány ember ül. A következő buszmegállóban 5 ember szállt fel és 2 ember szállt le. Két megállóval később 7 ember szállt fel, 15 ember szállt le a buszról a végállomáson. Hány ember volt a buszon, amikor Jose felszállt a buszra?",
+        "answer": "5 "
+    },
+    {
+        "question": "Joanne az osztályelnökért kampányol, és azt tervezi, hogy kioszt néhány kampányanyagot: 20 szórólapot és 16 gombot. Azt szeretné, ha minden tanterem azonos kampányanyag-készletet kapna, anélkül, hogy bármilyen anyag maradna. Joanne hány tanteremben oszthat ki anyagokat?",
+        "answer": "4 "
+    },
+    {
+        "question": "Samnek 7 fillérje és 8 fillérje volt a bankjában. A nővére 4 centet kért kölcsön. Hány centje van most Samnek?",
+        "answer": "4.0"
+    },
+    {
+        "question": "Tomnak már volt 2 darab édessége. A barátja adott neki még 7-et, majd Tom vett még 10-et. Hány darabja van most Tomnak?",
+        "answer": "19 "
+    },
+    {
+        "question": "Mrs. Wilsonnak, a matematikatanárnak 18 logikai és 9 vizuális rejtvénye van, amelyeket készletekbe szeretne csoportosítani azoknak a diákoknak, akik korán befejezik a teszteket. Mrs. Wilson azt szeretné, ha minden készlet egyforma, logikai és vizuális rejtvények ugyanazt a kombinációját tartalmazná, és ne maradjanak rejtvények. Hány készletet hozhat létre a legtöbben?",
+        "answer": "9 "
+    },
+    {
+        "question": "Shirley 20 doboz Do-Si-Dót adott el. Hány ládát 4 dobozból és plusz dobozokból kell Shirleynek szállítania?",
+        "answer": "5.0"
+    },
+    {
+        "question": "Amandának két darab szalagja van, az egyik 8 hüvelyk, a másik 16 hüvelyk hosszú. Egy album díszítéséhez fel akarja vágni őket, hogy sok szalagdarabot készítsen, amelyek mindegyike azonos hosszúságú, szalag nélkül. Mekkora a legnagyobb hosszúság hüvelykben, amit el tud készíteni?",
+        "answer": "8 "
+    },
+    {
+        "question": "Hétfőn 375 diák ment kirándulni az állatkertbe. Mind a 7 busz megtelt, 4 diáknak pedig autóval kellett utaznia. Hány diák utazott az egyes buszon?",
+        "answer": "53.0"
+    },
+    {
+        "question": "89 süti egyenlő arányban oszlik meg 4 ember között. Hányat kap egy ember?",
+        "answer": "22 "
+    },
+    {
+        "question": "A négyzet oldalai 15 cm-esek. Egy téglalap hossza 18 cm. A négyzet kerülete megegyezik a téglalap kerületével. Mekkora a téglalap területe?",
+        "answer": "216 "
+    },
+    {
+        "question": "Az Atomic tűzgolyók 9 darabot tartalmaznak. Barbara 59 Atomic Fireballt evett meg. Hány Atomic Fireballja maradt?",
+        "answer": "5 "
+    },
+    {
+        "question": "2 amerikai, 4 francia és 4 kínai ember van egy tárgyalóteremben. 3-an elmennek. Hány ember hagyta el az üléstermet?",
+        "answer": "7 "
+    },
+    {
+        "question": "Jerry a születésnapjára kapott pénzt számolta. A nagynénjétől 9 dollárt kapott. A nagybátyjától 9 dollárt kapott. A legjobb barátai 22, 23, 22 és 22 dollárt adtak neki. És a nővére adott neki 7 dollárt. Mi az a pénz, amit kapott?",
+        "answer": "16.3 "
+    },
+    {
+        "question": "Lennynek 84 dollárja van. 24 dollárt költött videojátékokra, és 21 dollárt az élelmiszerboltban. Mennyi maradt Lennynek?",
+        "answer": "39 "
+    },
+    {
+        "question": "Egy építőnek százötvennégy táblát kellett vásárolnia legújabb projektjéhez. Ha a szükséges táblák három darabos kiszerelésben érkeznek, hány csomagot kell vásárolnia?",
+        "answer": "52 "
+    },
+    {
+        "question": "Egy rádióállomásnál van egy akció, melynek keretében minden 12. hívó ingyenes koncertjegyet, minden 15. hívó pedig limuzint kap. Melyik hívó lesz az első, aki mindkettőt megnyeri?",
+        "answer": "60 "
+    },
+    {
+        "question": "Vidya anyja életkora 5 évvel több, mint Vidya jelenlegi életkorának háromszorosa. Keresse meg Vidya jelenlegi életkorát, ha az anyja 44 éves.",
+        "answer": "13 "
+    },
+    {
+        "question": "Austin matricákat rak egy matricás könyvbe. Az első oldalra 8, a másodikra ​​16, a harmadikra ​​24, a negyedikre 32 matricát tett. Ha ez a minta folytatódik, hány matricát ragad Austin az ötödik oldalra?",
+        "answer": "40 "
+    },
+    {
+        "question": "Randynek 53 süteményre van szüksége egy születésnapi bulihoz. Már van 7 csokis cupcake és 19 vaníliás cupcake. Hány süteményt vegyen még Randy?",
+        "answer": "32.0"
+    },
+    {
+        "question": "Kristen azonos számú kétféle rovart vesz észre a szomszédságában: a lepkéket és a szentjánosbogarak. Mindig úgy tűnik, hogy pillangókat figyel meg 44 fős csoportokban, és szentjánosbogarak 17 fős csoportokban. Hány pillangót láthatott a legkevesebb?",
+        "answer": "748 "
+    },
+    {
+        "question": "Lindseynek 16 doboz normál szódája és 8 doboz diétás üdítője van. Egyforma frissítőasztalokat szeretne létrehozni, amelyek a futballmeccs alatt működnek. Azt sem akarja, hogy üdítőitalok maradjanak. Lindsey hány frissítőasztalt tud felszerelni?",
+        "answer": "8 "
+    },
+    {
+        "question": "Egy doboz számítógépes papírban kétszázhuszonegy lap maradt. Ha egy számítógépes laborban minden nyomtatónak hét lapra lenne szüksége, hány nyomtatóval telne meg a doboz?",
+        "answer": "31 "
+    },
+    {
+        "question": "78 mérföldre van a nagymama házától. Mr. Welch 35 mérföldet vezetett. Megállt, hogy vegyen egy pitét desszertnek. Aztán 18 mérföldet vezetett, és megállt, hogy benzint töltsön az autóba. Hány mérföld van még, amíg eléri a nagymama házát?",
+        "answer": "25 "
+    },
+    {
+        "question": "Melanie-nak 276 dollárja volt 9 könyvre. Miután megvette őket, 15 dollárja volt. Mennyibe került egy-egy könyv?",
+        "answer": "29 "
+    },
+    {
+        "question": "Egy üzletben 22 pár nagy méretű, 50 pár közepes méretű és 24 pár kisméretű cipőt tároltak. A cipők egy részének eladása után 13 pár cipője maradt. Hány pár cipőt adott el a bolt?",
+        "answer": "83 "
+    },
+    {
+        "question": "397 pillangó van. Minden pillangón 12 fekete és 17 sárga pötty van. Hány fekete pont van összesen?",
+        "answer": "4764.0"
+    },
+    {
+        "question": "Egy közlekedési vállalat 95 tonna olajat vásárolt. Egy nagy hordóba 6 tonna olaj, egy kis hordóba 5 tonna olaj fér bele. Hány nagy hordót kell használni ahhoz, hogy a legkevesebb hordót használjuk, és minden hordót teljesen elfoglalunk?",
+        "answer": "15 "
+    },
+    {
+        "question": "Jenny 6 naponta jár táncórára, 12 naponta karate órára és 18 naponta könyvtárba. December 1-jén mindkét osztályba és a könyvtárba járt. December 1-jétől hány napig fogja végezni mindkét órát és könyvtárba járni?",
+        "answer": "36 "
+    },
+    {
+        "question": "Rosa egy 16 x 24 hüvelykes játéktáblát készít. Négyzet alakú csempét akar használni. Melyik a legnagyobb csempe, amit használhat?",
+        "answer": "8 "
+    },
+    {
+        "question": "Denise idősödik, és úgy érzi, a plüssállatgyűjteményét kevésbé szerencsés gyerekeknek kellene adományoznia. 14 plüssmacskája és 7 plüss kutyája van, melyeket egyforma csoportokra szeretne osztani, plüssállatok nélkül. Denise hány csoportba helyezheti a kitömött állatait?",
+        "answer": "7 "
+    },
+    {
+        "question": "Joan 24 tököt, Keith 42 tököt, Alyssa pedig 13 tököt növesztett. 34 napig dolgoztak a farmon. Hány tök nőtt összesen?",
+        "answer": "79.0"
+    },
+    {
+        "question": "Egy művészeti múzeumban 15 kép volt, amelyeket egyformán 2 különböző kiállításra kellett felosztani. Hány képre lenne még szükségük ahhoz, hogy minden kiállításon ugyanannyi legyen?",
+        "answer": "1 "
+    },
+    {
+        "question": "Bernardnak 15 piros, 17 kék és 19 fehér füzete volt. Néhányat Tomnak adott, és 5 maradt. Hány füzetet adott Bernard Tomnak?",
+        "answer": "46 "
+    },
+    {
+        "question": "Roger segített a büfé dolgozóinak felvenni az ebédtálcákat, de egyszerre csak 4 tálcát tudott vinni. Ha 10 tálcát kellene felvennie az egyik asztalról és 2 tálcát a másikról, hány utat fog megtenni?",
+        "answer": "3.0"
+    },
+    {
+        "question": "Négy lány egész nap otthon volt egy hétvégén, és házi finomságokat készített. Anna 33 db áfonyás sütit készített. Ha ezt egyenlő arányban osztja meg négy barátja között, hányan részesülnek mindegyikben?",
+        "answer": "8 "
+    },
+    {
+        "question": "Egy két számjegyből álló szám a számjegyei összegének 7-szerese. Ha a számból kivonjuk a 27-et, a számjegyek helyet cserélnek. Keresse meg a számot.",
+        "answer": "63"
+    },
+    {
+        "question": "Egy apa életkora megegyezik 5 gyermeke életkorának összegével. 15 év elteltével a gyerekek életkorának összege az apa életkorának kétszerese lesz. Keresse meg az apa korát.",
+        "answer": "75 "
+    },
+    {
+        "question": "Mrs. Evans 120 zsírkrétát és 30 darab papírt ad át diákjainak. Hány tanuló lehet az osztályában, hogy minden tanuló azonos számú zsírkrétát és azonos számú papírt kapjon?",
+        "answer": "30 "
+    },
+    {
+        "question": "Az utolsó simításokhoz 70 gallon festékre volt szüksége. Ha 23 gallont vásárolt, hogy hozzáadja a meglévő 36 gallon festékhez, mennyi festékre lesz még szüksége?",
+        "answer": "11 "
+    },
+    {
+        "question": "Egy dobozban 69 radír található. Jane-nek 15 radír van egy zacskójában. Doris 54 radírt vesz ki a dobozból. Hány radír maradt a dobozban?",
+        "answer": "15.0"
+    },
+    {
+        "question": "A Csendes-óceán egyik szigete 5 mérföld széles volt. Teljes területe 50 négyzetmérföld volt. Milyen hosszú a sziget?",
+        "answer": "10 "
+    },
+    {
+        "question": "Jason 32 görögdinnyét és 22 kantelopot termesztett. Dan 31 görögdinnyét termesztett. Hány görögdinnye nőtt összesen?",
+        "answer": "63.0"
+    },
+    {
+        "question": "Robert 76 dollárt keresett a munkahelyén. 6 dollárt költött egy tollra és 14 dollárt egy számológépre. Mennyi pénze maradt?",
+        "answer": "56 "
+    },
+    {
+        "question": "Mrs. Hiltnek 40 jelzője van. Egyenlően 7 csomagra vannak osztva. Mrs. Hilt szeretné tudni, hány marker maradt meg?",
+        "answer": "5 "
+    },
+    {
+        "question": "Egy könyvtárosnak ötszázkilencven könyvet kellett dobozokba csomagolnia. Ha minden dobozban három könyv is elfér, hány dobozra volt szüksége?",
+        "answer": "197 "
+    },
+    {
+        "question": "Lewis ezután elment megnézni a narancs betakarítását. Lewis rájött, hogy naponta 83 zsákot takarítanak be. Hány zsák narancsuk lesz 6 nap betakarítás után?",
+        "answer": "498.0"
+    },
+    {
+        "question": "Janice és Jázmin egy-egy egyenlő hosszúságú szalagot kapott. Janice egyenlő hosszúságúra, 2 m-re vágja szalagjait, míg Jasmine egyenlő 5 m hosszúságúra vágja a szalagjait. Ha mindkét esetben nem volt maradék, akkor mekkora lehet a lehető legrövidebb szalaghossz?",
+        "answer": "10 "
+    },
+    {
+        "question": "Egy család iskolaszerekkel teli hátizsákokat készít, hogy a rászoruló gyerekeknek adományozhassa. 9 ceruza és 15 jegyzetfüzetük van. Ha az összes hátizsákot egyformavá akarják tenni, tanszer nélkül, hány hátizsákot tölthetnek meg?",
+        "answer": "3 "
+    },
+    {
+        "question": "Warren 1 kört futott szerdán, 2 kört csütörtökön, 4 kört pénteken, 8 kört szombaton és 16 kört vasárnap. Ha ez a minta folytatódik, Warren hány kört fog futni hétfőn?",
+        "answer": "32 "
+    },
+    {
+        "question": "Ms. Bakernek 17 cupcake van. Egyenlően szeretné megosztani őket 3 gyereke között, hogy senki ne kapjon többet, mint bárki más. Ha minden gyereknek annyi cupcake-t ad, amennyit csak lehetséges, hány cupcake marad Ms. Bakernek, hogy megegye?",
+        "answer": "2 "
+    },
+    {
+        "question": "Nathan fürdőszobákat tölt be a szállodában, ahol dolgozik. 18 tekercs WC-papírja és 9 szappanja van. Ha azt akarja, hogy az összes fürdőszoba egyformán legyen feltöltve, mindegyikben ugyanaz a kellékkombináció, és semmi se maradjon meg, mi a fürdőszobák legjobb kombinációja, amit Nathan raktározhat?",
+        "answer": "9 "
+    },
+    {
+        "question": "Georgiában 24 sárga, 16 fekete és 19 zöld gomb volt. A gombok egy részét Marynek adta, és most Georgiának 13 gombja maradt. Hány gombot adott Georgia Marynek?",
+        "answer": "46 "
+    },
+    {
+        "question": "Jared átnézi a mobiltelefonszámláját. Amikor az SMS részhez ér, észreveszi, hogy novemberben 1 sms-t, decemberben 2 sms-t, januárban 4 sms-t, februárban pedig 8 SMS-t küldött. Ha ez a minta folytatódik, hány szöveges üzenetet küld Jared márciusban?",
+        "answer": "16 "
+    },
+    {
+        "question": "Emily egy trivia játékot játszott. Az első körben 16, a másodikban 33 pontot szerzett. Az utolsó fordulóban 48 pontot veszített. Hány pontja volt a meccs végén?",
+        "answer": "1.0"
+    },
+    {
+        "question": "Tekintsük a szám kétharmadát, és adjunk hozzá hatot. Az eredmény tíz. Keresse meg az ismeretlen számot.",
+        "answer": "6"
+    },
+    {
+        "question": "Mrs. Hiltnek 40 jelzője van. Egyenlően 7 csomagra vannak osztva. Mrs. Hilt szeretné tudni, hány marker van az egyes csomagokban?",
+        "answer": "5.0"
+    },
+    {
+        "question": "Harry végigsétált a tengerparton, és összegyűjtött 34 tengeri csillagot, 21 kagylót és 29 csigát. Néhány tárgyat elveszített, és 59 tárgya maradt a séta végén. Hány tengeri lényt veszített el összesen?",
+        "answer": "25 "
+    },
+    {
+        "question": "Egy klubnak 16 lány és 8 fiú tagja van. Az elnök csoportokra akarja osztani a klubot, ahol minden csoportban ugyanaz a kombináció legyen a lányokból és a fiúkból. Az elnök azt is szeretné elérni, hogy senki ne maradjon ki. Hány csoportot alkothat a legtöbb elnök?",
+        "answer": "8 "
+    },
+    {
+        "question": "A tömegközlekedés ösztönzése érdekében Russom néhány barátjának olyan borítékot szeretne adni, amelyben buszjegyek és metrójegyek találhatók. Ha 18 buszjegye és 12 metrójegye van, hogy egyenlő arányban ossza el a borítékok között, és nem akar jegyet hagyni, hány borítékot készíthet Russom?",
+        "answer": "6 "
+    },
+    {
+        "question": "Zoénak 42 üveg víz volt a hűtőjében. Ha 25-öt inna belőle, majd vesz még 30-at, hány üvege lenne?",
+        "answer": "47 "
+    },
+    {
+        "question": "Emmának van egy doboz gyümölcskoktélja a kamrában. A kör alakú fedél átmérője 2 hüvelyk. Mekkora a fedél kerülete?",
+        "answer": "6.28 "
+    },
+    {
+        "question": "Egy szám és 15 összege 96. Keresse meg a számot.",
+        "answer": "81"
+    },
+    {
+        "question": "A P.E. A tanárnak 14 férfi diákot és 7 diáklányt csapatokba kell osztania, mindegyikben ugyanaz a kombináció férfi tanulókkal és diáklányokkal, és senki sem marad ki. Hány csapat alakulhat a legtöbben?",
+        "answer": "7 "
+    },
+    {
+        "question": "Három egymást követő szám összege 90. Melyik a legkisebb a három szám közül?",
+        "answer": "29"
+    },
+    {
+        "question": "Tom vett egy gördeszkát 9,46 dollárért, és 9,56 dollárt költött golyókra. Tom 14,50 dollárt költött rövidnadrágra is. Összesen mennyit költött Tom játékokra?",
+        "answer": "19.02"
+    },
+    {
+        "question": "Alyssa idén 11 focimeccsen vett részt, de 12-t kihagyott. Tavaly 13 meccsen vett részt, jövőre pedig 15 meccset tervez. Hány focimeccsre megy majd Alyssa összesen?",
+        "answer": "39.0"
+    },
+    {
+        "question": "Egy balettosztály 90 tagját szeretné felosztani néhány nagy, egyenként 7 tagú csoportra és néhány kisebb, egyenként 3 tagú csoportra. Hány nagy csoportot kell létrehozni ahhoz, hogy a legkevesebb csoport legyen?",
+        "answer": "12 "
+    },
+    {
+        "question": "Az edzőteremben Hillary 6 naponta úszik, 4 naponta fut és 16 naponta kerékpározik. Ha ma mindhárom tevékenységet elvégezte, hány nap múlva fogja megismételni mindhárom tevékenységet ugyanazon a napon?",
+        "answer": "48 "
+    },
+    {
+        "question": "A kosárlabdacsapat legmagasabb játékosa 77,75 hüvelyk magas. Ez 9,5 hüvelykkel magasabb, mint a legrövidebb lejátszó. Milyen magas a legalacsonyabb játékos hüvelykben?",
+        "answer": "68.25"
+    },
+    {
+        "question": "Ádámnak 33 könyve volt. Ha eladna 11-et, és a megkeresett pénzéből 23 új könyvet vásárolna, hány könyve lenne Ádámnak?",
+        "answer": "45 "
+    },
+    {
+        "question": "Johnny a pályacsapatnak gyakorolt, és percenként 3 kört futott. Hány percbe telt Johnnynak, hogy lefusson 10 kört?",
+        "answer": "3.33333"
+    },
+    {
+        "question": "Egy kétjegyű szám számjegyeinek összege 8, a szám és a számjegyek felcserélésével képzett különbség pedig 18. Keresse meg a számot!",
+        "answer": "53"
+    },
+    {
+        "question": "Az ötödik osztályos játékban a székek 27 sorba kerültek, minden sorban 16 székkel. Hány széket tettek ki a darabhoz?",
+        "answer": "432.0"
+    },
+    {
+        "question": "Garynek volt néhány matricája. 42 matricát adott Lucynak és 26 matricát Alexnek. Ha 31 matricája maradt, akkor Garynek hány matricája volt először?",
+        "answer": "99 "
+    },
+    {
+        "question": "William hot dogot árul a labdaparkban. Az első három játékrészben 19 hot dogot adott el. A következő három játékrészben 27 hot dogot adott el. Williamnek 45 hot dogja maradt eladni. Hány hot dogja volt Williamnek először?",
+        "answer": "91 "
+    },
+    {
+        "question": "Melanie 7 szilvát és 4 narancsot szedett a gyümölcsösből. 3 szilvát adott Samnek. Hány szilvája van most?",
+        "answer": "4.0"
+    },
+    {
+        "question": "Meiben 15 narancs, 9 őszibarack és 18 körte van. Az összes gyümölcsöt kosarakba akarja tenni, és minden kosárban ugyanannyi gyümölcs legyen. A gyümölcs összekeverése nélkül hány darab gyümölcsöt rakhat Mei egy kosárba?",
+        "answer": "3 "
+    },
+    {
+        "question": "A következő felvonásban több zsonglőr is részt vett. Ha minden zsonglőr 6 labdával zsonglőrködik egyszerre, hány labdára van szükség, ha egyszerre 378 zsonglőr ad egy show-t?",
+        "answer": "2268.0"
+    },
+    {
+        "question": "Péter úr betakarított néhány körtét. Egy zacskóba 43 kg körtét, másik zacskóba 35 kg körtét szedett. Ha még 15 kg körte maradt kicsomagolatlanul, hány kilogramm körtét aratott le Péter úr?",
+        "answer": "93 "
+    },
+    {
+        "question": "Keith 3 körtét, Jason pedig 2 körtét szedett le a körtefáról. Joan leszedett 5 almát az almafáról. Hány körtét szedtek összesen?",
+        "answer": "5.0"
+    },
+    {
+        "question": "Ben kört rajzol egy négyzet alakú papírlap belsejébe, amelynek területe 400 négyzethüvelyk. Biztosítja, hogy a kör érintse a négyzet mindkét oldalát. Mekkora a kör területe?",
+        "answer": "314 "
+    },
+    {
+        "question": "A konzervdoboz során a tárgyakat kukákba válogatták. A hajtás eredményeként 0,125 bin leves, 0,125 bin zöldség és 0,5 bin tészta lett. Összesen hány ládát foglalnának el a konzervek?",
+        "answer": "0.75"
+    },
+    {
+        "question": "Az iskola 54 kosárlabdát vásárolt, és egyenlő arányban osztogatott 7 osztályba. Hány kosárlabdát kapott az egyes osztályok?",
+        "answer": "7 "
+    },
+    {
+        "question": "544 edény van. Minden cserépben 32 virág van. Hány virág van összesen?",
+        "answer": "17408.0"
+    },
+    {
+        "question": "Mary 2 kagylót, Keith pedig 5 kagylót talált a tengerparton. Amikor megtisztították őket, felfedezték, hogy 9 megrepedt. Hány kagylót találtak együtt?",
+        "answer": "7.0"
+    },
+    {
+        "question": "48 radír található a fiókban és 30 radír az asztalon. Alyssa 39 radírt és 45 vonalzót tett az asztalra. Hány radír van most összesen?",
+        "answer": "117.0"
+    },
+    {
+        "question": "Tom ebben az évben 4 jégkorongmérkőzésen vett részt, de 7-et kihagyott. Tavaly 9 meccsen vett részt. Hány jégkorongmeccsen ment Tom összesen?",
+        "answer": "13.0"
+    },
+    {
+        "question": "2 alma van egy kupacban az íróasztalon. Minden alma 7 db-os csomagban érkezik. 4 alma kerül a kupacba. Hány alma van a kupacban?",
+        "answer": "6.0"
+    },
+    {
+        "question": "Mrs. Hilt 6760 mérföldet utazott Japánba. Minden megtett 450 mérföldön elolvasott egy könyvet. Hány könyvvel végzett, amikor Japánba került?",
+        "answer": "15 "
+    },
+    {
+        "question": "Alyssa 25 lime-ot, Mike pedig 32 limet szedett. Tom leszedett 12 szilvát. Hány lime-ot szedtek összesen?",
+        "answer": "57.0"
+    },
+    {
+        "question": "Mrs. Hilt megnézte autója kilométerszámlálóját utazás előtt. A kilométer-számláló azt mutatta, hogy 212,3 mérföldet tett meg. Amikor megállt ebédelni, a kilométer-számláló 372,0-t mutatott. Hány mérföldet utazott?",
+        "answer": "159.7"
+    },
+    {
+        "question": "Alvin egy kis házat próbál építeni az erdőben, hogy legyen hol laknia, amikor vadászni megy. Azzal kezdte, hogy fát gyűjtött. A tervrajza szerint 376 darab fára lesz szüksége. Ha a barátja 123 darabot, a bátyja pedig 136 darabot adott neki, hány fát kell még összegyűjtenie?",
+        "answer": "117 "
+    },
+    {
+        "question": "Egy dobozban 18 darab kréta fér el. Ha 3484 darab kréta van, hány kréta van a dobozban, amely nincs tele?",
+        "answer": "10 "
+    },
+    {
+        "question": "Mary szeret gyümölcsöt enni. Mary 7,19 dollárt fizetett a bogyókért, és 6,83 dollárt az őszibarackért 20 dollárral. Mennyi változást kapott Mária?",
+        "answer": "5.98"
+    },
+    {
+        "question": "Ericnek 9306 radírja van. Ha 99 barátja között osztja meg őket, hány radírt kap minden barát?",
+        "answer": "94.0"
+    },
+    {
+        "question": "Sally összesen 12,32 dollárt fizetett az őszibarackért egy 3 dolláros kupon után, és 11,54 dollárt a cseresznyéért. Összességében mennyi pénzt költött el Sally?",
+        "answer": "23.86"
+    },
+    {
+        "question": "Ha egy számot kivonunk 32-ből, a 32 számjegyei felcserélődnek. Keresse meg a számot.",
+        "answer": "55"
+    },
+    {
+        "question": "Egy iskolában 650 diák tanul. Ha a lányok száma 106-tal több, mint a fiúké, hány fiú van az iskolában?",
+        "answer": "272 "
+    },
+    {
+        "question": "Három darab 42 m, 49 m és 63 m hosszú fadarabot kell felosztani azonos hosszúságú deszkákra. Mekkora az egyes deszkák lehetséges legnagyobb hossza?",
+        "answer": "7 "
+    },
+    {
+        "question": "Egy könyvesboltban 4 könyv volt az üzletben. Ha eladnának 3 könyvet, de aztán még 10-et a kukába tennének, hány könyv lenne a kukában?",
+        "answer": "11 "
+    },
+    {
+        "question": "A reggeli sétán két személy együtt indul el. Lépésük 75 cm, illetve 90 cm. Mekkora a minimális távolság, amelyet mindegyiküknek meg kell tennie, hogy mindenki ugyanazt a távolságot teljes lépésekben tegye meg?",
+        "answer": "450 "
+    },
+    {
+        "question": "Egy tanárnak 38 feladatlapot kellett osztályoznia. Ha 4-et ír, de akkor még 15-öt adnak be, hány feladatlapot kellene osztályoznia?",
+        "answer": "49 "
+    },
+    {
+        "question": "Li Na 63 paradicsomnövényt és 81 rebarbara növényt fog elültetni. Li Na olyan sorokba szeretné ültetni a növényeket, ahol minden sorban ugyanannyi paradicsom és minden sorban ugyanannyi rebarbara van. Hány sort ültethet Li Na a legtöbb?",
+        "answer": "9 "
+    },
+    {
+        "question": "A Wendy háza mögötti erdő 8 mérföld széles volt, területük pedig 24 négyzetmérföld. Mekkora az erdő hossza?",
+        "answer": "3 "
+    },
+    {
+        "question": "London 11 éves, Blair pedig 16 éves. Néhány évvel ezelőtt Blair kétszer annyi idős volt, mint London. Hány éves volt akkor London?",
+        "answer": "6 "
+    },
+    {
+        "question": "Tomnak 19 dollárja volt, és annyi mappát akart vásárolni, amennyit csak tudott. Ha egy mappa 2 dollárba kerül, mennyi marad a mappák megvásárlása után?",
+        "answer": "1 "
+    },
+    {
+        "question": "Egy ablak hossza 6 láb és szélessége 10 láb volt. Mekkora az ablak területe?",
+        "answer": "60 "
+    },
+    {
+        "question": "Egy kisállatközpontban 36 kutya és 29 macska volt. Miután 20 kutyát örökbe fogadtak az emberek, az állatkereskedés további 12 macskát gyűjtött be. Hány háziállat volt végül az állatkereskedésben?",
+        "answer": "57 "
+    },
+    {
+        "question": "Egy koncerten a zenekarnak 20 férfi és 8 női pólója van. A banda asztalokat szeretne felállítani az ingek árusítására, minden asztalnál egyenlő számú férfi és női ing áll rendelkezésre, és nem marad ing. Hány asztalról tud a zenekar a legtöbb pólót eladni?",
+        "answer": "4 "
+    },
+    {
+        "question": "Egy édességboltban 3 barna cukorkadoboz, 3 fekete cukorkadoboz és 2 kék cukorkadoboz található. Ha 5 dobozt vásárol, hány cukorka doboz marad?",
+        "answer": "3 "
+    },
+    {
+        "question": "Egy dobozban 18 darab kréta fér el. Ha 3484 darab kréta van, hány doboz van tele, hogy az összes krétát elférjen?",
+        "answer": "194 "
+    },
+    {
+        "question": "Emily 63 kártyát gyűjt össze. Emily apja még 7-et ad Emilynek. Bruce-nak 13 almája van. Hány kártyája van Emilynek?",
+        "answer": "70.0"
+    },
+    {
+        "question": "Egy osztályteremben 5 fiú és 4 lány van. Miután 3 fiú elhagyta az osztálytermet, újabb 2 lány jött be az osztályterembe. Hány gyerek volt végül az osztályteremben?",
+        "answer": "8 "
+    },
+    {
+        "question": "Megan és nővére, Tara 26 dollárért robogót akartak venni. Tarának 4 dollárral volt több, mint Megannek. Együtt volt annyi pénzük, hogy megvegyék a robogót. Mennyi pénze volt Tarának?",
+        "answer": "15 "
+    },
+    {
+        "question": "30 naponta van telihold. Ha az utolsó telihold pénteken volt, hány napnak kell eltelnie ahhoz, hogy pénteken ismét telihold legyen?",
+        "answer": "210 "
+    },
+    {
+        "question": "Joan játékautókat vásárolt 14,88 dollárért, gördeszkát 4,88 dollárért, játék teherautókat pedig 5,86 dollárért. 14,55 dollárt költött nadrágra. Összesen mennyit költött Joan játékokra?",
+        "answer": "25.62"
+    },
+    {
+        "question": "Briannek 39 ceruzája van. 18 ceruzát ad egy barátjának. Vásárol még 22 ceruzát. Hány ceruzája van most Briannek?",
+        "answer": "43 "
+    },
+    {
+        "question": "Halloween alkalmából Ádám 201 édességet kapott. Ha halomba rakná őket, mindegyik kupacban 43-mal, körülbelül hány kupacot tudna készíteni?",
+        "answer": "5 "
+    },
+    {
+        "question": "86 diák indul túrázni. Egy iskolabusz 9 diákot szállíthat. Hány iskolabuszra van szükség?",
+        "answer": "9 "
+    },
+    {
+        "question": "Egy virágüzletnek 12 tulipánja és 18 szegfűje van. Ha a virágüzlet egyforma csokrokat szeretne készíteni maradék virág nélkül, hány csokrot tud a virágkötő a legtöbbet készíteni?",
+        "answer": "6 "
+    },
+    {
+        "question": "Philip tollakat és ceruzákat vásárol a boltból. A tollak 12 db-os kiszerelésben kaphatók, de a ceruzákat 15 db-os kiszerelésben árulják. Ha Philip ugyanannyi tollat ​​szeretne vásárolni, mint ceruzát, hány tollat ​​vásárolhat a legkevesebb?",
+        "answer": "60 "
+    },
+    {
+        "question": "Lewis megtakarította a szőlőtőkék ellenőrzését az utolsó állomásához. Az egyik szedő azt mondta neki, hogy naponta 324 hordó szőlőt töltenek meg. Hány hordó szőlő telne meg 9 nap alatt?",
+        "answer": "2916.0"
+    },
+    {
+        "question": "Egy fagylaltozóban a tulajdonos nyomon követte az egy hét alatt eladott csokoládé tölcsérek számát. Eredményei: 100, 92, 109, 96, 103, 96 és 105. Mi az eladott kúpok átlaga?",
+        "answer": "100.1 "
+    },
+    {
+        "question": "Keith 6 kagylót talált, Jessica 8 kagylót, Tim pedig 7 kagylót talált a tengerparton. Amikor megtisztították őket, felfedezték, hogy 3 megrepedt. Hány kagylót találtak együtt?",
+        "answer": "21.0"
+    },
+    {
+        "question": "A Peter's Party Zone poharakat 6 darabos kiszerelésben, tányérokat pedig 8 darabos kiszerelésben árul. Shaniya születésnapi partit szervez kishúgának, és ugyanannyi darabot szeretne kapni mindegyikből. Hány tányércsomagot kell a legkevesebbet vásárolnia Shaniyának?",
+        "answer": "24 "
+    },
+    {
+        "question": "Evan csomagokat szállít egy épületben. Az első emeletről indult, és felment 7 emelettel. 3 emeletet lement, majd 16 emeletet feljebb. Aztán már csak 2 emeletre volt az épület tetejétől. Hány emelet van összesen az épületben?",
+        "answer": "23 "
+    },
+    {
+        "question": "Jane 16 váza virágot tud elrendezni egy nap alatt. Ha 248 váza virágot kell elrendezni, hány napra van szüksége, hogy elkészüljön az összes virágkompozíció?",
+        "answer": "16 "
+    },
+    {
+        "question": "Jarednek van egy hardverboltja, és átnézi a korábbi rendeléseit. A Jared vaskereskedése januárban 5, februárban 6, márciusban 8, áprilisban pedig 11 fúrógépet rendelt. Ha ez a minta folytatódik, hány fúrót rendel majd az üzlet májusban?",
+        "answer": "15 "
+    },
+    {
+        "question": "Andy AA és D elemeket vásárol. Az üzletben AA elemeket 38 db-os, D elemeket pedig 44 db-os kiszerelésben árulnak. Ha Andy ugyanannyi AA és D elemet szeretne vásárolni, mennyi az egyes elemtípusok közül a legkisebb darabszám, amit megvásárolhat?",
+        "answer": "836 "
+    },
+    {
+        "question": "32 tanuló van az osztályban. A tanár 5 egyenlő csoportra osztotta őket. Hány diák maradt?",
+        "answer": "2 "
+    },
+    {
+        "question": "Sam és Carlos műanyag tűkkel bowlingoznak Sam nappalijában. Figyelemre méltó, hogy Sam minden tálban 8 tűt, Carlos pedig 9 tűt üt le minden tálban. A nap végén Sam és Carlos összesen ugyanannyi tűt ütöttek le. Hány tűt tudott a legkevesebb Sam és Carlos leütni?",
+        "answer": "72 "
+    },
+    {
+        "question": "A negyedik osztályba 35 tanuló járt év elején. Az év során 10 diák távozott és 10 új diák érkezett az iskolába. Hány tanuló volt a végén a negyedik osztályban?",
+        "answer": "35 "
+    },
+    {
+        "question": "Carol egy trivia játékot játszott. Az első körben 17, a másodikban 6 pontot szerzett. Az utolsó fordulóban 16 pontot veszített. Hány pontja volt a meccs végén?",
+        "answer": "7.0"
+    },
+    {
+        "question": "Egy étteremben 7 szelet pitét szolgáltak fel ebéd közben és 5 szeletet vacsora közben. Tegnap 8-at szolgált ki. Hány szelet pitét szolgáltak fel ma?",
+        "answer": "12.0"
+    },
+    {
+        "question": "Egy dobozban hét brownie fér el. Ha egy pék háromszáznegyvenkilenc browniet készített, hány teli doboz browniet csinált?",
+        "answer": "49 "
+    },
+    {
+        "question": "Jason és Lexi egy nyilvános könyvtárban polcra rakják a könyveket. Jason egyszerre 6 könyvet, míg Lexi 17-et tesz a polcra egyszerre. Ha a végén ugyanannyi könyvet helyeznek el a polcokon, hány könyv kerülhetett volna a polcra?",
+        "answer": "102 "
+    },
+    {
+        "question": "Biancának 45 kifestőkönyve volt. Ha 6 darabot odaadna, de aztán vásárolna még 20-at, mennyi lenne összesen?",
+        "answer": "59.0"
+    },
+    {
+        "question": "Derek virágot szed a kertben. Az első bokorról 18 virágot, a másodikról 22 virágot, a harmadikról 26 virágot, a negyedikről 30 virágot, az ötödikről 34 virágot szedett. Ha ez a minta folytatódik, hány virágot szed le Derek a hatodik bokorról?",
+        "answer": "38 "
+    },
+    {
+        "question": "A derékszögű háromszög területe 32 négyzetcm. Ha az alap 8 cm, keresse meg a magasságát.",
+        "answer": "8 "
+    },
+    {
+        "question": "Két kerékpárrajongó egyszerre hagyja el Cincinnatit. Az egyik 840 mérföldet kerékpároz Bostonig. A másik 440 mérföldet biciklizik Atlantába. Hány mérföldet tehet meg a legtöbb naponta, ha minden nap egyenlő távolságot akar megtenni?",
+        "answer": "40 "
+    },
+    {
+        "question": "Néhány gyöngy válogatása közben Jenna 74 gyöngyöt tett az első üvegbe, 83 gyöngyöt a másodikba, 92 gyöngyöt a harmadikba és 101 gyöngyöt a negyedik üvegbe. Ha ez a minta folytatódik, hány gyöngyöt tesz Jenna az ötödik üvegbe?",
+        "answer": "110 "
+    },
+    {
+        "question": "Kimberlynek 5 tekekéje van. Vásárol még 7 darabot. Később Kimberly 18 narancsot vesz a boltban. Hány Skittle-je van Kimberlynek összesen?",
+        "answer": "12.0"
+    },
+    {
+        "question": "Jazmin egy művészeti projektet fejez be. Két darab építőpapír van nála. Az első darab 44 hüvelyk, a második darab 33 hüvelyk széles. Jazmin egyenlő szélességű és minél szélesebb csíkokra akarja vágni a papírt. Milyen szélesre vágja Jazmin az egyes csíkokat?",
+        "answer": "11 "
+    },
+    {
+        "question": "A zee vidámpark szökőkútfala egyenlő oldalú háromszög alakú. A fal teljes kerülete 51 yard. Keresse meg a fal mindkét oldalának méretét.",
+        "answer": "17 "
+    },
+    {
+        "question": "A farmon 22 kutya van. Egyformán 5 kutyaházban laknak. Hány kutya maradt?",
+        "answer": "2 "
+    },
+    {
+        "question": "Serena uzsonnás zacskókat szeretne készíteni egy utazáshoz, amelyre megy. 6 granolaszelet és 10 szelet szárított gyümölcs van. Ha az uzsonnás zacskóknak egyformáknak kell lenniük ételmaradék nélkül, hány uzsonnás zacskót tud a legtöbb Serena elkészíteni?",
+        "answer": "2 "
+    },
+    {
+        "question": "Egy festőnek 11 szobát kellett kifestenie egy épületben. Minden helyiség festése 7 órát vesz igénybe. Ha már kifestett 2 szobát, mennyi ideig tart a többi kifestése?",
+        "answer": "63.0"
+    },
+    {
+        "question": "45 db napraforgó, 81 db kukorica és 63 db paradicsom növényt szeretnék ültetni a kertembe. Ha minden sorba ugyanannyi növényt teszek, és minden sorban csak egyféle növény van, hány növényt rakhatok egy sorba?",
+        "answer": "9 "
+    },
+    {
+        "question": "31 kalória van egy cukorkában. Hány kalória van 11 szeletben?",
+        "answer": "341.0"
+    },
+    {
+        "question": "Egy téglalap alakú kert területe 1800 négyzetláb. Keresse meg a szélességet, ha a magassága 40 láb.",
+        "answer": "45 "
+    },
+    {
+        "question": "Hailey busza a harmadik a sorban. Danny busza 3 busszal az övé mögött van. Hol van a sorban Danny busza?",
+        "answer": "6"
+    },
+    {
+        "question": "Egy szám és 2 összegének háromszorosa 24-nek felel meg, amelyhez hozzáadjuk ugyanazt a számot. Írja fel az algebrai egyenletet, és keresse meg a számot!",
+        "answer": "9"
+    },
+    {
+        "question": "Halloween alkalmából Debby és a nővére kombinálta a kapott édességet. Debbynek 32 cukorka volt, míg a húgának 42. Ha az első este 35 darabot ettek, hány darab maradt?",
+        "answer": "39 "
+    },
+    {
+        "question": "Dávidnak 8 banánja van. Még 50-et kap Christophertől. Később David vesz 9 kártyát a boltban. Hány banánja van Davidnek összesen?",
+        "answer": "58.0"
+    },
+    {
+        "question": "Miután kifizetett 6 dollárt a tortáért, Marynek 52 dollárja, barátjának 43 dollárja van. Mennyi pénze volt a pite megvásárlása előtt?",
+        "answer": "58.0"
+    },
+    {
+        "question": "Egy zenemű előadása közben Jacob 7 ütemenként üti a cintányért, a háromszöget pedig 2 ütemenként. Ha egyszerre ütötte meg mindkettőt, akkor hány ütem fog eltelni, mielőtt újra egyszerre üti meg őket?",
+        "answer": "14 "
+    },
+    {
+        "question": "Joyce-nak 8 tojása van. Marie még 6-ot ad Joyce-nak. Később Joyce vásárol 13 radírt a boltban. Összesen hány tojása van Joyce-nak?",
+        "answer": "14.0"
+    },
+    {
+        "question": "Egy négyzet alakú üveglap területe 64 négyzetcentiméter. Milyen hosszúak az egyes oldalak?",
+        "answer": "8 "
+    },
+    {
+        "question": "Az iskola 54 kosárlabdát vásárolt, és egyenlő arányban osztogatott 7 osztályba. Hány kosárlabda maradt?",
+        "answer": "5 "
+    },
+    {
+        "question": "Jerry segített a büfé dolgozóinak felvenni az ebédtálcákat, de egyszerre csak 8 tálcát tudott vinni. Ha 9 tálcát kellene felvennie az egyik asztalról, és 7 tálcát a másikról, hány utat fog megtenni?",
+        "answer": "2.0"
+    },
+    {
+        "question": "Ádám egy képkeretet festett. A keret 6 hüvelyk széles és 9 hüvelyk magas volt. Mekkora a képkeret kerülete?",
+        "answer": "30 "
+    },
+    {
+        "question": "Egy farm 7 mérföld széles és 8 mérföld hosszú volt. Mekkora a farm területe?",
+        "answer": "56 "
+    },
+    {
+        "question": "Allie-nek 5 matematikai és 10 természettudományos könyve van. Ha szeretné egyenletesen elosztani őket néhány könyvespolc között, hogy minden könyvespolcon ugyanaz a kombináció legyen a matematikai és természettudományos könyvek között, és ne maradjanak könyvek, akkor Allie hány könyvespolcot használhat?",
+        "answer": "5 "
+    },
+    {
+        "question": "Marian 59 croissant-t is készített, amit 8 szomszédjának szeretne adni. Ha minden szomszéd azonos számú kiflit kap, mennyi marad Mariannál?",
+        "answer": "3 "
+    },
+    {
+        "question": "A Khan Corporation 48 számítógépet és 32 nyomtatót szeretne adományozni a helyi iskoláknak. A vállalat azt szeretné elérni, hogy minden iskola ugyanazt a számítógépet és nyomtatót kapja meg, és egy se maradjon ott. Hány iskolának tud a legtöbb adományozni a Khan Corporation?",
+        "answer": "16 "
+    },
+    {
+        "question": "Egy doboz sütemény hat dollárba került. Ha lenne nyolcszázhuszonegy dollárod, és annyi dobozt vennél, amennyit csak tudsz, mennyi pénzed maradt volna?",
+        "answer": "5 "
+    },
+    {
+        "question": "31 embercsoport volt a tekepályán. Ha a teljes létszám 177 volt, akkor körülbelül hány fő volt az egyes csoportokban?",
+        "answer": "6 "
+    },
+    {
+        "question": "Egy vonat egyenletes sebességgel tett meg egy bizonyos távolságot. Ha a vonat 6 km/órával gyorsabb lett volna, akkor 8 órával kevesebb lett volna a menetrendi időnél, ha pedig 6 km/órával lassabb, akkor 12 órával több időt vett volna igénybe, mint a menetrend. Keresse meg az út hosszát.",
+        "answer": "1440 "
+    },
+    {
+        "question": "Egy parkban 86 fa volt. Közülük 15-en meghaltak, további 23-at pedig megvágtak. Hány fa maradt még?",
+        "answer": "48 "
+    },
+    {
+        "question": "A citromfejek 3 darabot tartalmaznak. Patricia 15 citromfejet evett. Hány citromfeje maradt?",
+        "answer": "0 "
+    },
+    {
+        "question": "Sally-nek 39 baseballkártyája volt, és 9 elszakadt. Sara vásárolt Sally 24 baseball kártyájából . Hány baseball kártyája van most Sallynek?",
+        "answer": "15.0"
+    },
+    {
+        "question": "Egy videojáték térkép 10 méter széles és 2 méter hosszú volt, mekkora a térkép területe?",
+        "answer": "20 "
+    },
+    {
+        "question": "10 forma van. Hány darab marad az 5 fős csoportok elkészítése után?",
+        "answer": "0 "
+    },
+    {
+        "question": "Tammy 55 mérföldet vezetett egy óra alatt. Ilyen ütemben mennyit tud vezetni 36 óra alatt?",
+        "answer": "1980.0"
+    },
+    {
+        "question": "Charlie-nak 31-gyel több hógolyója van, mint Lucynak. 19 hógolyója van. Hány van Charlie-nak?",
+        "answer": "50.0"
+    },
+    {
+        "question": "A négyzet alakú konyhalap mindkét oldala 7 hüvelyk hosszú. Mekkora a csempe területe?",
+        "answer": "49 "
+    },
+    {
+        "question": "George összehasonlította a Bulls által a különböző meccseken szerzett pontokat. Rögzített: 81, 73, 83, 86 és 73. Mennyi a szerzett pontok átlaga?",
+        "answer": "79.2 "
+    },
+    {
+        "question": "Mrs. Hilt képkerete 12 hüvelyk magas és 10 hüvelyk hosszú. Mekkora a képkeret kerülete?",
+        "answer": "44 "
+    },
+    {
+        "question": "Diane-nek 37 zsírkrétája van. Még 5-öt kap Francestől. Később Diane 16 kártyát vesz a boltban. Hány zsírkréta van Diane-nak összesen?",
+        "answer": "42.0"
+    },
+    {
+        "question": "Egy cég új egyenruhát vásárolt alkalmazottainak. Összesen 121 egyenruhát vásároltak 32 üzletükbe. Körülbelül hány egyenruhát kell kapnia minden üzletnek?",
+        "answer": "4 "
+    },
+    {
+        "question": "Egy gyep területe 20 négyzetméter volt. Ha 5 láb széles volt, milyen hosszú?",
+        "answer": "4 "
+    },
+    {
+        "question": "Melanie-nak vannak 8 hüvelyk hosszú vasúti pályadarabjai, amelyeket összekötve alkot egy vágányt, amelyen a vonata közlekedhet. Martin is próbál vágányt építeni a vonatának, de 20 hüvelyk hosszú vágánydarabokat használ. Milyen hosszú lesz a legrövidebb pálya, ha a Melanie által készített pálya ugyanolyan hosszú lesz, mint Martin pályája?",
+        "answer": "40 "
+    },
+    {
+        "question": "Mattnek volt 4 kis doboz aranyfestéke. Ha az általuk készített 34 csillagot egyenlően elosztanák a festékes dobozokban, hány csillag maradna festetlenül?",
+        "answer": "2 "
+    },
+    {
+        "question": "Luke-nak 9 cukorka volt. Ha fel akarja osztani az édességet 2 zacskóba, mindegyik zacskóban ugyanannyi cukorka van, hány darabra lenne szüksége még, hogy megbizonyosodjon arról, hogy mindegyik zacskóban ugyanannyi legyen?",
+        "answer": "1 "
+    },
+    {
+        "question": "Ha Simonnak 519 ajándékzacskót kell készítenie napi 42 tasak ütemben, hány napra van szüksége az összes díszdoboz elkészítéséhez?",
+        "answer": "13 "
+    },
+    {
+        "question": "Egy téglalap alakú medence 3 méter széles és 30 négyzetméter felületű volt. Mekkora a medence hossza?",
+        "answer": "10 "
+    },
+    {
+        "question": "Egy filmes boltban 9 film volt, amit 2 polcra tettek. Ha a tulajdonos azt akarná, hogy minden polcon ugyanannyi film legyen, hány filmre lenne még szüksége?",
+        "answer": "1 "
+    },
+    {
+        "question": "Egy videojáték-térkép összterülete 10 négyzetméter volt. Ha a térkép 5 méter hosszú lenne, milyen széles?",
+        "answer": "2 "
+    },
+    {
+        "question": "Marie 12 mérföld/órás sebességgel tud kerékpározni. Milyen messzire tud biciklizni 31 óra alatt?",
+        "answer": "372.0"
+    },
+    {
+        "question": "Ha 28 kevesebb, mint egy bizonyos szám ötszöröse, akkor 232. Mi a szám?",
+        "answer": "52"
+    },
+    {
+        "question": "Egy vázában hét virág fér el. Ha egy virágüzletnek kilencszázöt virága lenne, amit egyformán szeretne vázákba tenni, hány virág lenne az utolsó vázában, amely nincs tele?",
+        "answer": "2 "
+    },
+    {
+        "question": "Az Atlanti-óceán egyik szigete 2 mérföld széles és 6 mérföld hosszú volt. Mekkora a sziget területe?",
+        "answer": "12 "
+    },
+    {
+        "question": "Egy négyzet alakú kert kerülete 48 méter. A kertben található tó 20 négyzetméteres. Mekkora a kert azon területe, amelyet nem foglal el a tavacska?",
+        "answer": "124 "
+    },
+    {
+        "question": "Jaden elsősegély-készleteket állít össze. 39 nagy kötszere és 26 kis kötszere van, és azt szeretné, ha minden készlet egyforma legyen, és ne maradjon pólya. Jaden hány elsősegély-készletet tudott összeállítani?",
+        "answer": "13 "
+    },
+    {
+        "question": "Egy zacskóban négy darab papír található. Minden papíron van egy szám. A számok 19, 23, 34 és 38. Harry elővett egy darab papírt. A fennmaradó számok összege 76. Milyen számot vett ki Harry a táskából?",
+        "answer": "38"
+    },
+    {
+        "question": "Mr. Lee 495 almát betakarított, és egyenletesen csomagolta néhány kosárba. Ha minden kosárban 25 alma van, hány alma maradt csomagolatlanul?",
+        "answer": "20 "
+    },
+    {
+        "question": "Shannon azonos léggömbökkel készül egy partira. 32 gesztenyebarna, 24 fehér és 16 narancssárga léggömbje van. Azt szeretné, ha minden elrendezésben ugyanannyi szín szerepelne. Hány elrendezést tud a legtöbbet végrehajtani, ha minden léggömböt használ?",
+        "answer": "8 "
+    },
+    {
+        "question": "Roger 42 fillért, 36 nikkelt és 15 centet gyűjtött össze. Néhány érmét adományozott, és 27 érme maradt. Hány érmét adományozott Roger?",
+        "answer": "66 "
+    },
+    {
+        "question": "Az Egészséges Pékség szerdán 5, csütörtökön 7, pénteken 10, szombaton 14, vasárnap pedig 19 kenyeret sütött. Ha ez a minta folytatódik, hány kenyeret sütnek hétfőn?",
+        "answer": "25 "
+    },
+    {
+        "question": "Egy étterem új, 35 négyzetméteres szabadtéri részt vett fel. 7 láb széles volt. Milyen hosszú az új részük?",
+        "answer": "5 "
+    },
+    {
+        "question": "Ramon a szupermarketben dolgozik. 26 doboz Choco Delights-t tett fel a polcra. Már 15 doboz volt ott. Később aznap Ramon 22 dobozt számolt meg a polcon. Hány doboz Choco Delights hiányzott?",
+        "answer": "19 "
+    },
+    {
+        "question": "Véletlen egybeesés, hogy a Monica's Obedience School ugyanennyi kutyát és macskát képezett ki a múlt héten. Az iskolában 18 fős csoportokban oktatják a kutyákat, 3 fős csoportokban a macskákat. Hány macska lehetett az iskolában?",
+        "answer": "18 "
+    },
+    {
+        "question": "Codynak 36 doboza volt. A dobozok együtt 243 kilogrammot nyomtak. Körülbelül mennyi volt az egyes dobozok súlya?",
+        "answer": "6 "
+    },
+    {
+        "question": "757 font homokot kell zsákokba tölteni. Ha minden zsák 65 font űrtartalmú, hány kiló homok van a zsákban, amely nincs tele?",
+        "answer": "42 "
+    },
+    {
+        "question": "Mr. Lee 495 almát betakarított, és egyenletesen csomagolta néhány kosárba. Ha minden kosárban 25 alma van, hány kosár alma van?",
+        "answer": "19 "
+    },
+    {
+        "question": "A farmon 22 kutya van. Egyformán 5 kutyaházban laknak. Hány kutya van egy-egy kutyaólban?",
+        "answer": "4 "
+    },
+    {
+        "question": "Ha Lillian 20 Skittle-t osztott szét 8 ember között az osztályában, és megtartotta a maradékot, hány Skittle-t kapott minden osztálytárs?",
+        "answer": "2 "
+    },
+    {
+        "question": "A munkásnak egy 27 yard hosszú kötelet fel kell vágnia néhány hosszú darabra 4 yardon, és néhány rövid darabra 1 yardnál. Hány darab hosszú darabot kell vágni ahhoz, hogy a lehető legkevesebb darabból készüljön?",
+        "answer": "6 "
+    },
+    {
+        "question": "A fiókban 33 ceruza és 44 zsírkréta található. Joan 27 ceruzát tett a fiókba. Hány ceruza van most összesen?",
+        "answer": "60.0"
+    },
+    {
+        "question": "Mr. Lee minden esemény után kiosztotta az első helyezett szalagokat. Az induláskor 38 szalagja volt. Reggel 14 szalagot adott át. Délután 16 szalagot adott ki. Hány szalagja maradt Mr. Lee-nek?",
+        "answer": "8 "
+    },
+    {
+        "question": "Egy hosszú huzalt több kisebb darabra vágnak. A kisebb darabok mindegyikét négyzetekre hajlítjuk. Minden négyzetnek van egy oldala, amelynek mérete 2 centiméter. A kisebb négyzetek összterülete 92 négyzetcentiméter. Mekkora volt a vezeték eredeti hossza?",
+        "answer": "184 "
+    },
+    {
+        "question": "Rachel vásárolt egy csomagolópapírt karácsonyra, ami 4 méter hosszú és 20 négyzetláb területű volt. Mekkora a csomagolópapír szélessége?",
+        "answer": "5 "
+    },
+    {
+        "question": "Ha Tom 158 órát tervez megjavítani napi 12 óra ütemben, hány órát fog megjavítani az utolsó napon?",
+        "answer": "2 "
+    },
+    {
+        "question": "Egy téglalap hossza 2 hüvelyk, szélessége 4 hüvelyk volt. Mekkora a téglalap területe?",
+        "answer": "8 "
+    },
+    {
+        "question": "Eddie olyan számra gondol, amely 8-cal és 5-tel is osztható. Mi a lehető legkisebb szám, amelyre Eddie gondolhat?",
+        "answer": "40"
+    },
+    {
+        "question": "Destiny két külön ajándékot kapott a dédnagymamától. Az első ajándék egy doboz 18 darab csokoládés szelet, a második ajándék pedig egy csomag 12 darab sütemény. A Destiny az összes csokoládés szeletet és süteményt fel akarja használni, hogy egyforma uzsonnás zacskót készítsen unokatestvéreinek. Hány snack zacskót tud a Destiny legtöbbször elkészíteni?",
+        "answer": "6 "
+    },
+    {
+        "question": "Billy megpróbálta megverni régi, hétszázhuszonöt pontos pontszámát egy videojátékban. Ha minden fordulóban pontosan két pontot szerez, hány fordulót kell lejátszania, hogy legyőzze régi pontszámát?",
+        "answer": "363 "
+    },
+    {
+        "question": "A Girl Scout cookie-kat 12 dobozban csomagoljuk egy tokba. Scout Deborah 31 doboz Lemon Chalet Cremet adott el. Hány doboz nem lesz csomagolva egy tokba?",
+        "answer": "7 "
+    },
+    {
+        "question": "Kétjegyű számban a két számjegy összege 9. Ha a számjegyeket felcseréljük, a szám 9-cel nő. Keresse meg a számot.",
+        "answer": "45"
+    },
+    {
+        "question": "Virginiának 13 Sweettartja volt. Ha Virginia azonos számú édességet adott a 4 barátjának, majd megette, ami megmaradt, hány édességet evett mindenki?",
+        "answer": "3 "
+    },
+    {
+        "question": "Bill kétféle madarat figyelt meg a bokrokban: verebeket és papagájokat. Míg a verebek 13-as, a papagájok 14-es csapatokban voltak. Ha Bill ugyanannyi vereb- és papagáj-állományt figyelt meg, mennyi a legkisebb számú vereb, amelyet megfigyelhetett?",
+        "answer": "182 "
+    },
+    {
+        "question": "Mike zöldségeket szolgál fel egy leveskonyhában. Van 15 sárgarépa rúdja és 10 bébiburgonyája, amit egyenletesen szeretne elosztani, nem marad étel. Mike hány tányért tud a legtöbbet elkészíteni?",
+        "answer": "5 "
+    },
+    {
+        "question": "Egy kincsvadász egy eltemetett kincsesládát fedezett fel, melyben összesen 5155 drágakő található. A drágakövek közül 45 gyémánt volt, a többi rubin volt. Hány drágakő volt rubin?",
+        "answer": "5110.0"
+    },
+    {
+        "question": "Paulnak 7 baseballkártyája volt, amelyeket egy iratgyűjtőbe tesz, minden oldalon 3-mal. Hány kártya lesz azon az oldalon, amelyik nincs tele?",
+        "answer": "1 "
+    },
+    {
+        "question": "Benny 66 kagylót és 49 tengeri csillagot talált a tengerparton. 52 kagylót adott Jasonnak. Hány kagylója van most Bennynek?",
+        "answer": "14.0"
+    },
+    {
+        "question": "A téglalap alakú vágódeszka kerülete 50 hüvelyk. 10 hüvelyk széles. Meddig tart?",
+        "answer": "15 "
+    },
+    {
+        "question": "Kathleen fogászati ​​értékesítési képviselő, aki 18 brosúrát és 12 füzetet szeretne elosztani a helyi fogorvosi rendelőkben. A prospektusok és füzetek ugyanazt a kombinációját szeretné eljuttatni minden irodába anélkül, hogy anyaga maradna. Hány fogorvosi rendelőnek tud Kathleen a legtöbb anyagot eljuttatni?",
+        "answer": "6 "
+    },
+    {
+        "question": "Nancy vett egy üdítőt 4 dollárért és 6 darab cukorkát. Összesen 28 dollárt költött. Mennyibe került egy-egy cukorka?",
+        "answer": "4 "
+    },
+    {
+        "question": "Shannon és családja sok eper és áfonya zselét használ fel, mivel minden reggel pirítóst esznek. Jelenleg összesen 6310 gramm zselével rendelkeznek. Ha 4518 gramm áfonya zseléjük van, hány gramm eperzseléjük van?",
+        "answer": "1792.0"
+    },
+    {
+        "question": "Sandy 8 sárgarépát és 7 fehérrépát nevelt. Mary 6 sárgarépát nevelt. Hány sárgarépa termett összesen?",
+        "answer": "14.0"
+    },
+    {
+        "question": "Luke-nak 48 dollárja volt januárban. Márciusig 11 dollárt költött. Ha kapna még 21 dollárt az anyjától, mennyi pénze lenne?",
+        "answer": "58 "
+    },
+    {
+        "question": "Egy négyzet alakú konyha területe 100 négyzetméter. Mekkora a konyha kerülete?",
+        "answer": "40 "
+    },
+    {
+        "question": "Egy papírzacskóba 16 süti fér. Ha Edgar vesz 292 sütit, hány papírzacskóra van szüksége?",
+        "answer": "19 "
+    },
+    {
+        "question": "Sam 86 perecet tett egy tálba a partira. A barátai 49-et ettek meg belőle. Sam még 27 perecet tett bele. Hány perec volt akkor a tálban?",
+        "answer": "64 "
+    },
+    {
+        "question": "Az orvosi rendelőben a folyóiratok rendszerezése közben Blanca az első kupacba 3, a másodikba 4, a harmadikba 6, a negyedikbe pedig 9 tárat tett. Ha ez a minta folytatódik, hány folyóiratot tesz Blanca az ötödik kupacba?",
+        "answer": "13 "
+    },
+    {
+        "question": "Carol gyöngy nyakláncokat készít a barátainak. 159 gyöngye van, és minden nyaklánchoz 37 gyöngy tartozik. Körülbelül hány nyakláncot tud készíteni Carol?",
+        "answer": "4 "
+    },
+    {
+        "question": "Egy bulira készülve Brant desszerteket rak a tányérokra. A csokitortát 15, a sajttortát 6 darabra vágjuk. Ha egyforma tányérokat szeretne készíteni anélkül, hogy torta maradna, hány tálat tud elkészíteni?",
+        "answer": "3 "
+    },
+    {
+        "question": "Egy légitársaságnak 41 csomagja van, amit el kell raknia. Ha minden csomagtérben 5 db poggyász fér el, hány darab lesz abban a rekeszben, amelyik nincs tele?",
+        "answer": "1 "
+    },
+    {
+        "question": "Oscarnak 14 rock CD-t, 12 klasszikus CD-t és 8 pop CD-t kell szállítania. Minden dobozba csak egyféle CD-t csomagolhat, és minden dobozba ugyanannyi CD-t kell pakolnia. Hány CD-t tud a legtöbb CD dobozba csomagolni?",
+        "answer": "2 "
+    },
+    {
+        "question": "Bob 9 másodpercenként megüti a dobokat és 12 másodpercenként a cintányérokat. Ha egyszerre ütötte meg mindkettőt, hány másodpercnek kell eltelnie, mielőtt újra egyszerre üti meg őket?",
+        "answer": "36 "
+    },
+    {
+        "question": "George száztizenkilenc dollárt próbál keresni néhány új játékért. Ha három dollárt kér egy fűnyírásért, hány pázsitot kell lenyírnia, hogy pénzt keressen?",
+        "answer": "40 "
+    },
+    {
+        "question": "A John's Pizza Palace-ban a nyitvatartási idő alatt a következő pizzákat adtak el: 92 db pepperoni, 106 db kolbász, 96 db sajt, 104 db gomba, 96 db szardella és 88 db ananász. Mennyi az eladott pizzák számának átlaga?",
+        "answer": "97 "
+    },
+    {
+        "question": "A Jerry háza mögötti erdő 6 mérföld széles és 3 mérföld hosszú volt. Mekkora az erdő területe?",
+        "answer": "18 "
+    },
+    {
+        "question": "Egy két szám számjegyeinek összege 15. A szám 27-tel csökken, a számjegyek megfordulnak. Keresse meg a számot.",
+        "answer": "96"
+    },
+    {
+        "question": "Robinnak 30 dal volt az mp3-lejátszóján. Ha 8 régi dalt törölt belőle, majd hozzáadna 10 új dalt, hány dal van az mp3-lejátszóján?",
+        "answer": "32 "
+    },
+    {
+        "question": "Mariának van 3 doboz tojása. Minden dobozban 7 tojás fér el, és egy tokban 8 doboz található. Hány tojása van Máriának?",
+        "answer": "21.0"
+    },
+    {
+        "question": "A Z-100 rádióállomás minden 100. hívónak 100 dolláros számlát adott a verseny során, és minden 40. hívónak Jingle Ball jegyet adott. Hány hívónak kell hívnia, mielőtt valaki 100 dolláros számlát és Jingle Ball jegyet is nyer?",
+        "answer": "200 "
+    },
+    {
+        "question": "Kevin játékokat gyűjtött, amelyeket nyereményként használhat a vásáron. 14 plüssállatot gyűjtött össze. 18 frizbit és több jojót is összegyűjtött. Kevinnek összesen 50 díja van. Hány jojót gyűjtött össze Kevin?",
+        "answer": "18 "
+    },
+    {
+        "question": "Ha egy bizonyos szám háromszorosából kivonunk ötöt, az eredmény 10. Mi ez a szám?",
+        "answer": "5"
+    },
+    {
+        "question": "Robin gyöngy nyakláncokat készít. 31 gyöngyből szeretne 4 nyakláncot készíteni. Ha azt szeretné, hogy minden nyakláncban ugyanannyi gyöngy legyen, hány gyöngye marad?",
+        "answer": "3 "
+    },
+    {
+        "question": "A Brenda egy radírgyűjteményt szeretne 90 darabos csoportokra osztani. Brendának 270 radírja van. Hány csoport jön létre?",
+        "answer": "3.0"
+    },
+    {
+        "question": "Kate 12 éves. A kora négyszer akkora, mint Robbie. Keresse meg Robbie korát.",
+        "answer": "3 "
+    },
+    {
+        "question": "A helyi rádióállomás éves zenelejátszót és koncertjegyet ajándékoz. Egy perc erejéig minden 5. hívó zenelejátszót, minden 7. hívó pedig koncertjegyet nyer. Ön volt az első hívó, aki zenelejátszót és koncertjegyet is nyert! Milyen számot hívtál?",
+        "answer": "35 "
+    },
+    {
+        "question": "Jennifernek 87 cm hosszú szalagja van. A szalagból 24 cm-es ajándékot köt barátjának, 45 cm-t pedig masni készítéséhez. Mennyi marad a végén a szalagból?",
+        "answer": "18 "
+    },
+    {
+        "question": "Cody megszámolta, hányszor hegyezték ki az emberek a ceruzájukat az órán egy héten keresztül. Megszámolta: 13, 8, 13, 21, 7 és 23. Mi a számok átlaga?",
+        "answer": "14.2 "
+    },
+    {
+        "question": "Ha Lawrence 4 kilométert gyalogolt 3 kilométeres óránkénti sebességgel, mennyit gyalogolt Lawrence?",
+        "answer": "1.0"
+    },
+    {
+        "question": "A Melody 53 egyforma hóember rajzot nyomtatott. Ha képes volt 4 egyforma hóember rajzot tartalmazó kártyákat készíteni, hány kártyát tudott elkészíteni?",
+        "answer": "13 "
+    },
+    {
+        "question": "Vivian áprilisban 5, májusban 10, júniusban 20, júliusban pedig 40 darab postát küldött. Ha ez a minta folytatódik, hány levelet küld Vivian augusztusban?",
+        "answer": "80 "
+    },
+    {
+        "question": "Nancy 615 zsírkrétát vásárolt, amelyek 15-ös kiszerelésben voltak. Hány csomag zsírkrétát vett Nancy?",
+        "answer": "41.0"
+    },
+    {
+        "question": "A körhintónak 2 yard átmérőjű, kör alakú platformja van. Mekkora a platform területe?",
+        "answer": "3.14 "
+    },
+    {
+        "question": "A citromfejek 6 darabot tartalmaznak. Louis 54 citromfejet evett. Hány egész dobozt evett meg, és hány citromfeje maradt?",
+        "answer": "9.0"
+    },
+    {
+        "question": "Marynek 33 Pokémon kártyája volt, és 6 elszakadt. Sam 23 új Pokemon kártyát adott Marynek. Hány Pokémon kártyája van most Marynek?",
+        "answer": "56.0"
+    },
+    {
+        "question": "Egy postán ötszáznyolcvankét levélszemét van, amelyeket hét postakocsi között akarnak felosztani. Hány felesleges levélszemét lesz, ha minden kamionnak ugyanannyit adnak?",
+        "answer": "1 "
+    },
+    {
+        "question": "A téglalap hosszának és szélességének aránya 6:5. A hossza 24 hüvelyk. Mekkora a szélessége?",
+        "answer": "20 "
+    },
+    {
+        "question": "Tommynak 79 dollárja van. 35 dolláros fényképezőgépet szeretne vásárolni. 59 dolláros CD-lejátszót is szeretne vásárolni. Mennyi pénzre van még szüksége Tommynak?",
+        "answer": "15 "
+    },
+    {
+        "question": "Camryn minden 11. napon gyakorolja a trombitát és minden harmadik napon a furulyát. Camryn ma a trombitát és a furulyát is gyakorolta. Hány nap van addig, amíg Camryn ugyanazon a napon ismét gyakorolja a trombitát és a furulyát?",
+        "answer": "33 "
+    },
+    {
+        "question": "Egy tartály űrtartalma 32 gallon. Ha egy cég 728 gallon olajat vásárolt, hány tartályra van szükség az összes olaj tárolására?",
+        "answer": "23 "
+    },
+    {
+        "question": "Egy étterem hozzáadott egy új szabadtéri részt, amely 4 méter széles és 6 méter hosszú volt. Mekkora az új szabadtéri részük területe?",
+        "answer": "24 "
+    },
+    {
+        "question": "Egy maratont szervező bizottságnak 16 korsó víz és 12 korsó sportitalla van. A bizottság több frissítő állomást szeretne kialakítani a maratoni pálya mentén, minden állomáson azonos kombinációjú víz- és sportitalos kancsókkal, italok nélkül. Hány frissítőállomást lehet felállítani?",
+        "answer": "4 "
+    },
+    {
+        "question": "A rádió 100 dolláros számlát adott minden 100. hívó után. Minden 30. telefonáló ingyenes koncertjegyet kapott. Hány hívónak kell átjutnia ahhoz, hogy valamelyikük megkapja a kupont és a koncertjegyet is?",
+        "answer": "300 "
+    },
+    {
+        "question": "Henry és Margo mindketten egy kör alakú pályán kezdtek el utazni. Henry biciklizik, Margo pedig sétál. Henrynek 7 percbe telik, hogy végigcsinálja, Margónak pedig 12 percet vesz igénybe. Mennyi idő telik el, amíg találkoznak a rajtvonalnál?",
+        "answer": "84 "
+    },
+    {
+        "question": "Johnnak 33 zoknija volt. Ha kidobna 19 régit, ami nem passzolt, és venne 13 újat, hány zoknija lenne?",
+        "answer": "27 "
+    },
+    {
+        "question": "Ariel virágdíszeket készít. 7 rózsája és 14 százszorszépje van. Ha Ariel az összes díszt egyforma akarja készíteni, és nem marad virága, hány virágdíszt tud készíteni?",
+        "answer": "7 "
+    },
+    {
+        "question": "Carmen 4 cseresznyenyalóka és 6 narancssárga nyalóka felhasználásával készít nyalóka csokrokat. Azt akarja, hogy minden csokor egyforma legyen, és ne maradjon nyalóka. Hány nyalókacsokrot tud a legtöbbet készíteni Carmen?",
+        "answer": "2 "
+    },
+    {
+        "question": "Mary gyorsételt kapott ebédre. Mary 1,08 dollárt költött levesre és 4,80 dollárt salátára. Mary egy 20 dolláros számlával fizetett. Mennyi volt az ebédszámla végösszege?",
+        "answer": "5.88"
+    },
+    {
+        "question": "Egy elektronikai üzletben 163 videojáték volt. Ha olyan polcokra tennék őket, ahol minden polcon 84 van, körülbelül hány polcra lenne szükségük?",
+        "answer": "2 "
+    },
+    {
+        "question": "A Monroe Vitamin Shop egyenlő mennyiségben árusított A-vitamin- és D-vitamin-kiegészítőket ma reggel, annak ellenére, hogy az A-vitamin-kiegészítők 7-es, a D-vitamin-kiegészítők pedig 17-es kiszerelésben kaphatók. Mennyi az egyes típusok közül a legkisebb darabszám, amit a bolt kaphat eladott?",
+        "answer": "119"
+    },
+    {
+        "question": "Danielnek 44 emléktányérja és 33 emlékkanalaja van. Csoportokban szeretné kiállítani őket az egész házában, mindegyik tányérok és kanalak azonos kombinációjával, anélkül, hogy egy sem maradna. Dániel hány csoportot tud a legtöbbet megjeleníteni?",
+        "answer": "11 "
+    },
+    {
+        "question": "Bridget meg akarja nyerni az óriási kitömött pandát. Összesen 75 pontra van szüksége ahhoz, hogy megszerezze. Bridget már 35 pontot szerzett a filléres pályán. A következő próbálkozásra 18 pontot szerzett. Hány pont kell még Bridgetnek?",
+        "answer": "22 "
+    },
+    {
+        "question": "Két szám különbsége 100. Ha az egyik szám 91, keresse meg a másik számot.",
+        "answer": "191"
+    },
+    {
+        "question": "Egy tükörboltban 78 tükör van raktáron. 8 tükör törött, 57 tükör eladó. Hány tükör maradt?",
+        "answer": "13 "
+    },
+    {
+        "question": "Ha 10 éve 25 éves volt, akkor most hány éves Rojer?",
+        "answer": "35 "
+    },
+    {
+        "question": "84 levél van. Minden levélen 139 katicabogár található. Hány katicabogár van összesen?",
+        "answer": "11676.0"
+    },
+    {
+        "question": "Haley és barátai újrahasznosították a papírt az osztályuknak. Minden újrahasznosított 3 font után egy pontot kaptak. Ha Haley 11 fontot, a barátai pedig 16 fontot hasznosítottak, hány pontot szereztek?",
+        "answer": "9.0"
+    },
+    {
+        "question": "Sean Monopolyt játszik a barátaival. Már 27 háza van. Sean 8 házat cserélt pénzért, hogy megvásárolja a Park Place-t. Annyi bérleti díjat szedett össze, hogy úgy döntött, még 12 házat vásárol. Hány háza volt akkor Seannak?",
+        "answer": "31 "
+    },
+    {
+        "question": "Egy egyenlő szárú háromszögben a háromszög egyik szöge 54 fok. Keresse meg a háromszög alapszögeit!",
+        "answer": "63 "
+    },
+    {
+        "question": "A Sullivan Stationery 20 db-os csomagban árul kártyákat, és 17 db-os borítékot. Ha Vera ugyanannyi kártyát szeretne mindegyikből, hány kártyát kell vásárolnia?",
+        "answer": "340 "
+    },
+    {
+        "question": "Sandy eladta képregényeinek felét, majd vett még hatot. Most 13-a van. Hány számmal kezdte?",
+        "answer": "14.0"
+    },
+    {
+        "question": "Tim 37 kagylót, Sally pedig 13 kagylót talált a tengerparton. Amikor megtisztították őket, felfedezték, hogy 25 megrepedt. Hány kagylót találtak együtt?",
+        "answer": "50.0"
+    },
+    {
+        "question": "A tanár jegyzetlapokat osztogat a diákjainak. Az első tanulónak 3, a másodiknak 12, a harmadiknak 48, a negyediknek 192 jegyzetlapot adott. Ha ez a minta folytatódik, hány jegyzetkártyát ad a tanár az ötödik diáknak?",
+        "answer": "768 "
+    },
+    {
+        "question": "Vondra szatyor élelmiszert gyűjt össze, hogy jótékony célra adományozzon. Van 7 doboz makaróni és sajt és 14 doboz zöldség. A Vondra egyenletesen szeretné felosztani őket, hogy minden táska ugyanazt a tartalmat tartalmazza, és ne maradjanak benne tárgyak. Vondra hány zsák élelmiszert tud összerakni?",
+        "answer": "7 "
+    },
+    {
+        "question": "Sachin azt mondja, hogy 6 könyve van több, mint Priyanka 6-szorosa. Sachinnak 42 könyve van. Hány könyve van Priyankának?",
+        "answer": "6 "
+    },
+    {
+        "question": "Steve poharakat rak össze; 17 műanyag poharat tett az első kötegbe, 21 műanyag poharat a másodikba, 25 műanyag poharat a harmadikba, és 29 műanyag poharat a negyedik kötegbe. Ha ez a minta folytatódik, hány műanyag poharat tesz Steve az ötödik kötegbe?",
+        "answer": "33 "
+    },
+    {
+        "question": "Egy képregény ára 37 cent. Az üzlet tulajdonosa tévedésből megfordította a számjegyeket. Ezt a számot a képregénybe írta. Mennyivel számolta fel az üzlet tulajdonosa a vásárlóját?",
+        "answer": "36 "
+    },
+    {
+        "question": "Zachary dobozokat gyűjt az újrahasznosító klubnak. Az első napon 4 dobozt talált. A második napon 9 dobozt talált. A harmadik napon 14 dobozt talált. Ha ez a minta folytatódik, szerinted hány dobozt talál Zachary a hetedik napon?",
+        "answer": "34 "
+    },
+    {
+        "question": "Egy téglalap alakú mező hossza 75 méter. Szélessége 15 méter. Sofie háromszor körbefutotta a pályát. Milyen messzire futott?",
+        "answer": "540 "
+    },
+    {
+        "question": "Alecnek kertje van, és szereti a kertjéből származó virágokat szép vázákba tenni. Alec 5 virágot tett az első vázába, 7 virágot a másodikba, 10 virágot a harmadikba és 14 virágot a negyedik vázába. Ha ez a minta folytatódik, hány virágot tesz Alec az ötödik vázába?",
+        "answer": "19 "
+    },
+    {
+        "question": "A négyzet alakú újsághirdetés mindkét oldala 8 centiméter hosszú. Mekkora az újsághirdetés kerülete?",
+        "answer": "32 "
+    },
+    {
+        "question": "Bethnek 4 csomag zsírkrétája van. Minden csomagban 10 zsírkréta található. Van 6 extra zsírkrétája is. Hány zsírkrétája van összesen Bethnek?",
+        "answer": "40.0"
+    },
+    {
+        "question": "Brunónak volt néhány mesekönyve. 4 darabot elveszített, apja pedig adott még 10 könyvet. Ha ezután 39 könyve volt, akkor Brunónak hány könyve volt először?",
+        "answer": "33 "
+    },
+    {
+        "question": "Nancy számolta, hány ember van a játszótéren különböző játékokon. Megszámolta: 6, 12, 1, 12, 7, 3 és 8. Mi az emberek átlaga?",
+        "answer": "7 "
+    },
+    {
+        "question": "Ádámnak 5 dollárja volt. A boltban 2 dollárt költött egy új játékra. Ha további 5 dollárt kapott a segélyért, mennyi pénze van most?",
+        "answer": "8 "
+    },
+    {
+        "question": "Mrs. Hilt vett 6 hot dogot. Minden hot dog 50 centbe került. Mennyi pénzt fizetett az összes hot dogért?",
+        "answer": "300.0"
+    },
+    {
+        "question": "Egy fürdőszoba 4 láb hosszú és 8 négyzetláb összterületű volt. Mekkora a fürdőszoba szélessége?",
+        "answer": "2 "
+    },
+    {
+        "question": "Heather élvezi a madárlesést, és ebben a szezonban kétféle madarat figyelt meg: kacsákat és sirályokat. Míg a kacsák 18-as rajokban, a sirályok 10-es rajokban utaztak. Ha Heather összesen ugyanannyi kacsát és sirályt figyelt meg, mennyi a legkisebb számú kacsa, amelyet megfigyelhetett?",
+        "answer": "90 "
+    },
+    {
+        "question": "A karneválon 6 barát vásárolt 27 jegyet. Ha fel akarnák osztani az összes jegyet, hogy minden barát ugyanannyit kapjon, hány jegyet kellene még vásárolniuk?",
+        "answer": "3 "
+    },
+    {
+        "question": "Egy étterem 9 hot dogot szolgál fel ebéd közben és 2 vacsora közben. Tegnap 5-öt szolgált ki. Hány hot dogot szolgáltak fel ma?",
+        "answer": "11.0"
+    },
+    {
+        "question": "A gumigolyókat 5 db-os csomagban szállítják. Nathan 20 gumigolyót evett. Hány egész dobozt evett meg és hány gumigombóc maradt?",
+        "answer": "4.0"
+    },
+    {
+        "question": "Sandy kutyájának 8 kölyke volt és 4-nek foltos volt. 4-et adott a barátainak. Hány kiskutyája van most?",
+        "answer": "4.0"
+    },
+    {
+        "question": "Sarah 24 doboz Lemon Chalet Cremest adott el. Hány 12 dobozból és plusz dobozból álló dobozra van szüksége Sárának?",
+        "answer": "2.0"
+    },
+    {
+        "question": "Néhány utas van egy buszon. Egy buszmegállóban további 7 utas szállt fel a buszra, és 9 utas szállt le. Ha végül 26 utas van a buszon, hány utas volt eleinte?",
+        "answer": "28 "
+    },
+    {
+        "question": "Ryan 89 levelet gyűjtött össze. 24 levelet veszített. Egy idő után további 43 levél tört le. Hány levél maradt még a gyűjteményében?",
+        "answer": "22 "
+    },
+    {
+        "question": "Egy darab sziklát úgy vágtak le, hogy hossza 6 láb x 5 láb volt. Mekkora a lapkő területe?",
+        "answer": "30 "
+    },
+    {
+        "question": "Ha van 2 negyede, 1 fillére és 3 fillére, mennyi pénze van?",
+        "answer": "0.63 "
+    },
+    {
+        "question": "Egy állatkereskedésben 2 kutya volt. Vasárnap kaptak még 5-öt. Hétfőn kaptak még 3-at. Hány kutyája van most az állatkereskedésben?",
+        "answer": "10 "
+    },
+    {
+        "question": "Mrs. Hilt vett egy jégkrémet 99 centért. Mennyibe kerülne 2 jégkrém?",
+        "answer": "198.0"
+    },
+    {
+        "question": "Veronica készenléti készleteket készít, amelyeket megoszthat barátaival. Van 20 palack vize és 12 doboz kaja, amit egyenlő arányban szeretne elosztani a készletek között, úgy, hogy semmi sem marad. Hány készletet készíthet Veronica a legtöbben?",
+        "answer": "4 "
+    },
+    {
+        "question": "Egy partin a sajtos pizzát 6 szeletre, a zöldséges pizzát 12 szeletre vágják. Ha a házigazda ugyanazt a sajt- és zöldségszelet kombinációt tartalmazó tálakat szeretne felszolgálni, és nem marad szelet, hány tálat készíthet a legtöbb?",
+        "answer": "6 "
+    },
+    {
+        "question": "A paralelogramma alapja 11 hüvelyk, területe 132 négyzetméter. hüvelyk. Keresse meg a paralelogramma magasságát!",
+        "answer": "12 "
+    },
+    {
+        "question": "Malia bogyókat szed a bogyós foltban. Az első bokorról 3 bogyót szed le, a másodikról 4 bogyót, a harmadikról 7 bogyót, a negyedikről 12 bogyót. Ha ez a minta folytatódik, hány bogyót szed le Malia az ötödik bokorról?",
+        "answer": "19 "
+    },
+    {
+        "question": "Egyszerre két óra van bekapcsolva. 15 percenként megszólal egy óra. A másik óra 25 percenként szól. Hány perc múlva fognak együtt harangozni?",
+        "answer": "75 "
+    },
+    {
+        "question": "3 rózsa volt a vázában. Alyssa vágott néhány rózsát a virágoskertjéből. Jelenleg 14 rózsa van a vázában. Hány rózsát vágott?",
+        "answer": "11.0"
+    },
+    {
+        "question": "Sam egyenlő hosszúságú szalagdarabokat vágott ki egy 3730 cm hosszú szalagból. Ha minden darab 73 cm hosszú volt, mennyi maradt meg az eredeti szalagból?",
+        "answer": "7 "
+    },
+    {
+        "question": "Keith szereti a kártyákkal kereskedni. 4 csomag Digimon kártyát vett egyenként 4,45 dollárért, és egy pakli baseball kártyát 6,06 dollárért. Mennyit költött Keith kártyákra?",
+        "answer": "23.86"
+    },
+    {
+        "question": "Nyaralás közben Debby 24 képet készített az állatkertben és 12 képet a múzeumban. Ha később 14 képet törölt, hány kép maradt még a nyaralásáról?",
+        "answer": "22 "
+    },
+    {
+        "question": "Magginak 3 csomag cupcake volt. Minden csomagban 4 db cupcake található. 5 cupcake-t evett. Hányan maradtak?",
+        "answer": "12.0"
+    },
+    {
+        "question": "Új üzlet nyílt a bevásárlóközpontban. Az első óra alatt 94-en jöttek be és 27-en távoztak. A második óra alatt 18-an jöttek be és 9-en távoztak. Hányan voltak még az üzletben 2 óra elteltével?",
+        "answer": "76 "
+    },
+    {
+        "question": "Egy repülőgép hangár 300 láb hosszú. Hány repülő fér bele, a végétől a végéig, ha mindegyik gép 40 láb hosszú?",
+        "answer": "7 "
+    },
+    {
+        "question": "Linda epergumit vásárol 6 db-os kiszerelésben és áfonyás gumit 5 db-os kiszerelésben. Ha Linda ugyanannyit szeretne vásárolni mindenféle gumiból, hány darabot kell vásárolnia az egyes ízekből?",
+        "answer": "30 "
+    },
+    {
+        "question": "50 db almafát és 30 db barackfát ültetek. Soronként azonos számú és típusú fát szeretnék. Legfeljebb hány fát ültethetek soronként?",
+        "answer": "10 "
+    },
+    {
+        "question": "Karlene kedden 3 oldalt, szerdán 6 oldalt, csütörtökön 12 oldalt, pénteken 24 oldalt és szombaton 48 oldalt olvasott el. Ha ez a minta folytatódik, hány oldalt fog Karlene elolvasni vasárnap?",
+        "answer": "96 "
+    },
+    {
+        "question": "Samuelnek 14 teke volt. Ha Samuel egyenlő számú teket adott a 4 barátjának, majd megette, ami megmaradt, hány teket evett meg mindenki?",
+        "answer": "3 "
+    },
+    {
+        "question": "A cheddar sajtcsomagok 12 szeletet tartalmaznak, míg a svájci sajtcsomagok 28 szeletet tartalmaznak. Ha Randy ugyanannyi szeletet vett az egyes sajtfajtákból, hány szeletet tudott volna Randy megvásárolni a legkevesebb darabból?",
+        "answer": "84 "
+    },
+    {
+        "question": "Tíz évvel ezelőtt két fiú életkorának összege az apjuk életkorának egyharmada volt. Az egyik fiú két évvel idősebb a másiknál, és jelenlegi életkoruk összege 14 évvel kevesebb, mint az apa jelenlegi életkora. Keresse meg mindenki jelenlegi korát.",
+        "answer": "21 "
+    },
+    {
+        "question": "Megannek háromszázhetvenkét dal volt az mp3-lejátszóján. Ha a dalokat egyformán kilenc különböző lejátszási listára akarta tenni, hány dal maradt volna?",
+        "answer": "3 "
+    },
+    {
+        "question": "A postahivatalból származó boríték 4 hüvelyk széles és 4 hüvelyk hosszú. Mekkora a boríték területe?",
+        "answer": "16 "
+    },
+    {
+        "question": "Jacqueline-nek 4 doboz radírja van. Minden dobozban 10 radír található, és 9 doboz található egy tokban. Hány radírja van Jacqueline-nak?",
+        "answer": "40.0"
+    },
+    {
+        "question": "Bryannek 50 tekee van. Bennek 20 M&M-je van. Kinek van több? Hány van még neki?",
+        "answer": "30.0"
+    },
+    {
+        "question": "Egy hatszögletű kijelzőtábla kerülete 42 cm. A táblát szatén szalaggal kell szegélyezni. Keresse meg az oldalak szegélyezéséhez szükséges szalag hosszát.",
+        "answer": "7 "
+    },
+    {
+        "question": "Melanie-nak 30 baseballkártyája volt, és 9 elszakadt. Sara vásárolt Melanie 18 baseball kártyájából . Hány baseball kártyája van most Melanie-nak?",
+        "answer": "12.0"
+    },
+    {
+        "question": "Mike idén 15 kosárlabdameccsen vett részt, de 41-et kihagyott. Tavaly 39 meccsen lépett pályára. Mike hány kosárlabdameccsen ment összesen?",
+        "answer": "54.0"
+    },
+    {
+        "question": "Egy rétegelt lemez teljes területe 24 négyzetláb, szélessége 6 láb. Mekkora a fa hossza?",
+        "answer": "4 "
+    },
+    {
+        "question": "Az árkádon Dave 11 jegyet nyert. Ha 5 jegyet költene egy sapkára, és később nyerne még 10 jegyet, mennyi lenne?",
+        "answer": "16 "
+    },
+    {
+        "question": "Három egymást követő páros szám összege 42. Válassza ki a megfelelő változót, és alkosson egyváltozós algebrai egyenleteket, és keresse meg a különbséget a legnagyobb és a legkisebb szám között.",
+        "answer": "4"
+    },
+    {
+        "question": "Az iskolai sütemény akcióra Katie 26 cupcake-t készített. Ha eladna belőle 20-at, majd további 20-at készítene, hány cupcake lenne?",
+        "answer": "26 "
+    },
+    {
+        "question": "Omar szeret dámázni. Tegnap 37 meccset játszott. Ma 49 meccset játszott. Omar 18 meccset veszített. Hány meccset nyert?",
+        "answer": "68 "
+    },
+    {
+        "question": "A téglalap és a háromszög területének aránya 2:5. A téglalap hossza 6 cm, szélessége 4 cm. Mekkora a háromszög területe?",
+        "answer": "60 "
+    },
+    {
+        "question": "Dave vett egy új síkképernyős tévét. A képernyő 2 láb széles és 4 láb magas volt. Mekkora a képernyő területe?",
+        "answer": "8 "
+    },
+    {
+        "question": "Mary 45 kagylót talált, Melanie 23 kagylót, Jason pedig 32 kagylót talált a tengerparton. Amikor megtisztították őket, felfedezték, hogy 31 megrepedt. Hány kagylót találtak együtt?",
+        "answer": "100.0"
+    },
+    {
+        "question": "Mrs. Hutchinson óvodai osztályában a gyerekek kézlenyomatokat készítenek egy kerek agyagformába szüleiknek. A forma átmérője 4 hüvelyk. Mekkora a forma sugara?",
+        "answer": "2 "
+    },
+    {
+        "question": "Egy buli után a tortából 0,625 marad. Aznap este a nagytestvér megeszik 0,25-öt a tortából. Mennyi marad utána?",
+        "answer": "0.375"
+    }
+]

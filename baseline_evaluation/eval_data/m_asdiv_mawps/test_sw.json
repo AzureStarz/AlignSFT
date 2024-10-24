@@ -1,0 +1,3246 @@
+[
+    {
+        "question": "Baada ya miaka 15, Ariel atakuwa na umri mara nne kama alivyo sasa. Amua umri wake wa sasa.",
+        "answer": "5 "
+    },
+    {
+        "question": "Gawa puto 39 katika vikundi 7 sawa. Je, kuna puto ngapi katika kila kikundi?",
+        "answer": "5 "
+    },
+    {
+        "question": "Kulikuwa na mililita 1,050 za chai kwenye sufuria. Anna alimimina chai kwenye vikombe kadhaa. Ikiwa kulikuwa na 65 ml ya chai katika kila kikombe, ni chai ngapi iliyobaki kwenye sufuria?",
+        "answer": "10 "
+    },
+    {
+        "question": "Katika darasa la hisabati la Bw. Olsen, wanafunzi 0.7 walipata A na 0.2 walipata B. Ni sehemu gani ya wanafunzi walipata A au B?",
+        "answer": "0.9"
+    },
+    {
+        "question": "Joan alitumia $15 kununua kaptula na $14.82 kwenye koti, na $12.51 kwenye shati. Alienda kwenye maduka 3. Kwa jumla, Joan alitumia pesa ngapi kununua mavazi?",
+        "answer": "42.33"
+    },
+    {
+        "question": "Mhudumu alikuwa na wateja 47 wa kusubiri. Ikiwa wateja 41 waliondoka na kupata wateja wengine 20, angekuwa na wateja wangapi?",
+        "answer": "26 "
+    },
+    {
+        "question": "Mwalimu alitoa penseli 42 kwa wanafunzi 12 kwa usawa. Kila mwanafunzi alipata penseli ngapi?",
+        "answer": "3 "
+    },
+    {
+        "question": "Mashine ya kuosha inaweza kuosha pauni 28 za nguo kwa siku. Ikiwa kuna paundi 200 za nguo za kuosha kwa siku, ni mashine ngapi za kuosha zinahitajika?",
+        "answer": "8 "
+    },
+    {
+        "question": "Basi linaweza kusafirisha abiria 48. Ikiwa shule ya wanafunzi na walimu 1,230 wanaenda kwenye safari ya shambani, ni mabasi mangapi yanapaswa kukodishwa?",
+        "answer": "26 "
+    },
+    {
+        "question": "Gloria ana visanduku 9 vya tikiti. Kila sanduku lina tikiti 5 na kuna visanduku 10 kwenye sanduku. Gloria ana tikiti ngapi?",
+        "answer": "45.0"
+    },
+    {
+        "question": "Kisiwa katika Bahari ya Hindi kilikuwa na upana wa maili 4 na urefu wa maili 7. Mzunguko wa kisiwa ni nini?",
+        "answer": "22 "
+    },
+    {
+        "question": "Kitabu kipya cha upishi kinakuwa maarufu. Duka la vitabu la eneo hilo liliagiza nakala 4 mnamo Septemba, nakala 6 mnamo Oktoba, nakala 8 mnamo Novemba, na nakala 10 mnamo Desemba. Mtindo huu ukiendelea, duka la vitabu litaagiza nakala ngapi mnamo Januari?",
+        "answer": "12 "
+    },
+    {
+        "question": "Corey anapata pesa za ziada kutafuta mipira ya gofu iliyopotea. Lengo lake ni kupata mipira 48 ya gofu kila wikendi. Alipata mipira 16 ya gofu siku ya Jumamosi. Alipata mipira 18 zaidi ya gofu siku ya Jumapili. Corey anahitaji kupata mipira mingapi zaidi ya gofu ili kufikia lengo lake?",
+        "answer": "14 "
+    },
+    {
+        "question": "J.T. ina kadi za biashara za shujaa. Alipoteza 14 kati yao. Alitoa 19 kati yao kwa rafiki yake bora. Sasa amebakiwa na kadi 45. J.T. ni kadi ngapi. kuwa na mara ya kwanza?",
+        "answer": "78 "
+    },
+    {
+        "question": "Faye alikuwa akiuza shanga zake kwenye karakana. Aliuza shanga 3 na mikufu 7 ya vito. Ikiwa kila mkufu uligharimu dola 7, alipata pesa ngapi?",
+        "answer": "70.0"
+    },
+    {
+        "question": "Ishara ya trafiki ya mraba ina mzunguko wa futi 16. Je, kila upande wa alama ya trafiki una muda gani?",
+        "answer": "4 "
+    },
+    {
+        "question": "Carmen alifanya sit-ups 4 siku ya Jumapili, 8 sit-ups siku ya Jumatatu, 16 sit-ups Jumanne, 32 sit-ups siku ya Jumatano, na 64 sit-ups siku ya Alhamisi. Ikiwa mtindo huu utaendelea, Carmen atafanya vikao vingapi siku ya Ijumaa?",
+        "answer": "128 "
+    },
+    {
+        "question": "Vanessa alipokea dola mia sita ishirini na mbili kwa siku yake ya kuzaliwa. Baadaye alipata vitu vya kuchezea vilivyogharimu dola tisa kila kimoja. Je, angebaki na pesa ngapi ikiwa angenunua nyingi kadiri awezavyo?",
+        "answer": "1 "
+    },
+    {
+        "question": "Amanda na Sadie kila mmoja ana bendi. Bendi ya Amanda hucheza nyimbo katika seti 2 na bendi ya Sadie inacheza nyimbo katika seti 9. Baada ya kutumbuiza pamoja, bendi zote mbili zinatambua kuwa zimecheza idadi sawa ya nyimbo. Je, ni idadi gani ndogo zaidi ya nyimbo ambazo kila bendi ingeimba?",
+        "answer": "18 "
+    },
+    {
+        "question": "Tim ina jozi 39 za vichwa vya sauti na vicheza muziki 13. Tim anataka kuuza vichwa vyote vya sauti na vicheza muziki katika vifurushi vinavyofanana. Ni idadi gani kubwa zaidi ya vifurushi ambavyo Tim anaweza kutengeneza?",
+        "answer": "13 "
+    },
+    {
+        "question": "Saladi ya matunda iliyotengenezwa kwenye programu ya kupikia TV inahitaji vipande vya tikiti maji na asali. Je, ni idadi gani kubwa zaidi ya vyakula unavyoweza kutengeneza kwa kutumia matunda yote ikiwa una vipande 30 vya tikitimaji na vipande 42 vya umande wa asali?",
+        "answer": "6 "
+    },
+    {
+        "question": "Dan alijiunga na bendi ya shule yake. Alinunua clarinet kwa $130.30, na kitabu cha nyimbo ambacho kilikuwa $11.24. Dan alipata $12.32 mfukoni mwake. Dan alitumia kiasi gani kwenye duka la muziki?",
+        "answer": "141.54"
+    },
+    {
+        "question": "Hay's Linens huuza taulo za mikono katika seti za 17 na taulo za kuoga katika seti za 6. Ikiwa duka liliuza idadi sawa ya kila moja asubuhi hii, ni nambari gani ndogo zaidi ya kila aina ya taulo ambayo lazima duka iwe imeuza?",
+        "answer": "102 "
+    },
+    {
+        "question": "Mzunguko wa pembetatu ya usawa ni 54 cm. Tafuta urefu wa kila upande wa pembetatu.",
+        "answer": "18 "
+    },
+    {
+        "question": "Wakati wa saa 6 za kwanza za maonyesho kulikuwa na idadi ifuatayo ya wateja: 58, 58, 62, 55, 49 na 48. Nini maana ya idadi ya wateja?",
+        "answer": "55 "
+    },
+    {
+        "question": "Familia ya Montoya hutumia 0.6 ya bajeti yao kununua mboga na nyingine 0.2 kwenda kula chakula. Kwa ujumla, ni sehemu gani ya bajeti ambayo familia ya Montoya hutumia kununua chakula?",
+        "answer": "0.8"
+    },
+    {
+        "question": "Kila mwaka, samoni husafiri juu ya mto, wakienda kutoka baharini hadi mito ambako walizaliwa. Mwaka huu, samoni 712261 wa kiume na 259378 wa kike walirudi kwenye mito yao. Ni samaki wangapi waliosafiri?",
+        "answer": "971639.0"
+    },
+    {
+        "question": "Siku ya Jumatatu, wanafunzi mia tatu tisini na sita walisafiri kwenda mbuga ya wanyama. Mabasi yote saba yalijaa na wanafunzi wanne walilazimika kusafiri kwa magari. Ni wanafunzi wangapi katika kila basi?",
+        "answer": "56 "
+    },
+    {
+        "question": "Kwenye wimbo wa magari ya mbio zinazodhibitiwa kwa mbali, gari la mbio A litakamilisha wimbo huo kwa sekunde 28, huku gari la mbio B linakamilisha baada ya sekunde 24. Ikiwa wote wawili wataanza kwa wakati mmoja, baada ya sekunde ngapi watakuwa upande kwa upande tena?",
+        "answer": "168 "
+    },
+    {
+        "question": "Watoto 52 na watu wazima 29 walihudhuria mkutano huo. Uwanja una viti 95. Ni viti vingapi vilikuwa tupu?",
+        "answer": "14  "
+    },
+    {
+        "question": "Kulikuwa na wasichana 18 na wavulana 15 kwenye timu ya wimbo. Wasichana 7 zaidi walijiunga na timu. Wavulana 4 waliacha timu. Ni watoto wangapi walikuwa kwenye timu ya wimbo wakati huo?",
+        "answer": "36 "
+    },
+    {
+        "question": "Wavulana 9 walikwenda kumwagilia miti. Kulikuwa na miti 29. Ikiwa kila mmoja wao alimwagilia kiasi sawa cha miti, ni miti mingapi iliyobaki?",
+        "answer": "2 "
+    },
+    {
+        "question": "Mike alipata seashell 6 na starfish 4, lakini 4 kati ya ganda hilo zilivunjwa. Mike alipata ganda ngapi za bahari ambazo hazijakatika?",
+        "answer": "2.0"
+    },
+    {
+        "question": "Marian alioka mkate, vidakuzi na keki Jumamosi moja nyumbani kwa ajili ya familia na marafiki zake msimu huu wa likizo. Alitengeneza biskuti 47 za mkate wa tangawizi ambazo atazisambaza kwa usawa katika mitungi midogo ya glasi. Ikiwa kila jar inapaswa kuwa na vidakuzi sita kila moja, ni biskuti ngapi hazitawekwa kwenye jar?",
+        "answer": "5 "
+    },
+    {
+        "question": "Cindy alikuwa na vipande 41 vya peremende. Alikula vipande sita asubuhi, na vipande kumi na mbili zaidi alasiri. Je, amebakisha vipande vingapi vya pipi?",
+        "answer": "23 "
+    },
+    {
+        "question": "Shuleni walimu kadhaa walikuwa wakifanya shindano la kuona ni darasa gani lingeweza kupata alama za mambo madogo zaidi. Darasa la Bi.William lilipata pointi 50. Darasa la Bw. Adams lilipata pointi 57. Darasa la Bi. Brown lilipata 49 na darasa la Bi.Daniel lilipata 57. Nini maana ya idadi ya pointi zilizopigwa?",
+        "answer": "53.3 "
+    },
+    {
+        "question": "Mzunguko wa kadi ya posta ni inchi 20. Kadi ya posta ina upana wa inchi 6. Je, ni urefu gani?",
+        "answer": "4 "
+    },
+    {
+        "question": "Waya mbili zenye urefu wa sm 448 na sm 616 zinapaswa kukatwa vipande vipande vya urefu sawa bila salio. Je, ni urefu gani unaowezekana wa vipande?",
+        "answer": "56 "
+    },
+    {
+        "question": "Martin anabandika vipande vya karatasi ya rangi ya mraba yenye ukubwa sawa kwenye ubao wenye ukubwa wa sm 72 kwa 90 cm. Ikiwa vipande vya mraba tu vinatumiwa, na ubao unapaswa kufunikwa kabisa, ni urefu gani mkubwa zaidi wa upande wa kila karatasi ya rangi ya mraba?",
+        "answer": "18 "
+    },
+    {
+        "question": "Akiwa anaendesha maduka kupita, Dave alihesabu idadi ya magari kwenye maeneo ya kuegesha. Alihesabu: 30, 14, 14, 21 na 25. Nini maana ya magari aliyohesabu?",
+        "answer": "20.8 "
+    },
+    {
+        "question": "Kayla alipata mchezo mpya wa video. Alifunga pointi 2 kwenye ngazi ya kwanza, pointi 3 kwenye ngazi ya pili, pointi 5 kwenye ngazi ya tatu, pointi 8 kwenye ngazi ya nne, na pointi 12 kwenye ngazi ya tano. Mtindo huu ukiendelea, Kayla atafunga pointi ngapi katika kiwango cha sita?",
+        "answer": "17 "
+    },
+    {
+        "question": "Morris aliona aina mbili za ndege wanaosafiri: bata na korongo. Ingawa bata walisafiri katika makundi 13, korongo walisafiri katika makundi 17. Ikiwa Morris aliona idadi sawa ya bata na korongo, ni idadi gani ndogo zaidi ya bata ambayo angeona?",
+        "answer": "221 "
+    },
+    {
+        "question": "Wakati wa kampeni ya seneti, mfanyakazi wa kujitolea alipitisha kitufe cha \"Pigia kura Hatfield\". Kitufe cha kampeni kina kipenyo cha sentimita 8. Mduara wa kifungo ni nini?",
+        "answer": "25.12 "
+    },
+    {
+        "question": "Rupert na Ronald walifaulu mtihani wao wa hesabu. Kwa hivyo mama yao aliwanunulia trampoline nzuri jana. Ronald aliruka mara 157 kwenye trampoline. Rupert aliruka mara 86 zaidi ya Ronald. Waliruka mara ngapi kwa pamoja?",
+        "answer": "243.0"
+    },
+    {
+        "question": "Bi. Hilt na dadake waliendesha gari hadi kwenye tamasha umbali wa maili 78. Waliendesha maili 32 na kisha wakasimama kutafuta gesi. Dada yake aliweka galoni 28 za gesi kwenye gari. Wamebakiza maili ngapi kuendesha gari?",
+        "answer": "46.0"
+    },
+    {
+        "question": "Evan ana mkusanyiko mkubwa wa vitabu. Alimpa rafiki yake mkubwa vitabu 14. Alimpa kaka yake mdogo vitabu 8. Sasa Evan ana vitabu 60 katika mkusanyiko wake. Alikuwa na vitabu vingapi mwanzoni?",
+        "answer": "82 "
+    },
+    {
+        "question": "Mary alikuwa na kadi za besiboli 18, na 8 zilichanika. Fred alimpa Mary kadi 26 mpya za besiboli. Mary alinunua kadi 40 za besiboli. Mary ana kadi ngapi za besiboli sasa?",
+        "answer": "84.0"
+    },
+    {
+        "question": "Klabu ya maigizo hukutana katika ukumbi wa shule kila baada ya siku 3, na kwaya hukutana hapo kila baada ya siku 5. Ikiwa vikundi vyote vinakutana katika ukumbi leo, basi ni siku ngapi kutoka sasa vitalazimika kushiriki ukumbi huo?",
+        "answer": "15 "
+    },
+    {
+        "question": "Jumla ya tarakimu za nambari ya tarakimu mbili ni 15. Ikiwa tarakimu katika nafasi ya kumi 8, pata nambari mbili za tarakimu.",
+        "answer": "87"
+    },
+    {
+        "question": "Sherman hucheza gofu kila siku ya 6 na Brad huenda gofu kila siku ya 7. Ikiwa Sherman na Brad wote walienda kucheza gofu leo, ni siku ngapi hadi waende kucheza gofu siku moja tena?",
+        "answer": "42 "
+    },
+    {
+        "question": "Sara ana maua 16 mekundu na maua 24 ya manjano. Yeye anataka kufanya bouquets na idadi sawa ya kila ua rangi katika kila bouquet. Ni idadi gani kubwa zaidi ya bouquets anazoweza kutengeneza?",
+        "answer": "8 "
+    },
+    {
+        "question": "Huku msimu wa mafua ukija, Lexi anaamua kutengeneza vifaa vya kupona hivi karibuni. Ana makopo 10 ya supu ya kuku na masanduku 15 ya tishu, ambayo anataka kutumia kutengeneza vifaa vinavyofanana bila vifaa vilivyobaki. Je, ni idadi gani kubwa zaidi ya vifaa vya kupona hivi karibuni ambavyo Lexi anaweza kutengeneza?",
+        "answer": "5 "
+    },
+    {
+        "question": "Jessica alitumia nusu ya posho yake kwenda kwenye sinema. Aliosha gari la familia na kupata dola sita. Je, posho yake ya kila wiki ni nini ikiwa aliishia na dola kumi na moja?",
+        "answer": "10 "
+    },
+    {
+        "question": "Devon ana umri wa miaka 12. Umri wake ni 2 zaidi ya nusu ya umri wa Steven. Tafuta umri wa Steven.",
+        "answer": "20 "
+    },
+    {
+        "question": "Whitney amekusanya T-shirt 4 na vifungo 20 kutoka kwa bendi yake anayoipenda. Anataka kuzichanganya katika seti zinazofanana ili kuziuza, bila vipande vilivyosalia. Ni idadi gani kubwa zaidi ya seti ambazo Whitney anaweza kutengeneza?",
+        "answer": "4 "
+    },
+    {
+        "question": "Shule ilikuwa na wanafunzi 14 waliojiandikisha kwa timu za trivia. Ikiwa wangetaka kuwa na timu 4, na idadi sawa ya wanafunzi kwenye kila timu, ni wanafunzi wangapi zaidi wangehitaji kujisajili?",
+        "answer": "2 "
+    },
+    {
+        "question": "Bibi Smith alitoa jordgubbar 53 kwa wasichana 8 kwa usawa. Kila msichana alipata jordgubbar ngapi?",
+        "answer": "6 "
+    },
+    {
+        "question": "Duka la Kukodisha Baiskeli la Oceanside hutoza ada isiyobadilika ya dola 17 pamoja na dola 7 kwa saa kwa kukodisha baiskeli. Mary alilipa dola 80 kukodi baiskeli. Alilipa saa ngapi ili baiskeli iangaliwe?",
+        "answer": "9 "
+    },
+    {
+        "question": "Kuna wasichana 40 na wavulana 32 ambao wanataka kushiriki katika mazoezi ya ndani ya daraja la 6. Ikiwa kila timu lazima iwe na idadi sawa ya wasichana na idadi sawa ya wavulana, ni idadi gani kubwa zaidi ya timu zinazoweza kushiriki katika intramurals?",
+        "answer": "8 "
+    },
+    {
+        "question": "George ana masanduku 2 ya vitalu. Kila sanduku lina vizuizi 6 na kuna visanduku 5 kwenye kipochi. George ana vitalu vingapi?",
+        "answer": "12.0"
+    },
+    {
+        "question": "Sara alichuma peari 35 na tufaha 27 kutoka kwenye bustani. Alimpa Dani pears 28. Sara ana peari ngapi?",
+        "answer": "7.0"
+    },
+    {
+        "question": "Mcheshi alihitaji puto mia mbili ishirini na saba kwa tafrija aliyokuwa akienda, lakini puto hizo zilikuja katika pakiti mbili tu. Angehitaji kununua pakiti ngapi za puto?",
+        "answer": "114 "
+    },
+    {
+        "question": "Baba ya John alinunua mita mia nne kumi na nne ya kamba. Ikiwa alitaka kukata uzi vipande vipande na kila kipande kikiwa na urefu wa mita saba, angeweza kutengeneza vipande vingapi vya ukubwa kamili?",
+        "answer": "59 "
+    },
+    {
+        "question": "Kulikuwa na mananasi 86 kwenye duka. Mmiliki aliuza mananasi 48. Mananasi 9 kati ya yaliyobaki yalikuwa yameoza na kutupwa. Ni mananasi mangapi mapya yamesalia?",
+        "answer": "29 "
+    },
+    {
+        "question": "Shaquira anaoka vidakuzi vya kuweka kwenye vifurushi vya uchangishaji fedha. Shaquira ametengeneza vidakuzi 86 vya chokoleti na vidakuzi 42 vya sukari. Shaquira anataka kuunda vifurushi vinavyofanana vya kuki ili kuuza, na lazima atumie vidakuzi vyote. Ni idadi gani kubwa zaidi ya vifurushi vinavyofanana ambavyo Shaquira anaweza kutengeneza?",
+        "answer": "2 "
+    },
+    {
+        "question": "Kitabu kilikuwa na urefu wa inchi 5 na jumla ya eneo la inchi 50 za mraba. Kitabu kina upana gani?",
+        "answer": "10 "
+    },
+    {
+        "question": "Lisa anatengeneza vikapu vya shughuli ili kuchangia misaada. Ana vitabu 12 vya kuchorea, alama 28 na kalamu za rangi 36. Ni idadi gani kubwa zaidi ya vikapu anayoweza kutengeneza ikiwa kila aina ya toy itagawanywa kwa usawa kati ya vikapu?",
+        "answer": "4 "
+    },
+    {
+        "question": "Kuna wanafunzi 32 darasani. Mwalimu aliwagawanya katika vikundi 5 sawa. Je, kuna wanafunzi wangapi katika kila kikundi?",
+        "answer": "6 "
+    },
+    {
+        "question": "Bi. Hilt alikuwa na senti 43. Alinunua penseli kwa senti 20 na kipande cha peremende kwa senti 5. Alikuwa na pesa ngapi?",
+        "answer": "18 "
+    },
+    {
+        "question": "Nafikiria nambari. Ikiwa nitatoa 6 kutoka kwa nambari na kuigawanya na 13, nitapata matokeo kama 2. Tafuta nambari akilini mwangu.",
+        "answer": "32"
+    },
+    {
+        "question": "Kwa huduma yake ya simu ya masafa marefu Milan hulipa ada ya dola 2 kila mwezi pamoja na senti 12 kwa dakika. Mwezi uliopita, bili ya umbali mrefu ya Milan ilikuwa dola 23.36. Milan ilitozwa bili kwa dakika ngapi?",
+        "answer": "178.0"
+    },
+    {
+        "question": "Edward alianza biashara yake ya kukata nyasi. Katika chemchemi alitengeneza dola 2 za kukata nyasi na katika msimu wa joto alitengeneza dola 27. Ikiwa alilazimika kutumia dola 5 kununua vifaa, aliishia na pesa ngapi?",
+        "answer": "24 "
+    },
+    {
+        "question": "Cristina alioka croissants 17. Ikiwa alipanga kuwahudumia wageni wake saba kwa usawa, kila mmoja atakuwa na wangapi?",
+        "answer": "2 "
+    },
+    {
+        "question": "Bustani ina safu 52 na safu 15 za mipango ya maharagwe. Je, kuna mimea mingapi kwa yote?",
+        "answer": "780.0"
+    },
+    {
+        "question": "Wakati wa kupanga vitufe vingine, Malia aliweka kitufe 1 kwenye kisanduku cha kwanza, vitufe 3 kwenye kisanduku cha pili, vifungo 9 kwenye kisanduku cha tatu, vifungo 27 kwenye kisanduku cha nne, na vifungo 81 kwenye kisanduku cha tano. Ikiwa muundo huu utaendelea, Malia ataweka vitufe vingapi kwenye kisanduku cha sita?",
+        "answer": "243 "
+    },
+    {
+        "question": "Darasa lilikusanya makopo 122 kwa ajili ya kuchakata tena. Kama wangeweza kuweka makopo 57 katika kila mfuko, takriban ni mifuko mingapi wangehitaji?",
+        "answer": "2 "
+    },
+    {
+        "question": "Muhuri wa serikali, ambao ni wa pande zote, hutegemea jengo la capitol. Ina kipenyo cha mita 2. Eneo la muhuri ni nini?",
+        "answer": "3.14 "
+    },
+    {
+        "question": "Tiffany alikuwa akicheza mchezo wa video na alikuwa na maisha 43. Katika sehemu ngumu ya mchezo alipoteza maisha 14. Ikiwa angepata maisha 27 zaidi katika kiwango kinachofuata, angeishi maisha mangapi?",
+        "answer": "56 "
+    },
+    {
+        "question": "Caitlin yuko kwenye hatua ya 13 ya slaidi kubwa. Alishuka hatua 4 ili kuzungumza na rafiki yake Dana. Kisha akapiga hatua 12 kwenda juu. Je, slaidi kubwa ina hatua ngapi?",
+        "answer": "21 "
+    },
+    {
+        "question": "Kate, Maggie, na Sue waliongeza umri wao. Jumla ilikuwa 48. Kate ana miaka 19 na Maggie ana miaka 17. Sue ana umri gani?",
+        "answer": "12 "
+    },
+    {
+        "question": "The Litter Patrol ilichukua chupa 10 za kioo na makopo 8 ya alumini siku ya Jumamosi. Je, walichukua vipande vingapi vya takataka kwa pamoja?",
+        "answer": "18.0"
+    },
+    {
+        "question": "Jessica anataka kutengeneza maua kutoka kwa waridi 8, daisies 12 na marigold 48. Ni mipango ngapi anaweza kufanya na maua hayo ili, hakuna ua kushoto.",
+        "answer": "4 "
+    },
+    {
+        "question": "Bi. Hilt alioka mikate wikendi iliyopita kwa chakula cha jioni cha likizo. Alioka mikate 16 ya pecan na maapulo 14. Ikiwa anataka kupanga mikate yote katika safu ya pai 5 kila moja, atakuwa na safu ngapi?",
+        "answer": "30.0"
+    },
+    {
+        "question": "Gwen alipata pointi 8 kwa kila mfuko wa mikebe aliyorejesha. Ikiwa angekuwa na mifuko 4, lakini hakusafisha 2 kati yake, angepata pointi ngapi?",
+        "answer": "16.0"
+    },
+    {
+        "question": "Kuna mkasi 54 kwenye droo. Keith aliweka mikasi 22 kwenye droo. Je, sasa kuna mikasi mingapi kwa jumla?",
+        "answer": "76.0"
+    },
+    {
+        "question": "Alyssa alinunua vitu vya kuchezea. Alinunua mpira wa miguu kwa $5.71, na alitumia $6.59 kununua marumaru. Kwa jumla, Alyssa alitumia kiasi gani kununua vifaa vya kuchezea?",
+        "answer": "12.3"
+    },
+    {
+        "question": "Kwa bahati mbaya, Ugavi wa Rangi wa Luther uliuza kiasi sawa cha rangi mbili za rangi jana: njano na bluu. Rangi zote za manjano huja katika kontena za lita 2 huku rangi ya bluu inauzwa kwenye kontena za lita 19. Je, ni kiasi gani kidogo zaidi cha kila rangi ya rangi ambayo duka lazima iwe imeuza?",
+        "answer": "38 "
+    },
+    {
+        "question": "James ana puto 1222. Amy ana puto 513. James ana puto ngapi zaidi ya Amy?",
+        "answer": "208.0"
+    },
+    {
+        "question": "Mashine ya nambari hubadilisha thamani ya nambari zilizowekwa ndani yake. Mashine yangu ya nambari itaongeza 15 kwa nambari na kisha kutoa 6 kutoka kwa jumla. Ikiwa nikiweka nambari 68, ni nambari gani itatoka kwenye mashine?",
+        "answer": "77"
+    },
+    {
+        "question": "Paige alikuwa na karatasi yenye urefu wa inchi 9 na upana wa inchi 10. Eneo la karatasi ni nini?",
+        "answer": "90 "
+    },
+    {
+        "question": "Robin alikuwa na picha mia saba thelathini na sita za kuweka kwenye albamu ya picha. Ikiwa kila ukurasa una picha sita, atakuwa na kurasa ngapi kamili?",
+        "answer": "122 "
+    },
+    {
+        "question": "Duka moja lilikuwa na machungwa 40 kwenye pipa. Ikiwa wangetupa 25 ya zamani na kuweka 21 mpya kwenye pipa, wangapi wangekuwa kwenye pipa?",
+        "answer": "36 "
+    },
+    {
+        "question": "Benny aliuza nusu ya vitabu vyake vya katuni na kisha akanunua 6 zaidi. Sasa ana 17. Alianza na ngapi?",
+        "answer": "22 "
+    },
+    {
+        "question": "Ben alikuwa na kadi za besiboli. Rafiki yake, Tim, alikuwa na kadi 20. Baada ya Ben kununua kadi 3 zaidi, alikuwa na kadi mara mbili ya Tim. Ben alikuwa na kadi ngapi mwanzoni?",
+        "answer": "37 "
+    },
+    {
+        "question": "Kulikuwa na marobota 32 ya nyasi ghalani na marobota 26 kwenye banda. Jason alipanga marobota kwenye ghalani leo. Sasa kuna marobota 98 ​​ya nyasi ghalani. Je, alihifadhi marobota ngapi ghalani?",
+        "answer": "66.0"
+    },
+    {
+        "question": "Kabati ya mstatili ni ya urefu wa 6 m na mzunguko wa 20 m. Tafuta upana wa kabati.",
+        "answer": "4 "
+    },
+    {
+        "question": "Walikuwa na masanduku 119 ya kiberiti yaliyofungwa kwa kanga za rangi zinazong'aa. Iwapo watasambaza visanduku vya kiberiti kwa usawa kwa nyumba 9 katika block ya kwanza, je, watakuwa wamebakisha visanduku vingapi vya rangi?",
+        "answer": "2 "
+    },
+    {
+        "question": "Wanafunzi 94 walijiandikisha kwa madarasa ya kompyuta. Kulikuwa na wanafunzi 24 wa darasa la pili na 29 wa darasa la tatu. Wanafunzi wengine walikuwa wa darasa la nne. Je! ni wanafunzi wangapi wa darasa la nne walichukua masomo ya kompyuta?",
+        "answer": "41 "
+    },
+    {
+        "question": "Shule ya upili ya Joan ilicheza michezo ya besiboli 864 mwaka huu, michezo 128 kati ya hiyo ilichezwa usiku. Alihudhuria michezo 395. Joan alikosa michezo mingapi ya besiboli?",
+        "answer": "469.0"
+    },
+    {
+        "question": "Mike alichuma peari 8 na Jason akachuma peari 7 kutoka kwa mti wa peari. Fred alichuma tufaha 6 kutoka kwenye mti wa tufaha. Je! ni peari ngapi kwa jumla?",
+        "answer": "15.0"
+    },
+    {
+        "question": "Oliver anapanga vitabu vyake na kuviweka kwenye rafu. Aliweka vitabu 2 kwenye rafu ya kwanza, vitabu 6 kwenye rafu ya pili, vitabu 18 kwenye rafu ya tatu, na vitabu 54 kwenye rafu ya nne. Ikiwa mtindo huu utaendelea, Oliver ataweka vitabu vingapi kwenye rafu ya tano?",
+        "answer": "162 "
+    },
+    {
+        "question": "Tanner aliokoa $17 mnamo Septemba. Aliokoa $48 mnamo Oktoba na $25 mnamo Novemba. Kisha Tanner alitumia $49 kwenye mchezo wa video. Tanner ana pesa ngapi?",
+        "answer": "41.0"
+    },
+    {
+        "question": "Duka la maua linaonyesha idadi tofauti ya waridi kwenye dirisha la mbele kila mwezi. Ilionyesha waridi 108 mnamo Oktoba, waridi 120 mnamo Novemba, waridi 132 mnamo Desemba, na waridi 144 mnamo Januari. Ikiwa muundo huu utaendelea, dirisha la duka la maua litaonyesha waridi ngapi mnamo Februari?",
+        "answer": "156 "
+    },
+    {
+        "question": "Joe, ndugu ya Susie, alikusanya kadi zote 94 za biashara zilizotawanywa katika chumba chake na kuziweka kwenye masanduku. Ikiwa kisanduku kamili kinaweza kushikilia kadi 8, je kuna kadi ngapi kwenye kisanduku ambacho hakijajazwa?",
+        "answer": "6 "
+    },
+    {
+        "question": "Jack anasoma kitabu chenye kurasa 285. Je, akisoma kurasa 23 kwa siku, siku ya mwisho atasoma kurasa ngapi?",
+        "answer": "9 "
+    },
+    {
+        "question": "Penseli ya Isha ina urefu wa inchi 22. Ikiwa atanoa inchi mbili Jumatatu na inchi mbili Jumanne, penseli yake itakuwa ya muda gani wakati huo?",
+        "answer": "18 "
+    },
+    {
+        "question": "Nambari ya tarakimu mbili ni mara nne ya jumla ya tarakimu zake na mara mbili ya bidhaa ya tarakimu. Tafuta nambari.",
+        "answer": "36"
+    },
+    {
+        "question": "Kampuni ya magari ilizalisha magari 3,884 Amerika Kaskazini na magari 2,871 huko Uropa. Ni magari mangapi hayo yote?",
+        "answer": "6755.0"
+    },
+    {
+        "question": "Siku ya Jumatatu Debby alikimbia kilomita 2. Siku ya Jumanne alikimbia kilomita 5 na Jumatano alikimbia 9. Alikimbia kilomita ngapi?",
+        "answer": "16 "
+    },
+    {
+        "question": "Bango la filamu lilikuwa na upana wa inchi 4 na urefu wa inchi 7. Eneo la bango ni nini?",
+        "answer": "28 "
+    },
+    {
+        "question": "Joan alichuma machungwa 37 na Sara akachuma machungwa 10. Alyssa alichukua pears 30. Ni machungwa mangapi yalichumwa kwa jumla?",
+        "answer": "47.0"
+    },
+    {
+        "question": "Crackers huja katika vifurushi 18. Betty alikula crackers 45. Amebakiza crackers ngapi?",
+        "answer": "9 "
+    },
+    {
+        "question": "Cristina alioka croissants 17. Ikiwa croissants ya Cristina ilitolewa kwa usawa kati ya wageni wake saba, je, Cristina atakuwa amesalia ngapi?",
+        "answer": "3 "
+    },
+    {
+        "question": "Kikundi cha watalii kina watu 26. Katika hoteli, wanataka kukodisha vyumba vikubwa kwa watu 3 kila moja na vyumba vidogo kwa 2 kila moja. Ili kukodisha idadi ndogo ya vyumba na kila chumba kikaliwe kikamilifu, ni vyumba vingapi vikubwa vinapaswa kukodishwa?",
+        "answer": "8 "
+    },
+    {
+        "question": "Kulikuwa na mililita 1,050 za chai kwenye sufuria. Anna alimimina chai kwenye vikombe kadhaa. Ikiwa kulikuwa na 65 ml ya chai katika kila kikombe, ni vikombe ngapi vilivyojaa chai?",
+        "answer": "16 "
+    },
+    {
+        "question": "Theluthi moja ya nambari ukiondoa saba inatoa nane. Tafuta nambari.",
+        "answer": "45"
+    },
+    {
+        "question": "Willie ana ndizi 48. Charles ana ndizi 14. Anapoteza 35. Willie atakuwa na ndizi ngapi?",
+        "answer": "13.0"
+    },
+    {
+        "question": "Jake aliweka stendi ya peremende kwenye yadi yake ya mbele. Ana vipande 80 vya peremende za kuuza. Aliuza vipande 15 vya peremende siku ya Jumatatu. Aliuza zaidi ya hiyo Jumanne. Kufikia Jumatano, Jakes alikuwa na vipande 7 tu vilivyosalia. Jake aliuza vipande vingapi vya pipi Jumanne?",
+        "answer": "58 "
+    },
+    {
+        "question": "Kuna kalamu za rangi 41 na penseli 26 kwenye droo. Sam aliweka kalamu za rangi 12 kwenye droo. Je, sasa kuna kalamu ngapi kwa jumla?",
+        "answer": "53.0"
+    },
+    {
+        "question": "Joan alijiunga na bendi ya shule yake. Alinunua tarumbeta kwa $149.16, zana ya muziki kwa $9.98, na kitabu cha nyimbo ambacho kilikuwa $4.14. Joan alipata $ 8.65 mfukoni mwake. Joan alitumia kiasi gani kwenye duka la muziki?",
+        "answer": "163.28"
+    },
+    {
+        "question": "Kuna watoto 46 darasani, kila mwanafunzi atapata penseli dazeni 4. Je, mwalimu atalazimika kutoa penseli ngapi?",
+        "answer": "2208.0"
+    },
+    {
+        "question": "Je, ungekuwa na vidakuzi vingapi ikiwa ungekuwa na mifuko 37 ya vidakuzi na vidakuzi 19 katika kila mfuko?",
+        "answer": "703.0"
+    },
+    {
+        "question": "Nikaweka namba nyingine kwenye mashine yangu. Mashine iliongeza 15 kisha ikatoa 6. Nambari 35 ilitoka kwenye mashine. Nimeweka namba gani?",
+        "answer": "26"
+    },
+    {
+        "question": "Jonathan anataka kununua kamusi inayogharimu $11, kitabu cha dinosaur kinachogharimu $19, na kitabu cha watoto cha kupikia ambacho kinagharimu $7. Ameokoa $8 kutoka kwa posho yake. Je, Jonathan anahitaji pesa ngapi zaidi ili kununua vitabu vyote vitatu?",
+        "answer": "29.0"
+    },
+    {
+        "question": "Ronald na Tim wote walifua nguo zao leo. Ronald hufua nguo kila baada ya siku 6 na Tim hufua kila baada ya siku 9. Je, itakuwa siku ngapi hadi Ronald na Tim wafue nguo siku moja tena?",
+        "answer": "18 "
+    },
+    {
+        "question": "Joan alipata ganda 72 na samaki nyota 12 ufukweni. Alimpa Alyssa baadhi ya maganda yake ya bahari. Ana ganda 28 la bahari. Alimpa Alyssa shell ngapi za bahari?",
+        "answer": "44.0"
+    },
+    {
+        "question": "Duka la pizza lilikuwa na vipande 11 vya pepperoni vya kuweka kwenye pizza zao. Ikiwa kila pizza ilipata vipande 2, wangekuwa na vipande vingapi vya ziada vya pepperoni?",
+        "answer": "1 "
+    },
+    {
+        "question": "Faye alikuwa akikata kitambaa kwa ajili ya rafiki yake. Alikata kipande ambacho kilikuwa na upana wa sentimita 3 na kilikuwa na eneo la sentimita 24 za mraba. Kipande kilikuwa cha muda gani?",
+        "answer": "8 "
+    },
+    {
+        "question": "Mika hupima lenzi kwenye kioo cha kukuza na kukokotoa kuwa ina mduara wa sentimeta 31.4. Kipenyo cha lensi ni nini?",
+        "answer": "10 "
+    },
+    {
+        "question": "Adamu alikuwa akipaka ukuta chumbani kwake. Ukuta huo ulikuwa na upana wa futi 4 na urefu wa futi 4. Je, ni eneo gani la ukuta analopaswa kupaka?",
+        "answer": "16 "
+    },
+    {
+        "question": "Tessa ana tufaha 4. Anita alimpa 5 zaidi. Anahitaji tufaha 10 kutengeneza mkate. Je, ana kutosha kutengeneza mkate?",
+        "answer": "9.0"
+    },
+    {
+        "question": "Tom alipata ganda 15 na Fred akapata ganda 43 ufukweni. Walipozisafisha, waligundua kuwa 29 zilikuwa na nyufa. Je, walipata ganda ngapi za bahari pamoja?",
+        "answer": "58.0"
+    },
+    {
+        "question": "Bi. Hilt alinunua daftari kwa $1.30. Alilipa kwa nikeli. Alitumia nikeli ngapi kununua daftari?",
+        "answer": "26 "
+    },
+    {
+        "question": "Rachel ni wa tatu katika mstari. Julie ana nafasi 2 mbele yake. Julie yuko kwenye mstari gani?",
+        "answer": "1"
+    },
+    {
+        "question": "Tim ana mfuko wa pipi 36 zenye ladha ya chungwa na Peter ana mfuko wa pipi 44 zenye ladha ya zabibu. Wanapaswa kugawanya pipi katika trei ndogo na idadi sawa ya pipi; kila trei iliyo na pipi zenye ladha ya chungwa au zabibu pekee. Ikiwa hakuna salio, ni idadi gani kubwa zaidi ya pipi katika kila trei?",
+        "answer": "4 "
+    },
+    {
+        "question": "Melody alitengeneza vipande 26 vya miti ya Krismasi na mipira nyekundu inayong'aa. Ikiwa alipanga kubandika 4 kati ya hii kwenye jalada la mbele la idadi fulani ya kadi, ataweza kutengeneza kadi ngapi?",
+        "answer": "6 "
+    },
+    {
+        "question": "Nancy, Melanie, Mary, na Alyssa kila mmoja alinunua kadi za besiboli 540, ambazo zinakuja katika vifurushi 20. Je, wana pakiti ngapi za kadi za besiboli?",
+        "answer": "108.0"
+    },
+    {
+        "question": "Katika nambari ya tarakimu 2, tarakimu ya makumi ni mara 4 ya tarakimu ya vitengo. Nambari zinapogeuzwa, nambari mpya iliyoundwa ni 54 chini ya nambari ya asili. Tafuta nambari asili.",
+        "answer": "82"
+    },
+    {
+        "question": "Baba ya Sushi alinunua lollipops za x. 5 zililiwa na watoto. Ikiwa lollipop 7 zimesalia, babake Sushi alileta lollipop ngapi?",
+        "answer": "12 "
+    },
+    {
+        "question": "Rita, Peter, na Skeeter ni pengwini. Wana uzito wa pauni 90 kwa jumla. Rita na Peter wanajua wana uzito sawa. Peter na Skeeter wanajua wana uzito wa pauni 68 pamoja. Skeeter ana uzito gani?",
+        "answer": "46 "
+    },
+    {
+        "question": "Desemba ni mwezi wenye shughuli nyingi kwa duka la toy. Walikuwa na michezo 95 kwenye rafu. Michezo 68 iliuzwa wiki ya kwanza. Duka lilipata michezo 47 zaidi kutoka kwa kiwanda. Je, walikuwa na michezo mingapi wakati huo?",
+        "answer": "74 "
+    },
+    {
+        "question": "Kila nyumba anayojenga seremala inahitaji sinki sita. Je, kama angenunua sinki mia mbili sitini na sita, hiyo ingefunika nyumba ngapi?",
+        "answer": "44 "
+    },
+    {
+        "question": "Mchoraji alihitajika kupaka vyumba 12 katika jengo. Kila chumba huchukua masaa 7 kupaka rangi. Ikiwa tayari amepaka rangi vyumba 5, atachukua muda gani kuchora vingine?",
+        "answer": "49.0"
+    },
+    {
+        "question": "Sandra anapanga penseli kwenye masanduku. Aliweka penseli 78 kwenye sanduku la kwanza, penseli 87 kwenye sanduku la pili, penseli 96 kwenye sanduku la tatu, na penseli 105 kwenye sanduku la nne. Ikiwa muundo huu utaendelea, Sandra ataweka penseli ngapi kwenye kisanduku cha tano?",
+        "answer": "114 "
+    },
+    {
+        "question": "Tom alisoma vitabu 2 mnamo Mei, 6 mnamo Juni na 10 mnamo Julai. Tom alisoma vitabu vingapi?",
+        "answer": "18 "
+    },
+    {
+        "question": "Jane anaweza kupanga vase 16 za maua kwa siku. Ikiwa kuna vase 248 za maua zitapangwa, ni vases ngapi za maua atapanga siku ya mwisho?",
+        "answer": "8 "
+    },
+    {
+        "question": "Kuna chupa 2 za maji nyekundu, chupa 3 za maji nyeusi, na chupa 4 za maji za bluu kwenye friji. Ikiwa chupa 5 za maji zimetolewa, ni chupa ngapi za maji zilizobaki kwenye friji?",
+        "answer": "4 "
+    },
+    {
+        "question": "Dhoruba ya vumbi hufagia katika eneo la nyasi. Inashughulikia ekari 64535 za nyasi katika vumbi, lakini inaacha ekari 522 bila kuguswa. Jengo hilo lina ekari ngapi?",
+        "answer": "64013.0"
+    },
+    {
+        "question": "Mgahawa unahitaji kununua sahani mpya mia tatu themanini na saba. Ikiwa kila sanduku lina sahani tano ndani yake, watahitaji kununua masanduku ngapi?",
+        "answer": "78 "
+    },
+    {
+        "question": "Kipande cha plywood kilikatwa hivyo urefu wake ulikuwa futi 6 kwa futi 5. Mzunguko wa kuni ni nini?",
+        "answer": "22 "
+    },
+    {
+        "question": "Mama alinunua viazi. Alitumia viazi 15 kutengeneza saladi na viazi 24 kati ya viazi vilivyopondwa. Ikiwa kulikuwa na viazi 13, ni viazi ngapi mama alinunua mwanzoni?",
+        "answer": "52 "
+    },
+    {
+        "question": "Robert anataka kufanya mazoezi ya kufunga mabao kwa soka. Anaamua kuwa na mateke 98 kabla ya kwenda nyumbani kutoka mbugani. Anapiga mateke 43 kabla ya kupumzika ili kupata maji ya kunywa. Kisha anapiga mateke mengine 36. Je, anahitaji kupiga mateke mangapi zaidi kabla hajarudi nyumbani?",
+        "answer": "19 "
+    },
+    {
+        "question": "Jacqueline alikuwa na squash 16, mapera 18 na tufaha 21. Alimpa Jane baadhi yake na kubaki na matunda 15. Jacqueline alimpa Jane matunda mangapi?",
+        "answer": "40 "
+    },
+    {
+        "question": "Kwa Halloween, Faye alifunga vipande 47 vya pipi. Alikula vipande 25 usiku wa kwanza na kisha dada yake akampa vipande 40 zaidi. Faye ana vipande vingapi vya peremende sasa?",
+        "answer": "62 "
+    },
+    {
+        "question": "Sehemu iko katika umbo la pembetatu ya usawa iliyoambatanishwa na upana wa eneo la mstatili ambapo upana wa mstatili na upande wa pembetatu hupima sawa. Urefu wa eneo la mstatili ni 76 ft na upande wa eneo la pembetatu hupima futi 42. Tafuta eneo la uwanja.",
+        "answer": "90 "
+    },
+    {
+        "question": "Jumba la sinema lilihitaji ndoo mia nne ishirini na sita za popcorn. Ikiwa kila kifurushi kina ndoo nane ndani yake, watahitaji kununua vifurushi vingapi?",
+        "answer": "54 "
+    },
+    {
+        "question": "Dan alikuwa na kadi za besiboli 97, na 8 zilichanika. Sam alinunua kadi 15 za besiboli za Dan. Dan ana kadi ngapi za besiboli sasa?",
+        "answer": "82.0"
+    },
+    {
+        "question": "Alvin alikuwa na marumaru 57 na alicheza michezo miwili. Alipoteza marumaru 18 wakati wa mchezo wa kwanza. Alishinda marumaru 25 wakati wa mchezo wa pili. Alvin alikuwa na marumaru ngapi wakati huo?",
+        "answer": "64 "
+    },
+    {
+        "question": "Bw. Johnson alitumia mita 80 za uzio kufungia bustani ya mstatili. Urefu wa bustani ni mita 25. Je, bustani ina upana gani?",
+        "answer": "15 "
+    },
+    {
+        "question": "Lori linaweza kubeba masanduku manne. Ikiwa ungehitaji kusogeza masanduku mia nane sabini na moja kuvuka mji, ungehitaji kufanya safari ngapi?",
+        "answer": "218 "
+    },
+    {
+        "question": "Wanafunzi wa darasa la tatu wanafanya maonyesho. Wana tikiti 90 za kuuza. Waliuza tikiti 38 wiki ya kwanza na tikiti 17 wiki ya pili. Je, wamebakiza tikiti ngapi za kuuza?",
+        "answer": "35 "
+    },
+    {
+        "question": "George alinunua vipande 17 vya peremende ili kuwapa marafiki zake 5. Ikiwa anataka kumpa kila rafiki kiasi sawa, atakuwa amebakisha vipande vingapi?",
+        "answer": "2 "
+    },
+    {
+        "question": "Bryan alikuwa na mawe 8 ya thamani katika mkusanyo wake ambayo alimuuzia rafiki yake kutoka duka la vito. Ikiwa mawe yaliuzwa kwa dola 1785 kila moja, je Bryan alipata pesa ngapi kwa jumla?",
+        "answer": "14280.0"
+    },
+    {
+        "question": "Pipi huja katika vifurushi 4. Shirley alikula peremende 10. Amebakisha pipi ngapi?",
+        "answer": "2 "
+    },
+    {
+        "question": "Frank ana kitambaa cha meza cha duara na kipenyo cha futi 10. Radi ya kitambaa cha meza ni nini?",
+        "answer": "5 "
+    },
+    {
+        "question": "Kitambaa kinauzwa katika maduka kutoka kwa bolts ambazo zina upana wa 45 au 60 inchi. Je, ni upana gani wa vipande vikubwa zaidi vya kitambaa unavyoweza kukata kutoka kwa bolt bila kupoteza kitambaa chochote ikiwa kila strip ina upana sawa?",
+        "answer": "15 "
+    },
+    {
+        "question": "Familia nyingi huhudumia kila mtu katika familia glasi moja ya wanzi 6 ya juisi ya machungwa kila asubuhi. Ikiwa watanunua juisi ya machungwa kwa galoni, ni kiasi gani cha juisi kizima watapata kutoka kwa galoni moja (galoni moja = lita 4, lita 1 = wakia 32) ya juisi?",
+        "answer": "21 "
+    },
+    {
+        "question": "Kuna pipi 6 kwenye rundo kwenye dawati. Kila pipi huja katika mfuko wa 15. Pipi 4 zinaongezwa kwenye rundo. Je, kuna pipi ngapi kwenye rundo?",
+        "answer": "10.0"
+    },
+    {
+        "question": "Maktaba imegawanywa katika sehemu tofauti kwa aina tofauti za vitabu. Sehemu ya hadithi za kisayansi ina vitabu 8. Ikiwa kila kitabu kina kurasa 478, je vitabu vyote vina kurasa ngapi kwa jumla?",
+        "answer": "3824.0"
+    },
+    {
+        "question": "Kiwanda kilizalisha vichapishi 50 na skana 21. Baada ya vichapishi 41 kuuzwa, ilitoa vichapishi vingine 16. Je, kiwanda kilikuwa na vichapishi na skana ngapi mwishoni?",
+        "answer": "46 "
+    },
+    {
+        "question": "Kwenye mchoro wa kisasa wa sanaa, kuna dots 3 za kijani kwenye safu ya kwanza, dots 6 za kijani kwenye safu ya pili, dots 9 za kijani kwenye safu ya tatu, na dots 12 za kijani kwenye safu ya nne. Ikiwa muundo huu utaendelea, kutakuwa na dots ngapi za kijani kwenye safu ya tano?",
+        "answer": "15 "
+    },
+    {
+        "question": "Susie na familia yake waliamka mapema wikendi ya kwanza ya majira ya kuchipua. Walikuwa na orodha ndefu ya shughuli za kusafisha spring. Mama ya Susie alitayarisha vijiti 74 vya karoti kwa ajili ya kifungua kinywa. Ikiwa karoti zilitolewa kwa usawa kwa watu 12, ni vijiti ngapi vya karoti vilivyoachwa bila kuliwa?",
+        "answer": "2 "
+    },
+    {
+        "question": "Ben alikuwa na marumaru 18 na John alikuwa na marumaru 17. Ben alimpa John nusu ya marumaru yake. John alikuwa na marumaru ngapi zaidi ya Ben wakati huo?",
+        "answer": "17 "
+    },
+    {
+        "question": "Karatasi ya kuki ya mkate ilikuwa na upana wa inchi 10 na urefu wa inchi 2. Je, mzunguko wa karatasi yao ya kuki ni upi?",
+        "answer": "24 "
+    },
+    {
+        "question": "Nambari pamoja na yenyewe, pamoja na mara mbili yenyewe, pamoja na mara 4 yenyewe, ni sawa na 104. Nambari ni nini?",
+        "answer": "13"
+    },
+    {
+        "question": "Kulikuwa na abiria 46 kwenye basi. Abiria 19 walishuka kwenye kituo cha kwanza. Abiria 15 walishuka katika kituo cha pili. Ni abiria wangapi waliobaki kwenye basi?",
+        "answer": "12 "
+    },
+    {
+        "question": "Inachukua mayai 3 kutengeneza keki. Unaweza kutengeneza keki ngapi na mayai 37?",
+        "answer": "12 "
+    },
+    {
+        "question": "Huko Kentucky Fried Chicken, wafanyikazi wa jikoni walioka miguu ya kuku 96, mapaja 144 na mbawa 224. Wafanyakazi walilazimika kuandaa sahani kwa ajili ya chakula cha mchana kilichoandaliwa katika ofisi. Kila sahani itakuwa na idadi sawa ya miguu, mapaja, na mabawa. Je, wafanyakazi wanaweza kutengeneza sahani ngapi ikiwa wanataka idadi kubwa zaidi ya vipande vya kuku kwenye kila sinia?",
+        "answer": "16 "
+    },
+    {
+        "question": "Duka la vifaa vya kuchezea mtandaoni lilikuwa na baadhi ya vinyago. Iliuza vinyago 38 katika wiki ya kwanza na vinyago 26 katika wiki ya pili. Ikiwa ilikuwa imesalia na vinyago 19, ni vitu vingapi vya kuchezea vilivyokuwa kwenye hisa mwanzoni?",
+        "answer": "83 "
+    },
+    {
+        "question": "Amy ana puto 67. 29 kati yao ni nyekundu na 17 ni ya kijani. Puto zilizobaki ni bluu. Amy ana puto ngapi za bluu?",
+        "answer": "21 "
+    },
+    {
+        "question": "Rachel alinunua vitabu viwili vya kuchorea. Mmoja alikuwa na picha 24 na mwingine 39. Baada ya wiki moja alikuwa tayari amepaka rangi 4 kati ya picha hizo. Je, bado ana picha ngapi za kupaka rangi?",
+        "answer": "59.0"
+    },
+    {
+        "question": "Lebo ya jina la mraba ina pande ambazo zina urefu wa sentimeta 9. Je, mzunguko wa lebo ya jina ni nini?",
+        "answer": "36 "
+    },
+    {
+        "question": "Shule inapanga safari ya shambani. Kuna wanafunzi 28 na viti 7 kwa kila basi la shule. Ni mabasi mangapi yanahitajika kuchukua safari?",
+        "answer": "4.0"
+    },
+    {
+        "question": "Badala ya kununua kutoka dukani, Melody alitengeneza kadi za Krismasi kwa ajili ya wazee katika makao ya kuwatunzia wazee. Alikuwa na vitambaa 99 vya rangi ya samawati ambavyo anapanga kutumia kama vipande vya theluji kwa kadi. Ikiwa atasambaza sequins kwa usawa kwa kadi 12, Melody atakuwa amebakisha sequins ngapi?",
+        "answer": "3 "
+    },
+    {
+        "question": "Msaidizi wa mwalimu alikuwa akiweka kaki kwenye sahani. Aliweka vidakuzi 5 kwenye sahani ya kwanza, vidakuzi 7 kwenye sahani ya pili, vidakuzi 10 kwenye sahani ya tatu, vidakuzi 14 kwenye sahani ya nne, na vidakuzi 19 kwenye sahani ya tano. Ikiwa muundo huu utaendelea, msaidizi ataweka cookies ngapi kwenye sahani ya sita?",
+        "answer": "25 "
+    },
+    {
+        "question": "Katika maonyesho hayo kulikuwa na watu 10 kwenye foleni ya kupata magari makubwa. Ikiwa 2 kati yao wangechoka kusubiri na kuondoka na 2 zaidi wakaingia kwenye mstari, ni watu wangapi wangekuwa kwenye mstari?",
+        "answer": "10 "
+    },
+    {
+        "question": "Vichwa vya limau vinakuja katika vifurushi 5. Ann alikula Vichwa 78 vya Ndimu. Je, amebakisha vichwa vingapi vya Lemon?",
+        "answer": "3 "
+    },
+    {
+        "question": "Walikuwa na masanduku 119 ya kiberiti yaliyofungwa kwa kanga za rangi zinazong'aa. Iwapo watasambaza visanduku vya kiberiti kwa usawa kwa nyumba 9 katika sehemu ya kwanza, je, kila nyumba inaweza kupokea vipi masanduku ya kiberiti?",
+        "answer": "13 "
+    },
+    {
+        "question": "Dashibodi mpya ya mchezo wa video inahitaji chips tano za kompyuta. Ikiwa mashine inaweza kuunda chips mia nne sitini na saba za kompyuta kwa siku, ni vifaa ngapi vya mchezo wa video vinaweza kuunda kwa siku?",
+        "answer": "93 "
+    },
+    {
+        "question": "Blithe ana toys nyingi. Alipoteza 6 kati yao na kupata 9 chumbani kwake. Ikiwa alikuwa na 43 baada ya hapo, Blithe alikuwa na vitu vingapi vya kuchezea mwanzoni?",
+        "answer": "40 "
+    },
+    {
+        "question": "Melanie anauza gumba 4 kwa senti nane kila moja. Je, Melanie anaweza kupata pesa ngapi kwa kuuza gumba?",
+        "answer": "32.0"
+    },
+    {
+        "question": "Alipokuwa akipanga mabadiliko fulani katika benki ya nguruwe, Diane aliweka sarafu 72 kwenye hifadhi ya kwanza ya nguruwe, sarafu 81 kwenye hifadhi ya pili ya nguruwe, sarafu 90 kwenye benki ya nguruwe ya tatu, sarafu 99 kwenye benki ya nguruwe ya nne, na sarafu 108 kwenye hifadhi ya tano ya nguruwe. . Ikiwa mtindo huu utaendelea, Diane ataweka sarafu ngapi kwenye hifadhi ya sita ya nguruwe?",
+        "answer": "117 "
+    },
+    {
+        "question": "Katika mchezo unaanza na maisha 2. Ikiwa utapata maisha 6 ya ziada katika kiwango cha kwanza na 11 zaidi katika kiwango cha pili, ungeishi maisha mangapi?",
+        "answer": "19 "
+    },
+    {
+        "question": "Mashine ya viwanda inaweza kutengeneza crayoni mia tatu ishirini na moja kwa siku. Ikiwa kila sanduku la crayoni lina kalamu saba ndani yake, mashine hutengeneza masanduku ngapi kwa siku?",
+        "answer": "45 "
+    },
+    {
+        "question": "Shingle ya paa ya mstatili ina urefu wa inchi 10 na upana wa inchi 7. Eneo lake ni lipi?",
+        "answer": "70 "
+    },
+    {
+        "question": "Joan alipata ganda 75 na samaki nyota 14 ufukweni. Alimpa Tim baadhi ya maganda yake ya bahari. Ana ganda la bahari 62. Je, alimpa Tim shells ngapi?",
+        "answer": "13.0"
+    },
+    {
+        "question": "Manuel alifungua akaunti ya akiba na amana ya awali ya dola 177. Ikiwa anataka kuokoa dola 500 katika wiki 19 zijazo, ni kiasi gani lazima aweke kila wiki kwa dola?",
+        "answer": "17.0"
+    },
+    {
+        "question": "Victor alikuwa akiuza chokoleti kwa ajili ya kukusanya pesa za shule. Wiki ya kwanza aliuza 75. Wiki ya pili aliuza 67. Wiki ya tatu aliuza 75. Wiki ya nne aliuza 70 na wiki ya mwisho aliuza 68. Nini maana ya baa za chokoleti alizouza. ?",
+        "answer": "71 "
+    },
+    {
+        "question": "Lena alikuwa na pesa za mfukoni. Alipoteza $4 na mama yake akampa $9. Ikiwa angekuwa na $66 baada ya hapo, Lena alikuwa na dola ngapi mwanzoni?",
+        "answer": "61 "
+    },
+    {
+        "question": "Tukio lina watu wazima 12 na watoto 20. Mpangaji wa hafla anataka kufanya kila jedwali lifanane, na mchanganyiko sawa wa watu wazima na watoto na hakuna watu waliosalia. Je, ni idadi gani kubwa zaidi ya meza ambazo mpangaji anaweza kuweka?",
+        "answer": "4 "
+    },
+    {
+        "question": "Melanie alinunua mchezo wa Batman kwa $6.95, mchezo wa kimkakati kwa $7.90, na mchezo wa Superman kwa $7.73. Melanie tayari anamiliki michezo 4 . Melanie alitumia kiasi gani kwenye michezo ya video?",
+        "answer": "22.58"
+    },
+    {
+        "question": "Jumamosi iliyopita, Marie aliuza magazeti 425 na magazeti 275. Ni idadi gani ya jumla ya nyenzo za kusoma alizouza?",
+        "answer": "700.0"
+    },
+    {
+        "question": "Mitch ana biashara na huwapa wafanyikazi wake wawili zamu zao. Anamgawia mfanyakazi wa kwanza zamu katika vitalu vya saa 2, na anamteua mfanyakazi wa pili zamu katika vitalu vya saa 11. Ikiwa wafanyikazi wote wawili lazima wapokee idadi sawa ya masaa, ni idadi gani ya chini ya masaa ambayo kila mmoja lazima agawiwe?",
+        "answer": "22 "
+    },
+    {
+        "question": "Bianca alitaka kunywa chupa 5 haswa za maji kila siku, kwa hiyo alinunua chupa 47 zilipokuwa zikiuzwa. Je, atahitaji kununua chupa ngapi zaidi siku ya mwisho?",
+        "answer": "3 "
+    },
+    {
+        "question": "Cody alikuwa na dola 45. Kwa siku yake ya kuzaliwa alipata dola 9 zaidi lakini alitumia 19 kwenye mchezo mpya. Ana pesa ngapi sasa?",
+        "answer": "35 "
+    },
+    {
+        "question": "Christina amehamisha $69 kutoka kwa akaunti yake ya benki. Kwa hiyo, akaunti sasa ina $26935 ndani yake. Kiasi gani cha pesa kilikuwa kwenye akaunti kabla ya kuhamisha?",
+        "answer": "27004.0"
+    },
+    {
+        "question": "Fred anapenda kadi za biashara. Alinunua pakiti 2 za kadi za kandanda kwa $2.73 kila moja, pakiti ya kadi za Pokemon kwa $4.01, na sitaha ya kadi za besiboli kwa $8.95. Fred alitumia kiasi gani kununua kadi?",
+        "answer": "18.42"
+    },
+    {
+        "question": "Elizabeth alikwenda saluni na kukatwa nywele 0.375 ya inchi. Siku iliyofuata alirudi na kuomba 0.5 nyingine ya inchi kukatwa. Je, alinyoa nywele ngapi kwa zote?",
+        "answer": "0.875"
+    },
+    {
+        "question": "Waendesha baiskeli wawili wanaendesha njia ya mviringo. Mpanda farasi wa kwanza anamaliza mzunguko katika dakika 12. Mpanda farasi wa pili anamaliza mzunguko katika dakika 18. Ikiwa wote wawili walianza mahali pamoja na wakati mmoja na kwenda upande mmoja, baada ya dakika ngapi watakutana tena mahali pa kuanzia?",
+        "answer": "36 "
+    },
+    {
+        "question": "Msanii alichora picha 2 mnamo Juni. Alichora 2 zaidi mnamo Julai na mnamo Agosti alichora 9. Alichora picha ngapi kwa jumla?",
+        "answer": "13 "
+    },
+    {
+        "question": "Unataka kushiriki penseli 34 kati ya marafiki 6. Kila rafiki atapata ngapi?",
+        "answer": "5 "
+    },
+    {
+        "question": "Doug alijenga hema kwa umbo la pentagoni ya kawaida. Mzunguko wake ni futi 60. Urefu wa kila upande wa hema ni upi?",
+        "answer": "12 "
+    },
+    {
+        "question": "Karen ana alama 252. Mama yake anampa alama 34 zaidi. Karen amepoteza alama 11. Je, ana alama ngapi sasa?",
+        "answer": "275 "
+    },
+    {
+        "question": "Kipande cha karatasi ya mraba kina mzunguko wa sentimita 32. Mbwa wa Nicky, Rocky, alirarua 1/4 ya karatasi. Je! ni eneo gani la karatasi iliyobaki?",
+        "answer": "48 "
+    },
+    {
+        "question": "Ishara mbili za neon huwashwa kwa wakati mmoja. ishara zote mbili hupepesa zinapowashwa. Ishara moja huwaka kila sekunde 9. Ishara nyingine huwaka kila sekunde 15. Je, watapepesa macho kwa sekunde ngapi tena?",
+        "answer": "45 "
+    },
+    {
+        "question": "Bibi Smith alitoa jordgubbar 53 kwa wasichana 8 kwa usawa. Je, jordgubbar ngapi zilibaki?",
+        "answer": "5 "
+    },
+    {
+        "question": "Bi. Walker atakuwa na matufaha 56 ya kukata tufaha. Kila ndoo itachukua maapulo 9. Atahitaji ndoo ngapi?",
+        "answer": "7 "
+    },
+    {
+        "question": "Kuna vitabu 14240 kwenye maktaba. Zimepangwa kwenye rafu ambazo kila moja ina vitabu 8. Je, kuna rafu ngapi kwenye maktaba?",
+        "answer": "1780.0"
+    },
+    {
+        "question": "Chombo cha anga za juu kilisafiri mwaka wa mwanga 0.5 kutoka Dunia hadi Sayari X na mwaka-nuru 0.1 kutoka Sayari X hadi Sayari Y. Kisha ikasafiri mwaka wa mwanga 0.1 kutoka Sayari Y kurudi Duniani. Chombo cha anga za juu kilisafiri kwa miaka mingapi ya mwanga?",
+        "answer": "0.7"
+    },
+    {
+        "question": "Tess anaandika shairi. Anaandika maneno 23 kwenye mstari wa kwanza, maneno 26 kwenye mstari wa pili, maneno 29 kwenye mstari wa tatu, maneno 32 kwenye mstari wa nne, na maneno 35 kwenye mstari wa tano. Ikiwa muundo huu utaendelea, Tess ataandika maneno mangapi kwenye mstari wa sita?",
+        "answer": "38 "
+    },
+    {
+        "question": "Mwokaji anaweka keki kwenye trei ili zipoe. Aliweka keki 3 kwenye trei ya kwanza, keki 6 kwenye trei ya pili, keki 12 kwenye trei ya tatu, na keki 24 kwenye trei ya nne. Ikiwa mtindo huu utaendelea, mwokaji ataweka keki ngapi kwenye trei ya tano?",
+        "answer": "48 "
+    },
+    {
+        "question": "Jack anasoma kitabu chenye kurasa 285. Ikiwa anasoma kurasa 23 kwa siku, atachukua siku ngapi kumaliza kusoma kitabu?",
+        "answer": "13 "
+    },
+    {
+        "question": "Karen anapakia kiasi sawa cha pretzels na crackers kwa vitafunio. Karen anaweka pretzels katika vikundi vya 5 na crackers katika vikundi vya 7. Ni idadi gani ndogo ya crackers ambayo anaweza kufunga?",
+        "answer": "35 "
+    },
+    {
+        "question": "Wanafunzi 172 wanaunda timu kwa ajili ya mashindano ya kupanda milima. Kila timu inapaswa kuwa na wanafunzi 18. Je, wanaweza kuunda timu ngapi?",
+        "answer": "9 "
+    },
+    {
+        "question": "Charlene alitengeneza shanga 60. Aliuza 16 kwenye maonyesho ya ufundi. Alitoa 18 kwa marafiki zake. Charlene alikuwa na shanga ngapi wakati huo?",
+        "answer": "26 "
+    },
+    {
+        "question": "Mary aliuza masanduku 9 ya Do-Si-Dos. Mary anahitaji kuwasilisha sanduku ngapi za masanduku 6, pamoja na masanduku ya ziada?",
+        "answer": "2 "
+    },
+    {
+        "question": "Duka la mboga lilihitaji makopo mia nane kumi ya mbaazi. Ikiwa mbaazi zitakuja kwenye masanduku yenye makopo manne katika kila sanduku, wangehitaji kuagiza masanduku ngapi?",
+        "answer": "203 "
+    },
+    {
+        "question": "Jason alikuza matikiti 23 na turnips 18. Nancy alikuza matikiti 28. Je, jumla ya matikiti maji yalikua ngapi?",
+        "answer": "51.0"
+    },
+    {
+        "question": "Paul alitengeneza dola 3 za kukata nyasi na kula magugu dola 3. Ikiwa angetumia dola 3 tu kwa wiki, pesa hizo zingedumu kwa muda gani?",
+        "answer": "2.0"
+    },
+    {
+        "question": "Katika nambari ya tarakimu mbili, tarakimu ya kumi ni mara tatu ya tarakimu ya kitengo. Nambari inapopungua kwa 54, tarakimu zinabadilishwa. Tafuta nambari.",
+        "answer": "93"
+    },
+    {
+        "question": "P na Q huanza kwa wakati mmoja katika mwelekeo mmoja kukimbia kuzunguka uwanja. P hukamilisha mzunguko katika sekunde 252 na Q katika sekunde 198, zote zikianzia kwa hatua sawa. Je, baada ya saa ngapi watakutana tena mahali pa kuanzia?",
+        "answer": "2772 "
+    },
+    {
+        "question": "Abe atapanda miti 54 ya mialoni na miti 27 ya misonobari. Abe angependa kupanda miti hiyo kwa safu ambayo yote ina idadi sawa ya miti na ina aina moja tu ya mti. Ni idadi gani kubwa ya miti ambayo Abe anaweza kuwa nayo katika kila safu?",
+        "answer": "27 "
+    },
+    {
+        "question": "Clarence ana machungwa 5. Anapata 3 zaidi kutoka kwa Joyce. Baadaye, Clarence ananunua Skittles 9 kwenye duka. Clarence ana machungwa mangapi kwa yote?",
+        "answer": "8.0"
+    },
+    {
+        "question": "Wendy alichuma maua 103 kwa ajili ya harusi ya rafiki yake. Alikuwa akitengeneza bouquets na maua 8 katika kila moja. Ikiwa maua 47 yalinyauka kabla ya harusi, ni bouquets ngapi bado angeweza kutengeneza?",
+        "answer": "7.0"
+    },
+    {
+        "question": "Sahani ya kikombe cha chai ya Mika ina eneo la sentimita 3. Eneo la sahani ni nini?",
+        "answer": "28.26 "
+    },
+    {
+        "question": "Uwezo wa tank ni lita 32. Ikiwa kampuni ilinunua galoni 728 za mafuta, ni mafuta ngapi kwenye tanki ambayo haijajaa?",
+        "answer": "24 "
+    },
+    {
+        "question": "Kuna vikapu 37. Kuna tufaha 17 katika kila kikapu. Je, kuna tufaha mangapi kwa yote?",
+        "answer": "629.0"
+    },
+    {
+        "question": "Georgia ina vifungo 4 vya njano, vifungo 2 nyeusi na vifungo 3 vya kijani. Anampa Mary vitufe vingine, na amebakisha 5. Je, Georgia alimpa Marry vifungo vingapi?",
+        "answer": "4 "
+    },
+    {
+        "question": "Mkahawa ulikuwa na tufaha 50. Kwa chakula cha mchana waliwagawia wanafunzi 5 na kuamua kutumia iliyobaki kutengeneza mikate. Ikiwa kila pai itachukua maapulo 5, wanaweza kutengeneza mikate ngapi?",
+        "answer": "9.0"
+    },
+    {
+        "question": "Mbwa wa Sam alikuwa na watoto wa mbwa na 8 walikuwa na madoa. Alitoa 2 kwa marafiki zake. Sasa ana watoto wa mbwa 6. Alianza na watoto wa mbwa wangapi?",
+        "answer": "8.0"
+    },
+    {
+        "question": "Mara saba tarakimu mbili ni sawa na mara nne ya nambari iliyopatikana kwa kubadili mpangilio wa tarakimu na jumla ya tarakimu ni 3. Tafuta nambari.",
+        "answer": "12"
+    },
+    {
+        "question": "Sweettarts kuja katika paket ya 7. Stephen alikula 64 Sweettarts. Amebakiza Sweettarts ngapi?",
+        "answer": "1 "
+    },
+    {
+        "question": "Sebule ya mstatili hupima futi 12 kwa futi 10. Zulia lililowekwa kwenye sakafu linaacha mpaka wa futi 2 kwa upana kuzunguka pande zote. Eneo la mpaka ni nini?",
+        "answer": "72 "
+    },
+    {
+        "question": "Kuna machungwa 55 kwenye sanduku. Deborah ana machungwa 11 kwenye mfuko. Susan anachukua machungwa 35 nje ya boksi. Ni machungwa mangapi yamesalia kwenye sanduku?",
+        "answer": "20.0"
+    },
+    {
+        "question": "Mkahawa wa shule hutoa tacos kila siku ya sita na cheeseburgers kila siku ya nane. Ikiwa tacos na cheeseburgers zote ziko kwenye menyu ya leo, itakuwa siku ngapi kabla zote mbili ziko kwenye menyu tena?",
+        "answer": "24 "
+    },
+    {
+        "question": "Kristen alipata mifuko ya zawadi katika vifurushi vya 12 na pinde katika pakiti za 5. Ikiwa Kristen alitaka kuwa na idadi sawa ya mifuko ya zawadi kama pinde, ni idadi gani ndogo ya mifuko ya zawadi ambayo angelazimika kununua?",
+        "answer": "60 "
+    },
+    {
+        "question": "Kampuni ya chakula ina kilo mia saba sabini na saba za chakula cha kuweka kwenye masanduku. Ikiwa kila sanduku litapata kilo mbili kamili, watakuwa na masanduku ngapi kamili?",
+        "answer": "388 "
+    },
+    {
+        "question": "Sanduku la mchanga lina urefu wa sentimita 312 na upana wa sentimita 146. Sanduku la mchanga linafunika sentimita ngapi za mraba za ardhi?",
+        "answer": "45552.0"
+    },
+    {
+        "question": "Kuna vichaka 47 vya okidi kwa sasa kwenye bustani hiyo. Wafanyikazi wa bustani watapanda vichaka 37 vya okidi leo na vichaka 25 vya okidi kesho. Ilichukua wafanyikazi 35 kumaliza kazi. Je, mbuga hiyo itakuwa na vichaka vingapi vya okidi wafanyakazi watakapokamilika?",
+        "answer": "109.0"
+    },
+    {
+        "question": "Joan alipotembelewa na duka la meno, alipokea 14 kila robo, nusu ya dola na dime. Je, kampuni ya meno ilimwacha Joan pesa ngapi?",
+        "answer": "11.9"
+    },
+    {
+        "question": "Jason ana vitabu 18 na amesoma 9 kati ya hivyo. Mary ana vitabu 42. Je, wana vitabu vingapi pamoja?",
+        "answer": "60.0"
+    },
+    {
+        "question": "Jean alikuwa na begi la peremende. Alimpa rafiki yake vipande 18. Jean alikula vipande 7. Sasa amebakisha vipande 16. Jean alikuwa na vipande vingapi vya peremende mwanzoni?",
+        "answer": "41 "
+    },
+    {
+        "question": "Familia ya Abe ilihama kutoka Bahamas hadi Japani, kwa hiyo walikuwa wamebadilisha pesa zao kuwa yen ya Japani. Akaunti yao ya kuangalia sasa ina yen 6359 na akaunti yao ya akiba sasa ina yen 3485. Wana yen ngapi?",
+        "answer": "9844.0"
+    },
+    {
+        "question": "Tony alikuwa na $20. Alilipa $8 kwa tiketi ya mchezo wa besiboli. Katika mchezo huo, alinunua hot dog kwa $3. Tony alikuwa na pesa ngapi wakati huo?",
+        "answer": "9 "
+    },
+    {
+        "question": "Kuna bakuli 261 za samaki. Kila bakuli la samaki lina samaki 23. Kuna samaki wangapi?",
+        "answer": "6003.0"
+    },
+    {
+        "question": "Aylin anatengeneza kitabu chakavu kwa kutumia picha 18 na sehemu 20 za magazeti. Anataka kurasa zote ziwekwe kwa njia sawa, na mchanganyiko sawa wa picha na sehemu za magazeti kwenye kila ukurasa. Pia anataka kuhakikisha kuwa hakuna vitu vilivyosalia. Ni idadi gani kubwa zaidi ya kurasa za kitabu chakavu ambazo Aylin anaweza kuunda?",
+        "answer": "2 "
+    },
+    {
+        "question": "12 chini ya mara mbili ya nambari ni 20. Tafuta nambari.",
+        "answer": "16"
+    },
+    {
+        "question": "Taa mbili katika uwanja wa ndani zinamulika. Wote wawili walipepesuka kwa wakati mmoja. Moja ya taa huwaka kila baada ya sekunde 7 na taa nyingine huwaka kila baada ya sekunde 8. Ni sekunde ngapi hadi taa zote mbili ziwake kwa wakati mmoja tena?",
+        "answer": "56 "
+    },
+    {
+        "question": "Martha ananunua pakiti 18 za penseli na pakiti 14 za kalamu kutoka dukani. Ikiwa Martha anataka kununua idadi sawa ya penseli na kalamu, ni kalamu gani ndogo zaidi ambayo anaweza kununua?",
+        "answer": "126 "
+    },
+    {
+        "question": "Wazazi wanatengeneza sandwichi kwa ajili ya pikiniki ya darasa. Wana vipande 72 vya Uturuki, vipande 48 vya jibini na vipande 96 vya nyanya. Ni idadi gani kubwa zaidi ya sandwichi wanazoweza kutengeneza ikiwa kila sandwich ina kujazwa sawa?",
+        "answer": "24 "
+    },
+    {
+        "question": "Alasiri ya leo, Alec aliona kwamba nambari ya ukurasa uliogawiwa kwa ajili ya kazi ya nyumbani inaweza kugawanywa na 4 na 13. Ni nambari gani ndogo zaidi ya ukurasa ambayo ingeweza kugawiwa?",
+        "answer": "52 "
+    },
+    {
+        "question": "Mfuko wa karatasi unaweza kubeba vidakuzi 16. Edgar akinunua vidakuzi 292, je, kuna biskuti ngapi kwenye mfuko ambao haujajaa?",
+        "answer": "4 "
+    },
+    {
+        "question": "Mgahawa ulitoa pai 4 wakati wa chakula cha mchana na 9 wakati wa chakula cha jioni leo. Mgahawa huo ulitoa pai 7 na pizza 2 jana. Je! ni mikate ngapi ilitolewa kwa jumla?",
+        "answer": "20.0"
+    },
+    {
+        "question": "Kikundi cha densi kilitumia utepe kuunda mstatili. Mstatili ulikuwa na urefu wa futi 20 na upana wa futi 15. Je, kipande cha utepe kilikuwa cha muda gani?",
+        "answer": "70 "
+    },
+    {
+        "question": "Akiwa anacheza mchezo mdogo Adam alifunga jumla ya pointi 283. Ikiwa alifunga pointi 71 kila raundi, alicheza raundi ngapi?",
+        "answer": "4 "
+    },
+    {
+        "question": "Alyssa alichuma squash 17 na Jason akachuma squash 10. Melanie alichuma peari 35. Ni plum ngapi zilichumwa zote?",
+        "answer": "27.0"
+    },
+    {
+        "question": "Irene's Bakery huuza muffins katika vifurushi 18 na vidakuzi katika vifurushi vya 5. Akipitia risiti za jana, meneja wa duka anagundua kuwa mkate huo uliuza idadi sawa ya muffins na vidakuzi jana alasiri. Ni idadi gani ndogo zaidi ya muffins ambazo duka la mikate lingeweza kuuza?",
+        "answer": "90 "
+    },
+    {
+        "question": "Wanafunzi 15 waligawanya portfolios 122 za uchoraji. Kila mwanafunzi anapaswa kupata idadi sawa ya portfolios. Kila mmoja wao atapata portfolios ngapi za uchoraji?",
+        "answer": "8 "
+    },
+    {
+        "question": "Mama ya Greg alitengeneza biskuti kwa ajili ya familia. Vidakuzi vilikuwa vikubwa sana hivi kwamba aliamua kuvikata katikati. Greg alikula nusu 4 na kaka yake, Brad, alikuwa na nusu 6. Kulikuwa na nusu 18 zilizobaki. Mama yake Greg alitengeneza biskuti ngapi?",
+        "answer": "14 "
+    },
+    {
+        "question": "Carey na Pat wanasogeza viti kwenye ukumbi wa mazoezi. Walikubali kuhamisha viti 74. Carey alihamisha viti 28. Pat amehamisha viti 29. Je, wamebakisha viti vingapi vya kuhama?",
+        "answer": "17 "
+    },
+    {
+        "question": "Alexa anasoma fumbo la Nancy Drew. Kuna kurasa 95 katika kitabu chake. Alisoma kurasa 18 siku ya kwanza. Siku iliyofuata, Alexa hakuweza kuacha kusoma. Alisoma kurasa 58. Alexa ina kurasa ngapi za kusoma?",
+        "answer": "19 "
+    },
+    {
+        "question": "Joan alikuwa na kadi 695 za Pokemon, na 6 zilichanika. Sara alinunua kadi 133 za Pokemon za Joan. Joan ana kadi ngapi za Pokemon sasa?",
+        "answer": "562.0"
+    },
+    {
+        "question": "Wakati akiandaa mkusanyiko wake wa DVD, Seth aliweka DVD 2 kwenye rack ya kwanza, DVD 4 kwenye rack ya pili, DVD 8 kwenye rack ya tatu, DVD 16 kwenye rack ya nne, na DVD 32 kwenye rack ya tano. Ikiwa muundo huu utaendelea, Seth ataweka DVD ngapi kwenye rack ya sita?",
+        "answer": "64 "
+    },
+    {
+        "question": "Ikiwa Tom anapanga kurekebisha saa 158 kwa kiwango cha saa 12 kwa siku, ni siku ngapi anahitaji kurekebisha saa?",
+        "answer": "14 "
+    },
+    {
+        "question": "Fred ana senti 90 katika benki yake.  Fred ana dime ngapi?",
+        "answer": "9.0"
+    },
+    {
+        "question": "Nancy aliuza masanduku 45 ya Tagalongs. Je, Nancy anahitaji kesi ngapi za masanduku 12, pamoja na masanduku ya ziada?",
+        "answer": "4 "
+    },
+    {
+        "question": "Kipande cha chuma cha mstatili kina upana wa sentimita 16 na urefu wa sentimita 19. Mzunguko wake ni nini?",
+        "answer": "70 "
+    },
+    {
+        "question": "Wanafunzi 86 wanakwenda kupanda mlima. Kila basi la shule linaweza kuchukua wanafunzi 9. Wanafunzi wangapi wamebaki?",
+        "answer": "5 "
+    },
+    {
+        "question": "Basi linaweza kusafirisha abiria 48. Ikiwa shule ya wanafunzi na walimu 1,230 wanaenda kwenye safari ya shambani, kuna abiria wangapi kwenye basi ambalo halijashughulikiwa kikamilifu?",
+        "answer": "30 "
+    },
+    {
+        "question": "Peter ana machungwa 18, peari 27 na ndizi 12. Anataka kutengeneza vikapu vya matunda vyenye idadi sawa ya kila tunda katika kila kikapu. Ni idadi gani kubwa zaidi ya vikapu vya matunda anavyoweza kutengeneza?",
+        "answer": "3 "
+    },
+    {
+        "question": "Jumla ya umri wa sasa wa Abe na umri kabla ya miaka 7 ni 31. Tafuta umri wa sasa wa Abe.",
+        "answer": "19 "
+    },
+    {
+        "question": "Kiara alioka vidakuzi 30 vya oatmeal na vidakuzi 48 vya chokoleti ili kuvifunga kwenye vyombo vya plastiki kwa ajili ya marafiki wa walimu wake shuleni. Anataka kugawanya vidakuzi katika vyombo vinavyofanana ili kila chombo kiwe na idadi sawa ya kila aina ya kuki. Ikiwa anataka kila chombo kiwe na idadi kubwa ya vidakuzi iwezekanavyo, anahitaji vyombo vingapi vya plastiki?",
+        "answer": "6 "
+    },
+    {
+        "question": "Eneo la picha ya mraba ni inchi 25 za mraba. Angie aliamua kupanua picha kwa kuongeza pande mara mbili. Eneo jipya litakuwa nini?",
+        "answer": "100 "
+    },
+    {
+        "question": "Anna ana jumla ya nikeli 28 na dimes katika hifadhi yake ya nguruwe. Ana nikeli 8 chache kuliko dime. Anna ana dime ngapi?",
+        "answer": "18 "
+    },
+    {
+        "question": "Luke alipata dola 9 za kukata nyasi na dola 18 kula magugu. Ikiwa angetumia dola 3 tu kwa wiki, pesa hizo zingedumu kwa muda gani?",
+        "answer": "9.0"
+    },
+    {
+        "question": "Kituo cha mapumziko cha ski kiliripoti inchi 65 za theluji mnamo Januari. Walipima inchi 18 za theluji wakati wa wiki ya kwanza. Walipima inchi 25 za theluji wiki ya pili. Je, walipata theluji ngapi kwa muda uliosalia wa mwezi?",
+        "answer": "22 "
+    },
+    {
+        "question": "Kwa gari lake, Mike alitumia $118.54 kununua spika na $106.33 kununua matairi mapya. Mike alitaka CD 3 kwa $4.58 lakini aliamua kutofanya hivyo. Kwa jumla, Mike alitumia kiasi gani kununua vipuri vya gari?",
+        "answer": "224.87"
+    },
+    {
+        "question": "Nambari iliyoongezwa na nambari mara tatu ni 20. Badilisha kauli hii kuwa milinganyo ya aljebra na utafute nambari.",
+        "answer": "5"
+    },
+    {
+        "question": "Mike alichuma machungwa 123 na Melanie akachuma machungwa 104. Fred alichuma tufaha 130. Ni machungwa mangapi yalichumwa kwa jumla?",
+        "answer": "227.0"
+    },
+    {
+        "question": "Anthony anapata senti 75 kila siku kwa chakula cha mchana. Alinunua sanduku la juisi kwa senti 27. Pia alinunua keki. Anthony alikuwa amesalia na senti 8. Keki hiyo iligharimu kiasi gani?",
+        "answer": "40 "
+    },
+    {
+        "question": "Mbwa wako alikula 12 za kadi zako za shule. Hiyo ilikuwa 3/4 ya daftari zako unazohitaji kuingiza. Je, ulikuwa umekamilisha kadi ngapi?",
+        "answer": "16 "
+    },
+    {
+        "question": "Mkulima Singleton ana shamba la mimea ya nyanya. Kuna mimea 4 ya nyanya kwenye safu ya kwanza, mimea 8 ya nyanya kwenye safu ya pili, mimea 16 ya nyanya kwenye safu ya tatu, mimea 32 ya nyanya kwenye safu ya nne, na nyanya 64 kwenye safu ya tano. Ikiwa muundo huu utaendelea, ni mimea ngapi ya nyanya kutakuwa na safu ya sita?",
+        "answer": "128 "
+    },
+    {
+        "question": "Katika wiki 1, familia ya Mitch ilikunywa katoni 0.5 za maziwa ya kawaida na katoni 0.1 ya maziwa ya soya. Je, walikunywa maziwa kiasi gani kwa jumla?",
+        "answer": "0.6"
+    },
+    {
+        "question": "Fred ana maputo 5 ya manjano, Sam ana maputo 6 ya manjano, na Mary ana maputo 7 ya manjano. Puto hizo zinagharimu dola 5. Je, wana puto ngapi za manjano kwa jumla?",
+        "answer": "18.0"
+    },
+    {
+        "question": "Gwen na marafiki zake walikuwa wakitengeneza karatasi kwa ajili ya darasa lao. Kwa kila pauni 3 walizorejelea walipata pointi moja. Ikiwa Gwen alirejeleza pauni 5 na marafiki zake wakatumia tena pauni 13, walipata pointi ngapi?",
+        "answer": "6.0"
+    },
+    {
+        "question": "Mama ya Yadira ananunua mikate na maandazi kwa ajili ya barbeque ya familia. Hot dogs huja katika pakiti za 12 na maandazi ya hot dog huja katika paketi 9. Duka haliuzi sehemu za paketi na mama Yadira anataka idadi sawa ya hot dogs na mikate ya hot dog. Je, ni idadi gani ndogo kabisa ya hot dogs ambazo mama ya Yadira anaweza kununua?",
+        "answer": "36 "
+    },
+    {
+        "question": "Mkahawa mmoja ulikuwa ukiweka katoni za maziwa kwenye rundo. Walikuwa na katoni mia saba tisini na tisa na walikuwa wakiziweka kwenye mrundikano na katoni sita katika kila rundo. Je, wangeweza kutengeneza rundo ngapi kamili?",
+        "answer": "133 "
+    },
+    {
+        "question": "Mraba ina mzunguko wa inchi 24. Eneo la mraba ni nini?",
+        "answer": "36 "
+    },
+    {
+        "question": "Amy alikuwa akifanya uchunguzi darasani. Aliwauliza wasichana darasani walikuwa na ndugu wangapi na kurekodi matokeo: 1, 6, 10, 4, 3, 3, 11, 3 na 10. Nini maana ya matokeo?",
+        "answer": "5.7 "
+    },
+    {
+        "question": "Billy alikuwa akipaka ukuta kwenye chumba chake. Jumla ya eneo lilikuwa futi 8 za mraba. Ikiwa ukuta ulikuwa na upana wa futi 2, ni urefu gani?",
+        "answer": "4 "
+    },
+    {
+        "question": "Mheshimiwa White alinunua carpet kwa ajili ya ukumbi wa mstatili wa eneo la yadi 800 za mraba. Urefu wa ukumbi ni yadi 32. Pata upana unaohitajika wa carpet.",
+        "answer": "25 "
+    },
+    {
+        "question": "Adam alinunua TV mpya ya skrini bapa yenye eneo la futi 21 za mraba. Skrini ina upana wa futi 3. Je, ni urefu gani?",
+        "answer": "7 "
+    },
+    {
+        "question": "Sally alikua turnips 113 na maboga 118. Mary alikuza turnips 129. Je, ziliota zamu ngapi kwa jumla?",
+        "answer": "242.0"
+    },
+    {
+        "question": "Mkahawa wa shule ulikuwa na tufaha 17. Ikiwa wangetumia 2 kuandaa chakula cha mchana kwa wanafunzi na kisha kununua 23 zaidi, wangepata tufaha mangapi?",
+        "answer": "38 "
+    },
+    {
+        "question": "Mgahawa una nyanya 67. 32 hutengenezwa saladi. Nyingine 21 hutengenezwa mchuzi wa pasta. Ni nyanya ngapi zimesalia?",
+        "answer": "14 "
+    },
+    {
+        "question": "Katika uwanja wa michezo, sanduku jipya la mchanga lilikuwa na upana wa mita 4 na urefu wa mita 2. Sanduku la mchanga ni eneo gani?",
+        "answer": "8 "
+    },
+    {
+        "question": "Colton ana marumaru 16 ya bluu na 8 nyeupe. Ikiwa anataka kuwaweka katika vikundi vinavyofanana bila marumaru yoyote iliyobaki, ni idadi gani kubwa zaidi ya vikundi ambavyo Colton anaweza kutengeneza?",
+        "answer": "8 "
+    },
+    {
+        "question": "Jenny aliuza masanduku 24 ya Trefoils. Jenny anahitaji kuwasilisha kesi ngapi za visanduku 8, pamoja na visanduku vya ziada?",
+        "answer": "3.0"
+    },
+    {
+        "question": "Rita ananunua balbu za maua kwa ajili ya bustani yake. Anataka kununua idadi sawa ya tulips na daffodils. Ikiwa balbu za tulip zinakuja katika pakiti za 15 na za daffodili zikija katika pakiti 16, ni idadi gani ndogo zaidi ya kila aina ya balbu ambayo Rita atahitaji kununua?",
+        "answer": "240 "
+    },
+    {
+        "question": "Tayli anatamani kutangaza biashara yake, kwa hivyo hutoa vipeperushi 13 vya vipeperushi vyekundu kwa kila mmiliki wa mgahawa na seti 20 za vipeperushi vya bluu kwa kila mmiliki wa duka la nguo. Mwisho wa siku, Tayli anatambua kwamba alitoa idadi sawa ya vipeperushi nyekundu na bluu. Ni idadi gani ya chini ya vipeperushi vya kila rangi aliyosambaza?",
+        "answer": "260 "
+    },
+    {
+        "question": "Shule inapanga safari ya shambani. Kuna wanafunzi 45 na viti 9 kwa kila basi la shule. Ni mabasi mangapi yanahitajika kuchukua safari?",
+        "answer": "5.0"
+    },
+    {
+        "question": "Mwalimu alitoa stika 29 za dhahabu kwa mwanafunzi wa kwanza, 35 za dhahabu kwa mwanafunzi wa pili, 41 za dhahabu kwa mwanafunzi wa tatu, 47 za dhahabu kwa mwanafunzi wa nne na 53 za dhahabu kwa mwanafunzi wa tano. Mtindo huu ukiendelea, mwalimu atampa mwanafunzi wa sita stika ngapi za dhahabu?",
+        "answer": "59 "
+    },
+    {
+        "question": "Jumla ya tarakimu za nambari ya tarakimu mbili ni 9. Pia, mara tisa nambari hii ni mara mbili ya nambari iliyopatikana kwa kugeuza utaratibu wa tarakimu. Tafuta nambari.",
+        "answer": "18"
+    },
+    {
+        "question": "Nancy alipata seashell 35 na starfish 25 ufukweni. Alimpa ganda 17 la bahari kwa Jason. Je, Nancy ana ganda ngapi sasa?",
+        "answer": "18.0"
+    },
+    {
+        "question": "Joe's Bath Shop inauza baa za sabuni kwenye masanduku ya baa 5 na chupa za sabuni kwenye masanduku ya chupa 19. Mfanyikazi alishangaa kugundua kuwa duka hilo liliuza idadi sawa ya baa na chupa wiki iliyopita. Ni nambari gani ndogo zaidi ya kila aina ya sabuni ambayo duka lingeweza kuuza?",
+        "answer": "95 "
+    },
+    {
+        "question": "Mnyoo ametumbukia kwenye shimo lenye kina cha inchi 26. Inapanda hadi inchi 8 na inateleza nyuma inchi 3 kila siku. Je, mdudu huyo atachukua siku ngapi kufika kileleni?",
+        "answer": "5 "
+    },
+    {
+        "question": "Mwalimu anapaswa kupanga wavulana 60 na wasichana 72 kwa safu. Anatamani kuwapanga kwa njia ambayo wavulana au wasichana pekee watakuwapo kwa safu. Tafuta idadi kubwa zaidi ya wanafunzi ambayo inaweza kupangwa kwa safu.",
+        "answer": "12 "
+    },
+    {
+        "question": "Andrew alipata mapipa tupu ya kuweka makopo kwa ajili ya kuchakatwa tena. Aliweka makopo 2 matupu kwenye pipa la kwanza, makopo 4 kwenye pipa la pili, makopo 7 kwenye pipa la tatu, makopo 11 kwenye pipa la nne, na makopo 16 kwenye pipa la tano. Ikiwa mtindo huu utaendelea, Andrew ataweka makopo mangapi kwenye pipa la sita?",
+        "answer": "22 "
+    },
+    {
+        "question": "Cindy ana vibandiko 105. Anatumia vibandiko 23. Ananunua vibandiko 45 zaidi. Cindy ana stika ngapi sasa?",
+        "answer": "127 "
+    },
+    {
+        "question": "Piti la maji ya machungwa lilikuwa laki moja na hamsini na tatu. Ikiwa ungetaka kumwaga vati kwenye glasi tano zenye kiasi sawa katika kila glasi, ni pinti ngapi zingekuwa katika kila glasi?",
+        "answer": "30 "
+    },
+    {
+        "question": "Bi. Hilt alipima umbali kutoka kwenye meza yake hadi kwenye chemchemi ya maji. Ilikuwa futi 30. Je! Bi Hilt atatembea kwa miguu mingapi kwenye safari zake hadi chemchemi ikiwa ataenda kwenye chemchemi ya maji mara 4 leo?",
+        "answer": "120.0"
+    },
+    {
+        "question": "Mkulima anakadiria kwamba atavuna vichaka 48097 vya ngano . Hali ya hewa ni nzuri wakati wa msimu wa kupanda, kwa hiyo anavuna vibaba 684 vya ngano kuliko ilivyotarajiwa. Je, mkulima huvuna vibaba vingapi vya ngano?",
+        "answer": "48781.0"
+    },
+    {
+        "question": "Kuna wanafunzi mia tano hamsini na wanne wanaoenda kwenye shindano la trivia. Ikiwa kila gari la shule linaweza kubeba wanafunzi tisa, watahitaji gari ngapi za magari?",
+        "answer": "62 "
+    },
+    {
+        "question": "Kuna vitabu 2 vya kijani kibichi, 1 kitabu cha buluu, na vitabu 4 vya machungwa kwenye rafu ya vitabu. Ikiwa 3 kati yao hutolewa ili kusomwa, ni vitabu vingapi vilivyobaki kwenye rafu ya vitabu?",
+        "answer": "4 "
+    },
+    {
+        "question": "Ryan alikusanya majani 89. Alipoteza majani 24 na kutupa majani 43. Ryan alibakisha majani mangapi?",
+        "answer": "22 "
+    },
+    {
+        "question": "Sally hupata $25.00 kwa kila nyumba anayosafisha. Ikiwa atasafisha nyumba 96, atapata dazeni ngapi za dola?",
+        "answer": "200.0"
+    },
+    {
+        "question": "Vivunja taya vinakuja katika vifurushi vya 8. Sarah alikula Vivunja taya 20. Amebakisha visu vingapi?",
+        "answer": "4 "
+    },
+    {
+        "question": "Theluthi moja ya nambari fulani ikiongezwa na moja ya tano inatoa nane-kumi na tano ya nambari. Tafuta nambari na uangalie hesabu yako.",
+        "answer": "1"
+    },
+    {
+        "question": "Mashine ya kuosha inaweza kuosha pauni 28 za nguo kwa siku. Ikiwa kuna pauni 200 za nguo za kufuliwa kwa siku, je, mashine ya kufulia ambayo haijapakiwa kikamilifu huosha pauni ngapi kwa siku?",
+        "answer": "4 "
+    },
+    {
+        "question": "Lavinia ina glasi 9 na mugs 6. Angependa kuwaweka katika makundi yanayofanana, bila kubaki hata moja, katika maandalizi ya karamu ya chakula cha jioni. Ni idadi gani kubwa zaidi ya vikundi ambavyo Lavinia anaweza kuweka?",
+        "answer": "3 "
+    },
+    {
+        "question": "Bw. Lee anataka kupakia tani 134 za matunda yake. Lori kubwa linaweza kubeba tani 15 za matunda na lori dogo linaweza kubeba tani 7. Ili kutumia idadi ndogo ya lori na kila lori limebeba kikamilifu, ni lori ngapi kubwa zinapaswa kutumika?",
+        "answer": "8 "
+    },
+    {
+        "question": "Inachukua gramu nane za plastiki kutengeneza rula. Ikiwa kampuni ingekuwa na gramu mia nane ishirini na nane za plastiki, wangeweza kutengeneza watawala wangapi?",
+        "answer": "103 "
+    },
+    {
+        "question": "Gabe na Steven wanapata pesa kwa kutembea kipenzi cha ujirani. Wakati wa mazungumzo kuhusu kazi zao, wanatambua kwamba wote wawili wanatembea idadi sawa ya wanyama kipenzi, ingawa Gabe anatembea kipenzi katika vikundi vya 2 na Steven anatembea kipenzi katika vikundi vya 10. Je! ni idadi gani ndogo kabisa ya wanyama kipenzi ambao kila mmoja anaweza kuwa kutembea?",
+        "answer": "10 "
+    },
+    {
+        "question": "Mwalimu wa kwaya anagawa soprano 10 na alto 15 katika vikundi vya waimbaji. Anataka kila kikundi kiwe na mchanganyiko sawa wa soprano na alto, bila waimbaji waliobaki. Ni idadi gani kubwa zaidi ya vikundi ambavyo anaweza kuunda?",
+        "answer": "5 "
+    },
+    {
+        "question": "Hifadhi ya flash inaweza kushikilia gigs tisa za data. Ikiwa unahitaji kuhifadhi gigi mia nne sitini na mbili, utahitaji gari ngapi la flash?",
+        "answer": "52 "
+    },
+    {
+        "question": "Tom alinunua mchezo wa Batman kwa $13.60, na mchezo wa Superman kwa $5.06. Tom tayari anamiliki michezo 2 . Tom alitumia kiasi gani kwenye michezo ya video?",
+        "answer": "18.66"
+    },
+    {
+        "question": "Shelley ana uma 12 na visu 16 vya kuweka kwenye vyombo vya fedha kwenye mkahawa wa vyakula vya haraka ambako anafanya kazi. Anataka kuzisambaza kwa usawa, bila uma au visu zilizobaki. Ni idadi gani kubwa zaidi ya wamiliki wa bidhaa za fedha ambazo Shelley anaweza kupata?",
+        "answer": "4 "
+    },
+    {
+        "question": "Wilson ana nambari akilini. Iwapo ataondoa theluthi moja ya idadi hiyo matokeo yake ni kumi na sita na tatu. Tafuta nambari.",
+        "answer": "8"
+    },
+    {
+        "question": "Ava alifunga chupa za plastiki baada ya gari la kuchakata tena. Aliweka chupa 45 kwenye mfuko wa kwanza, chupa 53 kwenye mfuko wa pili, chupa 61 kwenye mfuko wa tatu, na chupa 69 kwenye mfuko wa nne. Ikiwa muundo huu utaendelea, Ava ataweka chupa ngapi za plastiki kwenye mfuko wa tano?",
+        "answer": "77 "
+    },
+    {
+        "question": "Ikiwa Simon anahitaji kutengeneza mifuko 519 ya zawadi kwa kiwango cha mifuko 42 kwa siku, atatengeneza mifuko mingapi ya zawadi siku ya mwisho?",
+        "answer": "15 "
+    },
+    {
+        "question": "Kuna watu mia mbili themanini na saba wanaohudhuria chakula cha mchana. Ikiwa meza inaweza kubeba watu tisa, wanahitaji meza ngapi?",
+        "answer": "32 "
+    },
+    {
+        "question": "Jeremy ana vipande viwili vya mbao: moja ni inchi 90 na nyingine ni inchi 72. Anataka kukata vipande viwili vya mbao vipande vidogo ili vipande hivi vyote viwe na urefu sawa. Je, anakata vipande viwili vya mbao hadi lini?",
+        "answer": "18 "
+    },
+    {
+        "question": "Dan alikuza turnips 42 na cantelopes 38. Jessica alikua 47 turnips. Je, ziliota zamu ngapi kwa jumla?",
+        "answer": "89.0"
+    },
+    {
+        "question": "Kuna baadhi ya watoto kwenye bakery. Walipokuwa wakiamua kununua, wasichana 24 waliingia na wavulana 31 wakaondoka. Ikiwa kuna watoto 78 mwishoni mwa mkate, ni watoto wangapi hapo mwanzoni?",
+        "answer": "85 "
+    },
+    {
+        "question": "Kuna pauni 757 za mchanga wa kujazwa kwenye mifuko. Ikiwa kila mfuko una uwezo wa pauni 65, ni mifuko mingapi inahitajika?",
+        "answer": "12 "
+    },
+    {
+        "question": "Dave alikuwa akiwasaidia wafanyakazi wa mkahawa kuchukua trei za chakula cha mchana, lakini aliweza kubeba trei 9 tu kwa wakati mmoja. Ikiwa alilazimika kuchukua trei 17 kutoka kwa meza moja na trei 55 kutoka kwa nyingine, atafanya safari ngapi?",
+        "answer": "8.0"
+    },
+    {
+        "question": "Alipokuwa akihesabu viti katika chumba cha chakula cha mchana, Marie aliona kwamba kulikuwa na viti 14 katika safu ya kwanza, viti 23 katika safu ya pili, viti 32 katika safu ya tatu, viti 41 katika safu ya nne, na viti 50 katika safu ya tano. Ikiwa muundo huu utaendelea, ni viti vingapi kwenye safu ya sita?",
+        "answer": "50 "
+    },
+    {
+        "question": "Tofauti kati ya theluthi moja ya nambari na 5 ni 10. Tafuta nambari.",
+        "answer": "45"
+    },
+    {
+        "question": "Skittles huja katika vifurushi vya 6. Juan alikula Skittles 24. Je, amebakisha Skittles ngapi?",
+        "answer": "0 "
+    },
+    {
+        "question": "Umbali wa kuzunguka bustani ya mstatili ni futi 36. Upande mmoja hupima futi 10. Eneo la bustani ni nini?",
+        "answer": "80 "
+    },
+    {
+        "question": "Fred alinunua kadi tano mpya za biashara za besiboli ili kuongeza kwenye mkusanyiko wake. Siku iliyofuata mbwa wake alikula nusu ya mkusanyiko wake. Sasa zimesalia kadi ishirini na sita. Fred alianza na kadi ngapi?",
+        "answer": "47 "
+    },
+    {
+        "question": "Jasper ndiye anayesimamia viburudisho. Aliuza mifuko 27 ya chips. Aliuza hot dogs 8 chini ya chips. Aliuza vinywaji 12 zaidi ya hot dog. Jasper aliuza vinywaji vingapi?",
+        "answer": "31 "
+    },
+    {
+        "question": "Samantha ana vipande viwili vya nguo. Kipande kimoja kina upana wa inchi 72 na kipande kingine kina upana wa inchi 90. Anataka kukata vipande vyote viwili katika vipande vya upana sawa na upana iwezekanavyo. Anapaswa kukata vipande kwa upana gani?",
+        "answer": "18 "
+    },
+    {
+        "question": "Benny alipokea dola 79 na tikiti 9 za sinema kwa siku yake ya kuzaliwa. Alienda kwenye duka la bidhaa za michezo na kununua glovu ya besiboli, besiboli na popo. Alikuwa na dola 32 zaidi, alitumia kiasi gani kwa gia ya besiboli?",
+        "answer": "47.0"
+    },
+    {
+        "question": "Ikiwa una noti 1 ya dola kumi, robo 1 na nikeli 1, una pesa ngapi?",
+        "answer": "10.3 "
+    },
+    {
+        "question": "Chris amekuwa akiokoa posho yake ya kununua jozi mpya za mpira wa miguu na mpira. Bibi yake alimpa $25 kwa siku yake ya kuzaliwa. Shangazi yake na mjomba wake walimpa $20 na wazazi wake wakampa $75. Sasa alikuwa na $279. Alikuwa na pesa ngapi kabla ya siku yake ya kuzaliwa?",
+        "answer": "159 "
+    },
+    {
+        "question": "Kulikuwa na laptops 44 kwenye duka, na Mike alizigawanya kwa usawa katika safu 5. Wamebaki wangapi?",
+        "answer": "4 "
+    },
+    {
+        "question": "Keith alitumia $6.51 kununua toy ya sungura, $5.79 kwa chakula cha kipenzi, na ngome ilimgharimu $12.51. Alipata noti ya dola chini. Gharama ya jumla ya ununuzi wa Keith ilikuwa kiasi gani?",
+        "answer": "24.81"
+    },
+    {
+        "question": "Kwa karamu ya chakula cha jioni, Abraham anaunda huduma za mtu binafsi za wanaoanza. Ana vijiti 9 vya karoti na vijiti 18 vya celery. Ikiwa anataka kila kitu kifanane, bila chakula kilichosalia, ni idadi gani kubwa zaidi ya huduma ambazo Ibrahimu anaweza kuunda?",
+        "answer": "9 "
+    },
+    {
+        "question": "Kitabu kilikuwa na urefu wa inchi 2 na upana wa inchi 3. Eneo la kitabu ni nini?",
+        "answer": "6 "
+    },
+    {
+        "question": "Christine anagawanya cherries kati ya bakuli kadhaa. Aliweka cherries 35 kwenye bakuli la kwanza, cherries 40 kwenye bakuli la pili, cherries 45 kwenye bakuli la tatu, cherries 50 kwenye bakuli la nne, na cherries 55 kwenye bakuli la tano. Ikiwa muundo huu utaendelea, Christine ataweka cherries ngapi kwenye bakuli la sita?",
+        "answer": "60 "
+    },
+    {
+        "question": "Kiera anatengeneza mchanganyiko wa trail kati ya mifuko 16 ya karanga na mifuko 6 ya matunda yaliyokaushwa. Anataka kila sehemu mpya ya mchanganyiko wa njia ifanane, yenye mchanganyiko sawa wa mifuko ya karanga na mifuko ya matunda yaliyokaushwa, bila mifuko iliyobaki. Ni idadi gani kubwa zaidi ya sehemu za mchanganyiko wa trail ambazo Kiera anaweza kutengeneza?",
+        "answer": "2 "
+    },
+    {
+        "question": "Eric ana vipande viwili vya kamba. Kipande kimoja kina urefu wa inchi 10 kuliko kingine. Urefu wa jumla wa vipande viwili ni inchi 40. Kipande kifupi ni cha muda gani?",
+        "answer": "15 "
+    },
+    {
+        "question": "Katika duka la Halloween, kuna kofia 3 za kijani kibichi, kofia 2 za bluu na kofia 3 nyekundu. Ikiwa kofia 6 zinunuliwa, ni kofia ngapi zimesalia?",
+        "answer": "2 "
+    },
+    {
+        "question": "Evelyn ana marumaru 95. Anapata 9 zaidi kutoka kwa Henry. Baadaye, Evelyn hununua kadi 6 kwenye duka. Evelyn ana marumaru ngapi kwa zote?",
+        "answer": "104.0"
+    },
+    {
+        "question": "Drew alitayarisha resheni 61 za butterscotch. Ikiwa anatarajia wageni wake 6 wa meno tamu kushiriki butterscotch kati yao kwa usawa, ni wangapi wataachwa bila kuliwa?",
+        "answer": "1 "
+    },
+    {
+        "question": "Robin ana vifurushi 27 vya gum. Kuna vipande 18 katika kila kifurushi. Robin ana vipande vingapi vya fizi?",
+        "answer": "486.0"
+    },
+    {
+        "question": "Kabla ya Desemba, wateja hununua mofu 1,346 kutoka kwa maduka. Wakati wa Desemba, wananunua 6,444 zaidi, na hakuna iliyobaki. Kwa ujumla, wateja wananunua mofu ngapi za masikioni?",
+        "answer": "7790.0"
+    },
+    {
+        "question": "Saa mbili hulia mara moja kwa wakati mmoja. Baada ya hayo, saa ya kwanza inalia baada ya kila dakika 90, na ya pili baada ya kila dakika 60. Baada ya dakika ngapi watapiga tena pamoja?",
+        "answer": "180 "
+    },
+    {
+        "question": "Tano inapoongezwa kwa tatu zaidi ya nambari fulani, matokeo ni 19. Nambari ni nini?",
+        "answer": "11"
+    },
+    {
+        "question": "Nambari fulani ikiongezwa mara mbili yenyewe ni sawa na 96. Nambari ni nini?",
+        "answer": "32"
+    },
+    {
+        "question": "Nina mamia 3, makumi 8, na 3 ndio. Mimi ni nambari gani?",
+        "answer": "383"
+    },
+    {
+        "question": "Keith alitumia $136.01 kununua spika, $139.38 kwa kicheza CD na $112.46 kununua matairi mapya. Alitaka CD 3 kwa $ 6.16, lakini hakuzinunua. Kwa jumla, alitumia kiasi gani?",
+        "answer": "387.85"
+    },
+    {
+        "question": "Sam alipata senti 9 za kufulia nguo, na robo 7 za kukata nyasi. Sam ana pesa ngapi?",
+        "answer": "1.84"
+    },
+    {
+        "question": "Kwa tendo la mwisho, circus ilileta wanyama wanaocheza wakiwa wamevaa taji. Ikiwa kila taji inafanywa na manyoya 7 ya rangi tofauti, ni manyoya ngapi yanahitajika kwa taji 934?",
+        "answer": "6538.0"
+    },
+    {
+        "question": "Kuna wavulana 72 na wasichana 90 kwenye timu ya hesabu. Kwa shindano lijalo la hesabu, Bw. Johnson angependa kupanga wanafunzi wote katika safu sawa na wasichana pekee au wavulana pekee katika kila safu. Ni idadi gani kubwa zaidi ya wanafunzi inayoweza kuwa katika kila safu?",
+        "answer": "18 "
+    },
+    {
+        "question": "Nancy alichuma karoti 12 kutoka kwenye bustani yake. Ikiwa angetupa 2 kati yao na kisha kuchuna 21 zaidi siku inayofuata, angekuwa na karoti ngapi kwa jumla?",
+        "answer": "31 "
+    },
+    {
+        "question": "Tom lazima auze baa mia nane arobaini na tisa za chokoleti ili kushinda safari. Ikiwa kila kisanduku kina baa tano za chokoleti, atahitaji kuuza masanduku ngapi ili kushinda safari?",
+        "answer": "170 "
+    },
+    {
+        "question": "Bahasha kutoka posta ina upana wa inchi 6 na jumla ya eneo la inchi 36 za mraba. Urefu wa bahasha ni nini?",
+        "answer": "6 "
+    },
+    {
+        "question": "Katika duka, kuna kompyuta 92. 31 zinauzwa. 20 husafirishwa hadi kwa kampuni. Kompyuta ngapi zimesalia?",
+        "answer": "41 "
+    },
+    {
+        "question": "Dan alitumia $ 11.76 kwenye toy ya nyoka, na ngome ilimgharimu $ 14.54. Dan pia alipata noti ya dola chini. Gharama ya jumla ya ununuzi wa Dan ilikuwa kiasi gani?",
+        "answer": "26.3"
+    },
+    {
+        "question": "Timu ya Sarah ilicheza michezo 8 ya mpira wa vikapu. Katika michezo hiyo 8 matokeo ya timu yake yalikuwa: 69, 68, 70, 61, 74, 62, 65 na 74. Nini maana ya alama?",
+        "answer": "67.9 "
+    },
+    {
+        "question": "Kulikuwa na laptops 44 kwenye duka, na Mike alizigawanya kwa usawa katika safu 5. Je, kuna laptop ngapi katika kila safu?",
+        "answer": "8 "
+    },
+    {
+        "question": "Kiwanda cha makoti kilikuwa na makoti 29. Ikiwa wangetaka kuziweka kwenye masanduku 3, yenye idadi sawa ya makoti katika kila sanduku, wangebakisha kanzu ngapi za ziada?",
+        "answer": "2 "
+    },
+    {
+        "question": "Roller coaster katika maonyesho ya serikali hugharimu tikiti sita kwa kila safari. Ikiwa ungekuwa na tikiti mia nane sitini na nane, ungesalia na tikiti ngapi ikiwa ungeipanda mara nyingi uwezavyo?",
+        "answer": "4 "
+    },
+    {
+        "question": "Kuna mayai chini ya dazeni 6 kwenye kikapu. Ikiwa mayai yanahesabiwa 2, 3, 4, au 5 kwa wakati mmoja, hakuna iliyobaki. Je, kuna mayai mangapi kwenye kikapu?",
+        "answer": "60 "
+    },
+    {
+        "question": "Klabu ya Hesabu za Hesabu ilikuwa na karamu shuleni. Kulikuwa na vidakuzi 20 na vipande 40 vya pizza vya kugawiwa kwa usawa. Kila mwanafunzi alikuwa na idadi sawa ya vidakuzi vizima na idadi sawa ya vipande vya pizza bila chochote kilichosalia. Ni idadi gani kubwa zaidi ya vidakuzi na vipande vya pizza ambavyo kila mwanafunzi anaweza kupata?",
+        "answer": "20 "
+    },
+    {
+        "question": "Gawa puto 39 katika vikundi 7 sawa. Ni puto ngapi zimesalia?",
+        "answer": "4 "
+    },
+    {
+        "question": "Lou's Shoes lazima iuze jozi 80 za viatu kila mwezi. Waliuza jozi 27 wiki iliyopita na jozi 12 wiki hii. Ni jozi ngapi zaidi za viatu wanapaswa kuuza?",
+        "answer": "41 "
+    },
+    {
+        "question": "Wanafunzi 172 wanaunda timu kwa ajili ya mashindano ya kupanda milima. Kila timu inapaswa kuwa na wanafunzi 18. Ni wanafunzi wangapi hawatakuwa kwenye timu?",
+        "answer": "10 "
+    },
+    {
+        "question": "Ikiwa Karen aliuza masanduku 36 ya Tagalongs, Karen anachukua visanduku vingapi vya masanduku 12 kutoka kwa mama wa kuki?",
+        "answer": "3.0"
+    },
+    {
+        "question": "Matt ana vipande viwili vya kamba, kimoja urefu wa futi 15 na kingine futi 12 kwa urefu. Anataka kuzikata ili kutoa vipande vingi vya kamba ambavyo vyote vina urefu sawa, bila kamba iliyobaki. Je, ni urefu gani mkubwa zaidi, katika miguu, ambao anaweza kuutengeneza?",
+        "answer": "3 "
+    },
+    {
+        "question": "Shirika la mataifa mengi lina wafanyakazi wa muda 2041 na wafanyakazi wa muda 63093 . Ni wafanyikazi wangapi wanaofanya kazi kwa shirika?",
+        "answer": "65134.0"
+    },
+    {
+        "question": "Sweet Time Bakery imefunguliwa hivi karibuni na inaongeza idadi ya vitu wanavyooka. Kwa mfano, mkate ulitengeneza mikate 19 ya karoti mnamo Oktoba, keki za karoti 21 mnamo Novemba, keki 23 za karoti mnamo Desemba, na keki 25 za karoti mnamo Januari. Ikiwa muundo huu utaendelea, mkate utatengeneza keki ngapi za karoti mnamo Februari?",
+        "answer": "27 "
+    },
+    {
+        "question": "Katika ukumbi wa michezo, Jerry alishinda tikiti 29 za kucheza 'whack a mole' na tikiti 17 za kucheza 'skee ball'. Ikiwa alitumia tikiti zake 12 kwenye kofia, Jerry amebakisha tikiti ngapi?",
+        "answer": "34 "
+    },
+    {
+        "question": "Edeena anapakia idadi sawa ya vipande vya tufaha na zabibu kwa vitafunio. Edeena huweka vipande vya tufaha katika vikundi vya watu 18 na zabibu katika vikundi vya 9. Ni idadi gani ndogo ya zabibu ambayo anaweza kufunga?",
+        "answer": "18 "
+    },
+    {
+        "question": "Zack huwafundisha wanafunzi katika vikundi vya watu 14. Wakati huohuo, Karen huwafunza wanafunzi katika vikundi vya watu 10. Wanapojadili kazi zao, wakufunzi wanatambua kwamba wote wawili hufanya kazi na idadi sawa ya wanafunzi. Ni idadi gani ndogo ya wanafunzi ambayo kila mmoja anaweza kuwa nayo?",
+        "answer": "70 "
+    },
+    {
+        "question": "Magellan ameamua kutengeneza vikapu vya karamu kwa ajili ya kukusanya fedha. Baluni zinauzwa katika mifuko ya 20, pembe za chama zinauzwa katika mifuko ya 10, na kuna baa 8 za pipi kwenye mfuko. Je, anunue ngapi kati ya kila moja ili kuwe na idadi sawa ya puto, pembe na peremende katika kila kikapu?",
+        "answer": "40 "
+    },
+    {
+        "question": "Miguel ana umri wa miaka 46. Ana umri wa miaka 4 zaidi ya mara tatu ya umri wa mtoto wake. Tafuta umri wa mtoto wake.",
+        "answer": "14 "
+    },
+    {
+        "question": "Fred alicheza michezo 36 ya mpira wa vikapu mwaka huu, lakini akakosa 35. Alicheza michezo 11 mwaka jana. Je Fred alihudhuria michezo mingapi ya mpira wa vikapu kwa jumla?",
+        "answer": "47.0"
+    },
+    {
+        "question": "Bi. Hilt atanunua jozi mpya ya viatu ndani ya siku 11. Je, ni dakika ngapi anapaswa kusubiri kabla ya kununua jozi yake mpya ya viatu?",
+        "answer": "15840 "
+    },
+    {
+        "question": "Kuna tufaha 8 kwenye rundo kwenye dawati. Kila apple huja katika mfuko wa 11. apples 5 huongezwa kwenye rundo. Je, kuna tufaha mangapi kwenye rundo?",
+        "answer": "13.0"
+    },
+    {
+        "question": "Kampuni moja inatoa penseli 935 kwa shule. Penseli zimegawanywa kwa usawa kati ya madarasa 9. Penseli zilizobaki hupewa maktaba. Ni penseli ngapi zilitolewa kwa maktaba?",
+        "answer": "8 "
+    },
+    {
+        "question": "Kitanda cha maua cha mstatili kilikuwa na jumla ya eneo la yadi 35 za mraba. Ikiwa upana ulikuwa wa yadi 5, ulikuwa na urefu gani?",
+        "answer": "7 "
+    },
+    {
+        "question": "Kuna wanafunzi 124 wanaotengeneza nyota 3 kila mmoja kwa ukuta wa shule. Watatengeneza nyota ngapi zote kwa pamoja?",
+        "answer": "372.0"
+    },
+    {
+        "question": "Sean alikuwa na 45 Starbursts. Ikiwa Sean alitoa idadi sawa ya Starbursts kwa marafiki zake 18 na kisha akala kilichobaki, je, kila mtu alikula Starbursts ngapi?",
+        "answer": "2 "
+    },
+    {
+        "question": "Siku ya Jumatano, Joan alitumia dola 4 nusu kucheza mpira wa pini. Siku iliyofuata, alitumia nusu dola 14 kwenye mpira wa pini. Joan alitumia kiasi gani kucheza mpira wa pini?",
+        "answer": "9.0"
+    },
+    {
+        "question": "Kwa uuzaji wa kuoka shuleni Amy alitengeneza keki. Alioka keki 15 na vidakuzi 48. Baada ya kuuza alikuwa na 12 za kurudi nyumbani. Aliuza maandazi ngapi?",
+        "answer": "51 "
+    },
+    {
+        "question": "Paka wa Alyssa alikuwa na paka 8 na 8 walikuwa na madoa. Alitoa 4 kwa marafiki zake. Je, sasa ana paka wangapi?",
+        "answer": "4.0"
+    },
+    {
+        "question": "Wavulana 9 walikwenda kumwagilia miti. Kulikuwa na miti 29. Ikiwa kila mmoja alimwagilia kiasi sawa cha miti, ni miti mingapi ambayo kila mvulana alimwagilia?",
+        "answer": "3 "
+    },
+    {
+        "question": "Ella ana mbwa 2. Kila siku, mbwa 1 hula kijiko 0.125 cha chakula cha mbwa na mbwa mwingine anakula kijiko 0.125. Kwa pamoja, mbwa 2 hula chakula ngapi kila siku?",
+        "answer": "0.25"
+    },
+    {
+        "question": "Nambari ni sawa na mara 5 tofauti kati ya nambari na 4. Tafuta nambari.",
+        "answer": "5"
+    },
+    {
+        "question": "Mwalimu wa Kiingereza angependa kuwagawanya wavulana 10 na wasichana 15 katika vikundi, kila moja likiwa na mchanganyiko sawa wa wavulana na wasichana na hakuna aliyeachwa. Ni idadi gani kubwa zaidi ya vikundi vinavyoweza kuundwa?",
+        "answer": "5 "
+    },
+    {
+        "question": "Benny alipokea dola 67 kwa siku yake ya kuzaliwa. Alienda kwenye duka la bidhaa za michezo na kununua glovu ya besiboli, besiboli na popo. Alikuwa na dola 33 zaidi, alitumia kiasi gani kwa gia ya besiboli?",
+        "answer": "34.0"
+    },
+    {
+        "question": "Katika shule, kuna wasichana 542 na wavulana 387. Je, kuna wanafunzi wangapi katika shule hiyo?",
+        "answer": "929.0"
+    },
+    {
+        "question": "Muuza maua alikuwa na waridi 50. Ikiwa angeuza 15 kati yao kisha akachuma 21 zaidi, angepata waridi ngapi?",
+        "answer": "56 "
+    },
+    {
+        "question": "Mark alikuwa na marumaru 24 na Evan alikuwa na marumaru 3. Mark alimpa Evan baadhi ya marumaru yake. Sasa Mark ana idadi maradufu ya marumaru ambayo Evan anayo. Mark alimpa Evan marumaru ngapi?",
+        "answer": "6 "
+    },
+    {
+        "question": "Maddie, Luisa, na Amy walihesabu vitabu vyao. Maddie alikuwa na vitabu 15. Luisa alikuwa na vitabu 18. Kwa pamoja, Amy na Luisa walikuwa na vitabu 9 zaidi ya Maddie. Amy alikuwa na vitabu vingapi?",
+        "answer": "6 "
+    },
+    {
+        "question": "Meli imejaa tani 5,973 za shehena. Inasimama katika Bahamas, ambapo mabaharia hupakia tani 8,723 zaidi za mizigo kwenye meli. Meli ina tani ngapi za mizigo sasa?",
+        "answer": "14696.0"
+    },
+    {
+        "question": "Wanafunzi 15 waligawanya portfolios 122 za uchoraji. Kila mwanafunzi anapaswa kupata idadi sawa ya portfolios. Ni portfolio ngapi za uchoraji zitasalia?",
+        "answer": "2 "
+    },
+    {
+        "question": "Tom alikuwa na $19 na alitaka kununua folda nyingi kadri awezavyo. Ikiwa folda moja itagharimu $2, Tom anaweza kununua folda ngapi?",
+        "answer": "9 "
+    },
+    {
+        "question": "Muuzaji wa gari aliuza 8 Jumatatu, 3 Jumanne, 10 Jumatano, 4 Alhamisi, 4 Ijumaa na 4 Jumamosi. Ni nini maana ya idadi ya magari aliyouza?",
+        "answer": "5.5 "
+    },
+    {
+        "question": "Kuna penseli 48 na mkasi 40 kwenye droo. Joan aliweka penseli 29 kwenye droo. Je, kuna penseli ngapi sasa kwa jumla?",
+        "answer": "77.0"
+    },
+    {
+        "question": "Tess anapamba karatasi zenye jumla ya vibandiko 45 vya moyo na vibandiko vya nyota 27 kwa mtoto anayemlea. Ikiwa anataka kufanya karatasi zote zifanane, zikiwa na mchanganyiko sawa wa vibandiko vya moyo na nyota na bila vibandiko vilivyosalia, ni idadi gani kubwa zaidi ya kurasa ambazo Tess anaweza kupamba?",
+        "answer": "9 "
+    },
+    {
+        "question": "Bryan alivitazama vitabu vyake pia. Ikiwa Bryan ana vitabu 56 katika kila rafu 9 za vitabu, ana vitabu vingapi kwa jumla?",
+        "answer": "504.0"
+    },
+    {
+        "question": "Gharama za teksi katika jiji zinajumuisha malipo ya kudumu pamoja na malipo ya umbali unaotumika. Kwa safari ya kilomita 10, malipo yanayolipwa ni $75 na kwa safari ya kilomita 15, malipo yanayolipwa ni $110. Mtu atalazimika kulipa nini kwa kusafiri umbali wa kilomita 25?",
+        "answer": "180 "
+    },
+    {
+        "question": "Gharama ya jumla ya masomo pamoja na chumba na bodi katika Chuo Kikuu cha Jimbo ni $2,584. Gharama ya masomo ni $704 zaidi ya chumba na bodi. Ada ya masomo ni nini?",
+        "answer": "1644 "
+    },
+    {
+        "question": "Joe ana machungwa 45 ambayo lazima yawekwe kwenye masanduku. Daniel anakuja kusaidia na analeta vidakuzi 16 ili kushiriki na Joe. Ikiwa kuna masanduku 9, ni machungwa mangapi lazima yaingie katika kila sanduku?",
+        "answer": "5.0"
+    },
+    {
+        "question": "Pembetatu ina mzunguko wa 90 cm. Urefu wa pande tatu uko katika uwiano wa 5:12:13. Urefu wa upande mfupi zaidi ni upi?",
+        "answer": "15 "
+    },
+    {
+        "question": "Martha's Blossoms huuza waridi katika vikundi vya watu 9. Katika mji mzima, Rachel's Blooms huuza waridi katika vikundi vya watu 19. Ikiwa mteja anataka kununua idadi sawa ya waridi kutoka kwa wauzaji wote wawili, ni idadi gani ndogo ya waridi ambayo mteja atalazimika kununua kutoka. kila muuzaji?",
+        "answer": "171 "
+    },
+    {
+        "question": "Kuna shanga 1 ya kijani, shanga 2 za kahawia na shanga 3 nyekundu kwenye chombo. Tom alitoa shanga kutoka kwenye chombo na kubaki 4 ndani. Tom alitoa shanga ngapi?",
+        "answer": "2 "
+    },
+    {
+        "question": "Sam alikata vipande vya urefu sawa vya Ribbon kutoka kwa utepe wa urefu wa 3,730-cm. Ikiwa kila kipande kilikuwa na urefu wa sm 73, Sam alitengeneza vipande vingapi vya utepe vya sentimita 73?",
+        "answer": "51 "
+    },
+    {
+        "question": "Watu 105 wanaenda kwenye sinema. Watu 6 wanaweza kupanda katika kila gari. Je, ni magari mangapi yanahitajika ili kuwafikisha watu wote 105 kwenye filamu?",
+        "answer": "18 "
+    },
+    {
+        "question": "Emily alikusanya mayai kutoka kwa kuku na kuyaweka kwenye vikapu 303. Aliweka mayai 28 kwenye kila kikapu. Emily alikusanya mayai mangapi?",
+        "answer": "8484.0"
+    },
+    {
+        "question": "Mmiliki wa duka alikuwa na wafanyikazi wawili na aliwanunulia sare mia tisa ishirini na saba. Ikiwa alitaka kumpa kila mfanyakazi idadi sawa ya sare, anunue ngapi zaidi ili asiwe na ziada?",
+        "answer": "1 "
+    },
+    {
+        "question": "Jumla ya nambari tatu mfululizo zisizo za kawaida ni mia moja ishirini na tatu. Nambari ndogo zaidi kati ya hizo tatu ni ipi?",
+        "answer": "39"
+    },
+    {
+        "question": "Bwana Bradley aliwapa darasa lake tatizo la hesabu kutatua. Alisema, \"Anza na nambari 28. Ongeza 12 kwake. Kisha ongeza 7 zaidi.\" Ned alifuata maagizo kikamilifu lakini Billy alitoa 7. Kuna tofauti gani kati ya majibu ya wavulana?",
+        "answer": "14"
+    },
+    {
+        "question": "Siku moja, Trent na marafiki zake walikula chakula cha mchana wakiwa wameketi kwenye meza za watu 2. Siku nyingine, walikula chakula cha mchana kwenye meza za watu 8. Ni idadi gani ndogo zaidi ya watu wanaoweza kuwa kwenye kikundi?",
+        "answer": "8 "
+    },
+    {
+        "question": "Alikuwa na vibandiko 35 vya mistletoe na alitaka kuziweka kwa usawa katika kadi 8. Je, atakuwa amebakisha vibandiko vingapi vya mistletoe?",
+        "answer": "3 "
+    },
+    {
+        "question": "Sean ana vipande vya inchi 8 vya wimbo wa treni ya kuchezea na Ruth ana vipande vya inchi 18 vya njia ya treni. Ni ngapi kati ya kila kipande ambacho kila mtoto angehitaji kutengeneza nyimbo zinazolingana kwa urefu?",
+        "answer": "72 "
+    },
+    {
+        "question": "Laurie ana marumaru 12 zaidi ya Kurt. Kurt ana marumaru 45 chini ya Dennis. Dennis ana marumaru 70. Laurie ana marumaru ngapi?",
+        "answer": "37 "
+    },
+    {
+        "question": "Uwanja wa barafu una jozi 85 za skates za kukodisha. Watu 18 walikodisha sketi wakati uwanja wa barafu ulipofunguliwa. Watu 25 zaidi walikodisha sketi katika saa ya kwanza. Ni jozi ngapi za skates zimesalia?",
+        "answer": "42 "
+    },
+    {
+        "question": "Kuna miti 42 ya walnut na miti 12 ya michungwa kwa sasa katika bustani hiyo. Wafanyikazi wa mbuga walilazimika kukata miti 13 ya walnut ambayo iliharibiwa. Ni miti mingapi ya walnut itakuwa kwenye bustani wakati wafanyikazi watakapomaliza?",
+        "answer": "29.0"
+    },
+    {
+        "question": "Kila upande wa kipande cha mraba cha chuma cha karatasi kina urefu wa mita 7. Je, mzunguko wa karatasi ya chuma ni nini?",
+        "answer": "28 "
+    },
+    {
+        "question": "Ezra ananunua karanga na boli katika duka la karibu la vifaa vya ujenzi. Duka huuza njugu katika pakiti za 13 na boliti katika pakiti 8. Ikiwa Ezra anataka kununua idadi sawa ya karanga na boliti, ni idadi gani ndogo zaidi ya njugu anazoweza kununua?",
+        "answer": "104 "
+    },
+    {
+        "question": "Kuna miti 2 ya maple na miti 5 maarufu kwa sasa kwenye bustani hiyo. Wafanyikazi wa bustani watapanda miti 9 ya maple leo. Je, mbuga itakuwa na miti mingapi ya michoro wakati wafanyakazi watakapokamilika?",
+        "answer": "11.0"
+    },
+    {
+        "question": "Katika tukio la shule, watu wazima wameketi katika vikundi vya watu 17 haswa na watoto wameketi katika vikundi vya watu 15 haswa. Ikiwa kuna idadi sawa ya watu wazima na watoto, ni idadi gani ya chini ya watu wazima wanaohudhuria?",
+        "answer": "255 "
+    },
+    {
+        "question": "Matthew huenda kwa miguu kila baada ya siku 12 na kuogelea kila baada ya siku 6. Alifanya mazoezi ya aina zote mbili leo. Je, ni siku ngapi kutoka sasa atakwenda kupanda na kuogelea tena?",
+        "answer": "12 "
+    },
+    {
+        "question": "Muhuri mmoja unagharimu senti 34. Ikiwa gharama ya kila stempu itabaki sawa, stempu 4 zingegharimu kiasi gani?",
+        "answer": "134.0"
+    },
+    {
+        "question": "Je, vipande 136 vya gum ya Bubble vitagharimu kiasi gani ikiwa kila kipande kinagharimu senti 18?",
+        "answer": "2448.0"
+    },
+    {
+        "question": "Mwokaji mikate alikuwa na masanduku 7 ya donati. Aliishia kutengeneza donati 48 na kuzigawanya sawasawa kati ya masanduku. Alimaliza na donati ngapi za ziada?",
+        "answer": "6 "
+    },
+    {
+        "question": "Mstatili una eneo la sentimita 360 za mraba. Ina urefu wa sentimita 20. Mzunguko wake ni nini?",
+        "answer": "76 "
+    },
+    {
+        "question": "Joe, ndugu ya Susie, alikusanya kadi zote 94 za biashara zilizotawanywa katika chumba chake na kuziweka kwenye masanduku. Ikiwa sanduku kamili linaweza kushikilia kadi 8, ni masanduku ngapi yalijazwa kikamilifu?",
+        "answer": "11 "
+    },
+    {
+        "question": "Mary alichuma machungwa 14 na Jason akachuma machungwa 41. Keith alichuma tufaha 38. Ni machungwa mangapi yalichumwa yote?",
+        "answer": "55.0"
+    },
+    {
+        "question": "Laverne ana besiboli 20 na mpira wa vikapu 15. Ikiwa anataka kuwagawanya katika vikundi vinavyofanana bila mipira yoyote iliyobaki, ni idadi gani kubwa zaidi ya vikundi ambavyo Laverne anaweza kutengeneza?",
+        "answer": "5 "
+    },
+    {
+        "question": "Sarah's Shipping na Ryan's Mail Services vifurushi vyote vya meli. Malori ya Sarah yatabeba mizigo 18 pekee. Kinyume chake, malori ya Ryan yatabeba mizigo ya vifurushi 11 pekee. Ikiwa biashara zote mbili ziliishia kusafirisha idadi sawa ya vifurushi leo asubuhi, ni idadi gani ya chini ya vifurushi ambayo kila moja lazima iwe imesafirishwa?",
+        "answer": "198 "
+    },
+    {
+        "question": "Mwaka jana, Springtown Hardware iliagiza nyundo 3 mwezi Juni, nyundo 4 Julai, nyundo 6 mwezi Agosti, na nyundo 9 mwezi Septemba. Mtindo huu ukiendelea, duka litaagiza nyundo ngapi mnamo Oktoba?",
+        "answer": "13 "
+    },
+    {
+        "question": "Melody alitengeneza vipande 26 vya miti ya Krismasi na mipira nyekundu inayong'aa. Ikiwa alipanga kubandika 4 kati ya hii kwenye jalada la mbele la idadi fulani ya kadi, Melody atasalia na miti mingapi ya miti ya Krismasi?",
+        "answer": "2 "
+    },
+    {
+        "question": "Mtelezaji aliye na uzoefu wa kuteleza kwenye barafu huzunguka kwenye barafu, na kutengeneza mduara mzuri. Baadaye, anakokotoa kwamba lazima iwe na mduara wa yadi 6.28. Kipenyo cha duara ni nini?",
+        "answer": "2 "
+    },
+    {
+        "question": "Mwalimu alitoa penseli 42 kwa wanafunzi 12 kwa usawa. Ni penseli ngapi zimesalia?",
+        "answer": "6 "
+    },
+    {
+        "question": "Jose alipopanda basi aliona watu wamekaa. Katika kituo kilichofuata cha basi, watu 5 walipanda na watu 2 walishuka. Vituo viwili baadaye, watu 7 walipanda watu 15 walishuka kwenye basi kwenye kituo cha terminal. Je, ni watu wangapi walikuwa ndani ya basi wakati Jose anapanda basi?",
+        "answer": "5 "
+    },
+    {
+        "question": "Joanne anamfanyia kampeni rais wa darasa na anapanga kusambaza baadhi ya nyenzo za kampeni: vipeperushi 20 na vitufe 16. Anataka kila darasa kupokea seti inayofanana ya nyenzo za kampeni, bila kuwa na nyenzo zozote zilizobaki. Ni idadi gani kubwa ya madarasa ambayo Joanne anaweza kusambaza?",
+        "answer": "4 "
+    },
+    {
+        "question": "Sam alikuwa na senti 7 na dime 8 katika benki yake. Dada yake alikopa dime 4. Sam ana dime ngapi sasa?",
+        "answer": "4.0"
+    },
+    {
+        "question": "Tom tayari alikuwa na vipande 2 vya pipi. Rafiki yake alimpa 7 zaidi kisha Tom akanunua nyingine 10. Tom ana vipande vingapi sasa?",
+        "answer": "19 "
+    },
+    {
+        "question": "Bi. Wilson, mwalimu wa hesabu, ana mafumbo 18 ya mantiki na mafumbo 9 ya kuona ambayo anataka kuyapanga katika makundi kwa ajili ya wanafunzi wanaomaliza majaribio yao mapema. Bi. Wilson anataka kila seti ifanane, iliyo na mchanganyiko sawa wa mafumbo ya mantiki na mafumbo ya kuona, bila mafumbo yaliyosalia. Ni idadi gani kubwa zaidi ya seti anazoweza kuunda?",
+        "answer": "9 "
+    },
+    {
+        "question": "Shirley aliuza masanduku 20 ya Do-Si-Dos. Je, ni visanduku vingapi vya visanduku 4, pamoja na visanduku vya ziada ambavyo Shirley anahitaji kuwasilisha?",
+        "answer": "5.0"
+    },
+    {
+        "question": "Amanda ana vipande viwili vya utepe, kimoja urefu wa inchi 8 na kingine cha inchi 16. Ili kupamba albamu, anataka kuzikata ili kutoa vipande vingi vya utepe ambavyo vyote vina urefu sawa, bila utepe uliosalia. Je, ni urefu gani mkubwa zaidi, katika inchi, anaoweza kutengeneza?",
+        "answer": "8 "
+    },
+    {
+        "question": "Siku ya Jumatatu, wanafunzi 375 walisafiri kwenda mbuga ya wanyama. Mabasi yote 7 yalijaa na wanafunzi 4 walilazimika kusafiri kwa magari. Ni wanafunzi wangapi katika kila basi?",
+        "answer": "53.0"
+    },
+    {
+        "question": "Vidakuzi 89 vinashirikiwa kwa usawa kati ya watu 4. Kila mtu anapata ngapi?",
+        "answer": "22 "
+    },
+    {
+        "question": "Mraba ina pande zinazofikia sentimita 15. Mstatili una urefu wa cm 18. Mzunguko wa mraba ni sawa na mzunguko wa mstatili. Eneo la mstatili ni nini?",
+        "answer": "216 "
+    },
+    {
+        "question": "Mipira ya moto ya atomiki inakuja katika vifurushi vya 9. Barbara alikula Mipira 59 ya Atomiki. Je, amebakisha mipira mingapi ya Atomiki?",
+        "answer": "5 "
+    },
+    {
+        "question": "Kuna Wamarekani 2, Wafaransa 4 na Wachina 4 kwenye chumba cha mikutano. 3 kati yao wanaondoka. Je, ni watu wangapi wamesalia kwenye chumba cha mkutano?",
+        "answer": "7 "
+    },
+    {
+        "question": "Jerry alikuwa akihesabu pesa alizopokea kwa siku yake ya kuzaliwa. Kutoka kwa shangazi yake alipokea $9. Kutoka kwa mjomba wake alipokea $9. Marafiki zake wa karibu walimpa $22, $23 na $22 na $22. Na dada yake akampa $7. Je, pesa alizopokea ni nini?",
+        "answer": "16.3 "
+    },
+    {
+        "question": "Lenny ana $84. Alitumia $24 kwenye michezo ya video, na $21 kwenye duka la mboga. Je, Lenny amebakisha kiasi gani?",
+        "answer": "39 "
+    },
+    {
+        "question": "Mjenzi alihitaji kununua mbao mia moja hamsini na nne kwa ajili ya mradi wake wa hivi karibuni. Ikiwa mbao anazohitaji zitakuja katika pakiti za tatu, atahitaji kununua vifurushi ngapi?",
+        "answer": "52 "
+    },
+    {
+        "question": "Kituo cha redio kina tangazo ambalo kila mpiga simu wa 12 hupokea tikiti ya tamasha bila malipo na kila mpiga simu wa 15 hupokea gari la limo. Ni mpiga simu gani atakuwa wa kwanza kushinda zote mbili?",
+        "answer": "60 "
+    },
+    {
+        "question": "Umri wa mama wa Vidya ni miaka 5 zaidi ya nyakati tatu za umri wa sasa wa Vidya. Tafuta umri wa sasa wa Vidya, ikiwa mama yake ana miaka 44.",
+        "answer": "13 "
+    },
+    {
+        "question": "Austin anaweka vibandiko kwenye kitabu cha vibandiko. Aliweka vibandiko 8 kwenye ukurasa wa kwanza, vibandiko 16 kwenye ukurasa wa pili, vibandiko 24 kwenye ukurasa wa tatu, na vibandiko 32 kwenye ukurasa wa nne. Ikiwa muundo huu utaendelea, Austin ataweka vibandiko vingapi kwenye ukurasa wa tano?",
+        "answer": "40 "
+    },
+    {
+        "question": "Randy anahitaji keki 53 kwa sherehe ya siku ya kuzaliwa. Tayari ana keki 7 za chokoleti na keki 19 za vanila. Randy anapaswa kununua keki ngapi zaidi?",
+        "answer": "32.0"
+    },
+    {
+        "question": "Kristen anaona idadi sawa ya aina mbili za wadudu katika ujirani wake: vipepeo na vimulimuli. Sikuzote anaonekana kuona vipepeo katika vikundi vya watu 44 na vimulimuli katika vikundi vya watu 17. Ni idadi gani ndogo zaidi ya vipepeo ambayo angeweza kuona?",
+        "answer": "748 "
+    },
+    {
+        "question": "Lindsey ana makopo 16 ya soda ya kawaida na makopo 8 ya soda ya chakula. Anataka kuunda meza za viburudisho zinazofanana ambazo zitafanya kazi wakati wa mchezo wa kandanda. Pia hataki kusalia na soda. Je, ni idadi gani kubwa zaidi ya meza za viburudisho ambazo Lindsey anaweza kuhifadhi?",
+        "answer": "8 "
+    },
+    {
+        "question": "Sanduku la karatasi la kompyuta lina karatasi mia mbili ishirini na moja zilizobaki ndani yake. Ikiwa kila kichapishi kwenye maabara ya kompyuta kilihitaji karatasi saba, sanduku lingejaza vichapishi vingapi?",
+        "answer": "31 "
+    },
+    {
+        "question": "Ni maili 78 kwa nyumba ya Bibi. Bw. Welch aliendesha maili 35. Aliacha kununua pai kwa dessert. Kisha akaendesha maili 18 na kusimamisha kuweka gesi kwenye gari. Ni maili ngapi zaidi hadi afike nyumbani kwa Bibi?",
+        "answer": "25 "
+    },
+    {
+        "question": "Melanie alikuwa na dola 276 za kutumia kununua vitabu 9. Baada ya kuzinunua alikuwa na dola 15. Kila kitabu kiligharimu kiasi gani?",
+        "answer": "29 "
+    },
+    {
+        "question": "Duka lilikuwa na jozi 22 za viatu vya ukubwa mkubwa, jozi 50 za viatu vya ukubwa wa kati na pea 24 za viatu vya ukubwa mdogo. Baada ya kuuza baadhi ya viatu, ilikuwa imesalia jozi 13 za viatu. Je, duka liliuza pea ngapi za viatu?",
+        "answer": "83 "
+    },
+    {
+        "question": "Kuna vipepeo 397. Kila kipepeo ana dots 12 nyeusi na dots 17 za njano. Je, kuna dots ngapi nyeusi kwa zote?",
+        "answer": "4764.0"
+    },
+    {
+        "question": "Kampuni ya usafirishaji ilinunua tani 95 za mafuta. Pipa kubwa linaweza kubeba tani 6 za mafuta na pipa ndogo linaweza kubeba tani 5 za mafuta. Ili kutumia idadi ndogo ya mapipa na kuwa na kila pipa kikamilifu, ni mapipa ngapi makubwa yanapaswa kutumika?",
+        "answer": "15 "
+    },
+    {
+        "question": "Jenny huenda kwenye darasa la dansi kila baada ya siku 6, darasa la karate kila baada ya siku 12, na maktaba kila baada ya siku 18. Mnamo Desemba 1 alienda kwa madarasa yote mawili na maktaba. Ni siku ngapi kutoka Desemba 1 atafanya madarasa yote mawili na kwenda maktaba?",
+        "answer": "36 "
+    },
+    {
+        "question": "Rosa anatengeneza ubao wa mchezo ambao ni inchi 16 kwa inchi 24. Anataka kutumia vigae vya mraba. Je, ni kigae gani kikubwa zaidi anachoweza kutumia?",
+        "answer": "8 "
+    },
+    {
+        "question": "Denise anazeeka na anahisi kama anapaswa kutoa mkusanyiko wake wa wanyama waliojaa kwa watoto ambao hawana bahati. Ana paka 14 na mbwa 7 waliojazwa, ambao anataka kuwagawanya katika makundi yanayofanana, bila wanyama waliojazwa waliosalia. Ni idadi gani kubwa zaidi ya vikundi ambavyo Denise anaweza kuweka wanyama wake waliojazwa ndani?",
+        "answer": "7 "
+    },
+    {
+        "question": "Joan alikuza maboga 24, Keith alikuza maboga 42, na Alyssa alikuza maboga 13. Walifanya kazi kwa siku 34 shambani. Je, ziliota maboga ngapi kwa yote?",
+        "answer": "79.0"
+    },
+    {
+        "question": "Jumba la kumbukumbu la sanaa lilikuwa na picha 15 za kugawanyika kwa usawa katika maonyesho 2 tofauti. Je, wangehitaji picha ngapi zaidi ili kuhakikisha kuwa kila onyesho lilikuwa na kiasi sawa?",
+        "answer": "1 "
+    },
+    {
+        "question": "Bernard alikuwa na madaftari nyekundu 15, madaftari 17 ya bluu na 19 nyeupe. Alimpa Tom baadhi yao na kubaki 5. Bernard alimpa Tom madaftari ngapi?",
+        "answer": "46 "
+    },
+    {
+        "question": "Roger alikuwa akiwasaidia wafanyakazi wa mkahawa kuchukua trei za chakula cha mchana, lakini aliweza kubeba trei 4 tu kwa wakati mmoja. Ikiwa alilazimika kuchukua trei 10 kutoka kwa meza moja na trei 2 kutoka kwa nyingine, atafanya safari ngapi?",
+        "answer": "3.0"
+    },
+    {
+        "question": "Wasichana wanne walikuwa nyumbani siku nzima wikendi moja wakitayarisha chipsi za kujitengenezea nyumbani. Anna alitengeneza vidakuzi 33 vya blueberry. Ikiwa atashiriki kwa usawa kati ya marafiki zake wanne, je, kila mmoja atapata ngapi?",
+        "answer": "8 "
+    },
+    {
+        "question": "Nambari inayojumuisha tarakimu mbili, ni sawa na mara 7 jumla ya tarakimu zake. Wakati 27 imetolewa kutoka kwa nambari, nambari hubadilishana mahali. Tafuta nambari.",
+        "answer": "63"
+    },
+    {
+        "question": "Umri wa baba ni sawa na jumla ya umri wa watoto wake 5. Baada ya miaka 15 jumla ya umri wa watoto itakuwa mara mbili ya umri wa baba. Tafuta umri wa baba.",
+        "answer": "75 "
+    },
+    {
+        "question": "Bi. Evans ana kalamu za rangi 120 na vipande 30 vya karatasi vya kuwapa wanafunzi wake. Ni idadi gani kubwa zaidi ya wanafunzi anaoweza kuwa nao katika darasa lake ili kila mwanafunzi apate idadi sawa ya kalamu za rangi na idadi sawa ya karatasi?",
+        "answer": "30 "
+    },
+    {
+        "question": "Ili kumaliza kugusa, alihitaji galoni 70 za rangi. Ikiwa alinunua galoni 23 ili kuongeza galoni zake 36 za rangi, atahitaji rangi ngapi zaidi?",
+        "answer": "11 "
+    },
+    {
+        "question": "Kuna vifutio 69 kwenye sanduku. Jane ana vifutio 15 kwenye begi. Doris anachukua vifutio 54 nje ya boksi. Je, ni vifutio ngapi vimesalia kwenye kisanduku?",
+        "answer": "15.0"
+    },
+    {
+        "question": "Kisiwa katika Bahari ya Pasifiki kilikuwa na upana wa maili 5. Ilikuwa na jumla ya eneo la maili 50 za mraba. Kisiwa kina muda gani?",
+        "answer": "10 "
+    },
+    {
+        "question": "Jason alikuza matikiti 32 na cantelopes 22. Dan alikuza matikiti 31. Je, jumla ya matikiti maji yalikua ngapi?",
+        "answer": "63.0"
+    },
+    {
+        "question": "Robert alipata $76 kazini. Alitumia $6 kwa kalamu na $14 kwa kikokotoo. Alikuwa na pesa ngapi?",
+        "answer": "56 "
+    },
+    {
+        "question": "Bi. Hilt ana alama 40. Wamegawanywa kwa usawa katika vifurushi 7. Bi. Hilt anataka kujua ni alama ngapi zimesalia?",
+        "answer": "5 "
+    },
+    {
+        "question": "Msimamizi wa maktaba alilazimika kufunga vitabu mia tano na tisini kwenye masanduku. Ikiwa kila sanduku linaweza kubeba vitabu vitatu, alihitaji masanduku ngapi?",
+        "answer": "197 "
+    },
+    {
+        "question": "Kisha Lewis akaenda kuona machungwa yakivunwa. Lewis aligundua kuwa wanavuna magunia 83 kwa siku. Je, watapata magunia ngapi ya machungwa baada ya siku 6 za mavuno?",
+        "answer": "498.0"
+    },
+    {
+        "question": "Janice na Jasmine walipewa kila mmoja kipande cha utepe chenye urefu sawa. Janice anakata riboni zake katika urefu sawa wa mita 2, huku Jasmine akikata riboni zake kwa urefu sawa wa mita 5. Ikiwa hakukuwa na salio katika visa vyote viwili, ni urefu gani mfupi zaidi wa utepe waliopewa?",
+        "answer": "10 "
+    },
+    {
+        "question": "Familia inatayarisha mikoba iliyojaa vifaa vya shule ili kuchangia watoto wanaohitaji. Wana penseli 9 na daftari 15. Ikiwa wanataka kufanya mikoba yote sawa, bila vifaa vya shule vilivyobaki, ni idadi gani kubwa zaidi ya mikoba wanayoweza kujaza?",
+        "answer": "3 "
+    },
+    {
+        "question": "Warren alikimbia mzunguko 1 Jumatano, mizunguko 2 siku ya Alhamisi, mizunguko 4 Ijumaa, mizunguko 8 Jumamosi, na mizunguko 16 Jumapili. Ikiwa mtindo huu utaendelea, Warren atakimbia mizunguko mingapi siku ya Jumatatu?",
+        "answer": "32 "
+    },
+    {
+        "question": "Bi. Baker ana keki 17. Anataka kuzigawa kwa usawa kati ya watoto wake 3 ili hakuna mtu anayepata zaidi ya mtu mwingine yeyote. Ikiwa atampa kila mtoto keki nyingi iwezekanavyo, ni keki ngapi zitasalia kwa Bi. Baker kula?",
+        "answer": "2 "
+    },
+    {
+        "question": "Nathan anahifadhi bafu katika hoteli anayofanyia kazi. Ana roli 18 za karatasi ya choo na baa 9 za sabuni. Ikiwa anataka bafu zote zijazwe sawasawa, na mchanganyiko sawa wa vifaa katika kila moja na hakuna chochote kinachobaki, ni mchanganyiko gani mkubwa zaidi wa bafu ambao Nathan anaweza kuhifadhi?",
+        "answer": "9 "
+    },
+    {
+        "question": "Georgia ilikuwa na vifungo 24 vya njano, vifungo 16 vyeusi na vifungo 19 vya kijani. Alitoa baadhi ya vifungo kwa Mary na sasa Georgia ina vifungo 13 vilivyosalia. Georgia alimpa Mary vifungo vingapi?",
+        "answer": "46 "
+    },
+    {
+        "question": "Jared anakagua bili yake ya simu ya rununu. Anapofika kwenye sehemu ya ujumbe wa maandishi, anagundua kuwa alituma ujumbe 1 mnamo Novemba, ujumbe wa maandishi 2 mnamo Desemba, jumbe 4 za maandishi mnamo Januari, na jumbe 8 mnamo Februari. Mpangilio huu ukiendelea, Jeredi atatuma SMS ngapi mwezi Machi?",
+        "answer": "16 "
+    },
+    {
+        "question": "Emily alikuwa anacheza mchezo wa trivia. Katika raundi ya kwanza alifunga pointi 16 na katika mzunguko wa pili alifunga pointi 33. Katika raundi ya mwisho alipoteza pointi 48. Je, alikuwa na pointi ngapi mwishoni mwa mchezo?",
+        "answer": "1.0"
+    },
+    {
+        "question": "Fikiria theluthi mbili ya nambari na ongeza sita kwake. Matokeo yake ni kumi. Tafuta nambari isiyojulikana.",
+        "answer": "6"
+    },
+    {
+        "question": "Bi. Hilt ana alama 40. Wamegawanywa kwa usawa katika vifurushi 7. Bi. Hilt anataka kujua ni alama ngapi kwenye kila kifurushi?",
+        "answer": "5.0"
+    },
+    {
+        "question": "Harry alitembea kando ya ufuo na kukusanya nyota 34 za baharini, ganda la bahari 21 na konokono 29. Alipoteza baadhi ya vitu na kubaki vitu 59 mwishoni mwa matembezi yake. Je, alipoteza viumbe wangapi wa baharini?",
+        "answer": "25 "
+    },
+    {
+        "question": "Klabu ina wasichana 16 na wavulana 8 kama wanachama. Rais anataka kuvunja klabu katika makundi, kila kundi likiwa na mchanganyiko sawa wa wasichana na wavulana. Rais pia anataka kuhakikisha kuwa hakuna anayeachwa. Je, ni idadi kubwa zaidi ya makundi ambayo rais anaweza kuunda?",
+        "answer": "8 "
+    },
+    {
+        "question": "Ili kuhimiza usafiri wa umma, Russom anataka kuwapa baadhi ya marafiki bahasha zenye tikiti za basi na tikiti za treni ya chini ya ardhi. Ikiwa ana tikiti 18 za basi na 12 za treni ya chini ya ardhi kugawanywa kwa usawa kati ya bahasha, na hataki tikiti zozote zilizobaki, ni idadi gani kubwa zaidi ya bahasha ambayo Russom anaweza kutengeneza?",
+        "answer": "6 "
+    },
+    {
+        "question": "Zoe alikuwa na chupa 42 za maji kwenye friji yake. Ikiwa angekunywa 25 kati ya hizo na kisha kununua 30 zaidi, angekuwa na chupa ngapi?",
+        "answer": "47 "
+    },
+    {
+        "question": "Emma ana mkebe wa cocktail ya matunda kwenye pantry. Kifuniko cha mviringo kina kipenyo cha inchi 2. Mzunguko wa kifuniko ni nini?",
+        "answer": "6.28 "
+    },
+    {
+        "question": "Jumla ya nambari na 15 ni 96. Tafuta nambari.",
+        "answer": "81"
+    },
+    {
+        "question": "A P.E. mwalimu anatakiwa kugawanya wanafunzi 14 wa kiume na wanafunzi 7 wa kike katika timu, kila moja ikiwa na mchanganyiko sawa wa wanafunzi wa kiume na wa kike na hakuna aliyeachwa. Je, ni idadi gani kubwa zaidi ya timu zinazoweza kuundwa?",
+        "answer": "7 "
+    },
+    {
+        "question": "Jumla ya nambari tatu zinazofuatana ni 90. Nambari ndogo zaidi kati ya hizo tatu ni ipi?",
+        "answer": "29"
+    },
+    {
+        "question": "Tom alinunua ubao wa kuteleza kwenye theluji kwa $9.46, na alitumia $9.56 kununua marumaru. Tom pia alitumia $ 14.50 kwa kaptula. Kwa jumla, Tom alitumia kiasi gani kununua vifaa vya kuchezea?",
+        "answer": "19.02"
+    },
+    {
+        "question": "Alyssa alicheza michezo 11 ya soka mwaka huu, lakini alikosa 12. Alicheza michezo 13 mwaka jana na ana mpango wa kwenda kwenye michezo 15 mwaka ujao. Je, Alyssa atashiriki michezo mingapi ya soka?",
+        "answer": "39.0"
+    },
+    {
+        "question": "Darasa la ballet linataka kugawanya washiriki wake 90 katika vikundi vingine vikubwa kwa washiriki 7 kila moja na vikundi vidogo kwa washiriki 3 kila moja. Ili kufanya idadi ndogo ya vikundi, ni vikundi vingapi vikubwa vinapaswa kufanywa?",
+        "answer": "12 "
+    },
+    {
+        "question": "Kwenye ukumbi wa mazoezi, Hillary huogelea kila baada ya siku 6, anaendesha kila siku 4 na mzunguko kila baada ya siku 16. Ikiwa angefanya shughuli zote tatu leo, atafanya shughuli zote tatu kwa siku ngapi tena kwa siku moja?",
+        "answer": "48 "
+    },
+    {
+        "question": "Mchezaji mrefu zaidi kwenye timu ya mpira wa vikapu ana urefu wa inchi 77.75. Huu ni urefu wa inchi 9.5 kuliko mchezaji mfupi zaidi. Je, mchezaji mfupi zaidi ana urefu gani kwa inchi?",
+        "answer": "68.25"
+    },
+    {
+        "question": "Adamu alikuwa na vitabu 33. Ikiwa angeuza 11 kati ya hivyo na kutumia pesa alizopata kununua vitabu vipya 23, Adamu angekuwa na vitabu vingapi?",
+        "answer": "45 "
+    },
+    {
+        "question": "Johnny alifanya mazoezi ya timu ya wimbo na alikimbia mizunguko 3 kwa dakika. Johnny ilimchukua dakika ngapi kukimbia mizunguko 10?",
+        "answer": "3.33333"
+    },
+    {
+        "question": "Jumla ya tarakimu za nambari ya tarakimu mbili ni 8 na tofauti kati ya nambari na ile inayoundwa kwa kugeuza tarakimu ni 18. Tafuta nambari.",
+        "answer": "53"
+    },
+    {
+        "question": "Kwa mchezo wa darasa la tano, viti vimewekwa katika safu 27 na viti 16 katika kila safu. Ni viti vingapi vimetolewa kwa ajili ya mchezo huo?",
+        "answer": "432.0"
+    },
+    {
+        "question": "Gary alikuwa na vibandiko. Alimpa Lucy vibandiko 42 na vibandiko 26 kwa Alex. Ikiwa alikuwa amebakisha stika 31, Gary alikuwa na stika ngapi mwanzoni?",
+        "answer": "99 "
+    },
+    {
+        "question": "William anauza hot dogs kwenye uwanja wa mpira. Aliuza hot dogs 19 wakati wa miingio mitatu ya kwanza. Aliuza hot dogs 27 katika miingio mitatu iliyofuata. William alikuwa amebakiwa na hot dogs 45 kuuza. William alikuwa na mbwa wangapi mwanzoni?",
+        "answer": "91 "
+    },
+    {
+        "question": "Melanie alichuma squash 7 na machungwa 4 kutoka kwenye bustani. Alimpa squash 3 Sam. Je, ana plums ngapi sasa?",
+        "answer": "4.0"
+    },
+    {
+        "question": "Mei ina machungwa 15, peaches 9 na pears 18. Anataka kuweka matunda yote kwenye vikapu huku kila kikapu kikiwa na idadi sawa ya vipande vya matunda ndani yake. Bila kuchanganya matunda, ni idadi gani kubwa zaidi ya vipande vya matunda Mei inaweza kuweka katika kila kikapu?",
+        "answer": "3 "
+    },
+    {
+        "question": "Kitendo kilichofuata kilihusisha wachezaji kadhaa. Ikiwa kila juggler anacheza mipira 6 kwa wakati mmoja, ni mipira mingapi inahitajika ikiwa kuna wachezaji 378 wanaofanya onyesho kwa wakati mmoja?",
+        "answer": "2268.0"
+    },
+    {
+        "question": "Bwana Peter alivuna peari. Alichukua kilo 43 za peari kwenye begi na kilo 35 za peari kwenye begi lingine. Ikiwa bado kulikuwa na kilo 15 za peari zilizoachwa bila kupakiwa, ni kilo ngapi za peari ambazo Bwana Peter alivuna?",
+        "answer": "93 "
+    },
+    {
+        "question": "Keith alichuma peari 3 na Jason akachuma peari 2 kutoka kwa mti wa peari. Joan alichuma tufaha 5 kutoka kwenye mti wa tufaha. Je! ni peari ngapi kwa jumla?",
+        "answer": "5.0"
+    },
+    {
+        "question": "Ben anachora duara ndani ya kipande cha karatasi cha mraba ambacho eneo lake ni inchi 400 za mraba. Anahakikisha kuliko mduara unagusa kila upande wa mraba. Eneo la duara ni nini?",
+        "answer": "314 "
+    },
+    {
+        "question": "Wakati wa kuendesha chakula cha makopo, vitu vilipangwa kwenye mapipa. Uendeshaji ulisababisha mapipa 0.125 ya supu, pipa 0.125 za mboga, na pipa 0.5 za tambi. Kwa ujumla, chakula cha makopo kingechukua mapipa ngapi?",
+        "answer": "0.75"
+    },
+    {
+        "question": "Shule ilinunua mpira wa vikapu 54 na kuwasambaza katika madarasa 7 kwa usawa. Kila darasa lilipata mpira wa vikapu ngapi?",
+        "answer": "7 "
+    },
+    {
+        "question": "Kuna sufuria 544. Kila sufuria ina maua 32 ndani yake. Je, kuna maua mangapi kwa yote?",
+        "answer": "17408.0"
+    },
+    {
+        "question": "Mary alipata ganda 2 na Keith alipata ganda 5 ufukweni. Walipozisafisha, waligundua kuwa 9 zilikuwa na nyufa. Je, walipata ganda ngapi za bahari pamoja?",
+        "answer": "7.0"
+    },
+    {
+        "question": "Kuna vifutio 48 kwenye droo na vifutio 30 kwenye dawati. Alyssa aliweka vifutio 39 na watawala 45 kwenye dawati. Je, sasa kuna vifutio vingapi kwa jumla?",
+        "answer": "117.0"
+    },
+    {
+        "question": "Tom alienda kwenye michezo 4 ya hoki mwaka huu, lakini akakosa 7. Alicheza michezo 9 mwaka jana. Tom alienda kwa michezo mingapi ya hoki kwa jumla?",
+        "answer": "13.0"
+    },
+    {
+        "question": "Kuna maapulo 2 kwenye rundo kwenye dawati. Kila apple huja katika mfuko wa 7. 4 apples ni aliongeza kwa rundo. Je, kuna tufaha mangapi kwenye rundo?",
+        "answer": "6.0"
+    },
+    {
+        "question": "Bi. Hilt alisafiri maili 6, 760 hadi Japani. Alisoma kitabu kimoja kila maili 450 alizosafiri. Alikuwa amemaliza vitabu vingapi alipofika Japani?",
+        "answer": "15 "
+    },
+    {
+        "question": "Alyssa alichuma ndimu 25 na Mike akachuma ndimu 32. Tom alichukua squash 12. Ni limau ngapi zilichunwa zote?",
+        "answer": "57.0"
+    },
+    {
+        "question": "Bi. Hilt alitazama kipima kipimo cha gari lake kabla ya safari. Odometer ilionyesha kuwa alikuwa amesafiri maili 212.3. Aliposimama kwa chakula cha mchana, odometer ilisoma 372.0. Alikuwa amesafiri maili ngapi?",
+        "answer": "159.7"
+    },
+    {
+        "question": "Alvin anajaribu kujenga nyumba ndogo msituni ili apate mahali pa kukaa kila anapoenda kuwinda. Alianza kwa kukusanya kuni. Kulingana na mpango wake, atahitaji vipande 376 vya mbao. Ikiwa rafiki yake alimpa vipande 123 na kaka yake akampa vipande 136, anahitaji kukusanya kuni ngapi zaidi?",
+        "answer": "117 "
+    },
+    {
+        "question": "Sanduku linaweza kubeba vipande 18 vya chaki. Ikiwa kuna vipande 3,484 vya chaki, ni chaki ngapi kwenye sanduku ambalo halijajaa?",
+        "answer": "10 "
+    },
+    {
+        "question": "Mary anapenda kula matunda. Mary alilipa $7.19 kwa matunda ya matunda, na $6.83 kwa peaches na bili ya $20. Mary alipokea mabadiliko kiasi gani?",
+        "answer": "5.98"
+    },
+    {
+        "question": "Eric ana vifutio 9306. Ikiwa atazishiriki kati ya marafiki 99, kila rafiki anapata vifutio vingapi?",
+        "answer": "94.0"
+    },
+    {
+        "question": "Sally alilipa jumla ya $12.32 kwa peaches, baada ya kuponi ya dola 3, na $11.54 kwa cherries. Kwa jumla, Sally alitumia pesa ngapi?",
+        "answer": "23.86"
+    },
+    {
+        "question": "Ikiwa nambari imetolewa kutoka 32, tarakimu za 32 zinabadilishwa. Tafuta nambari.",
+        "answer": "55"
+    },
+    {
+        "question": "Kuna wanafunzi 650 katika shule. Ikiwa idadi ya wasichana ni 106 zaidi ya wavulana, kuna wavulana wangapi shuleni?",
+        "answer": "272 "
+    },
+    {
+        "question": "Vipande vitatu vya mbao 42 m, 49 m na 63 m kwa muda mrefu vinapaswa kugawanywa katika mbao za urefu sawa. Je, ni urefu gani unaowezekana wa kila ubao?",
+        "answer": "7 "
+    },
+    {
+        "question": "Duka la vitabu lilikuwa na vitabu 4 kwenye pipa la baha. Ikiwa wangeuza vitabu 3, na kisha kuweka 10 zaidi kwenye pipa, ni vitabu vingapi kwenye pipa?",
+        "answer": "11 "
+    },
+    {
+        "question": "Katika matembezi ya asubuhi, watu wawili huanza pamoja. Hatua zao hupima cm 75, na 90 cm kwa mtiririko huo. Ni umbali gani wa chini ambao kila mmoja anapaswa kutembea ili wote waweze kufunika umbali sawa kwa hatua kamili?",
+        "answer": "450 "
+    },
+    {
+        "question": "Mwalimu alikuwa na karatasi 38 za kupanga. Ikiwa angepata daraja la 4, lakini nyingine 15 zikageuzwa, je, angepata karatasi ngapi za kufanyia kazi?",
+        "answer": "49 "
+    },
+    {
+        "question": "Li Na atapanda mimea 63 ya nyanya na mimea 81 ya rhubarb. Li Na angependa kupanda mimea hiyo kwa safu ambapo kila safu ina idadi sawa ya mimea ya nyanya na kila safu ina idadi sawa ya mimea ya rhubarb. Ni idadi gani kubwa zaidi ya safu ambazo Li Na anaweza kupanda?",
+        "answer": "9 "
+    },
+    {
+        "question": "Miti iliyo nyuma ya nyumba ya Wendy ilikuwa na upana wa maili 8 na ina eneo la maili 24 za mraba. Urefu wa msitu ni nini?",
+        "answer": "3 "
+    },
+    {
+        "question": "London ana umri wa miaka 11 na Blair ana miaka 16. Miaka kadhaa iliyopita, Blair alikuwa mzee mara mbili ya London. London ilikuwa na umri gani wakati huo?",
+        "answer": "6 "
+    },
+    {
+        "question": "Tom alikuwa na $19 na alitaka kununua folda nyingi kadri awezavyo. Ikiwa folda moja itagharimu $2, ni kiasi gani kinachobaki baada ya kununua folda hizo?",
+        "answer": "1 "
+    },
+    {
+        "question": "Dirisha lilikuwa na urefu wa futi 6 na upana wa futi 10. Eneo la dirisha ni nini?",
+        "answer": "60 "
+    },
+    {
+        "question": "Kulikuwa na mbwa 36 na paka 29 katika kituo cha wanyama-pet. Baada ya mbwa 20 kupitishwa na watu, kituo cha pet kilikusanya paka wengine 12. Je, ni wanyama wangapi wa kipenzi waliokuwepo kwenye kituo cha wanyama kipenzi mwishoni?",
+        "answer": "57 "
+    },
+    {
+        "question": "Katika tamasha, bendi ina fulana 20 za wanaume na fulana 8 za wanawake. Bendi inataka kutengeneza meza za kuuza shati hizo, zikiwa na idadi sawa ya mashati ya wanaume na wanawake katika kila meza na hakuna shati iliyobaki. Je, bendi inaweza kuuza mashati kutoka kwa idadi gani kubwa zaidi?",
+        "answer": "4 "
+    },
+    {
+        "question": "Katika duka la pipi, kuna visanduku 3 vya peremende za kahawia, visanduku 3 vya peremende nyeusi, na visanduku 2 vya pipi za bluu. Ikiwa masanduku 5 yanunuliwa, ni sanduku ngapi za pipi zilizobaki?",
+        "answer": "3 "
+    },
+    {
+        "question": "Sanduku linaweza kubeba vipande 18 vya chaki. Ikiwa kuna vipande 3,484 vya chaki, ni masanduku ngapi yamejaa kushikilia chaki yote?",
+        "answer": "194 "
+    },
+    {
+        "question": "Emily anakusanya kadi 63. Baba ya Emily anampa Emily 7 zaidi. Bruce ana tufaha 13. Emily ana kadi ngapi?",
+        "answer": "70.0"
+    },
+    {
+        "question": "Kuna wavulana 5 na wasichana 4 darasani. Baada ya wavulana 3 kutoka darasani, wasichana wengine 2 walikuja darasani. Je! walikuwa na watoto wangapi darasani mwishoni?",
+        "answer": "8 "
+    },
+    {
+        "question": "Megan na dada yake, Tara, walitaka kununua skuta kwa $26. Tara alikuwa na $4 zaidi ya Megan. Kwa pamoja walikuwa na pesa za kutosha kununua pikipiki. Tara alikuwa na pesa ngapi?",
+        "answer": "15 "
+    },
+    {
+        "question": "Mwezi kamili hutokea kila siku 30. Ikiwa mwezi kamili wa mwisho ulitokea Ijumaa, ni siku ngapi zitapita kabla ya mwezi kamili kutokea tena siku ya Ijumaa?",
+        "answer": "210 "
+    },
+    {
+        "question": "Joan alinunua magari ya kuchezea kwa $14.88, ubao wa kuteleza kwa $4.88, na alipata magari ya kuchezea kwa $5.86. Alitumia $14.55 kwenye suruali. Kwa jumla, Joan alitumia kiasi gani kununua vifaa vya kuchezea?",
+        "answer": "25.62"
+    },
+    {
+        "question": "Brian ana penseli 39. Anatoa penseli 18 kwa rafiki. Ananunua penseli 22 zaidi. Brian ana penseli ngapi sasa?",
+        "answer": "43 "
+    },
+    {
+        "question": "Kwa Halloween, Adamu alipokea vipande 201 vya pipi. Ikiwa angeyaweka kwenye mirundo na 43 katika kila rundo, takriban angeweza kutengeneza mirundo mingapi?",
+        "answer": "5 "
+    },
+    {
+        "question": "Wanafunzi 86 wanakwenda kupanda mlima. Kila basi la shule linaweza kuchukua wanafunzi 9. Ni mabasi ngapi ya shule yanahitajika?",
+        "answer": "9 "
+    },
+    {
+        "question": "Muuza maua ana tulips 12 na karafuu 18. Ikiwa mtu wa maua anataka kuunda bouquets zinazofanana bila maua yoyote iliyobaki, ni idadi gani kubwa zaidi ya maua ambayo mtaalamu wa maua anaweza kutengeneza?",
+        "answer": "6 "
+    },
+    {
+        "question": "Philip ananunua kalamu na penseli kutoka kwa duka. Kalamu zinakuja katika vifurushi vya 12, lakini penseli zinauzwa katika vifurushi 15. Ikiwa Philip anataka kununua idadi sawa ya kalamu na penseli, ni idadi gani ndogo zaidi ya kalamu anazoweza kununua?",
+        "answer": "60 "
+    },
+    {
+        "question": "Lewis aliokoa akiangalia mizabibu kwa kituo chake cha mwisho. Aliambiwa na mmoja wa wavunaji kwamba wanajaza madumu 324 ya zabibu kwa siku. Ni ngoma ngapi za zabibu zingejazwa kwa siku 9?",
+        "answer": "2916.0"
+    },
+    {
+        "question": "Katika chumba cha aiskrimu, mmiliki alikuwa akifuatilia idadi ya koni za chokoleti alizouza kwa wiki moja. Matokeo yake yalikuwa: 100, 92, 109, 96, 103, 96 na 105. Nini maana ya koni zinazouzwa?",
+        "answer": "100.1 "
+    },
+    {
+        "question": "Keith alipata ganda 6, Jessica alipata ganda 8, na Tim alipata ganda 7 ufukweni. Walipozisafisha, waligundua kuwa 3 zilikuwa na nyufa. Je, walipata ganda ngapi za bahari pamoja?",
+        "answer": "21.0"
+    },
+    {
+        "question": "Peter's Party Zone inauza vikombe katika vifurushi 6 na sahani katika vifurushi 8. Shaniya anaandaa sherehe ya kuzaliwa kwa dada yake mdogo na anataka kuwa na idadi sawa ya kila bidhaa. Ni idadi gani ndogo ya vifurushi vya sahani ambazo Shaniya anahitaji kununua?",
+        "answer": "24 "
+    },
+    {
+        "question": "Evan hutoa vifurushi katika jengo. Alianza kwenye ghorofa ya kwanza na akapanda sakafu 7. Alishuka sakafu 3 na kisha akapanda sakafu 16. Kisha alikuwa na sakafu 2 tu kutoka juu ya jengo hilo. Je! ni sakafu ngapi kwenye jengo kwa ujumla?",
+        "answer": "23 "
+    },
+    {
+        "question": "Jane anaweza kupanga vase 16 za maua kwa siku. Ikiwa kuna vases 248 za maua ya kupangwa, ni siku ngapi zinahitajika ili kumaliza mipango yote ya maua?",
+        "answer": "16 "
+    },
+    {
+        "question": "Jared ana duka la vifaa vya ujenzi na anaangalia maagizo yake ya awali. Duka la vifaa vya Jared liliagiza kuchimba visima 5 mnamo Januari, kuchimba visima 6 mnamo Februari, kuchimba visima 8 mnamo Machi na kuchimba visima 11 mnamo Aprili. Mtindo huu ukiendelea, duka litaagiza ni kuchimba visima ngapi mwezi wa Mei?",
+        "answer": "15 "
+    },
+    {
+        "question": "Andy ananunua betri za AA na betri za D. Duka huuza betri za AA katika pakiti za betri 38 na D katika pakiti za 44. Ikiwa Andy angependa kununua idadi sawa ya betri za AA na D, ni nambari gani ndogo zaidi ya kila aina ya betri ambayo anaweza kununua?",
+        "answer": "836 "
+    },
+    {
+        "question": "Kuna wanafunzi 32 darasani. Mwalimu aliwagawanya katika vikundi 5 sawa. Wanafunzi wangapi wamebaki?",
+        "answer": "2 "
+    },
+    {
+        "question": "Sam na Carlos wanacheza mpira wa miguu wakiwa na pini za plastiki kwenye sebule ya Sam. Ajabu, Sam anapiga pini 8 kwenye kila bakuli, na Carlos anapiga pini 9 kwenye kila bakuli. Mwisho wa siku, Sam na Carlos wameangusha idadi sawa ya pini. Ni idadi gani ndogo zaidi ya pini zote ambazo Sam na Carlos wangeweza kuangusha kila mmoja?",
+        "answer": "72 "
+    },
+    {
+        "question": "Katika darasa la nne kulikuwa na wanafunzi 35 mwanzoni mwa mwaka. Katika mwaka huo wanafunzi 10 waliondoka na wanafunzi 10 wapya walikuja shuleni. Je! ni wanafunzi wangapi walikuwa katika kidato cha nne mwishoni?",
+        "answer": "35 "
+    },
+    {
+        "question": "Carol alikuwa anacheza mchezo wa mambo madogo madogo. Katika raundi ya kwanza alifunga alama 17 na katika raundi ya pili alifunga alama 6. Katika raundi ya mwisho alipoteza pointi 16. Je, alikuwa na pointi ngapi mwishoni mwa mchezo?",
+        "answer": "7.0"
+    },
+    {
+        "question": "Mgahawa ulitoa vipande 7 vya pai wakati wa chakula cha mchana na 5 wakati wa chakula cha jioni leo. Ilihudumia 8 kati yao jana. Je, ni vipande vingapi vya pai vilivyotolewa leo?",
+        "answer": "12.0"
+    },
+    {
+        "question": "Sanduku linaweza kubeba brownies saba. Ikiwa mwokaji alitengeneza brownies mia tatu arobaini na tisa, ni sanduku ngapi kamili za brownies alitengeneza?",
+        "answer": "49 "
+    },
+    {
+        "question": "Jason na Lexi wanahifadhi vitabu kwenye maktaba ya umma. Jason huweka rafu vitabu 6 kwa wakati mmoja, ilhali Lexi huweka rafu 17 kwa wakati mmoja. Iwapo wataishia kuweka rafu kwa idadi sawa ya vitabu, ni idadi gani ndogo ya vitabu ambayo kila mmoja angeweza kuweka kwenye rafu?",
+        "answer": "102 "
+    },
+    {
+        "question": "Bianca alikuwa na vitabu 45 vya kuchorea. Ikiwa angetoa 6 kati yao, lakini kisha akanunua 20 zaidi, angekuwa na ngapi kwa jumla?",
+        "answer": "59.0"
+    },
+    {
+        "question": "Derek anachuma maua kwenye bustani. Alichuma maua 18 kutoka kwenye kichaka cha kwanza, maua 22 kutoka kwenye kichaka cha pili, maua 26 kutoka kwenye kichaka cha tatu, maua 30 kutoka kwenye kichaka cha nne, na maua 34 kutoka kwenye kichaka cha tano. Ikiwa muundo huu utaendelea, Derek atachukua maua ngapi kutoka kwenye kichaka cha sita?",
+        "answer": "38 "
+    },
+    {
+        "question": "Eneo la pembetatu ya pembe ya kulia ni 32 sq. Ikiwa msingi ni 8 cm, pata urefu wake.",
+        "answer": "8 "
+    },
+    {
+        "question": "Wapenzi wawili wa baiskeli wanaondoka Cincinnati kwa wakati mmoja. Mmoja anaendesha baiskeli maili 840 hadi Boston. Nyingine ni kuendesha baiskeli maili 440 hadi Atlanta. Ni idadi gani kubwa ya maili kwa siku ambayo kila mmoja anaweza kuendesha baiskeli ikiwa wanataka kufikia umbali sawa kila siku?",
+        "answer": "40 "
+    },
+    {
+        "question": "Alipokuwa akipanga baadhi ya shanga, Jenna aliweka shanga 74 kwenye mtungi wa kwanza, shanga 83 kwenye mtungi wa pili, shanga 92 kwenye mtungi wa tatu, na shanga 101 kwenye mtungi wa nne. Ikiwa muundo huu utaendelea, Jenna ataweka shanga ngapi kwenye mtungi wa tano?",
+        "answer": "110 "
+    },
+    {
+        "question": "Kimberly ana Skittles 5. Ananunua 7 zaidi. Baadaye, Kimberly ananunua machungwa 18 kwenye duka. Je, Kimberly ana Skittles ngapi kwa zote?",
+        "answer": "12.0"
+    },
+    {
+        "question": "Jazmin anakamilisha mradi wa sanaa. Ana vipande viwili vya karatasi ya ujenzi. Kipande cha kwanza kina upana wa inchi 44 na kipande cha pili kina upana wa inchi 33. Jazmin anataka kukata karatasi katika vipande ambavyo ni sawa kwa upana na ni pana iwezekanavyo. Jazmin inapaswa kukata kila mstari kwa upana gani?",
+        "answer": "11 "
+    },
+    {
+        "question": "Ukuta wa chemchemi ya zee Theme Park uko katika umbo la pembetatu iliyo sawa. Jumla ya mzunguko wa ukuta ni yadi 51. Tafuta kipimo cha kila upande wa ukuta.",
+        "answer": "17 "
+    },
+    {
+        "question": "Kuna mbwa 22 katika shamba. Wanaishi katika nyumba 5 za mbwa kwa usawa. Je! ni mbwa wangapi walioachwa?",
+        "answer": "2 "
+    },
+    {
+        "question": "Serena anataka kuunda mifuko ya vitafunio kwa ajili ya safari anayoendelea. Ana baa 6 za granola na vipande 10 vya matunda yaliyokaushwa. Ikiwa mifuko ya vitafunio inapaswa kufanana bila chakula chochote kilichobaki, ni idadi gani kubwa zaidi ya mifuko ya vitafunio ambayo Serena anaweza kutengeneza?",
+        "answer": "2 "
+    },
+    {
+        "question": "Mchoraji alihitajika kupaka vyumba 11 kwenye jengo. Kila chumba huchukua masaa 7 kupaka rangi. Ikiwa tayari amepaka rangi vyumba 2, atachukua muda gani kuchora vingine?",
+        "answer": "63.0"
+    },
+    {
+        "question": "Ninataka kupanda mimea 45 ya alizeti, mimea 81 ya mahindi na mimea 63 ya nyanya kwenye bustani yangu. Ikiwa nitaweka idadi sawa ya mimea katika kila safu na kila safu ina aina moja tu ya mmea, ni idadi gani kubwa zaidi ya mimea ninayoweza kuweka kwenye safu moja?",
+        "answer": "9 "
+    },
+    {
+        "question": "Kuna kalori 31 kwenye bar ya pipi. Je, kuna kalori ngapi katika baa 11 za peremende?",
+        "answer": "341.0"
+    },
+    {
+        "question": "Eneo la bustani ya mstatili ni 1800 sq. ft. Tafuta upana ikiwa urefu wake unafikia 40 ft.",
+        "answer": "45 "
+    },
+    {
+        "question": "Basi la Hailey ni la tatu kwenye mstari. Basi la Danny liko mabasi 3 nyuma yake. Basi la Danny liko kwenye mstari gani?",
+        "answer": "6"
+    },
+    {
+        "question": "Mara tatu jumla ya nambari na 2 ni sawa na 24 iliyoongezwa na nambari sawa. Andika mlinganyo wa aljebra na utafute nambari.",
+        "answer": "9"
+    },
+    {
+        "question": "Kwa ajili ya Halloween Debby na dada yake walichanganya peremende walizopokea. Debby alikuwa na vipande 32 vya peremende huku dada yake akiwa na 42. Ikiwa walikula vipande 35 usiku wa kwanza, wamebakisha vipande vingapi?",
+        "answer": "39 "
+    },
+    {
+        "question": "David ana ndizi 8. Anapata 50 zaidi kutoka kwa Christopher. Baadaye, David hununua kadi 9 kwenye duka. David ana ndizi ngapi kwa zote?",
+        "answer": "58.0"
+    },
+    {
+        "question": "Baada ya kulipa dola 6 kwa pai, Mary ana dola 52, rafiki yake ana dola 43. Je! alikuwa na pesa ngapi kabla ya kununua pai?",
+        "answer": "58.0"
+    },
+    {
+        "question": "Wakati akiigiza kipande cha muziki, Jacob anapiga matoazi kila midundo 7 na pembetatu ni kila midundo 2. Ikiwa alipiga zote mbili kwa wakati mmoja, ni vipigo vingapi vitapita kabla ya kuzipiga tena kwa wakati mmoja?",
+        "answer": "14 "
+    },
+    {
+        "question": "Joyce ana mayai 8. Marie anampa Joyce 6 zaidi. Baadaye, Joyce ananunua vifutio 13 kwenye duka. Joyce ana mayai mangapi kwa yote?",
+        "answer": "14.0"
+    },
+    {
+        "question": "Kipande cha kioo cha mraba kina eneo la sentimita 64 za mraba. Kila upande una muda gani?",
+        "answer": "8 "
+    },
+    {
+        "question": "Shule ilinunua mpira wa vikapu 54 na kuwasambaza katika madarasa 7 kwa usawa. Ni mpira wa kikapu ngapi umesalia?",
+        "answer": "5 "
+    },
+    {
+        "question": "Jerry alikuwa akiwasaidia wafanyakazi wa mkahawa kuchukua trei za chakula cha mchana, lakini aliweza kubeba trei 8 tu kwa wakati mmoja. Ikiwa alilazimika kuchukua trei 9 kutoka kwa meza moja na trei 7 kutoka kwa nyingine, atafanya safari ngapi?",
+        "answer": "2.0"
+    },
+    {
+        "question": "Adamu alikuwa akichora fremu ya picha. Sura hiyo ilikuwa na upana wa inchi 6 na urefu wa inchi 9. Je, mzunguko wa sura ya picha ni nini?",
+        "answer": "30 "
+    },
+    {
+        "question": "Shamba lilikuwa na upana wa maili 7 na urefu wa maili 8. Eneo la shamba ni nini?",
+        "answer": "56 "
+    },
+    {
+        "question": "Allie ana vitabu 5 vya hesabu na vitabu 10 vya sayansi. Ikiwa anataka kuvisambaza kwa usawa kati ya rafu fulani za vitabu ili kila rafu ya vitabu iwe na mchanganyiko sawa wa vitabu vya hesabu na sayansi, bila vitabu vilivyosalia, ni idadi gani kubwa zaidi ya rafu za vitabu ambazo Allie anaweza kutumia?",
+        "answer": "5 "
+    },
+    {
+        "question": "Marian pia alitayarisha croissants 59 ambazo anapanga kuwapa majirani zake 8. Ikiwa kila jirani alipokea na idadi sawa ya croissants, ni wangapi watabaki na Marian?",
+        "answer": "3 "
+    },
+    {
+        "question": "Shirika la Khan lingependa kuchangia kompyuta 48 na vichapishi 32 kwa shule za mitaa. Shirika lingependa kuhakikisha kuwa kila shule inapokea seti sawa ya kompyuta na vichapishi, bila kusalia. Je, ni idadi gani kubwa zaidi ya shule ambazo The Khan Corporation inaweza kuchangia?",
+        "answer": "16 "
+    },
+    {
+        "question": "Sanduku la keki linagharimu $ sita. Ikiwa ungekuwa na dola mia nane ishirini na moja na ukanunua masanduku mengi uwezavyo, ungebaki na pesa ngapi?",
+        "answer": "5 "
+    },
+    {
+        "question": "Kulikuwa na vikundi 31 vya watu kwenye uwanja wa mpira wa miguu. Ikiwa jumla ya watu walikuwa 177, kuhusu ni watu wangapi katika kila kikundi?",
+        "answer": "6 "
+    },
+    {
+        "question": "Treni ilisafiri umbali fulani kwa mwendo wa sare. Ikiwa treni ingekuwa na kasi ya kilomita 6 kwa saa ingekuwa na saa 8 chini ya muda uliopangwa, na ikiwa treni ingekuwa polepole kwa kilomita 6 kwa saa, ingechukua saa 12 zaidi ya muda uliopangwa. Tafuta urefu wa safari.",
+        "answer": "1440 "
+    },
+    {
+        "question": "Kulikuwa na miti 86 katika bustani. 15 kati yao walikufa na wengine 23 kati yao walikatwa. Ni miti mingapi iliyobaki?",
+        "answer": "48 "
+    },
+    {
+        "question": "Vichwa vya limau vinakuja katika vifurushi 3. Patricia alikula Vichwa 15 vya Ndimu. Je, amebakisha Vichwa vingapi vya Ndimu?",
+        "answer": "0 "
+    },
+    {
+        "question": "Sally alikuwa na kadi za besiboli 39, na 9 zilichanika. Sara alinunua kadi 24 za besiboli za Sally. Sally ana kadi ngapi za besiboli sasa?",
+        "answer": "15.0"
+    },
+    {
+        "question": "Ramani ya mchezo wa video ilikuwa na upana wa mita 10 na urefu wa mita 2, eneo la ramani ni gani?",
+        "answer": "20 "
+    },
+    {
+        "question": "Kuna maumbo 10. Utakuwa umebakisha wangapi baada ya kutengeneza vikundi vya watu 5?",
+        "answer": "0 "
+    },
+    {
+        "question": "Tammy aliendesha maili 55 kwa saa moja. Kwa mwendo huo, anaweza kuendesha gari kwa umbali gani kwa saa 36?",
+        "answer": "1980.0"
+    },
+    {
+        "question": "Charlie ana mipira ya theluji 31 ​​zaidi ya Lucy. Ana mipira 19 ya theluji. Charlie ana ngapi?",
+        "answer": "50.0"
+    },
+    {
+        "question": "Kila upande wa tile ya jikoni ya mraba ni urefu wa inchi 7. Eneo la tile ni nini?",
+        "answer": "49 "
+    },
+    {
+        "question": "George alikuwa akilinganisha pointi ambazo Bulls walizopata kwa michezo tofauti. Alirekodi: 81, 73, 83, 86 na 73. Nini maana ya pointi alizopata?",
+        "answer": "79.2 "
+    },
+    {
+        "question": "Bi. Hilt ana fremu ya picha yenye urefu wa inchi 12 na urefu wa inchi 10. Je, mzunguko wa fremu hiyo ya picha ni upi?",
+        "answer": "44 "
+    },
+    {
+        "question": "Diane ana crayoni 37. Anapata 5 zaidi kutoka kwa Frances. Baadaye, Diane hununua kadi 16 kwenye duka. Diane ana kalamu ngapi kwa zote?",
+        "answer": "42.0"
+    },
+    {
+        "question": "Kampuni ilikuwa ikinunua sare mpya kwa wafanyakazi wake. Walinunua jumla ya sare 121 kwa maduka yao 32. Je, kila duka linapaswa kupata sare ngapi?",
+        "answer": "4 "
+    },
+    {
+        "question": "Lawn ilikuwa na eneo la futi 20 za mraba. Ikiwa ilikuwa na upana wa futi 5, ilikuwa ya muda gani?",
+        "answer": "4 "
+    },
+    {
+        "question": "Melanie ana vipande vya njia ya treni ambavyo vina urefu wa inchi 8 ambavyo anaunganisha pamoja ili kuunda njia ambayo treni yake inaweza kusafiri. Martin pia anajaribu kutengeneza njia ya treni yake lakini anatumia nyimbo zenye urefu wa inchi 20. Wimbo fupi zaidi utakuwa wa muda gani ikiwa wimbo ambao Melanie atatengeneza utaishia kuwa na urefu sawa na wa Martin?",
+        "answer": "40 "
+    },
+    {
+        "question": "Matt alikuwa na makopo 4 madogo ya rangi ya dhahabu. Ikiwa nyota 34 walizotengeneza zingegawanywa kwa usawa kwenye makopo ya rangi, ni nyota ngapi ambazo zitaachwa bila kupakwa rangi?",
+        "answer": "2 "
+    },
+    {
+        "question": "Luka alikuwa na vipande 9 vya peremende. Ikiwa anataka kugawanya peremende katika mifuko 2 yenye kiasi sawa cha peremende katika kila mfuko, angehitaji vipande vingapi zaidi ili kuhakikisha kuwa kila mfuko una kiasi sawa?",
+        "answer": "1 "
+    },
+    {
+        "question": "Ikiwa Simon anahitaji kutengeneza mifuko 519 ya zawadi kwa kiwango cha mifuko 42 kwa siku, anahitaji siku ngapi kumaliza kutengeneza masanduku yote ya zawadi?",
+        "answer": "13 "
+    },
+    {
+        "question": "Bwawa la kuogelea la mstatili lilikuwa na upana wa mita 3 na eneo la mita 30 za mraba. Urefu wa bwawa ni nini?",
+        "answer": "10 "
+    },
+    {
+        "question": "Duka la filamu lilikuwa na filamu 9 walizokuwa wakiweka kwenye rafu 2. Ikiwa mmiliki angetaka kuhakikisha kuwa kila rafu ina idadi sawa ya filamu, angehitaji filamu ngapi zaidi?",
+        "answer": "1 "
+    },
+    {
+        "question": "Ramani ya mchezo wa video ilikuwa na jumla ya eneo la mita 10 za mraba. Ikiwa ramani ilikuwa na urefu wa mita 5, ina upana gani?",
+        "answer": "2 "
+    },
+    {
+        "question": "Marie anaweza kuendesha baiskeli kwa kasi ya maili 12 kwa saa. Je, anaweza kuendesha baiskeli kwa umbali gani kwa saa 31?",
+        "answer": "372.0"
+    },
+    {
+        "question": "Ikiwa 28 chini ya mara tano nambari fulani ni 232. Nambari ni nini?",
+        "answer": "52"
+    },
+    {
+        "question": "Vase inaweza kubeba maua saba. Ikiwa mtaalamu wa maua alikuwa na maua mia tisa na tano alitaka kuweka sawa katika vases, ni maua ngapi yangekuwa kwenye vase ya mwisho ambayo haijajaa?",
+        "answer": "2 "
+    },
+    {
+        "question": "Kisiwa katika Bahari ya Atlantiki kilikuwa na upana wa maili 2 na urefu wa maili 6. Eneo la kisiwa ni nini?",
+        "answer": "12 "
+    },
+    {
+        "question": "Bustani ya mraba ina mzunguko wa mita 48. Bwawa ndani ya bustani lina eneo la mita 20 za mraba. Je, ni eneo gani la bustani ambalo halijachukuliwa na bwawa?",
+        "answer": "124 "
+    },
+    {
+        "question": "Jaden anaweka pamoja vifaa vya huduma ya kwanza. Ana bandeji kubwa 39 na bandeji ndogo 26, na anataka kila seti ifanane, bila bandeji iliyobaki. Je, ni idadi gani kubwa zaidi ya vifaa vya huduma ya kwanza ambavyo Jaden anaweza kuviweka pamoja?",
+        "answer": "13 "
+    },
+    {
+        "question": "Kuna vipande vinne vya karatasi kwenye begi. Kila karatasi ina nambari juu yake. Nambari hizo ni 19, 23, 34, na 38. Harry akatoa kipande kimoja cha karatasi. Jumla ya nambari zilizobaki zilikuwa 76. Harry alitoa nambari gani kwenye begi?",
+        "answer": "38"
+    },
+    {
+        "question": "Bw. Lee alivuna tufaha 495 na akazipakia sawasawa katika baadhi ya vikapu. Ikiwa kuna tufaha 25 katika kila kikapu, ni tufaha mangapi zilizoachwa bila kupakiwa?",
+        "answer": "20 "
+    },
+    {
+        "question": "Shannon anafanya mipangilio sawa ya puto kwa karamu. Ana puto 32 za maroon, puto 24 nyeupe, na puto 16 za machungwa. Anataka kila mpangilio uwe na idadi sawa ya kila rangi. Ni idadi gani kubwa zaidi ya mipango ambayo anaweza kufanya ikiwa kila puto itatumiwa?",
+        "answer": "8 "
+    },
+    {
+        "question": "Roger alikusanya senti 42, nikeli 36 na dime 15. Alitoa baadhi ya sarafu zake na kubaki na sarafu 27. Roger alitoa sarafu ngapi?",
+        "answer": "66 "
+    },
+    {
+        "question": "The Wholesome Bakery ilioka mikate 5 siku ya Jumatano, 7 ya mikate siku ya Alhamisi, 10 ya mikate siku ya Ijumaa, 14 ya mikate siku ya Jumamosi, na 19 ya mikate siku ya Jumapili. Ikiwa mtindo huu utaendelea, wataoka mikate mingapi Jumatatu?",
+        "answer": "25 "
+    },
+    {
+        "question": "Mkahawa uliongeza sehemu mpya ya nje ambayo ilikuwa futi 35 za mraba. Ilikuwa na upana wa futi 7. Sehemu yao mpya ni ya muda gani?",
+        "answer": "5 "
+    },
+    {
+        "question": "Ramon anafanya kazi katika duka kubwa. Aliweka masanduku 26 ya Choco Delights kwenye rafu. Tayari kulikuwa na masanduku 15 hapo. Baadaye siku hiyo, Ramon alihesabu masanduku 22 kwenye rafu. Je, ni masanduku mangapi ya Choco Delights yaliyokosekana?",
+        "answer": "19 "
+    },
+    {
+        "question": "Kwa bahati mbaya, Shule ya Utii ya Monica ilifunza idadi sawa ya mbwa na paka wiki iliyopita. Shule inafundisha mbwa katika vikundi vya watu 18 na paka katika vikundi vya 3. Ni idadi gani ndogo ya paka ambayo shule ingeweza kuwa nayo?",
+        "answer": "18 "
+    },
+    {
+        "question": "Cody alikuwa na masanduku 36. Kwa pamoja masanduku hayo yalikuwa na uzito wa kilo 243. Kila sanduku lilikuwa na uzito wa kiasi gani?",
+        "answer": "6 "
+    },
+    {
+        "question": "Kuna pauni 757 za mchanga wa kujazwa kwenye mifuko. Ikiwa kila mfuko una uwezo wa paundi 65, ni pauni ngapi za mchanga kwenye mfuko ambao haujajaa?",
+        "answer": "42 "
+    },
+    {
+        "question": "Bw. Lee alivuna tufaha 495 na akazipakia sawasawa katika baadhi ya vikapu. Ikiwa kuna tufaha 25 katika kila kikapu, kuna vikapu vingapi vya tufaha?",
+        "answer": "19 "
+    },
+    {
+        "question": "Kuna mbwa 22 katika shamba. Wanaishi katika nyumba 5 za mbwa kwa usawa. Je, kuna mbwa wangapi katika kila nyumba ya mbwa?",
+        "answer": "4 "
+    },
+    {
+        "question": "Ikiwa Lillian aligawanya Skittles 20 kati ya watu 8 katika darasa lake na kubakisha kushoto, kila mwanafunzi alipata Skittle ngapi?",
+        "answer": "2 "
+    },
+    {
+        "question": "Mfanyakazi anahitaji kukata kamba ndefu ya yadi 27 katika vipande virefu vya yadi 4 kila kimoja na vipande vifupi katika yadi 1 kila kimoja. Ili kufanya idadi ndogo ya vipande, ni vipande ngapi vya muda mrefu vinapaswa kukatwa?",
+        "answer": "6 "
+    },
+    {
+        "question": "Kuna penseli 33 na kalamu za rangi 44 kwenye droo. Joan aliweka penseli 27 kwenye droo. Je, kuna penseli ngapi sasa kwa jumla?",
+        "answer": "60.0"
+    },
+    {
+        "question": "Bw. Lee alitoa riboni za nafasi ya kwanza baada ya kila tukio. Alikuwa na riboni 38 mwanzoni. Alitoa ribbons 14 asubuhi. Alitoa riboni 16 mchana. Bw. Lee alikuwa amebakisha riboni ngapi?",
+        "answer": "8 "
+    },
+    {
+        "question": "Urefu wa waya hukatwa vipande vidogo kadhaa. Kila moja ya vipande vidogo hupigwa kwenye mraba. Kila mraba una upande unaopima sentimita 2. Jumla ya eneo la viwanja vidogo ni sentimita 92 za mraba. Urefu wa awali wa waya ulikuwa upi?",
+        "answer": "184 "
+    },
+    {
+        "question": "Rachel alinunua karatasi ya kukunja kwa ajili ya Krismasi ambayo ilikuwa na urefu wa futi 4 na eneo la futi 20 za mraba. Upana wa karatasi ya kufunika ni nini?",
+        "answer": "5 "
+    },
+    {
+        "question": "Ikiwa Tom anapanga kurekebisha saa 158 kwa kiwango cha saa 12 kwa siku, ni saa ngapi atarekebisha siku ya mwisho?",
+        "answer": "2 "
+    },
+    {
+        "question": "Mstatili ulikuwa na urefu wa inchi 2 na upana wa inchi 4. Eneo la mstatili ni nini?",
+        "answer": "8 "
+    },
+    {
+        "question": "Eddie anafikiria nambari ambayo inaweza kugawanywa na 8 na 5. Ni nambari gani ndogo zaidi ambayo Eddie anaweza kufikiria?",
+        "answer": "40"
+    },
+    {
+        "question": "Destiny amepokea zawadi mbili tofauti kutoka kwa babu wa babu yake. Zawadi ya kwanza ni sanduku la pipi 18 za chokoleti, na zawadi ya pili ni pakiti ya kuki 12. Destiny anataka kutumia baa na vidakuzi vyote vya pipi za chokoleti kutengeneza mifuko inayofanana ya vitafunio kwa binamu zake. Ni idadi gani kubwa zaidi ya mifuko ya vitafunio ambayo Destiny inaweza kutengeneza?",
+        "answer": "6 "
+    },
+    {
+        "question": "Billy alikuwa akijaribu kushinda alama yake ya zamani ya pointi mia saba ishirini na tano katika mchezo wa video. Ikiwa atafunga alama mbili haswa kila raundi, angehitaji kucheza raundi ngapi ili kushinda alama zake za zamani?",
+        "answer": "363 "
+    },
+    {
+        "question": "Vidakuzi vya Girl Scout huja vikiwa vimesheheni masanduku 12 kwenye sanduku. Scout Deborah aliuza masanduku 31 ya Lemon Chalet Cremes. Ni masanduku ngapi hayatapakiwa kwenye kasha?",
+        "answer": "7 "
+    },
+    {
+        "question": "Katika nambari ya tarakimu mbili, jumla ya tarakimu mbili ni 9. Ikiwa tarakimu zimebadilishwa, nambari inaongezwa na 9. Tafuta nambari.",
+        "answer": "45"
+    },
+    {
+        "question": "Virginia alikuwa na Tamu 13. Ikiwa Virginia alitoa idadi sawa ya Sweettarts kwa marafiki zake 4 na kisha akala kilichobaki, je, kila mtu alikula Sweettarts ngapi?",
+        "answer": "3 "
+    },
+    {
+        "question": "Bill aliona aina mbili za ndege vichakani: shomoro na kasuku. Ijapokuwa shomoro walikuwa katika kundi la watu 13, kasuku walikuwa katika kundi la watu 14. Ikiwa Bill aliona jumla ya shore na kasuku, ni shore gani ndogo zaidi ambayo angeweza kuona?",
+        "answer": "182 "
+    },
+    {
+        "question": "Mike anahudumia mboga kwenye jiko la supu. Ana vijiti 15 vya karoti na viazi 10 vya watoto ambavyo anataka kugawanya sawasawa, bila chakula kilichobaki. Ni idadi gani kubwa zaidi ya sahani ambazo Mike anaweza kuandaa?",
+        "answer": "5 "
+    },
+    {
+        "question": "Mwindaji hazina aligundua sanduku la hazina lililozikwa lililojaa jumla ya vito 5155. 45 kati ya vito hivyo vilikuwa almasi, na vingine vilikuwa rubi. Je! ni vito ngapi vilikuwa rubi?",
+        "answer": "5110.0"
+    },
+    {
+        "question": "Paul alikuwa na kadi 7 za besiboli anazoweka kwenye binder na 3 kwenye kila ukurasa. Je, kwenye ukurasa ambao haujajaa atakuwa na kadi ngapi?",
+        "answer": "1 "
+    },
+    {
+        "question": "Benny alipata seashell 66 na starfish 49 ufukweni. Alimpa Yasoni 52 kati ya magamba hayo. Benny ana ganda ngapi sasa?",
+        "answer": "14.0"
+    },
+    {
+        "question": "Mzunguko wa bodi ya kukata mstatili ni inchi 50. Ina upana wa inchi 10. Ni muda gani?",
+        "answer": "15 "
+    },
+    {
+        "question": "Kathleen ni mwakilishi wa mauzo ya meno ambaye anataka kusambaza vipeperushi 18 na vipeperushi 12 kwa ofisi za meno za karibu. Anataka kuwasilisha mseto sawa wa vipeperushi na vipeperushi kwa kila ofisi, bila kuwa na nyenzo zozote zilizobaki. Ni idadi gani kubwa zaidi ya ofisi za meno ambazo Kathleen anaweza kusambaza vifaa?",
+        "answer": "6 "
+    },
+    {
+        "question": "Nancy alinunua kinywaji laini kwa dola 4 na pipi 6. Alitumia jumla ya dola 28. Kila pipi iligharimu kiasi gani?",
+        "answer": "4 "
+    },
+    {
+        "question": "Shannon na familia yake hutumia jeli nyingi za sitroberi na blueberry, kwa kuwa wanakula tosti kila asubuhi. Kwa sasa, wana jumla ya gramu 6310 za jeli. Ikiwa wana gramu 4518 za jeli ya blueberry, wana gramu ngapi za jeli ya sitroberi?",
+        "answer": "1792.0"
+    },
+    {
+        "question": "Mchanga alikuza karoti 8 na turnips 7. Mary alilima karoti 6. Je, walipanda karoti ngapi kwa jumla?",
+        "answer": "14.0"
+    },
+    {
+        "question": "Luka alikuwa na dola 48 mwezi Januari. Kufikia Machi alikuwa ametumia dola 11. Ikiwa angepata dola 21 nyingine kutoka kwa mama yake, angekuwa na pesa ngapi?",
+        "answer": "58 "
+    },
+    {
+        "question": "Jikoni ya mraba ina eneo la futi za mraba 100. Mzunguko wa jikoni ni nini?",
+        "answer": "40 "
+    },
+    {
+        "question": "Mfuko wa karatasi unaweza kubeba vidakuzi 16. Ikiwa Edgar atanunua vidakuzi 292, anahitaji mifuko mingapi ya karatasi?",
+        "answer": "19 "
+    },
+    {
+        "question": "Sam aliweka pretzels 86 kwenye bakuli kwa ajili ya karamu. Rafiki zake walikula 49 kati yao. Sam aliweka pretzels 27 zaidi. Je! ni pretzels ngapi kwenye bakuli wakati huo?",
+        "answer": "64 "
+    },
+    {
+        "question": "Alipokuwa akipanga magazeti kwenye ofisi ya daktari, Blanca aliweka magazeti 3 kwenye rundo la kwanza, magazeti 4 kwenye rundo la pili, magazeti 6 kwenye rundo la tatu, na magazeti 9 kwenye rundo la nne. Ikiwa mtindo huu utaendelea, Blanca ataweka majarida mangapi kwenye rundo la tano?",
+        "answer": "13 "
+    },
+    {
+        "question": "Carol anatengeneza shanga kwa ajili ya marafiki zake. Ana shanga 159 na kila mkufu huchukua shanga 37. Je, Carol anaweza kutengeneza shanga ngapi?",
+        "answer": "4 "
+    },
+    {
+        "question": "Katika maandalizi ya karamu, Brant anaweka dessert kwenye sinia. Keki ya chokoleti hukatwa vipande 15 na cheesecake hukatwa vipande 6. Ikiwa anataka kuandaa sahani zinazofanana bila kuwa na keki iliyobaki, ni sahani ngapi kubwa zaidi anazoweza kuandaa?",
+        "answer": "3 "
+    },
+    {
+        "question": "Shirika la ndege lina vipande 41 vya mizigo ya kuweka. Ikiwa kila sehemu ya mizigo itashika vipande 5 vya mizigo, ni ngapi zitakuwa kwenye sehemu ambayo haijajaa?",
+        "answer": "1 "
+    },
+    {
+        "question": "Oscar anahitaji kusafirisha CD 14 za rock, CD 12 za zamani, na CD 8 za pop. Anaweza kufunga aina moja tu ya CD katika kila kisanduku na lazima apakie idadi sawa ya CD katika kila sanduku. Je, ni idadi gani kubwa zaidi ya CD ambazo Oscar anaweza kufunga kwenye kila kisanduku?",
+        "answer": "2 "
+    },
+    {
+        "question": "Bob hupiga ngoma kila baada ya sekunde 9 na matoazi kila baada ya sekunde 12. Ikiwa alipiga zote mbili kwa wakati mmoja, ni sekunde ngapi zitapita kabla ya kuzipiga tena kwa wakati mmoja?",
+        "answer": "36 "
+    },
+    {
+        "question": "George anajaribu kupata dola mia moja kumi na tisa kwa vinyago vingine vipya. Je, akitoza dola tatu kukata nyasi, atahitaji kukata nyasi ngapi ili kupata pesa hizo?",
+        "answer": "40 "
+    },
+    {
+        "question": "Katika Jumba la John's Pizza Palace katika saa 6 walizokuwa wamefungua waliuza idadi ifuatayo ya pizza: 92 pepperoni, soseji 106, jibini 96, uyoga 104, anchovies 96 na mananasi 88. Ni nini maana ya idadi ya pizza zinazouzwa?",
+        "answer": "97 "
+    },
+    {
+        "question": "Misitu iliyokuwa nyuma ya nyumba ya Jerry ilikuwa na upana wa maili 6 na urefu wa maili 3. Ni eneo gani la msitu?",
+        "answer": "18 "
+    },
+    {
+        "question": "Jumla ya tarakimu za nambari mbili ni 15. Nambari imepungua kwa 27 tarakimu zinabadilishwa. Tafuta nambari.",
+        "answer": "96"
+    },
+    {
+        "question": "Robin alikuwa na nyimbo 30 kwenye kicheza mp3 chake. Ikiwa alifuta nyimbo 8 za zamani kutoka kwayo na kisha kuongeza nyimbo 10 mpya, je, ana nyimbo ngapi kwenye kicheza mp3 chake?",
+        "answer": "32 "
+    },
+    {
+        "question": "Maria ana masanduku 3 ya mayai. Kila sanduku hubeba mayai 7 na kuna masanduku 8 kwenye sanduku. Maria ana mayai mangapi?",
+        "answer": "21.0"
+    },
+    {
+        "question": "Kituo cha redio Z-100 kilikuwa kikitoa bili ya $100 kwa kila mpigaji simu wa 100 wakati wa shindano na kilitoa tikiti za Jingle Ball kwa kila mpiga simu wa 40. Ni wapigaji wangapi wanapaswa kupiga simu kabla ya mtu kushinda bili ya $100 na tikiti ya Mpira wa Jingle?",
+        "answer": "200 "
+    },
+    {
+        "question": "Kevin alikusanya vinyago vya kutumia kama zawadi kwenye maonyesho hayo. Alikusanya wanyama 14 waliojaa. Pia alikusanya frisbees 18 na yo-yos kadhaa. Kevin ana zawadi 50 kwa jumla. Kevin alikusanya yo-yos ngapi?",
+        "answer": "18 "
+    },
+    {
+        "question": "Ikiwa tano imetolewa kutoka mara tatu ya nambari fulani, matokeo ni 10. Nambari ni nini?",
+        "answer": "5"
+    },
+    {
+        "question": "Robin anatengeneza shanga za shanga. Anataka kutumia shanga 31 kutengeneza shanga 4. Ikiwa anataka kila mkufu uwe na idadi sawa ya shanga, atakuwa amebakiza shanga ngapi?",
+        "answer": "3 "
+    },
+    {
+        "question": "Brenda anataka kugawanya mkusanyiko wa vifutio katika vikundi vya watu 90. Brenda ana vifutio 270. Ni vikundi vingapi vitaundwa?",
+        "answer": "3.0"
+    },
+    {
+        "question": "Kate ana umri wa miaka 12. Umri wake ni mara 4 ya umri wa Robbie. Tafuta umri wa Robbie.",
+        "answer": "3 "
+    },
+    {
+        "question": "Kituo chako cha redio cha eneo lako kina zawadi ya kila mwaka ya kicheza muziki na tikiti ya tamasha. Kwa dakika moja, kila mpiga simu wa 5 atajishindia kicheza muziki na kila mpiga simu wa 7 atajishindia tikiti za tamasha. Ulikuwa mpiga simu wa kwanza kushinda kicheza muziki na tikiti za tamasha! Ulikuwa mpiga simu gani?",
+        "answer": "35 "
+    },
+    {
+        "question": "Jennifer ana utepe wa urefu wa cm 87. Anatumia sentimita 24 za utepe kumfunga rafiki yake zawadi na sentimita 45 za utepe kutengeneza upinde. Ni kiasi gani cha Ribbon kilichosalia mwishoni?",
+        "answer": "18 "
+    },
+    {
+        "question": "Cody alihesabu idadi ya mara ambazo watu walinoa penseli zao darasani kwa wiki. Alihesabu: 13, 8, 13, 21, 7 na 23. Ni nini maana ya nambari?",
+        "answer": "14.2 "
+    },
+    {
+        "question": "Ikiwa Lawrence alitembea kilomita 4 kwa kilomita 3 kwa saa, Lawrence alikuwa akitembea kwa muda gani?",
+        "answer": "1.0"
+    },
+    {
+        "question": "Melody alichapisha michoro 53 zinazofanana za watu wa theluji. Ikiwa aliweza kuandaa kadi zilizo na michoro 4 za watu wa theluji kila moja, aliweza kuandaa kadi ngapi?",
+        "answer": "13 "
+    },
+    {
+        "question": "Vivian alituma vipande 5 vya barua mwezi Aprili, vipande 10 vya barua mwezi Mei, vipande 20 vya barua mwezi Juni, na vipande 40 vya barua mwezi Julai. Mtindo huu ukiendelea, Vivian atatuma barua ngapi mwezi Agosti?",
+        "answer": "80 "
+    },
+    {
+        "question": "Nancy alinunua kalamu za rangi 615 zilizokuja katika pakiti za 15. Nancy alinunua pakiti ngapi za kalamu za rangi?",
+        "answer": "41.0"
+    },
+    {
+        "question": "Merry-go-round ina jukwaa la duara na kipenyo cha yadi 2. Eneo la jukwaa ni nini?",
+        "answer": "3.14 "
+    },
+    {
+        "question": "Vichwa vya limau vinakuja katika vifurushi vya 6. Louis alikula Vichwa 54 vya Lemon. Alikula masanduku mazima ngapi na amebakisha Vichwa vingapi vya Ndimu?",
+        "answer": "9.0"
+    },
+    {
+        "question": "Mary alikuwa na kadi 33 za Pokemon, na 6 zilichanika. Sam alimpa Mary kadi 23 mpya za Pokemon. Mary ana kadi ngapi za Pokemon sasa?",
+        "answer": "56.0"
+    },
+    {
+        "question": "Ofisi ya posta ina vipande mia tano themanini na mbili vya barua taka wanazotaka kugawanya kwa usawa kati ya lori saba za barua. Je, watapata vipande vingapi vya ziada vya barua taka ikiwa watatoa kila lori kiasi sawa?",
+        "answer": "1 "
+    },
+    {
+        "question": "Uwiano wa urefu wa mstatili kwa upana wake ni 6: 5. Urefu wake ni inchi 24. Upana wake ni nini?",
+        "answer": "20 "
+    },
+    {
+        "question": "Tommy ana $79. Anataka kununua kamera ya $35. Pia anataka kununua kicheza CD cha $59. Tommy anahitaji pesa ngapi zaidi?",
+        "answer": "15 "
+    },
+    {
+        "question": "Camryn anafanya mazoezi ya kupiga tarumbeta kila siku ya 11 na filimbi kila siku ya 3. Camryn alifanya mazoezi ya kupiga tarumbeta na filimbi leo. Ni siku ngapi hadi Camryn afanye mazoezi ya tarumbeta na filimbi tena katika siku hiyo hiyo?",
+        "answer": "33 "
+    },
+    {
+        "question": "Uwezo wa tank ni lita 32. Ikiwa kampuni ilinunua galoni 728 za mafuta, ni matangi mangapi yanahitajika kushikilia mafuta yote?",
+        "answer": "23 "
+    },
+    {
+        "question": "Mkahawa mmoja uliongeza sehemu mpya ya nje iliyokuwa na upana wa futi 4 na urefu wa futi 6. Je! ni eneo gani la sehemu yao mpya ya nje?",
+        "answer": "24 "
+    },
+    {
+        "question": "Kamati inayoandaa mbio za marathon ina madumu 16 ya maji na madumu 12 ya vinywaji vya michezo. Kamati ingependa kuweka vituo kadhaa vya viburudisho kando ya kozi ya mbio za marathon, vikiwa na mchanganyiko ule ule wa mitungi ya maji na mitungi ya vinywaji vya michezo katika kila kituo, bila vinywaji vilivyobaki. Je, ni idadi gani kubwa zaidi ya vituo vya viburudisho vinavyoweza kuanzishwa?",
+        "answer": "4 "
+    },
+    {
+        "question": "Kituo cha redio kilitoa bili ya $100 kwa kila mpiga simu 100. Kila mpiga simu wa 30 alipokea tikiti za tamasha za bure. Ni wapigaji wangapi lazima wapitie kabla ya mmoja wao kupokea kuponi na tikiti ya tamasha?",
+        "answer": "300 "
+    },
+    {
+        "question": "Henry na Margo wote walianza kuzunguka wimbo wa duara. Henry anaendesha baiskeli yake, na Margo anatembea. Inamchukua Henry dakika 7 kufanya hivyo kote, na Margo huchukua dakika 12. Je, itapita muda gani hadi wakutane kwenye mstari wa kuanzia?",
+        "answer": "84 "
+    },
+    {
+        "question": "John alikuwa na soksi 33. Angetupa 19 za zamani ambazo hazijakaa na kununua 13 mpya, atakuwa na soksi ngapi?",
+        "answer": "27 "
+    },
+    {
+        "question": "Ariel anatengeneza maua. Ana roses 7 na daisies 14. Ikiwa Ariel anataka kufanya mipangilio yote sawa na hakuna maua iliyobaki, ni idadi gani kubwa zaidi ya maua ambayo anaweza kufanya?",
+        "answer": "7 "
+    },
+    {
+        "question": "Carmen anatengeneza maua ya lollipop kwa kutumia lollipops 4 za cherry na lollipops 6 za machungwa. Anataka kila shada la maua lifanane, bila lollipop zilizobaki. Ni idadi gani kubwa zaidi ya bouquets za lollipop ambazo Carmen anaweza kuunda?",
+        "answer": "2 "
+    },
+    {
+        "question": "Mary alipata chakula cha haraka kwa chakula cha mchana. Mary alitumia $ 1.08 kwa supu na $ 4.80 kwenye saladi. Mary alilipa bili ya dola 20. Jumla ya bili ya chakula cha mchana ilikuwa kiasi gani?",
+        "answer": "5.88"
+    },
+    {
+        "question": "Duka la vifaa vya elektroniki lilikuwa na michezo 163 ya video. Ikiwa wataziweka kwenye rafu zenye 84 kwenye kila rafu, wangehitaji rafu ngapi?",
+        "answer": "2 "
+    },
+    {
+        "question": "Duka la Vitamin la Monroe liliuza kiasi sawa cha virutubisho vya Vitamini A na Vitamin D asubuhi ya leo, ingawa virutubisho vya Vitamini A vinakuja katika pakiti 7 na vitamini D katika pakiti 17. Ni idadi gani ndogo zaidi ya kila aina ambayo duka inaweza kuwa nayo. kuuzwa?",
+        "answer": "119"
+    },
+    {
+        "question": "Danieli ana sahani 44 za ukumbusho na vijiko 33 vya ukumbusho. Anataka kuvionyesha katika vikundi katika nyumba yake yote, kila kimoja kikiwa na mchanganyiko uleule wa sahani na vijiko, bila kubaki chochote. Ni idadi gani kubwa zaidi ya vikundi ambavyo Danieli anaweza kuonyesha?",
+        "answer": "11 "
+    },
+    {
+        "question": "Bridget anataka kushinda dubu mkubwa aliyejaa panda. Anahitaji jumla ya pointi 75 ili kuipata. Bridget tayari amefunga pointi 35 kwenye kibanda cha penny. Alipata pointi 18 zaidi kwenye jaribio lake lililofuata. Bridget anahitaji pointi ngapi zaidi?",
+        "answer": "22 "
+    },
+    {
+        "question": "Tofauti ya nambari mbili ni 100. Ikiwa moja ya nambari ni 91, pata nambari nyingine.",
+        "answer": "191"
+    },
+    {
+        "question": "Duka la kioo lina vioo 78 kwenye hisa. Vioo 8 vimevunjwa, na vioo 57 vinauzwa. Vioo vingapi vimesalia?",
+        "answer": "13 "
+    },
+    {
+        "question": "Ikiwa miaka 10 iliyopita alikuwa na umri wa miaka 25, Rojer ana umri gani sasa?",
+        "answer": "35 "
+    },
+    {
+        "question": "Kuna majani 84. Kuna kunguni 139 kwenye kila jani. Je, kuna ladybugs wangapi kwa wote?",
+        "answer": "11676.0"
+    },
+    {
+        "question": "Haley na marafiki zake walikuwa wakitengeneza karatasi kwa ajili ya darasa lao. Kwa kila pauni 3 walizorejelea walipata pointi moja. Ikiwa Haley alirejeleza pauni 11 na marafiki zake wakatumia tena pauni 16, walipata pointi ngapi?",
+        "answer": "9.0"
+    },
+    {
+        "question": "Sean anacheza Ukiritimba na marafiki zake. Tayari ana nyumba 27. Sean alifanya biashara katika nyumba 8 kwa pesa za kununua Park Place. Alikusanya kodi nyingi sana hivi kwamba aliamua kununua nyumba 12 zaidi. Sean alikuwa na nyumba ngapi wakati huo?",
+        "answer": "31 "
+    },
+    {
+        "question": "Katika pembetatu ya isosceles moja ya pembe za pembetatu ni digrii 54. Pata pembe za msingi za pembetatu.",
+        "answer": "63 "
+    },
+    {
+        "question": "Sullivan Stationery huuza kadi katika pakiti 20 na bahasha katika pakiti 17. Ikiwa Vera anataka idadi sawa ya kila moja, ni idadi gani ya chini ya kadi ambayo atalazimika kununua?",
+        "answer": "340 "
+    },
+    {
+        "question": "Sandy aliuza nusu ya vitabu vyake vya katuni na kisha akanunua 6 zaidi. Sasa ana 13. Alianza na ngapi?",
+        "answer": "14.0"
+    },
+    {
+        "question": "Tim alipata ganda 37 na Sally akapata ganda 13 ufukweni. Walipozisafisha, waligundua kuwa 25 zilikuwa na nyufa. Je, walipata ganda ngapi za bahari pamoja?",
+        "answer": "50.0"
+    },
+    {
+        "question": "Mwalimu anawapa wanafunzi wake kadi za kumbukumbu. Alitoa noti 3 kwa mwanafunzi wa kwanza, kadi 12 kwa mwanafunzi wa pili, kadi 48 kwa mwanafunzi wa tatu, na kadi 192 kwa mwanafunzi wa nne. Mtindo huu ukiendelea, mwalimu atampa mwanafunzi wa tano kadi ngapi za noti?",
+        "answer": "768 "
+    },
+    {
+        "question": "Vondra anakusanya mifuko ya mboga ili kuchangia misaada. Ana masanduku 7 ya macaroni na jibini na makopo 14 ya mboga. Vondra anataka kuzigawanya kwa usawa, ili kila mfuko uwe na yaliyomo sawa na hakuna vitu vilivyobaki. Ni idadi gani kubwa zaidi ya mifuko ya mboga ambayo Vondra anaweza kuweka pamoja?",
+        "answer": "7 "
+    },
+    {
+        "question": "Sachin anasema kwamba ana vitabu 6 zaidi ya mara 6 za vitabu vya Priyanka. Sachin ana vitabu 42. Priyanka ana vitabu vingapi?",
+        "answer": "6 "
+    },
+    {
+        "question": "Steve anakusanya vikombe; aliweka vikombe 17 vya plastiki kwenye rundo la kwanza, vikombe 21 vya plastiki kwenye rundo la pili, vikombe 25 vya plastiki kwenye rundo la tatu, na vikombe 29 vya plastiki kwenye rundo la nne. Ikiwa muundo huu utaendelea, Steve ataweka vikombe vingapi vya plastiki kwenye rundo la tano?",
+        "answer": "33 "
+    },
+    {
+        "question": "Kitabu cha vichekesho kinagharimu senti 37. Mmiliki wa duka aligeuza tarakimu kimakosa. Aliandika nambari hiyo kwenye kitabu cha vichekesho. Mmiliki wa duka alimtoza mteja wake kiasi gani?",
+        "answer": "36 "
+    },
+    {
+        "question": "Zachary anakusanya makopo kwa ajili ya klabu ya kuchakata tena. Siku ya kwanza, alipata makopo 4. Siku ya pili, alipata makopo 9. Alipata makopo 14 siku ya tatu. Ikiwa mtindo huu utaendelea, unadhani Zachary atapata makopo mangapi siku ya saba?",
+        "answer": "34 "
+    },
+    {
+        "question": "Urefu wa shamba la mstatili ni mita 75. Upana wake ni mita 15. Sofie alikimbia kuzunguka wimbo mara 3. Alikimbia umbali gani?",
+        "answer": "540 "
+    },
+    {
+        "question": "Alec ana bustani na anapenda kuweka maua kutoka kwenye bustani yake kwenye vase maridadi. Alec aliweka maua 5 kwenye vase ya kwanza, maua 7 kwenye vase ya pili, maua 10 kwenye vase ya tatu, na maua 14 kwenye vase ya nne. Ikiwa muundo huu utaendelea, ni maua ngapi ambayo Alec ataweka kwenye vase ya tano?",
+        "answer": "19 "
+    },
+    {
+        "question": "Kila upande wa tangazo la gazeti la mraba lina urefu wa sentimita 8. Mzunguko wa tangazo la gazeti ni nini?",
+        "answer": "32 "
+    },
+    {
+        "question": "Beth ana pakiti 4 za kalamu za rangi. Kila pakiti ina crayoni 10 ndani yake. Pia ana kalamu 6 za ziada. Beth ana kalamu ngapi kwa pamoja?",
+        "answer": "40.0"
+    },
+    {
+        "question": "Bruno alikuwa na vitabu vya hadithi. Alipoteza 4 kati yao na baba yake akampa vitabu 10 zaidi. Ikiwa alikuwa na vitabu 39 baada ya hapo, Bruno alikuwa na vitabu vingapi mwanzoni?",
+        "answer": "33 "
+    },
+    {
+        "question": "Nancy alikuwa akihesabu idadi ya watu kwenye toys tofauti kwenye uwanja wa michezo. Alihesabu: 6, 12, 1, 12, 7, 3 na 8. Nini maana ya watu?",
+        "answer": "7 "
+    },
+    {
+        "question": "Adamu alikuwa na dola 5. Katika duka alitumia $2 kwenye mchezo mpya. Ikiwa alipata dola 5 nyingine kwa posho yake, ana pesa ngapi sasa?",
+        "answer": "8 "
+    },
+    {
+        "question": "Bi. Hilt alinunua hot dogs 6. Kila hot dog inagharimu senti 50. Alilipa pesa ngapi kwa hot dogs zote?",
+        "answer": "300.0"
+    },
+    {
+        "question": "Bafuni ilikuwa na urefu wa futi 4 na jumla ya eneo la futi 8 za mraba. Je, upana wa bafuni ni nini?",
+        "answer": "2 "
+    },
+    {
+        "question": "Heather anafurahia kutazama ndege na aliona aina mbili za ndege wanaosafiri msimu huu: bata na seagulls. Ingawa bata walisafiri katika makundi 18, shakwe walisafiri katika makundi 10. Ikiwa Heather aliona idadi sawa ya bata na shakwe, ni idadi gani ndogo zaidi ya bata ambayo angeweza kuona?",
+        "answer": "90 "
+    },
+    {
+        "question": "Katika sherehe, marafiki 6 walinunua tikiti 27. Ikiwa wangetaka kugawanya tikiti zote ili kila rafiki apate kiasi sawa, wangehitaji kununua tikiti ngapi zaidi?",
+        "answer": "3 "
+    },
+    {
+        "question": "Mgahawa mmoja ulihudumia hot dogs 9 wakati wa chakula cha mchana na 2 wakati wa chakula cha jioni leo. Ilihudumia 5 kati yao jana. Ni hot dogs ngapi zilitolewa leo?",
+        "answer": "11.0"
+    },
+    {
+        "question": "Gumballs kuja katika paket ya 5. Nathan alikula 20 gumballs. Alikula masanduku mazima ngapi na amebakisha gumba ngapi?",
+        "answer": "4.0"
+    },
+    {
+        "question": "Mbwa wa Sandy alikuwa na watoto wa mbwa 8 na 4 walikuwa na madoa. Alitoa 4 kwa marafiki zake. Je, sasa ana watoto wa mbwa wangapi?",
+        "answer": "4.0"
+    },
+    {
+        "question": "Sarah aliuza masanduku 24 ya Lemon Chalet Cremes. Je, Sarah anahitaji visanduku vingapi vya masanduku 12 pamoja na masanduku ya ziada?",
+        "answer": "2.0"
+    },
+    {
+        "question": "Kuna baadhi ya abiria kwenye basi. Katika kituo cha basi, abiria 7 zaidi walipanda basi na abiria 9 walishuka. Ikiwa kuna abiria 26 katika basi mwisho, ni abiria wangapi hapo mwanzoni?",
+        "answer": "28 "
+    },
+    {
+        "question": "Ryan alikusanya majani 89. Alipoteza majani 24. Baada ya muda, majani 43 zaidi yalivunjika. Ni majani mangapi yamesalia katika mkusanyiko wake?",
+        "answer": "22 "
+    },
+    {
+        "question": "Kipande cha mwamba kilikatwa kwa hivyo urefu wake ulikuwa futi 6 kwa futi 5. Eneo la karatasi ni nini?",
+        "answer": "30 "
+    },
+    {
+        "question": "Ikiwa una robo 2, dime 1 na senti 3, una pesa ngapi?",
+        "answer": "0.63 "
+    },
+    {
+        "question": "Duka la wanyama wa kipenzi lilikuwa na mbwa 2. Siku ya Jumapili walipata 5 zaidi. Siku ya Jumatatu walipata 3 zaidi. Je, duka la wanyama kipenzi lina mbwa wangapi sasa?",
+        "answer": "10 "
+    },
+    {
+        "question": "Bi. Hilt alinunua koni ya aiskrimu kwa senti 99. Koni 2 za aiskrimu zingegharimu kiasi gani?",
+        "answer": "198.0"
+    },
+    {
+        "question": "Veronica anatengeneza vifaa vya maandalizi ya dharura ili kushiriki na marafiki. Ana chupa 20 za maji na makopo 12 ya chakula, ambayo angependa kusambaza kwa usawa kati ya vifaa, bila chochote kilichobaki. Ni idadi gani kubwa ya vifaa ambavyo Veronica anaweza kutengeneza?",
+        "answer": "4 "
+    },
+    {
+        "question": "Katika sherehe, pizza ya jibini hukatwa vipande 6 na pizza ya mboga hukatwa vipande 12. Ikiwa mpangaji anataka kukupa sahani zinazofanana ambazo zina mchanganyiko sawa wa vipande vya jibini na veggie, bila vipande vilivyosalia, ni idadi gani kubwa zaidi ya sahani ambazo mwenyeji anaweza kuandaa?",
+        "answer": "6 "
+    },
+    {
+        "question": "Msingi wa parallelogram ni inchi 11 na eneo lake ni 132 Sq. inchi. Pata urefu wa parallelogram.",
+        "answer": "12 "
+    },
+    {
+        "question": "Malia anachuma beri kwenye sehemu ya beri. Anachukua matunda 3 kutoka kwenye kichaka cha kwanza, matunda 4 kutoka kwenye kichaka cha pili, matunda 7 kutoka kwenye kichaka cha tatu, na matunda 12 kutoka kwenye kichaka cha nne. Ikiwa mtindo huu utaendelea, Malia atachuna beri ngapi kutoka kwenye kichaka cha tano?",
+        "answer": "19 "
+    },
+    {
+        "question": "Saa mbili huwashwa kwa wakati mmoja. Saa moja hulia kila baada ya dakika 15. Saa nyingine inalia kila baada ya dakika 25. Wataimba pamoja kwa dakika ngapi?",
+        "answer": "75 "
+    },
+    {
+        "question": "Kulikuwa na waridi 3 kwenye chombo hicho. Alyssa alikata maua ya waridi kutoka kwenye bustani yake ya maua. Sasa kuna waridi 14 kwenye chombo hicho. Je, alikata waridi ngapi?",
+        "answer": "11.0"
+    },
+    {
+        "question": "Sam alikata vipande vya urefu sawa vya Ribbon kutoka kwa utepe wa urefu wa 3,730-cm. Ikiwa kila kipande kilikuwa na urefu wa sm 73, ni kiasi gani cha utepe wa awali kilichosalia?",
+        "answer": "7 "
+    },
+    {
+        "question": "Keith anapenda kadi za biashara. Alinunua pakiti 4 za kadi za Digimon kwa $4.45 kila moja, na staha ya kadi za besiboli kwa $6.06. Keith alitumia kiasi gani kununua kadi?",
+        "answer": "23.86"
+    },
+    {
+        "question": "Akiwa likizoni, Debby alichukua picha 24 kwenye mbuga ya wanyama na 12 kwenye jumba la makumbusho. Ikiwa baadaye alifuta picha 14 kati ya hizo, bado alikuwa na picha ngapi za likizo yake?",
+        "answer": "22 "
+    },
+    {
+        "question": "Maggi alikuwa na vifurushi 3 vya keki. Kuna keki 4 katika kila kifurushi. Alikula keki 5. Wamebaki wangapi?",
+        "answer": "12.0"
+    },
+    {
+        "question": "Duka jipya lilifunguliwa kwenye duka hilo. Katika saa ya kwanza, watu 94 waliingia na watu 27 waliondoka. Saa ya pili, watu 18 waliingia na watu 9 wakaondoka. Ni watu wangapi walikuwa bado kwenye duka baada ya saa 2?",
+        "answer": "76 "
+    },
+    {
+        "question": "Hangari ya ndege ina urefu wa futi 300. Ni ndege ngapi zinaweza kuingia ndani yake, mwisho hadi mwisho, ikiwa kila ndege ina urefu wa futi 40?",
+        "answer": "7 "
+    },
+    {
+        "question": "Linda ananunua gamu ya sitroberi katika vifurushi vya vipande 6 na sandarusi katika vifurushi vya vipande 5. Ikiwa Linda anataka kununua kiasi sawa cha kila aina ya sandarusi, ni idadi gani ndogo ya vipande vya kila ladha ambayo ni lazima anunue?",
+        "answer": "30 "
+    },
+    {
+        "question": "Ninapanda miti 50 ya tufaha na miti 30 ya peach. Ninataka idadi sawa na aina ya miti kwa safu. Ni idadi gani ya juu zaidi ya miti ninayoweza kupanda kwa kila safu?",
+        "answer": "10 "
+    },
+    {
+        "question": "Karlene alisoma kurasa 3 Jumanne, kurasa 6 Jumatano, kurasa 12 Alhamisi, kurasa 24 Ijumaa, na kurasa 48 Jumamosi. Ikiwa mtindo huu utaendelea, Karlene atasoma kurasa ngapi siku ya Jumapili?",
+        "answer": "96 "
+    },
+    {
+        "question": "Samweli alikuwa na Skittles 14. Ikiwa Samweli aliwapa marafiki wake 4 idadi sawa ya Skittles na kisha akala kilichobaki, je, kila mtu alikula Skittles ngapi?",
+        "answer": "3 "
+    },
+    {
+        "question": "Vifurushi vya jibini la cheddar vinakuja na vipande 12, wakati vifurushi vya jibini la Uswisi vinakuja na vipande 28. Ikiwa Randy alinunua idadi sawa ya vipande vya kila aina ya jibini, ni idadi gani ndogo ya vipande vya kila aina ambayo Randy angeweza kununua?",
+        "answer": "84 "
+    },
+    {
+        "question": "Miaka kumi iliyopita, jumla ya umri wa wana wawili ilikuwa theluthi moja ya umri wa baba yao. Mwana mmoja ana umri wa miaka miwili kuliko mwingine na jumla ya umri wao wa sasa ni miaka 14 chini ya umri wa baba wa sasa. Tafuta zama za sasa za wote.",
+        "answer": "21 "
+    },
+    {
+        "question": "Megan alikuwa na nyimbo mia tatu sabini na mbili kwenye kicheza mp3 chake. Ikiwa angetaka kuweka nyimbo kwa usawa katika orodha tisa tofauti za kucheza, angebakisha nyimbo ngapi?",
+        "answer": "3 "
+    },
+    {
+        "question": "Bahasha kutoka kwa posta ina upana wa inchi 4 na urefu wa inchi 4. Eneo la bahasha ni nini?",
+        "answer": "16 "
+    },
+    {
+        "question": "Jacqueline ana masanduku 4 ya vifutio. Kila kisanduku kina vifutio 10 na kuna visanduku 9 kwenye kipochi. Jacqueline ana vifutio vingapi?",
+        "answer": "40.0"
+    },
+    {
+        "question": "Bryan ana skittles 50. Ben ana 20 M&amp;M. Nani ana zaidi? Je, ana wangapi zaidi?",
+        "answer": "30.0"
+    },
+    {
+        "question": "Mzunguko wa bodi ya maonyesho ya hexagonal ni 42 cm. Ubao unapaswa kuzungukwa na Ribbon ya satin. Tafuta urefu wa utepe unaohitajika ili mpaka kila upande.",
+        "answer": "7 "
+    },
+    {
+        "question": "Melanie alikuwa na kadi 30 za besiboli, na 9 zilichanika. Sara alinunua kadi 18 za besiboli za Melanie. Melanie ana kadi ngapi za besiboli sasa?",
+        "answer": "12.0"
+    },
+    {
+        "question": "Mike alienda kwenye michezo 15 ya mpira wa vikapu mwaka huu, lakini akakosa 41. Alicheza michezo 39 mwaka jana. Mike alihudhuria michezo mingapi ya mpira wa vikapu kwa jumla?",
+        "answer": "54.0"
+    },
+    {
+        "question": "Kipande cha plywood kilikuwa na jumla ya eneo la futi za mraba 24, na upana wa futi 6. Urefu wa kuni ni nini?",
+        "answer": "4 "
+    },
+    {
+        "question": "Kwenye ukumbi wa michezo Dave alishinda tikiti 11. Ikiwa angetumia tikiti 5 kwenye beanie na baadaye kushinda tikiti 10 zaidi, angepata ngapi?",
+        "answer": "16 "
+    },
+    {
+        "question": "Jumla ya nambari tatu zinazofuatana zenye usawa ni 42. Chagua kigeu kinachofaa na uunde milinganyo ya aljebra moja tofauti na upate tofauti kati ya nambari kubwa zaidi na ndogo zaidi.",
+        "answer": "4"
+    },
+    {
+        "question": "Katie alitengeneza keki 26 za kuoka shuleni. Ikiwa angeuza 20 kati yao kisha akatengeneza 20 zaidi, angepata keki ngapi?",
+        "answer": "26 "
+    },
+    {
+        "question": "Omar anapenda kucheza cheki. Alicheza mechi 37 jana. Amecheza mechi 49 leo. Omar alipoteza michezo 18. Ameshinda mechi ngapi?",
+        "answer": "68 "
+    },
+    {
+        "question": "Uwiano wa eneo la mstatili kwa eneo la pembetatu ni 2: 5. Mstatili una urefu wa 6 cm na upana wa 4 cm. Eneo la pembetatu ni nini?",
+        "answer": "60 "
+    },
+    {
+        "question": "Dave alinunua TV mpya ya skrini bapa. Skrini ilikuwa na upana wa futi 2 na urefu wa futi 4. Eneo la skrini ni nini?",
+        "answer": "8 "
+    },
+    {
+        "question": "Mary alipata ganda 45, Melanie alipata ganda 23, na Jason alipata ganda 32 kwenye ufuo. Walipozisafisha, waligundua kuwa 31 zilikuwa na nyufa. Je, walipata ganda ngapi za bahari pamoja?",
+        "answer": "100.0"
+    },
+    {
+        "question": "Katika darasa la chekechea la Bi. Hutchinson, watoto hutengeneza alama za mikono katika ukungu wa udongo wa duara kwa wazazi wao. Ukungu una kipenyo cha inchi 4. Radi ya ukungu ni nini?",
+        "answer": "2 "
+    },
+    {
+        "question": "Baada ya sherehe, 0.625 ya keki imesalia. Usiku huo, kaka mkubwa anakula 0.25 ya keki. Ni kiasi gani kilichobaki baada ya hapo?",
+        "answer": "0.375"
+    }
+]

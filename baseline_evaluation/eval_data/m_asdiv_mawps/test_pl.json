@@ -1,0 +1,3246 @@
+[
+    {
+        "question": "Po 15 latach Ariel będzie cztery razy starsza niż teraz. Określ jej obecny wiek.",
+        "answer": "5 "
+    },
+    {
+        "question": "Podziel 39 balonów na 7 równych grup. Ile balonów jest w każdej grupie?",
+        "answer": "5 "
+    },
+    {
+        "question": "W dzbanku było 1050 ml herbaty. Anna nalała herbatę do kilku filiżanek. Jeśli w każdej filiżance było 65 ml herbaty, ile herbaty zostało w dzbanku?",
+        "answer": "10 "
+    },
+    {
+        "question": "Na zajęciach matematycznych pana Olsena 0,7 uczniów otrzymało oceny A, a 0,2 B. Jaka część uczniów otrzymała oceny A lub B?",
+        "answer": "0.9"
+    },
+    {
+        "question": "Joan wydała 15 dolarów na spodenki, 14,82 dolara na kurtkę i 12,51 dolara na koszulę. Poszła do 3 sklepów. Ile pieniędzy Joan wydała w sumie na ubrania?",
+        "answer": "42.33"
+    },
+    {
+        "question": "Kelner miał 47 klientów do obsłużenia. Gdyby 41 klientów odeszło, a on dostałby kolejnych 20 klientów, ilu klientów miałby?",
+        "answer": "26 "
+    },
+    {
+        "question": "Nauczyciel dał 42 ołówki 12 uczniom po równo. Ile ołówków dostał każdy uczeń?",
+        "answer": "3 "
+    },
+    {
+        "question": "Pralka może wyprać 28 funtów ubrań dziennie. Jeśli jest 200 funtów ubrań do wyprania dziennie, ile pralek jest potrzebnych?",
+        "answer": "8 "
+    },
+    {
+        "question": "Autobus może przewieźć 48 pasażerów. Jeśli szkoła licząca 1230 uczniów i nauczycieli wybiera się na wycieczkę, ile autobusów należy wynająć?",
+        "answer": "26 "
+    },
+    {
+        "question": "Gloria ma 9 pudełek z biletami. Każde pudełko mieści 5 biletów, a w pudełku jest 10 pudełek. Ile biletów ma Gloria?",
+        "answer": "45.0"
+    },
+    {
+        "question": "Wyspa na Oceanie Indyjskim miała 4 mile szerokości i 7 mil długości. Jaki jest obwód wyspy?",
+        "answer": "22 "
+    },
+    {
+        "question": "Nowa książka kucharska staje się popularna. Lokalna księgarnia zamówiła 4 egzemplarze we wrześniu, 6 egzemplarzy w październiku, 8 egzemplarzy w listopadzie i 10 egzemplarzy w grudniu. Jeśli ten schemat się utrzyma, ile egzemplarzy zamówi księgarnia w styczniu?",
+        "answer": "12 "
+    },
+    {
+        "question": "Corey zarabia dodatkowe pieniądze, znajdując zgubione piłki golfowe. Jego celem jest znalezienie 48 piłek golfowych w każdy weekend. W sobotę znalazł 16 piłek golfowych. W niedzielę znalazł 18 kolejnych piłek golfowych. Ile piłek golfowych Corey musi znaleźć, aby osiągnąć swój cel?",
+        "answer": "14 "
+    },
+    {
+        "question": "J.T. ma kilka kart kolekcjonerskich superbohaterów. Zgubił ich 14. Dał 19 swojemu najlepszemu przyjacielowi. Teraz zostało mu 45 kart. Ile kart miał J.T. na początku?",
+        "answer": "78 "
+    },
+    {
+        "question": "Faye sprzedawała swoje naszyjniki na wyprzedaży garażowej. Sprzedała 3 naszyjniki z koralików i 7 naszyjników z kamieni szlachetnych. Jeśli każdy naszyjnik kosztował 7 dolarów, ile pieniędzy zarobiła?",
+        "answer": "70.0"
+    },
+    {
+        "question": "Kwadratowy znak drogowy ma obwód 16 stóp. Jak długi jest każdy bok znaku drogowego?",
+        "answer": "4 "
+    },
+    {
+        "question": "Carmen zrobiła 4 brzuszki w niedzielę, 8 brzuszków w poniedziałek, 16 brzuszków we wtorek, 32 brzuszki w środę i 64 brzuszki w czwartek. Jeśli ten schemat się utrzyma, ile brzuszków zrobi Carmen w piątek?",
+        "answer": "128 "
+    },
+    {
+        "question": "Vanessa dostała sześćset dwadzieścia dwa dolary na urodziny. Później znalazła zabawki, które kosztowały dziewięć dolarów każda. Ile pieniędzy by jej zostało, gdyby kupiła tyle, ile mogła?",
+        "answer": "1 "
+    },
+    {
+        "question": "Amanda i Sadie mają po jednym zespole. Zespół Amandy gra piosenki w zestawach po 2, a zespół Sadie gra piosenki w zestawach po 9. Po wspólnym występie oba zespoły zdają sobie sprawę, że zagrały tę samą liczbę piosenek. Jaka jest najmniejsza liczba piosenek, jaką każdy zespół mógł wykonać?",
+        "answer": "18 "
+    },
+    {
+        "question": "Tim ma 39 par słuchawek i 13 odtwarzaczy muzycznych. Tim chce sprzedać wszystkie słuchawki i odtwarzacze muzyczne w identycznych opakowaniach. Jaka jest największa liczba opakowań, jaką Tim może zrobić?",
+        "answer": "13 "
+    },
+    {
+        "question": "Sałatka owocowa przygotowana w programie kulinarnym TV wymaga kawałków kantalupa i melona miodowego. Jaka jest największa liczba porcji, jaką możesz zrobić, używając wszystkich owoców, jeśli masz 30 kawałków kantalupa i 42 kawałki melona miodowego?",
+        "answer": "6 "
+    },
+    {
+        "question": "Dan dołączył do szkolnego zespołu. Kupił klarnet za 130,30$ i śpiewnik za 11,24$. Dan znalazł w kieszeni 12,32$. Ile Dan wydał w sklepie muzycznym?",
+        "answer": "141.54"
+    },
+    {
+        "question": "Firma Hay's Linens sprzedaje ręczniki do rąk w zestawach po 17 sztuk, a ręczniki kąpielowe w zestawach po 6 sztuk. Jeśli sklep sprzedał dziś rano taką samą liczbę sztuk każdego rodzaju ręczników, jaka była najmniejsza liczba sztuk każdego rodzaju ręczników, jaką musiał sprzedać?",
+        "answer": "102 "
+    },
+    {
+        "question": "Obwód trójkąta równobocznego wynosi 54 cm. Znajdź długość każdego boku trójkąta.",
+        "answer": "18 "
+    },
+    {
+        "question": "W ciągu pierwszych 6 godzin targów było następująca liczba klientów: 58, 58, 62, 55, 49 i 48. Jaka jest średnia liczba klientów?",
+        "answer": "55 "
+    },
+    {
+        "question": "Rodzina Montoya wydaje 0,6 swojego budżetu na artykuły spożywcze i kolejne 0,2 na jedzenie na mieście. Jaką część swojego budżetu rodzina Montoya wydaje na jedzenie?",
+        "answer": "0.8"
+    },
+    {
+        "question": "Każdego roku łososie wędrują w górę rzeki, z oceanu do rzek, w których się urodziły. W tym roku 712261 samców i 259378 samic łososi powróciło do swoich rzek. Ile łososi odbyło tę podróż?",
+        "answer": "971639.0"
+    },
+    {
+        "question": "W poniedziałek trzysta dziewięćdziesięciu sześciu uczniów wybrało się na wycieczkę do zoo. Wszystkie siedem autobusów było pełnych, a czterech uczniów musiało podróżować samochodami. Ilu uczniów było w każdym autobusie?",
+        "answer": "56 "
+    },
+    {
+        "question": "Na torze wyścigowym dla samochodów zdalnie sterowanych samochód wyścigowy A pokonuje trasę w 28 sekund, a samochód wyścigowy B pokonuje ją w 24 sekundy. Jeśli oba wystartują w tym samym czasie, po ilu sekundach znów będą obok siebie?",
+        "answer": "168 "
+    },
+    {
+        "question": "Na zawody lekkoatletyczne przyszło 52 dzieci i 29 dorosłych. Stadion ma 95 miejsc. Ile miejsc było pustych?",
+        "answer": "14  "
+    },
+    {
+        "question": "W drużynie lekkoatletycznej było 18 dziewcząt i 15 chłopców. Do drużyny dołączyło 7 kolejnych dziewcząt. 4 chłopców odeszło z drużyny. Ile dzieci było wtedy w drużynie lekkoatletycznej?",
+        "answer": "36 "
+    },
+    {
+        "question": "9 chłopców poszło podlewać drzewa. Było 29 drzew. Jeśli każdy z nich podleje taką samą liczbę drzew, ile drzew zostanie?",
+        "answer": "2 "
+    },
+    {
+        "question": "Mike znalazł 6 muszelek i 4 rozgwiazdy, ale 4 muszelki były uszkodzone. Ile nieuszkodzonych muszelek znalazł Mike?",
+        "answer": "2.0"
+    },
+    {
+        "question": "Marian upiekła chleb, ciasteczka i wypieki pewnej soboty w domu dla swojej rodziny i przyjaciół w tym świątecznym okresie. Zrobiła 47 pierniczków, które rozda równo w małych szklanych słoiczkach. Jeśli każdy słoik ma zawierać po sześć ciasteczek, ile ciasteczek nie zostanie umieszczonych w słoiku?",
+        "answer": "5 "
+    },
+    {
+        "question": "Cindy zjadła 41 cukierków. Rano zjadła sześć cukierków, a po południu dwanaście. Ile cukierków jej zostało?",
+        "answer": "23 "
+    },
+    {
+        "question": "W szkole kilku nauczycieli zorganizowało konkurs, aby zobaczyć, która klasa zdobędzie najwięcej punktów za quiz. Klasa pani William zdobyła 50 punktów. Klasa pana Adamsa zdobyła 57 punktów. Klasa pani Brown zdobyła 49 punktów, a klasa pani Daniel zdobyła 57 punktów. Jaka jest średnia liczba zdobytych punktów?",
+        "answer": "53.3 "
+    },
+    {
+        "question": "Obwód pocztówki wynosi 20 cali. Pocztówka ma 6 cali szerokości. Jaką ma wysokość?",
+        "answer": "4 "
+    },
+    {
+        "question": "Dwa druty o długości 448 cm i 616 cm należy pociąć na kawałki o tej samej długości bez resztek. Jaka jest największa możliwa długość kawałków?",
+        "answer": "56 "
+    },
+    {
+        "question": "Martin przykleja kwadratowe kawałki kolorowego papieru o jednakowej wielkości na desce o wymiarach 72 cm na 90 cm. Jeśli używane są tylko całe kwadratowe kawałki, a deska ma być całkowicie pokryta, jaka jest największa możliwa długość boku każdego kwadratowego kolorowego papieru?",
+        "answer": "18 "
+    },
+    {
+        "question": "Przejeżdżając obok sklepów, Dave policzył liczbę samochodów na parkingach. Policzył: 30, 14, 14, 21 i 25. Jaka jest średnia liczba samochodów, które policzył?",
+        "answer": "20.8 "
+    },
+    {
+        "question": "Kayla dostała nową grę wideo. Zdobyła 2 punkty na pierwszym poziomie, 3 punkty na drugim poziomie, 5 punktów na trzecim poziomie, 8 punktów na czwartym poziomie i 12 punktów na piątym poziomie. Jeśli ten schemat się utrzyma, ile punktów zdobędzie Kayla na szóstym poziomie?",
+        "answer": "17 "
+    },
+    {
+        "question": "Morris zaobserwował dwa rodzaje ptaków podróżujących: kaczki i żurawie. Podczas gdy kaczki podróżowały w stadach po 13 osobników, żurawie podróżowały w stadach po 17 osobników. Gdyby Morris zaobserwował taką samą łączną liczbę kaczek i żurawi, jaka byłaby najmniejsza liczba kaczek, którą mógłby zaobserwować?",
+        "answer": "221 "
+    },
+    {
+        "question": "Podczas kampanii senackiej wolontariusz rozdał guzik „Głosuj na Hatfielda”. Guzik kampanii ma średnicę 8 centymetrów. Jaki jest obwód guzika?",
+        "answer": "25.12 "
+    },
+    {
+        "question": "Rupert i Ronald zdali egzamin z matematyki celująco. Więc ich mama kupiła im wczoraj cudowną trampolinę. Ronald skoczył na trampolinie 157 razy. Rupert skoczył 86 razy więcej niż Ronald. Ile razy skoczyli razem?",
+        "answer": "243.0"
+    },
+    {
+        "question": "Pani Hilt i jej siostra pojechały na koncert oddalony o 78 mil. Przejechały 32 mile, a potem zatrzymały się, żeby zatankować. Jej siostra zatankowała 28 galonów benzyny do samochodu. Ile mil im zostało do przejechania?",
+        "answer": "46.0"
+    },
+    {
+        "question": "Evan ma dużą kolekcję książek. Dał swojemu najlepszemu przyjacielowi 14 książek. Dał swojemu młodszemu bratu 8 książek. Teraz Evan ma 60 książek w swojej kolekcji. Ile książek miał na początku?",
+        "answer": "82 "
+    },
+    {
+        "question": "Mary miała 18 kart baseballowych i 8 z nich było podartych. Fred dał Mary 26 nowych kart baseballowych. Mary kupiła 40 kart baseballowych. Ile kart baseballowych ma teraz Mary?",
+        "answer": "84.0"
+    },
+    {
+        "question": "Klub teatralny spotyka się w szkolnej sali audytoryjnej co 3 dni, a chór spotyka się tam co 5 dni. Jeśli obie grupy spotykają się dziś w sali audytoryjnej, to za ile dni będą musiały dzielić salę?",
+        "answer": "15 "
+    },
+    {
+        "question": "Suma cyfr dwucyfrowej liczby wynosi 15. Jeśli cyfr na dziesiątym miejscu jest 8, znajdź tę dwucyfrową liczbę.",
+        "answer": "87"
+    },
+    {
+        "question": "Sherman gra w golfa co 6 dni, a Brad gra w golfa co 7 dni. Jeśli Sherman i Brad grają w golfa dzisiaj, ile dni minie, zanim znowu zagrają w golfa tego samego dnia?",
+        "answer": "42 "
+    },
+    {
+        "question": "Sara ma 16 czerwonych kwiatów i 24 żółte kwiaty. Chce zrobić bukiety z taką samą liczbą kwiatów każdego koloru w każdym bukiecie. Jaka jest największa liczba bukietów, które może zrobić?",
+        "answer": "8 "
+    },
+    {
+        "question": "Zbliża się sezon grypy, więc Lexi postanawia zrobić zestawy na szybki powrót do zdrowia. Ma 10 puszek rosołu z kurczaka i 15 pudełek chusteczek, które chce wykorzystać do zrobienia identycznych zestawów bez zbędnych materiałów. Ile zestawów na szybki powrót do zdrowia może zrobić Lexi?",
+        "answer": "5 "
+    },
+    {
+        "question": "Jessica wydała połowę swojego kieszonkowego na kino. Umyła samochód rodzinny i zarobiła sześć dolarów. Ile wynosi jej tygodniowe kieszonkowe, jeśli skończy z jedenastoma dolarami?",
+        "answer": "10 "
+    },
+    {
+        "question": "Devon ma 12 lat. Ma 2 lata więcej niż połowę wieku Stevena. Znajdź wiek Stevena.",
+        "answer": "20 "
+    },
+    {
+        "question": "Whitney zebrała 4 koszulki i 20 guzików swojego ulubionego zespołu. Chce połączyć je w identyczne zestawy, aby je sprzedać, bez żadnych resztek. Jaka jest największa liczba zestawów, jaką Whitney może zrobić?",
+        "answer": "4 "
+    },
+    {
+        "question": "W szkole 14 uczniów zapisało się do drużyn quizowych. Gdyby chcieli mieć 4 drużyny, z taką samą liczbą uczniów w każdej drużynie, ilu uczniów musiałoby się zapisać?",
+        "answer": "2 "
+    },
+    {
+        "question": "Pani Smith dała 53 truskawki 8 dziewczynkom po równo. Ile truskawek dostała każda dziewczynka?",
+        "answer": "6 "
+    },
+    {
+        "question": "Oceanside Bike Rental Shop pobiera stałą opłatę w wysokości 17 dolarów plus 7 dolarów za godzinę za wypożyczenie roweru. Mary zapłaciła 80 dolarów za wypożyczenie roweru. Ile godzin zapłaciła za sprawdzenie roweru?",
+        "answer": "9 "
+    },
+    {
+        "question": "Jest 40 dziewcząt i 32 chłopców, którzy chcą wziąć udział w 6. klasie w rozgrywkach wewnątrzszkolnych. Jeśli każda drużyna musi mieć taką samą liczbę dziewcząt i taką samą liczbę chłopców, jaka jest największa liczba drużyn, które mogą wziąć udział w rozgrywkach wewnątrzszkolnych?",
+        "answer": "8 "
+    },
+    {
+        "question": "George ma 2 pudełka klocków. Każde pudełko mieści 6 klocków, a w pudełku jest 5 pudełek. Ile klocków ma George?",
+        "answer": "12.0"
+    },
+    {
+        "question": "Sara zebrała 35 gruszek i 27 jabłek z sadu. Dała 28 gruszek Danowi. Ile gruszek ma Sara?",
+        "answer": "7.0"
+    },
+    {
+        "question": "Pewien klaun potrzebował dwustu dwudziestu siedmiu balonów na imprezę, na którą się wybierał, ale balony były dostępne tylko w paczkach po dwa. Ile paczek balonów musiałby kupić?",
+        "answer": "114 "
+    },
+    {
+        "question": "Tata Johna kupił czterysta czternaście metrów sznurka. Gdyby chciał pociąć sznurek na kawałki, z których każdy miałby siedem metrów długości, ile pełnowymiarowych kawałków mógłby zrobić?",
+        "answer": "59 "
+    },
+    {
+        "question": "W sklepie było 86 ananasów. Właściciel sprzedał 48 ananasów. 9 z pozostałych ananasów było zgniłych i wyrzuconych. Ile świeżych ananasów zostało?",
+        "answer": "29 "
+    },
+    {
+        "question": "Shaquira piecze ciasteczka, które zapakuje do paczek na zbiórkę funduszy. Shaquira upiekła 86 ciasteczek z kawałkami czekolady i 42 ciasteczka cukrowe. Shaquira chce stworzyć identyczne paczki ciasteczek do sprzedaży i musi wykorzystać wszystkie ciasteczka. Jaka jest największa liczba identycznych paczek, które Shaquira może zrobić?",
+        "answer": "2 "
+    },
+    {
+        "question": "Książka miała długość 5 cali i całkowitą powierzchnię 50 cali kwadratowych. Jak szeroka jest książka?",
+        "answer": "10 "
+    },
+    {
+        "question": "Lisa robi koszyki z zabawkami, które przekaże na cele charytatywne. Ma 12 kolorowanek, 28 markerów i 36 kredek. Ile jest największych koszyków, które może zrobić, jeśli każdy rodzaj zabawki zostanie równo rozłożony w koszykach?",
+        "answer": "4 "
+    },
+    {
+        "question": "W klasie jest 32 uczniów. Nauczyciel podzielił ich na 5 równych grup. Ilu uczniów jest w każdej grupie?",
+        "answer": "6 "
+    },
+    {
+        "question": "Pani Hilt miała 43 centy. Kupiła ołówek za 20 centów i cukierka za 5 centów. Ile pieniędzy jej zostało?",
+        "answer": "18 "
+    },
+    {
+        "question": "Myślę o liczbie. Jeśli odejmę 6 od liczby i podzielę ją przez 13, otrzymam wynik 2. Znajdź liczbę w mojej głowie.",
+        "answer": "32"
+    },
+    {
+        "question": "Za swoją usługę telefonii międzymiastowej Milan płaci 2 dolary miesięcznie plus 12 centów za minutę. W zeszłym miesiącu rachunek za telefon międzymiastowy Milana wynosił 23,36 dolarów. Za ile minut Milan został obciążony?",
+        "answer": "178.0"
+    },
+    {
+        "question": "Edward założył własny biznes koszenia trawników. Wiosną zarobił 2 dolary kosząc trawniki, a latem 27 dolarów. Gdyby musiał wydać 5 dolarów na zakup materiałów, ile pieniędzy by mu zostało?",
+        "answer": "24 "
+    },
+    {
+        "question": "Cristina upiekła 17 croissantów. Jeśli planowała podać je po równo swoim siedmiu gościom, ile każdy z nich dostanie?",
+        "answer": "2 "
+    },
+    {
+        "question": "Ogród ma 52 rzędy i 15 kolumn planów fasoli. Ile jest w sumie roślin?",
+        "answer": "780.0"
+    },
+    {
+        "question": "Podczas sortowania guzików Malia umieściła 1 guzik w pierwszym pudełku, 3 guziki w drugim pudełku, 9 guzików w trzecim pudełku, 27 guzików w czwartym pudełku i 81 guzików w piątym pudełku. Jeśli ten schemat się utrzyma, ile guzików Malia umieści w szóstym pudełku?",
+        "answer": "243 "
+    },
+    {
+        "question": "Klasa zebrała 122 puszki do recyklingu. Gdyby mogli włożyć 57 puszek do każdej torby, ile mniej więcej toreb by potrzebowali?",
+        "answer": "2 "
+    },
+    {
+        "question": "Pieczęć państwowa, która jest okrągła, wisi w budynku Kapitolu. Ma średnicę 2 metrów. Jaka jest powierzchnia pieczęci?",
+        "answer": "3.14 "
+    },
+    {
+        "question": "Tiffany grała w grę wideo i miała 43 życia. W trudnej części gry straciła 14 żyć. Gdyby zdobyła 27 żyć więcej na następnym poziomie, ile żyć by miała?",
+        "answer": "56 "
+    },
+    {
+        "question": "Caitlin jest na 13. stopniu gigantycznej zjeżdżalni. Zeszła 4 stopnie w dół, aby porozmawiać ze swoją przyjaciółką Daną. Następnie weszła 12 stopni na górę. Ile stopni ma gigantyczna zjeżdżalnia?",
+        "answer": "21 "
+    },
+    {
+        "question": "Kate, Maggie i Sue zsumowały swój wiek. W sumie było 48 lat. Kate ma 19 lat, a Maggie 17. Ile lat ma Sue?",
+        "answer": "12 "
+    },
+    {
+        "question": "W sobotę Litter Patrol zebrał 10 szklanych butelek i 8 aluminiowych puszek. Ile śmieci zebrali w sumie?",
+        "answer": "18.0"
+    },
+    {
+        "question": "Jessica chce zrobić girlandę z 8 róż, 12 stokrotek i 48 nagietków. Ile kompozycji może zrobić z tych kwiatów, żeby nie zostało ani jednego kwiatka.",
+        "answer": "4 "
+    },
+    {
+        "question": "Pani Hilt upiekła ciasta w zeszły weekend na świąteczny obiad. Upiekła 16 ciast pekanowych i 14 ciast jabłkowych. Jeśli chce ułożyć wszystkie ciasta w rzędach po 5 ciast w każdym, ile rzędów będzie miała?",
+        "answer": "30.0"
+    },
+    {
+        "question": "Gwen zdobywała 8 punktów za każdą torbę puszek, którą poddała recyklingowi. Gdyby miała 4 torby, ale nie poddała recyklingowi 2 z nich, ile punktów by zdobyła?",
+        "answer": "16.0"
+    },
+    {
+        "question": "W szufladzie jest 54 nożyczek. Keith umieścił 22 nożyczki w szufladzie. Ile nożyczek jest teraz w sumie?",
+        "answer": "76.0"
+    },
+    {
+        "question": "Alyssa kupiła zabawki. Kupiła piłkę nożną za 5,71$ i wydała 6,59$ na kulki. Ile w sumie Alyssa wydała na zabawki?",
+        "answer": "12.3"
+    },
+    {
+        "question": "Przypadkowo Luther's Paint Supplies sprzedało wczoraj równe ilości dwóch kolorów farb: żółtego i niebieskiego. Wszystkie żółte farby są sprzedawane w pojemnikach 2-litrowych, a niebieskie w pojemnikach 19-litrowych. Jaka jest najmniejsza ilość każdego koloru farby, jaką sklep musiał sprzedać?",
+        "answer": "38 "
+    },
+    {
+        "question": "James ma 1222 balony. Amy ma 513 balonów. O ile więcej balonów ma James niż Amy?",
+        "answer": "208.0"
+    },
+    {
+        "question": "Maszyna liczbowa zmienia wartość liczb umieszczonych w jej wnętrzu. Moja maszyna liczbowa doda 15 do liczby, a następnie odejmie 6 od sumy. Jeśli wprowadzę liczbę 68, jaka liczba wyjdzie z maszyny?",
+        "answer": "77"
+    },
+    {
+        "question": "Paige miała kartkę papieru o długości 9 cali i szerokości 10 cali. Jaka jest powierzchnia papieru?",
+        "answer": "90 "
+    },
+    {
+        "question": "Robin miała siedemset trzydzieści sześć zdjęć do umieszczenia w albumie. Jeśli każda strona zawiera sześć zdjęć, ile pełnych stron będzie miała?",
+        "answer": "122 "
+    },
+    {
+        "question": "W sklepie było 40 pomarańczy w pojemniku. Jeśli wyrzuciliby 25 starych i wrzucili 21 nowych do pojemnika, ile by ich tam było?",
+        "answer": "36 "
+    },
+    {
+        "question": "Benny sprzedał połowę swoich komiksów, a potem kupił 6 kolejnych. Teraz ma ich 17. Od ilu zaczynał?",
+        "answer": "22 "
+    },
+    {
+        "question": "Ben miał kilka kart baseballowych. Jego przyjaciel Tim miał 20 kart. Po tym, jak Ben kupił 3 kolejne karty, miał ich dwa razy więcej niż Tim. Ile kart miał Ben na początku?",
+        "answer": "37 "
+    },
+    {
+        "question": "W stodole było 32 baloty siana, a w szopie 26 balotów. Jason układał dziś baloty w stodole. W stodole jest teraz 98 balotów siana. Ile balotów przechowywał w stodole?",
+        "answer": "66.0"
+    },
+    {
+        "question": "Prostokątna szafka ma długość 6 m i obwód 20 m. Znajdź szerokość szafki.",
+        "answer": "4 "
+    },
+    {
+        "question": "Mieli 119 pudełek zapałek zapakowanych w kolorowe błyszczące opakowania. Jeśli mają rozdzielić pudełka zapałek równo między 9 domów w pierwszym bloku, ile kolorowych pudełek zapałek im zostanie?",
+        "answer": "2 "
+    },
+    {
+        "question": "Na zajęcia komputerowe zapisało się 94 uczniów. Było 24 uczniów drugiej klasy i 29 trzeciej. Pozostali uczniowie byli uczniami czwartej klasy. Ilu uczniów czwartej klasy uczęszczało na zajęcia komputerowe?",
+        "answer": "41 "
+    },
+    {
+        "question": "Szkoła średnia Joan rozegrała w tym roku 864 mecze baseballowe, 128 z nich odbyło się w nocy. Była na 395 meczach. Ile meczów baseballowych opuściła Joan?",
+        "answer": "469.0"
+    },
+    {
+        "question": "Mike zerwał 8 gruszek, a Jason zerwał 7 gruszek z drzewa gruszowego. Fred zerwał 6 jabłek z drzewa jabłoniowego. Ile gruszek zerwał w sumie?",
+        "answer": "15.0"
+    },
+    {
+        "question": "Oliver porządkuje swoje książki i układa je na półkach. Na pierwszej półce położył 2 książki, na drugiej 6 książek, na trzeciej 18 książek, a na czwartej 54 książki. Jeśli ten schemat się utrzyma, ile książek Oliver położy na piątej półce?",
+        "answer": "162 "
+    },
+    {
+        "question": "Tanner zaoszczędził 17 dolarów we wrześniu. Zaoszczędził 48 dolarów w październiku i 25 dolarów w listopadzie. Następnie Tanner wydał 49 dolarów na grę wideo. Ile pieniędzy zostało Tannerowi?",
+        "answer": "41.0"
+    },
+    {
+        "question": "Kwiaciarnia wystawia inną liczbę róż w oknie wystawowym każdego miesiąca. W październiku wystawiła 108 róż, w listopadzie 120, w grudniu 132, a w styczniu 144. Jeśli ten schemat się utrzyma, ile róż wystawi okno wystawowe kwiaciarni w lutym?",
+        "answer": "156 "
+    },
+    {
+        "question": "Joe, brat Susie, zebrał wszystkie 94 karty kolekcjonerskie rozrzucone w jego pokoju i umieścił je w pudełkach. Jeśli pełne pudełko może pomieścić maksymalnie 8 kart, ile kart jest w pustym pudełku?",
+        "answer": "6 "
+    },
+    {
+        "question": "Jack czyta książkę liczącą 285 stron. Jeśli czyta 23 strony dziennie, ile stron przeczyta ostatniego dnia?",
+        "answer": "9 "
+    },
+    {
+        "question": "Ołówek Ishy ma 22 cale długości. Jeśli w poniedziałek ostrzy dwa cale, a we wtorek dwa cale, jaka będzie długość jej ołówka?",
+        "answer": "18 "
+    },
+    {
+        "question": "Liczba dwucyfrowa jest cztery razy większa od sumy cyfr i dwa razy większa od iloczynu cyfr. Znajdź liczbę.",
+        "answer": "36"
+    },
+    {
+        "question": "Firma samochodowa wyprodukowała 3884 samochody w Ameryce Północnej i 2871 samochodów w Europie. Ile to jest samochodów w sumie?",
+        "answer": "6755.0"
+    },
+    {
+        "question": "W poniedziałek Debby przebiegła 2 kilometry. We wtorek przebiegła 5 kilometrów, a w środę przebiegła 9. Ile kilometrów przebiegła w sumie?",
+        "answer": "16 "
+    },
+    {
+        "question": "Plakat filmowy miał 4 cale szerokości i 7 cali wysokości. Jaka jest powierzchnia plakatu?",
+        "answer": "28 "
+    },
+    {
+        "question": "Joan zebrała 37 pomarańczy, a Sara zebrała 10 pomarańczy. Alyssa zebrała 30 gruszek. Ile pomarańczy zostało zebranych w sumie?",
+        "answer": "47.0"
+    },
+    {
+        "question": "Krakersy są pakowane po 18 sztuk. Betty zjadła 45 krakersów. Ile krakersów jej zostało?",
+        "answer": "9 "
+    },
+    {
+        "question": "Cristina upiekła 17 croissantów. Jeśli croissanty Cristiny zostałyby podane po równo jej siedmiu gościom, ile zostałoby Cristinie?",
+        "answer": "3 "
+    },
+    {
+        "question": "Grupa turystów liczy 26 osób. W hotelu chcą wynająć kilka dużych pokoi dla 3 osób każdy i kilka małych pokoi dla 2 osób każdy. Aby wynająć jak najmniej pokoi i mieć wszystkie pokoje w pełni zajęte, ile dużych pokoi należy wynająć?",
+        "answer": "8 "
+    },
+    {
+        "question": "W dzbanku było 1050 ml herbaty. Anna nalała herbatę do kilku filiżanek. Jeśli w każdej filiżance było 65 ml herbaty, ile filiżanek było napełnionych herbatą?",
+        "answer": "16 "
+    },
+    {
+        "question": "Jedna trzecia liczby minus siedem daje osiem. Znajdź liczbę.",
+        "answer": "45"
+    },
+    {
+        "question": "Willie ma 48 bananów. Charles ma 14 bananów. Traci 35. Ile bananów będzie miał Willie?",
+        "answer": "13.0"
+    },
+    {
+        "question": "Jake ustawił stoisko ze słodyczami na swoim podwórku. Ma 80 cukierków do sprzedania. W poniedziałek sprzedał 15 cukierków. We wtorek sprzedał znacznie więcej. W środę Jake'owi zostało tylko 7 cukierków. Ile cukierków Jake sprzedał we wtorek?",
+        "answer": "58 "
+    },
+    {
+        "question": "W szufladzie jest 41 kredek i 26 ołówków. Sam umieścił 12 kredek w szufladzie. Ile kredek jest teraz w sumie?",
+        "answer": "53.0"
+    },
+    {
+        "question": "Joan dołączyła do szkolnego zespołu. Kupiła trąbkę za 149,16 dolarów, instrument muzyczny za 9,98 dolarów i śpiewnik za 4,14 dolara. Joan znalazła w kieszeni 8,65 dolara. Ile Joan wydała w sklepie muzycznym?",
+        "answer": "163.28"
+    },
+    {
+        "question": "W klasie jest 46 dzieci, każdy uczeń dostanie 4 tuziny ołówków. Ile ołówków będzie musiał rozdać nauczyciel?",
+        "answer": "2208.0"
+    },
+    {
+        "question": "Ile ciasteczek byś miał, gdybyś miał 37 paczek ciasteczek, po 19 w każdej paczce?",
+        "answer": "703.0"
+    },
+    {
+        "question": "Wprowadziłem kolejną liczbę do maszyny. Maszyna dodała 15, a następnie odjęła 6. Z maszyny wyszła liczba 35. Jaką liczbę wprowadziłem?",
+        "answer": "26"
+    },
+    {
+        "question": "Jonathan chce kupić słownik, który kosztuje 11 dolarów, książkę o dinozaurach, która kosztuje 19 dolarów i książkę kucharską dla dzieci, która kosztuje 7 dolarów. Zaoszczędził 8 dolarów ze swojego kieszonkowego. Ile pieniędzy jeszcze Jonathan potrzebuje, aby kupić wszystkie trzy książki?",
+        "answer": "29.0"
+    },
+    {
+        "question": "Ronald i Tim obaj dziś zrobili pranie. Ronald robi pranie co 6 dni, a Tim robi pranie co 9 dni. Ile dni minie, zanim Ronald i Tim znowu zrobią pranie tego samego dnia?",
+        "answer": "18 "
+    },
+    {
+        "question": "Joan znalazła na plaży 72 muszle i 12 rozgwiazd. Dała Alyssy kilka swoich muszelek. Ma 28 muszelek. Ile muszelek dała Alyssy?",
+        "answer": "44.0"
+    },
+    {
+        "question": "W pizzerii było 11 kawałków pepperoni do umieszczenia na pizzy. Gdyby na każdej pizzy były 2 kawałki, ile dodatkowych kawałków pepperoni by było?",
+        "answer": "1 "
+    },
+    {
+        "question": "Faye wycinała tkaninę dla przyjaciółki. Wycięła kawałek o szerokości 3 centymetrów i powierzchni 24 centymetrów kwadratowych. Jak długi był ten kawałek?",
+        "answer": "8 "
+    },
+    {
+        "question": "Mika mierzy soczewkę na szkle powiększającym i oblicza, że ma obwód 31,4 centymetra. Jaka jest średnica soczewki?",
+        "answer": "10 "
+    },
+    {
+        "question": "Adam malował ścianę w swoim pokoju. Ściana miała 4 stopy szerokości i 4 stopy wysokości. Jaki jest obszar ściany, którą musi pomalować?",
+        "answer": "16 "
+    },
+    {
+        "question": "Tessa ma 4 jabłka. Anita dała jej 5 więcej. Potrzebuje 10 jabłek, żeby zrobić ciasto. Czy ma ich wystarczająco dużo, żeby zrobić ciasto?",
+        "answer": "9.0"
+    },
+    {
+        "question": "Tom znalazł 15 muszelek, a Fred 43 muszelki na plaży. Kiedy je wyczyścili, odkryli, że 29 było popękanych. Ile muszelek znaleźli razem?",
+        "answer": "58.0"
+    },
+    {
+        "question": "Pani Hilt kupiła notatnik za 1,30 dolara. Zapłaciła pięciocentówkami. Ile pięciocentówek wydała na zakup notatnika?",
+        "answer": "26 "
+    },
+    {
+        "question": "Rachel jest trzecia w kolejce. Julie jest 2 miejsca przed nią. Na którym miejscu w kolejce jest Julie?",
+        "answer": "1"
+    },
+    {
+        "question": "Tim ma torbę z 36 cukierkami o smaku pomarańczowym, a Peter ma torbę z 44 cukierkami o smaku winogronowym. Muszą podzielić cukierki na małe tacki z równą liczbą cukierków; każda tacka zawiera tylko cukierki o smaku pomarańczowym lub winogronowym. Jeśli nie ma reszty, jaka jest największa możliwa liczba cukierków na każdej tacce?",
+        "answer": "4 "
+    },
+    {
+        "question": "Melody zrobiła 26 wycięć choinek z czerwonymi błyszczącymi kulkami. Jeśli planowała przykleić 4 z nich na okładkę pewnej liczby kartek, ile kartek będzie w stanie zrobić?",
+        "answer": "6 "
+    },
+    {
+        "question": "Nancy, Melanie, Mary i Alyssa kupiły po 540 kart baseballowych, które są sprzedawane w paczkach po 20 sztuk. Ile paczek kart baseballowych mają w sumie?",
+        "answer": "108.0"
+    },
+    {
+        "question": "W liczbie dwucyfrowej cyfra dziesiątek jest 4 razy większa od cyfry jedności. Gdy cyfry zostaną odwrócone, nowa liczba jest o 54 mniejsza od pierwotnej liczby. Znajdź pierwotną liczbę.",
+        "answer": "82"
+    },
+    {
+        "question": "Ojciec Sushi kupił x lizaków. 5 zostało zjedzonych przez dzieci. Jeśli zostało 7 lizaków, ile lizaków przyniósł ojciec Sushi?",
+        "answer": "12 "
+    },
+    {
+        "question": "Rita, Peter i Skeeter to pingwiny. Razem ważą 90 funtów. Rita i Peter wiedzą, że ważą tyle samo. Peter i Skeeter wiedzą, że razem ważą 68 funtów. Ile waży Skeeter?",
+        "answer": "46 "
+    },
+    {
+        "question": "Grudzień to pracowity miesiąc dla sklepu z zabawkami. Mieli 95 gier na półce. W pierwszym tygodniu sprzedano 68 gier. Sklep otrzymał 47 kolejnych gier z fabryki. Ile gier mieli wtedy?",
+        "answer": "74 "
+    },
+    {
+        "question": "Każdy dom, który buduje cieśla, potrzebuje sześciu zlewów. Jeśli kupiłby dwieście sześćdziesiąt sześć zlewów, ile domów by to pokryło?",
+        "answer": "44 "
+    },
+    {
+        "question": "Malarz potrzebował pomalować 12 pokoi w budynku. Malowanie każdego pokoju zajmuje 7 godzin. Jeśli pomalował już 5 pokoi, ile jeszcze zajmie mu pomalowanie reszty?",
+        "answer": "49.0"
+    },
+    {
+        "question": "Sandra sortuje ołówki do pudełek. Włożyła 78 ołówków do pierwszego pudełka, 87 ołówków do drugiego pudełka, 96 ołówków do trzeciego pudełka i 105 ołówków do czwartego pudełka. Jeśli ten schemat się utrzyma, ile ołówków Sandra włoży do piątego pudełka?",
+        "answer": "114 "
+    },
+    {
+        "question": "Tom przeczytał 2 książki w maju, 6 w czerwcu i 10 w lipcu. Ile książek przeczytał Tom?",
+        "answer": "18 "
+    },
+    {
+        "question": "Jane może ułożyć 16 wazonów z kwiatami w ciągu jednego dnia. Jeśli jest 248 wazonów z kwiatami do ułożenia, ile wazonów z kwiatami ułoży ostatniego dnia?",
+        "answer": "8 "
+    },
+    {
+        "question": "W lodówce są 2 czerwone butelki z wodą, 3 czarne butelki z wodą i 4 niebieskie butelki z wodą. Jeśli wyjmiemy 5 butelek z wodą, ile butelek z wodą zostanie w lodówce?",
+        "answer": "4 "
+    },
+    {
+        "question": "Burza piaskowa przetacza się przez prerię. Pokrywa 64535 akrów prerii kurzem, ale pozostawia 522 akry nietknięte. Ile akrów zajmuje preria?",
+        "answer": "64013.0"
+    },
+    {
+        "question": "Restauracja musi kupić trzysta osiemdziesiąt siedem nowych talerzy. Jeśli w każdym pudełku jest pięć talerzy, ile pudełek będzie trzeba kupić?",
+        "answer": "78 "
+    },
+    {
+        "question": "Kawałek sklejki został przycięty tak, że jego długość wynosiła 6 stóp na 5 stóp. Jaki jest obwód drewna?",
+        "answer": "22 "
+    },
+    {
+        "question": "Mama kupiła trochę ziemniaków. Z 15 ziemniaków zrobiła sałatki, a z 24 ziemniaków puree. Jeśli zostało 13 ziemniaków, ile ziemniaków mama kupiła na początku?",
+        "answer": "52 "
+    },
+    {
+        "question": "Robert chce poćwiczyć kopnięcia z bramki w piłce nożnej. Postanawia wykonać 98 kopnięć, zanim wróci do domu z parku. Wykonuje 43 kopnięcia, zanim zrobi sobie przerwę na napicie się wody. Następnie wykonuje kolejne 36 kopnięć. Ile jeszcze kopnięć musi wykonać, zanim pójdzie do domu?",
+        "answer": "19 "
+    },
+    {
+        "question": "Jacqueline miała 16 śliwek, 18 gujaw i 21 jabłek. Dała część z nich Jane i zostało jej 15 owoców. Ile owoców Jacqueline dała Jane?",
+        "answer": "40 "
+    },
+    {
+        "question": "Na Halloween Faye zdobyła 47 cukierków. Pierwszej nocy zjadła 25 cukierków, a potem jej siostra dała jej 40 cukierków. Ile cukierków ma teraz Faye?",
+        "answer": "62 "
+    },
+    {
+        "question": "Pole ma kształt trójkąta równobocznego przyłączonego do szerokości prostokątnego obszaru, gdzie szerokość prostokąta i bok trójkąta są takie same. Długość prostokątnego obszaru wynosi 76 stóp, a bok trójkątnego obszaru wynosi 42 stopy. Znajdź obwód pola.",
+        "answer": "90 "
+    },
+    {
+        "question": "Kino potrzebowało czterystu dwudziestu sześciu wiader popcornu. Jeśli każde opakowanie zawiera osiem wiader, ile opakowań będą musieli kupić?",
+        "answer": "54 "
+    },
+    {
+        "question": "Dan miał 97 kart baseballowych i 8 z nich było podartych. Sam kupił 15 kart baseballowych Dana. Ile kart baseballowych ma teraz Dan?",
+        "answer": "82.0"
+    },
+    {
+        "question": "Alvin miał 57 kulek i rozegrał dwie gry. Stracił 18 kulek podczas pierwszej gry. Wygrał 25 kulek podczas drugiej gry. Ile kulek miał wtedy Alvin?",
+        "answer": "64 "
+    },
+    {
+        "question": "Pan Johnson użył 80 metrów ogrodzenia, aby ogrodzić prostokątny ogród. Długość ogrodu wynosi 25 metrów. Jaka jest szerokość ogrodu?",
+        "answer": "15 "
+    },
+    {
+        "question": "Ciężarówka może pomieścić cztery pudła. Gdybyś musiał przewieźć osiemset siedemdziesiąt jeden pudeł przez miasto, ile kursów musiałbyś wykonać?",
+        "answer": "218 "
+    },
+    {
+        "question": "Trzecioklasiści urządzają jarmark. Mają 90 biletów do sprzedania. Sprzedali 38 biletów w pierwszym tygodniu i 17 biletów w drugim tygodniu. Ile biletów zostało im do sprzedania?",
+        "answer": "35 "
+    },
+    {
+        "question": "George kupił 17 cukierków, aby dać je 5 swoim przyjaciołom. Jeśli chciałby dać każdemu z przyjaciół taką samą ilość, ile cukierków by mu zostało?",
+        "answer": "2 "
+    },
+    {
+        "question": "Bryan miał 8 kamieni szlachetnych w swojej kolekcji, które sprzedał swojemu przyjacielowi z jubilera. Jeśli kamienie sprzedano po 1785 dolarów za sztukę, ile pieniędzy dostał Bryan w sumie?",
+        "answer": "14280.0"
+    },
+    {
+        "question": "Cukierki są pakowane po 4 sztuki. Shirley zjadła 10 cukierków. Ile cukierków jej zostało?",
+        "answer": "2 "
+    },
+    {
+        "question": "Frank ma okrągły obrus o średnicy 10 stóp. Jaki jest promień obrusu?",
+        "answer": "5 "
+    },
+    {
+        "question": "Tkanina jest sprzedawana w sklepach z beli o szerokości 45 lub 60 cali. Jaka jest szerokość najszerszych pasków tkaniny, które można wyciąć z każdej beli bez marnowania materiału, jeśli każdy pasek ma taką samą szerokość?",
+        "answer": "15 "
+    },
+    {
+        "question": "Wiele rodzin serwuje każdemu członkowi rodziny jedną 6-uncjową szklankę soku pomarańczowego każdego ranka. Jeśli kupują sok pomarańczowy na galony, ile całych porcji soku uzyskają z jednego galona (jeden galon = 4 kwarty, 1 kwarta = 32 uncje) soku?",
+        "answer": "21 "
+    },
+    {
+        "question": "Na biurku jest 6 cukierków w stosie. Każdy cukierek jest w opakowaniu po 15 sztuk. Do stosu dodano 4 cukierki. Ile cukierków jest w stosie?",
+        "answer": "10.0"
+    },
+    {
+        "question": "Biblioteka jest podzielona na różne sekcje dla różnych typów książek. Sekcja science fiction ma 8 książek. Jeśli każda książka ma 478 stron, ile stron mają wszystkie książki w sumie?",
+        "answer": "3824.0"
+    },
+    {
+        "question": "Pewna fabryka wyprodukowała 50 drukarek i 21 skanerów. Po sprzedaży 41 drukarek wyprodukowano kolejne 16 skanerów. Ile drukarek i skanerów ostatecznie miała fabryka?",
+        "answer": "46 "
+    },
+    {
+        "question": "Na obrazie sztuki nowoczesnej w pierwszym rzędzie są 3 zielone kropki, w drugim rzędzie 6 zielonych kropek, w trzecim rzędzie 9 zielonych kropek, a w czwartym rzędzie 12 zielonych kropek. Jeśli ten wzór będzie kontynuowany, ile zielonych kropek będzie w piątym rzędzie?",
+        "answer": "15 "
+    },
+    {
+        "question": "Susie i jej rodzina obudziły się wcześnie w pierwszy weekend wiosny. Mieli długą listę zajęć na wiosenne porządki. Mama Susie przygotowała 74 marchewkowe słupki na śniadanie. Jeśli marchewki zostały podane po równo 12 osobom, ile marchewkowych słupków pozostało niezjedzonych?",
+        "answer": "2 "
+    },
+    {
+        "question": "Ben miał 18 kulek, a John 17. Ben oddał połowę swoich kulek Johnowi. O ile więcej kulek miał John niż Ben?",
+        "answer": "17 "
+    },
+    {
+        "question": "Blacha do pieczenia ciastek miała 10 cali szerokości i 2 cale długości. Jaki jest obwód ich blachy do pieczenia ciastek?",
+        "answer": "24 "
+    },
+    {
+        "question": "Liczba plus sama siebie, plus dwa razy sama siebie, plus cztery razy sama siebie jest równa 104. Jaka to liczba?",
+        "answer": "13"
+    },
+    {
+        "question": "W autobusie było 46 pasażerów. 19 pasażerów wysiadło na pierwszym przystanku. 15 pasażerów wysiadło na drugim przystanku. Ilu pasażerów zostało w autobusie?",
+        "answer": "12 "
+    },
+    {
+        "question": "Potrzeba 3 jajek, żeby zrobić ciasto. Ile ciast można zrobić z 37 jajek?",
+        "answer": "12 "
+    },
+    {
+        "question": "W Kentucky Fried Chicken personel kuchenny upiekł 96 ud kurczaka, 144 uda i 224 skrzydełka. Personel musiał przygotować półmiski na lunch w biurze. Każdy półmisek będzie miał taką samą liczbę nóg, ud i skrzydełek. Ile półmisków może przygotować personel, jeśli chce, aby na każdym półmisku znalazła się jak największa liczba kawałków kurczaka?",
+        "answer": "16 "
+    },
+    {
+        "question": "Internetowy sklep z zabawkami miał w magazynie kilka zabawek. Sprzedał 38 zabawek w pierwszym tygodniu i 26 zabawek w drugim tygodniu. Jeśli zostało 19 zabawek, ile zabawek było w magazynie na początku?",
+        "answer": "83 "
+    },
+    {
+        "question": "Amy ma 67 balonów. 29 z nich jest czerwonych, a 17 zielonych. Reszta balonów jest niebieska. Ile niebieskich balonów ma Amy?",
+        "answer": "21 "
+    },
+    {
+        "question": "Rachel kupiła dwie kolorowanki. Jedna miała 24 obrazki, a druga 39. Po tygodniu pokolorowała już 4 obrazki. Ile obrazków ma jeszcze do pokolorowania?",
+        "answer": "59.0"
+    },
+    {
+        "question": "Kwadratowa etykieta ma boki o długości 9 centymetrów. Jaki jest obwód etykiety?",
+        "answer": "36 "
+    },
+    {
+        "question": "Szkoła planuje wycieczkę. W każdym autobusie szkolnym jest 28 uczniów i 7 miejsc. Ile autobusów jest potrzebnych, aby odbyć wycieczkę?",
+        "answer": "4.0"
+    },
+    {
+        "question": "Zamiast kupować w sklepie, Melody zrobiła kartki świąteczne dla osób starszych w domu opieki. Miała 99 niebieskich cekinów, które planuje wykorzystać jako płatki śniegu na kartkach. Jeśli rozdzieli cekiny równo na 12 kartek, ile cekinów zostanie Melody?",
+        "answer": "3 "
+    },
+    {
+        "question": "Pomocnik nauczyciela kładł ciasteczka na talerze. Położył 5 ciasteczek na pierwszym talerzu, 7 ciasteczek na drugim talerzu, 10 ciasteczek na trzecim talerzu, 14 ciasteczek na czwartym talerzu i 19 ciasteczek na piątym talerzu. Jeśli ten schemat będzie kontynuowany, ile ciasteczek pomocnik położy na szóstym talerzu?",
+        "answer": "25 "
+    },
+    {
+        "question": "Na targach było 10 osób w kolejce po bumper cars. Gdyby 2 z nich znudziło się czekaniem i odeszło, a 2 inne ustawiły się w kolejce, ile osób by było w kolejce?",
+        "answer": "10 "
+    },
+    {
+        "question": "Lemon Heads są pakowane po 5 sztuk. Ann zjadła 78 Lemon Heads. Ile Lemon Heads jej zostało?",
+        "answer": "3 "
+    },
+    {
+        "question": "Mieli 119 pudełek zapałek zapakowanych w kolorowe, błyszczące opakowania. Jeśli mają rozdzielić pudełka zapałek po równo między 9 domów w pierwszym bloku, ile pudełek zapałek otrzyma każdy dom?",
+        "answer": "13 "
+    },
+    {
+        "question": "Nowa konsola do gier wideo potrzebuje pięciu chipów komputerowych. Jeśli maszyna może stworzyć czterysta sześćdziesiąt siedem chipów komputerowych dziennie, ile konsol do gier wideo można stworzyć w ciągu jednego dnia?",
+        "answer": "93 "
+    },
+    {
+        "question": "Blithe ma dużo zabawek. Zgubił 6 z nich i znalazł 9 w swojej szafie. Jeśli miał 43 po tym, ile zabawek miał Blithe na początku?",
+        "answer": "40 "
+    },
+    {
+        "question": "Melanie sprzedaje 4 gumballe po osiem centów za sztukę. Ile pieniędzy Melanie może dostać ze sprzedaży gumballe?",
+        "answer": "32.0"
+    },
+    {
+        "question": "Podczas sortowania drobnych do skarbonek, Diane wrzuciła 72 monety do pierwszej skarbonki, 81 monet do drugiej skarbonki, 90 monet do trzeciej skarbonki, 99 monet do czwartej skarbonki i 108 monet do piątej skarbonki. Jeśli ten schemat się utrzyma, ile monet Diane wrzuci do szóstej skarbonki?",
+        "answer": "117 "
+    },
+    {
+        "question": "W grze zaczynasz z 2 życiami. Jeśli dostałbyś 6 dodatkowych żyć na pierwszym poziomie i 11 więcej na drugim, ile żyć byś miał?",
+        "answer": "19 "
+    },
+    {
+        "question": "Maszyna przemysłowa może wyprodukować trzysta dwadzieścia jeden kredek dziennie. Jeśli w każdym pudełku kredek jest siedem kredek, ile pełnych pudełek produkuje maszyna dziennie?",
+        "answer": "45 "
+    },
+    {
+        "question": "Prostokątny gont dachowy ma 10 cali długości i 7 cali szerokości. Jaka jest jego powierzchnia?",
+        "answer": "70 "
+    },
+    {
+        "question": "Joan znalazła 75 muszelek i 14 rozgwiazd na plaży. Dała Timowi kilka swoich muszelek. Ma 62 muszelki. Ile muszelek dała Timowi?",
+        "answer": "13.0"
+    },
+    {
+        "question": "Manuel otworzył konto oszczędnościowe z początkowym depozytem w wysokości 177 dolarów. Jeśli chce zaoszczędzić 500 dolarów w ciągu następnych 19 tygodni, ile musi oszczędzać co tydzień, w dolarach?",
+        "answer": "17.0"
+    },
+    {
+        "question": "Victor sprzedawał czekoladę na zbiórkę funduszy dla szkoły. W pierwszym tygodniu sprzedał 75. W drugim tygodniu sprzedał 67. W trzecim tygodniu sprzedał 75. W czwartym tygodniu sprzedał 70, a w ostatnim tygodniu sprzedał 68. Jaka jest średnia sprzedanych przez niego tabliczek czekolady?",
+        "answer": "71 "
+    },
+    {
+        "question": "Lena miała trochę kieszonkowego. Straciła 4 dolary, a mama dała jej 9 dolarów. Jeśli po tym miała 66 dolarów, ile dolarów miała Lena na początku?",
+        "answer": "61 "
+    },
+    {
+        "question": "Na wydarzeniu bierze udział 12 dorosłych i 20 dzieci. Organizator wydarzenia chce, aby każdy stół był identyczny, z tą samą kombinacją dorosłych i dzieci i bez żadnych zbędnych osób. Jaka jest największa liczba stołów, jaką organizator może ustawić?",
+        "answer": "4 "
+    },
+    {
+        "question": "Melanie kupiła grę Batman za 6,95$, grę strategiczną za 7,90$ i grę Superman za 7,73$. Melanie ma już 4 gry. Ile Melanie wydała na gry wideo?",
+        "answer": "22.58"
+    },
+    {
+        "question": "W zeszłą sobotę Marie sprzedała 425 magazynów i 275 gazet. Ile łącznie sprzedała materiałów do czytania?",
+        "answer": "700.0"
+    },
+    {
+        "question": "Mitch jest właścicielem firmy i przydziela dwóm swoim pracownikom zmiany. Pierwszemu pracownikowi przydziela zmiany w blokach 2-godzinnych, a drugiemu pracownikowi w blokach 11-godzinnych. Jeśli obaj pracownicy muszą otrzymać taką samą liczbę godzin, jaka jest minimalna liczba godzin, które każdy z nich musi otrzymać?",
+        "answer": "22 "
+    },
+    {
+        "question": "Bianca chciała wypić dokładnie 5 butelek wody dziennie, więc kupiła 47 butelek, gdy były w promocji. Ile jeszcze butelek będzie musiała kupić ostatniego dnia?",
+        "answer": "3 "
+    },
+    {
+        "question": "Cody miał 45 dolarów. Na urodziny dostał 9 dolarów więcej, ale wydał 19 na nową grę. Ile pieniędzy ma teraz?",
+        "answer": "35 "
+    },
+    {
+        "question": "Christina właśnie przelała 69 dolarów ze swojego konta bankowego. W rezultacie konto ma teraz 26935 dolarów. Ile pieniędzy było na koncie przed przelewem?",
+        "answer": "27004.0"
+    },
+    {
+        "question": "Fred uwielbia karty kolekcjonerskie. Kupił 2 pakiety kart piłkarskich po 2,73 USD każdy, pakiet kart Pokemon za 4,01 USD i talię kart baseballowych za 8,95 USD. Ile Fred wydał na karty?",
+        "answer": "18.42"
+    },
+    {
+        "question": "Elizabeth poszła do salonu i ścięła 0,375 cala włosów. Następnego dnia wróciła i poprosiła o ścięcie kolejnych 0,5 cala. Ile włosów ścięła w sumie?",
+        "answer": "0.875"
+    },
+    {
+        "question": "Dwóch rowerzystów jedzie okrężną trasą. Pierwszy rowerzysta pokonuje okrążenie w 12 minut. Drugi rowerzysta pokonuje okrążenie w 18 minut. Jeśli obaj wystartują z tego samego miejsca i czasu i pojadą w tym samym kierunku, po ilu minutach spotkają się ponownie w punkcie startowym?",
+        "answer": "36 "
+    },
+    {
+        "question": "Pewien artysta namalował 2 obrazy w czerwcu. W lipcu namalował 2 kolejne, a w sierpniu namalował 9. Ile obrazów namalował w sumie?",
+        "answer": "13 "
+    },
+    {
+        "question": "Chcesz podzielić się 34 ołówkami między 6 znajomych. Ile dostałby każdy ze znajomych?",
+        "answer": "5 "
+    },
+    {
+        "question": "Doug zbudował namiot w kształcie regularnego pięciokąta. Jego obwód wynosi 60 stóp. Jaka jest długość każdego boku namiotu?",
+        "answer": "12 "
+    },
+    {
+        "question": "Karen ma 252 markery. Jej matka daje jej 34 kolejne markery. Karen traci 11 markerów. Ile markerów ma teraz?",
+        "answer": "275 "
+    },
+    {
+        "question": "Kwadratowy kawałek papieru ma obwód 32 centymetrów. Pies Nicky'ego, Rocky, oderwał 1/4 papieru. Jaki jest obszar pozostałego papieru?",
+        "answer": "48 "
+    },
+    {
+        "question": "Dwa neony są włączane w tym samym czasie. Oba neony migają, gdy są włączane. Jeden neon miga co 9 sekund. Drugi neon miga co 15 sekund. Za ile sekund będą migać razem?",
+        "answer": "45 "
+    },
+    {
+        "question": "Pani Smith dała 8 dziewczynkom po równo 53 truskawki. Ile truskawek zostało?",
+        "answer": "5 "
+    },
+    {
+        "question": "Pani Walker będzie miała 56 jabłek do łowienia jabłek. Każde wiadro pomieści 9 jabłek. Ile wiader będzie potrzebowała?",
+        "answer": "7 "
+    },
+    {
+        "question": "W bibliotece jest 14240 książek. Są one ułożone na półkach, na których mieści się po 8 książek. Ile półek jest w bibliotece?",
+        "answer": "1780.0"
+    },
+    {
+        "question": "Statek kosmiczny przebył 0,5 roku świetlnego z Ziemi na Planetę X i 0,1 roku świetlnego z Planety X na Planetę Y. Następnie przebył 0,1 roku świetlnego z Planety Y z powrotem na Ziemię. Ile lat świetlnych przebył w sumie statek kosmiczny?",
+        "answer": "0.7"
+    },
+    {
+        "question": "Tess pisze wiersz. Pisze 23 słowa w pierwszym wersie, 26 słów w drugim wersie, 29 słów w trzecim wersie, 32 słowa w czwartym wersie i 35 słów w piątym wersie. Jeśli ten schemat będzie kontynuowany, ile słów Tess napisze w szóstym wersie?",
+        "answer": "38 "
+    },
+    {
+        "question": "Piekarz kładzie babeczki na tacach, aby ostygły. Położył 3 babeczki na pierwszej tacy, 6 babeczek na drugiej tacy, 12 babeczek na trzeciej tacy i 24 babeczki na czwartej tacy. Jeśli ten schemat będzie kontynuowany, ile babeczek piekarz położy na piątej tacy?",
+        "answer": "48 "
+    },
+    {
+        "question": "Jack czyta książkę liczącą 285 stron. Jeśli czyta 23 strony dziennie, ile dni zajmie mu przeczytanie całej książki?",
+        "answer": "13 "
+    },
+    {
+        "question": "Karen pakuje równe ilości precli i krakersów na przekąski. Karen pakuje precle w grupach po 5, a krakersy w grupach po 7. Jaka jest najmniejsza liczba krakersów, którą może spakować?",
+        "answer": "35 "
+    },
+    {
+        "question": "172 studentów tworzy drużyny na zawody alpinistyczne. Każda drużyna powinna mieć 18 studentów. Ile drużyn mogą utworzyć?",
+        "answer": "9 "
+    },
+    {
+        "question": "Charlene zrobiła 60 naszyjników z koralików. Sprzedała 16 na jarmarku rzemieślniczym. 18 dała swoim przyjaciołom. Ile naszyjników miała wtedy Charlene?",
+        "answer": "26 "
+    },
+    {
+        "question": "Mary sprzedała 9 pudełek Do-Si-Dos. Ile skrzynek po 6 pudełek plus dodatkowe pudełka Mary musi dostarczyć?",
+        "answer": "2 "
+    },
+    {
+        "question": "Sklep spożywczy potrzebował osiemset dziesięć puszek grochu. Jeśli groch jest w pudełkach po cztery puszki w każdym pudełku, ile pudełek musieliby zamówić?",
+        "answer": "203 "
+    },
+    {
+        "question": "Jason wyhodował 23 arbuzy i 18 rzep. Nancy wyhodowała 28 arbuzów. Ile arbuzów wyhodowali w sumie?",
+        "answer": "51.0"
+    },
+    {
+        "question": "Paul zarobił 3 dolary kosząc trawniki i 3 dolary wyrywając chwasty. Gdyby wydawał tylko 3 dolary tygodniowo, na jak długo starczyłoby mu pieniędzy?",
+        "answer": "2.0"
+    },
+    {
+        "question": "W dwucyfrowej liczbie cyfra dziesiątek jest trzy razy większa od cyfry jedności. Gdy liczba jest zmniejszona o 54, cyfry są odwrócone. Znajdź liczbę.",
+        "answer": "93"
+    },
+    {
+        "question": "P i Q startują w tym samym czasie w tym samym kierunku, aby okrążyć stadion. P kończy rundę w 252 sekundy, a Q w 198 sekund, obaj startując w tym samym punkcie. Po jakim czasie spotkają się ponownie w punkcie startowym?",
+        "answer": "2772 "
+    },
+    {
+        "question": "Abe zamierza posadzić 54 dęby i 27 sosen. Abe chciałby posadzić drzewa w rzędach, w których wszystkie mają taką samą liczbę drzew i składają się tylko z jednego rodzaju drzew. Jaka jest największa liczba drzew, jaką Abe może mieć w każdym rzędzie?",
+        "answer": "27 "
+    },
+    {
+        "question": "Clarence ma 5 pomarańczy. Dostaje 3 kolejne od Joyce. Później Clarence kupuje 9 Skittlesów w sklepie. Ile pomarańczy ma w sumie Clarence?",
+        "answer": "8.0"
+    },
+    {
+        "question": "Wendy zebrała 103 kwiaty na ślub swojej przyjaciółki. Robiła bukiety po 8 kwiatów w każdym. Jeśli 47 kwiatów zwiędnie przed ślubem, ile bukietów mogłaby jeszcze zrobić?",
+        "answer": "7.0"
+    },
+    {
+        "question": "Spodek do filiżanki Miki ma promień 3 centymetrów. Jaka jest powierzchnia spodka?",
+        "answer": "28.26 "
+    },
+    {
+        "question": "Pojemność zbiornika wynosi 32 galony. Jeśli firma kupiła 728 galonów oleju, ile oleju jest w zbiorniku, który nie jest pełny?",
+        "answer": "24 "
+    },
+    {
+        "question": "Jest 37 koszyków. W każdym koszyku jest 17 jabłek. Ile jest wszystkich jabłek?",
+        "answer": "629.0"
+    },
+    {
+        "question": "Georgia ma 4 żółte guziki, 2 czarne guziki i 3 zielone guziki. Część guzików daje Mary i zostało jej 5. Ile guzików Georgia dała Marry?",
+        "answer": "4 "
+    },
+    {
+        "question": "W stołówce było 50 jabłek. Na lunch rozdali uczniom 5 i postanowili wykorzystać resztę na zrobienie ciast. Jeśli każde ciasto wymaga 5 jabłek, ile ciast mogliby zrobić?",
+        "answer": "9.0"
+    },
+    {
+        "question": "Pies Sama miał szczeniaki i 8 z nich miało plamki. Dał 2 swoim przyjaciołom. Teraz ma 6 szczeniaków. Ile szczeniaków miał na początku?",
+        "answer": "8.0"
+    },
+    {
+        "question": "Siedem razy liczba dwucyfrowa równa się czterokrotności liczby otrzymanej przez odwrócenie kolejności cyfr, a suma cyfr wynosi 3. Znajdź liczbę.",
+        "answer": "12"
+    },
+    {
+        "question": "Sweettarts są pakowane po 7 sztuk. Stephen zjadł 64 Sweettarts. Ile Sweettarts mu zostało?",
+        "answer": "1 "
+    },
+    {
+        "question": "Prostokątny salon ma wymiary 12 stóp na 10 stóp. Dywan położony na podłodze pozostawia wokół siebie obwódkę o szerokości 2 stóp. Jaka jest powierzchnia obwódki?",
+        "answer": "72 "
+    },
+    {
+        "question": "W pudełku jest 55 pomarańczy. Deborah ma 11 pomarańczy w torbie. Susan wyjmuje 35 pomarańczy z pudełka. Ile pomarańczy zostało w pudełku?",
+        "answer": "20.0"
+    },
+    {
+        "question": "Szkolna stołówka serwuje tacos co szósty dzień, a cheeseburgery co ósmy dzień. Jeśli tacos i cheeseburgery są w dzisiejszym menu, ile dni minie, zanim oba znowu się tam znajdą?",
+        "answer": "24 "
+    },
+    {
+        "question": "Kristen znalazła torby prezentowe w paczkach po 12 sztuk i kokardy w paczkach po 5 sztuk. Gdyby Kristen chciała mieć tyle samo toreb prezentowych, ile kokard, jaka najmniejsza liczba toreb prezentowych musiałaby kupić?",
+        "answer": "60 "
+    },
+    {
+        "question": "Firma spożywcza ma siedemset siedemdziesiąt siedem kilogramów żywności do umieszczenia w pudełkach. Jeśli każde pudełko będzie miało dokładnie dwa kilogramy, ile pełnych pudełek będą mieli?",
+        "answer": "388 "
+    },
+    {
+        "question": "Piaskownica ma 312 centymetrów długości i 146 centymetrów szerokości. Ile centymetrów kwadratowych powierzchni zajmuje piaskownica?",
+        "answer": "45552.0"
+    },
+    {
+        "question": "Obecnie w parku znajduje się 47 krzewów orchidei. Pracownicy parku zasadzą dziś 37 krzewów orchidei, a jutro 25. Do zakończenia prac potrzebnych było 35 pracowników. Ile krzewów orchidei będzie w parku, gdy pracownicy skończą?",
+        "answer": "109.0"
+    },
+    {
+        "question": "Kiedy Joan odwiedziła Zębuszka, otrzymała po 14 ćwiartek, półdolarówek i dziesięciocentówek. Ile pieniędzy zostawiła Joan Zębuszka?",
+        "answer": "11.9"
+    },
+    {
+        "question": "Jason ma 18 książek i przeczytał 9 z nich. Mary ma 42 książki. Ile książek mają razem?",
+        "answer": "60.0"
+    },
+    {
+        "question": "Jean miała torbę cukierków. Dała 18 sztuk swojej koleżance. Jean zjadła 7 sztuk. Teraz zostało jej 16 sztuk. Ile cukierków miała Jean na początku?",
+        "answer": "41 "
+    },
+    {
+        "question": "Rodzina Abe'a przeprowadziła się z Bahamów do Japonii, więc musieli wymienić pieniądze na japońskie jeny. Ich konto czekowe ma teraz 6359 jenów, a konto oszczędnościowe 3485 jenów. Ile mają jenów?",
+        "answer": "9844.0"
+    },
+    {
+        "question": "Tony miał 20 dolarów. Zapłacił 8 dolarów za bilet na mecz baseballowy. Na meczu kupił hot doga za 3 dolary. Ile pieniędzy miał wtedy Tony?",
+        "answer": "9 "
+    },
+    {
+        "question": "Jest 261 akwarium. W każdym akwarium są 23 ryby. Ile jest ryb?",
+        "answer": "6003.0"
+    },
+    {
+        "question": "Aylin tworzy album ze zdjęciami, używając 18 zdjęć i 20 wycinków z gazet. Chce, aby wszystkie strony były ustawione w ten sam sposób, z tą samą kombinacją zdjęć i wycinków z gazet na każdej stronie. Chce również upewnić się, że nic nie zostanie. Jaka jest największa liczba stron albumu, jaką Aylin może stworzyć?",
+        "answer": "2 "
+    },
+    {
+        "question": "12 mniejsze od dwukrotności liczby wynosi 20. Znajdź liczbę.",
+        "answer": "16"
+    },
+    {
+        "question": "Dwa światła na lokalnym stadionie migoczą. Oba po prostu migotały w tym samym czasie. Jedno ze świateł migocze co 7 sekund, a drugie co 8 sekund. Ile sekund minie, zanim oba światła znów zaczną migotać w tym samym czasie?",
+        "answer": "56 "
+    },
+    {
+        "question": "Martha kupuje 18 paczek ołówków i 14 paczek długopisów w sklepie. Jeśli Martha chce kupić taką samą liczbę ołówków, jak długopisów, jaka jest najmniejsza liczba długopisów, jaką może kupić?",
+        "answer": "126 "
+    },
+    {
+        "question": "Rodzice robią kanapki na klasowy piknik. Mają 72 plasterki indyka, 48 plasterków sera i 96 plasterków pomidora. Ile jest największych kanapek, które mogą zrobić, jeśli każda kanapka ma to samo nadzienie?",
+        "answer": "24 "
+    },
+    {
+        "question": "Dziś po południu Alec zauważył, że numer strony przydzielonej na pracę domową jest podzielny zarówno przez 4, jak i 13. Jaki jest najmniejszy możliwy numer strony, który mógł zostać przypisany?",
+        "answer": "52 "
+    },
+    {
+        "question": "Papierowa torba może pomieścić 16 ciasteczek. Jeśli Edgar kupi 292 ciasteczek, ile ciasteczek będzie w papierowej torbie, która nie jest pełna?",
+        "answer": "4 "
+    },
+    {
+        "question": "Dzisiaj restauracja podała 4 ciasta na lunch i 9 na kolację. Wczoraj restauracja podała 7 ciast i 2 pizze. Ile ciast podano w sumie?",
+        "answer": "20.0"
+    },
+    {
+        "question": "Zespół taneczny użył wstążki ribbob, aby utworzyć prostokąt. Prostokąt miał 20 stóp długości i 15 stóp szerokości. Jak długi był kawałek wstążki?",
+        "answer": "70 "
+    },
+    {
+        "question": "Podczas gry w quiz Adam zdobył łącznie 283 punkty. Jeśli zdobył 71 punktów w każdej rundzie, ile mniej więcej rund rozegrał?",
+        "answer": "4 "
+    },
+    {
+        "question": "Alyssa zebrała 17 śliwek, a Jason zebrał 10 śliwek. Melanie zebrała 35 gruszek. Ile śliwek zostało zebranych w sumie?",
+        "answer": "27.0"
+    },
+    {
+        "question": "Piekarnia Irene's sprzedaje muffiny w opakowaniach po 18 sztuk, a ciasteczka w opakowaniach po 5 sztuk. Przeglądając wczorajsze paragony, kierownik sklepu zauważa, że piekarnia sprzedała wczoraj po południu taką samą liczbę muffinów i ciasteczek. Jaka jest najmniejsza liczba muffinów, jaką piekarnia mogła sprzedać?",
+        "answer": "90 "
+    },
+    {
+        "question": "15 studentów dzieli 122 portfolio obrazów. Każdy student powinien otrzymać taką samą liczbę portfolio. Ile portfolio obrazów otrzyma każdy z nich?",
+        "answer": "8 "
+    },
+    {
+        "question": "Mama Grega upiekła ciasteczka dla rodziny. Ciasteczka były tak wielkie, że postanowiła przekroić je na pół. Greg zjadł 4 połówki, a jego brat Brad 6 połówek. Zostało 18 połówek. Ile całych ciasteczek upiekła mama Grega?",
+        "answer": "14 "
+    },
+    {
+        "question": "Carey i Pat przenoszą krzesła na siłownię. Zgodzili się przenieść 74 krzesła. Carey przeniosła 28 krzeseł. Pat przeniosła 29 krzeseł. Ile krzeseł jeszcze im zostało do przeniesienia?",
+        "answer": "17 "
+    },
+    {
+        "question": "Alexa czyta kryminał Nancy Drew. Jej książka ma 95 stron. Pierwszego dnia przeczytała 18 stron. Następnego dnia Alexa po prostu nie mogła przestać czytać. Przeczytała 58 stron. Ile stron zostało Alexie do przeczytania?",
+        "answer": "19 "
+    },
+    {
+        "question": "Joan miała 695 kart Pokemon, a 6 było podartych. Sara kupiła 133 karty Pokemon Joan. Ile kart Pokemon ma teraz Joan?",
+        "answer": "562.0"
+    },
+    {
+        "question": "Podczas porządkowania swojej kolekcji DVD, Seth położył 2 DVD na pierwszym stojaku, 4 DVD na drugim stojaku, 8 DVD na trzecim stojaku, 16 DVD na czwartym stojaku i 32 DVD na piątym stojaku. Jeśli ten schemat się utrzyma, ile DVD Seth położy na szóstym stojaku?",
+        "answer": "64 "
+    },
+    {
+        "question": "Jeśli Tom planuje naprawić 158 zegarków w tempie 12 zegarków dziennie, ile dni potrzebuje na naprawę zegarków?",
+        "answer": "14 "
+    },
+    {
+        "question": "Fred ma 90 centów w swoim banku. Ile dziesięciocentówek ma Fred?",
+        "answer": "9.0"
+    },
+    {
+        "question": "Nancy sprzedała 45 pudełek Tagalongs. Ile skrzynek po 12 pudełek plus dodatkowe pudełka potrzebuje Nancy?",
+        "answer": "4 "
+    },
+    {
+        "question": "Prostokątny kawałek metalu ma 16 centymetrów szerokości i 19 centymetrów długości. Jaki jest jego obwód?",
+        "answer": "70 "
+    },
+    {
+        "question": "86 uczniów wybiera się na pieszą wędrówkę. Każdy autobus szkolny może zabrać 9 uczniów. Ilu uczniów zostało?",
+        "answer": "5 "
+    },
+    {
+        "question": "Autobus może przewieźć 48 pasażerów. Jeśli szkoła licząca 1230 uczniów i nauczycieli jedzie na wycieczkę, ilu pasażerów jest w autobusie, który nie jest w pełni zajęty?",
+        "answer": "30 "
+    },
+    {
+        "question": "Peter ma 18 pomarańczy, 27 gruszek i 12 bananów. Chce zrobić kosze z owocami, w których będzie taka sama liczba owoców. Jaka jest największa liczba koszy z owocami, które może zrobić?",
+        "answer": "3 "
+    },
+    {
+        "question": "Suma obecnego wieku Abe i wieku sprzed 7 lat wynosi 31. Znajdź obecny wiek Abe.",
+        "answer": "19 "
+    },
+    {
+        "question": "Kiara upiekła 30 owsianych ciasteczek i 48 ciasteczek z kawałkami czekolady, aby zapakować je w plastikowe pojemniki dla swoich przyjaciół nauczycieli w szkole. Chce podzielić ciasteczka do identycznych pojemników, aby każdy pojemnik zawierał taką samą liczbę każdego rodzaju ciasteczek. Jeśli chce, aby każdy pojemnik zawierał jak największą liczbę ciasteczek, ile plastikowych pojemników potrzebuje?",
+        "answer": "6 "
+    },
+    {
+        "question": "Powierzchnia zdjęcia kwadratowego wynosi 25 cali kwadratowych. Angie postanowiła powiększyć zdjęcie, podwajając boki. Jaki będzie nowy obszar?",
+        "answer": "100 "
+    },
+    {
+        "question": "Anna ma w sumie 28 nikli i dziesięciocentówek w swojej skarbonce. Ma o 8 nikli mniej niż dziesięciocentówek. Ile dziesięciocentówek ma Anna?",
+        "answer": "18 "
+    },
+    {
+        "question": "Luke zarobił 9 dolarów kosząc trawniki i 18 dolarów wyrywając chwasty. Gdyby wydawał tylko 3 dolary tygodniowo, na jak długo starczyłoby mu pieniędzy?",
+        "answer": "9.0"
+    },
+    {
+        "question": "Ośrodek narciarski zgłosił 65 cali śniegu w styczniu. Zmierzyli 18 cali śniegu w pierwszym tygodniu. Zmierzyli 25 cali śniegu w drugim tygodniu. Ile śniegu spadło przez resztę miesiąca?",
+        "answer": "22 "
+    },
+    {
+        "question": "Mike wydał 118,54 dolarów na głośniki i 106,33 dolarów na nowe opony. Mike chciał 3 płyty CD za 4,58 dolara, ale zrezygnował. Ile w sumie Mike wydał na części samochodowe?",
+        "answer": "224.87"
+    },
+    {
+        "question": "Liczba dodana do trzykrotnie większej liczby jest równa 20. Przekształć to stwierdzenie w równania algebraiczne i znajdź tę liczbę.",
+        "answer": "5"
+    },
+    {
+        "question": "Mike zebrał 123 pomarańcze, a Melanie zebrała 104 pomarańcze. Fred zebrał 130 jabłek. Ile pomarańczy zostało zebranych w sumie?",
+        "answer": "227.0"
+    },
+    {
+        "question": "Anthony dostaje 75 centów dziennie na lunch. Kupił sok w kartonie za 27 centów. Kupił też babeczkę. Anthony'emu zostało 8 centów. Ile kosztowała babeczka?",
+        "answer": "40 "
+    },
+    {
+        "question": "Twój pies zjadł 12 Twoich kartek do szkoły. To było 3/4 Twoich kartek, które musisz oddać. Ile kartek ukończyłeś?",
+        "answer": "16 "
+    },
+    {
+        "question": "Farmer Singleton ma działkę z pomidorami. W pierwszym rzędzie jest 4 pomidory, w drugim rzędzie 8, w trzecim rzędzie 16, w czwartym rzędzie 32, a w piątym rzędzie 64. Jeśli ten wzór się utrzyma, ile pomidorów będzie w szóstym rzędzie?",
+        "answer": "128 "
+    },
+    {
+        "question": "W ciągu tygodnia rodzina Mitcha wypiła 0,5 kartonu zwykłego mleka i 0,1 kartonu mleka sojowego. Ile mleka wypili w sumie?",
+        "answer": "0.6"
+    },
+    {
+        "question": "Fred ma 5 żółtych balonów, Sam ma 6 żółtych balonów, a Mary ma 7 żółtych balonów. Balony kosztują 5 dolarów. Ile żółtych balonów mają w sumie?",
+        "answer": "18.0"
+    },
+    {
+        "question": "Gwen i jej przyjaciele recyklingowali papier w swojej klasie. Za każde 3 funty, które poddali recyklingowi, zdobywali jeden punkt. Jeśli Gwen poddała recyklingowi 5 funtów, a jej przyjaciele 13 funtów, ile punktów otrzymali?",
+        "answer": "6.0"
+    },
+    {
+        "question": "Mama Yadiry kupuje hot dogi i bułki do hot dogów na rodzinnego grilla. Hot dogi są sprzedawane w paczkach po 12 sztuk, a bułki do hot dogów w paczkach po 9 sztuk. Sklep nie sprzedaje części paczki, a mama Yadiry chce tyle samo hot dogów, co bułek do hot dogów. Jaka jest najmniejsza łączna liczba hot dogów, jaką mama Yadiry może kupić?",
+        "answer": "36 "
+    },
+    {
+        "question": "Kawiarnia układała kartony z mlekiem w stosy. Mieli siedemset dziewięćdziesiąt dziewięć kartonów i układali je w stosy po sześć kartonów w każdym stosie. Ile pełnych stosów mogli zrobić?",
+        "answer": "133 "
+    },
+    {
+        "question": "Kwadrat ma obwód 24 cali. Jakie jest pole kwadratu?",
+        "answer": "36 "
+    },
+    {
+        "question": "Amy przeprowadzała ankietę w klasie. Zapytała dziewczęta w klasie, ile mają rodzeństwa i zapisała wyniki: 1, 6, 10, 4, 3, 3, 11, 3 i 10. Jaka jest średnia wyników?",
+        "answer": "5.7 "
+    },
+    {
+        "question": "Billy malował ścianę w swoim pokoju. Całkowita powierzchnia wynosiła 8 stóp kwadratowych. Jeśli ściana miała 2 stopy szerokości, jaka była jej wysokość?",
+        "answer": "4 "
+    },
+    {
+        "question": "Pan White kupił dywan do prostokątnego holu o powierzchni 800 jardów kwadratowych. Długość holu wynosi 32 jardy. Znajdź wymaganą szerokość dywanu.",
+        "answer": "25 "
+    },
+    {
+        "question": "Adam kupił nowy telewizor z płaskim ekranem o powierzchni 21 stóp kwadratowych. Ekran ma 3 stopy szerokości. Jak wysoki jest?",
+        "answer": "7 "
+    },
+    {
+        "question": "Sally wyhodowała 113 rzep i 118 dyń. Mary wyhodowała 129 rzep. Ile rzep wyhodowali w sumie?",
+        "answer": "242.0"
+    },
+    {
+        "question": "W szkolnej stołówce było 17 jabłek. Gdyby użyli 2 do zrobienia obiadu dla uczniów, a potem kupili 23 więcej, ile mieliby jabłek?",
+        "answer": "38 "
+    },
+    {
+        "question": "Restauracja ma 67 pomidorów. 32 są robione na sałatki. Kolejne 21 są robione na sos do makaronu. Ile pomidorów zostało?",
+        "answer": "14 "
+    },
+    {
+        "question": "Na placu zabaw nowa piaskownica miała 4 metry szerokości i 2 metry długości. Jaka jest powierzchnia piaskownicy?",
+        "answer": "8 "
+    },
+    {
+        "question": "Colton ma 16 niebieskich kulek i 8 białych. Jeśli chce umieścić je w identycznych grupach bez żadnych kulek, jaka jest największa liczba grup, które Colton może utworzyć?",
+        "answer": "8 "
+    },
+    {
+        "question": "Jenny sprzedała 24 pudełka Trefoils. Ile skrzynek po 8 pudełek plus dodatkowe pudełka Jenny musi dostarczyć?",
+        "answer": "3.0"
+    },
+    {
+        "question": "Rita kupuje cebulki kwiatowe do swojego ogrodu. Chce kupić taką samą liczbę tulipanów i żonkili. Jeśli cebulki tulipanów są w paczkach po 15, a cebulki żonkili w paczkach po 16, jaka jest najmniejsza liczba każdego rodzaju cebulek, którą Rita będzie musiała kupić?",
+        "answer": "240 "
+    },
+    {
+        "question": "Tayli chce reklamować swój biznes, więc daje pakiety po 13 czerwonych ulotek każdemu właścicielowi restauracji i zestawy po 20 niebieskich ulotek każdemu właścicielowi sklepu odzieżowego. Pod koniec dnia Tayli zdaje sobie sprawę, że rozdała taką samą liczbę czerwonych i niebieskich ulotek. Jaka jest minimalna liczba ulotek każdego koloru, które rozdała?",
+        "answer": "260 "
+    },
+    {
+        "question": "Szkoła planuje wycieczkę. W każdym autobusie szkolnym jest 45 uczniów i 9 miejsc. Ile autobusów jest potrzebnych, aby odbyć wycieczkę?",
+        "answer": "5.0"
+    },
+    {
+        "question": "Nauczyciel dał 29 złotych naklejek pierwszemu uczniowi, 35 złotych naklejek drugiemu uczniowi, 41 złotych naklejek trzeciemu uczniowi, 47 złotych naklejek czwartemu uczniowi i 53 złote naklejki piątemu uczniowi. Jeśli ten schemat się utrzyma, ile złotych naklejek nauczyciel da szóstemu uczniowi?",
+        "answer": "59 "
+    },
+    {
+        "question": "Suma cyfr dwucyfrowej liczby wynosi 9. Ponadto, dziewięć razy ta liczba jest dwa razy większa od liczby uzyskanej przez odwrócenie kolejności cyfr. Znajdź liczbę.",
+        "answer": "18"
+    },
+    {
+        "question": "Nancy znalazła 35 muszelek i 25 rozgwiazd na plaży. Dała 17 muszelek Jasonowi. Ile muszelek ma teraz Nancy?",
+        "answer": "18.0"
+    },
+    {
+        "question": "Joe's Bath Shop sprzedaje kostki mydła w pudełkach po 5 sztuk i butelki mydła w pudełkach po 19 sztuk. Pracownik jest zaskoczony, gdy odkrywa, że sklep sprzedał taką samą liczbę kostek i butelek w zeszłym tygodniu. Jaka jest najmniejsza liczba sztuk każdego rodzaju mydła, jaką sklep mógł sprzedać?",
+        "answer": "95 "
+    },
+    {
+        "question": "Robak wpadł do dziury o głębokości 26 cali. Wspina się 8 cali w górę i zsuwa 3 cale w dół każdego dnia. Ile dni zajmie robakowi dotarcie na szczyt?",
+        "answer": "5 "
+    },
+    {
+        "question": "Nauczyciel ma ustawić 60 chłopców i 72 dziewczynki w rzędach. Chce ustawić ich w taki sposób, aby w rzędzie byli tylko chłopcy lub dziewczynki. Znajdź największą liczbę uczniów, którzy mogliby ustawić się w rzędzie.",
+        "answer": "12 "
+    },
+    {
+        "question": "Andrew znalazł kilka pustych pojemników, do których mógł wrzucić puszki w celu recyklingu. Wrzucił 2 puste puszki do pierwszego pojemnika, 4 puste puszki do drugiego pojemnika, 7 pustych puszek do trzeciego pojemnika, 11 pustych puszek do czwartego pojemnika i 16 pustych puszek do piątego pojemnika. Jeśli ten schemat się utrzyma, ile pustych puszek Andrew wrzuci do szóstego pojemnika?",
+        "answer": "22 "
+    },
+    {
+        "question": "Cindy ma 105 naklejek. Zużywa 23 naklejki. Kupuje 45 kolejnych naklejek. Ile naklejek ma teraz Cindy?",
+        "answer": "127 "
+    },
+    {
+        "question": "Kadź soku pomarańczowego miała sto pięćdziesiąt trzy pinty. Gdybyś chciał rozlać kadź do pięciu szklanek, po tyle samo w każdej szklance, ile pint byłoby w każdej szklance?",
+        "answer": "30 "
+    },
+    {
+        "question": "Pani Hilt zmierzyła odległość od swojego biurka do fontanny. Wynosiła 30 stóp. Ile stóp przejdzie pani Hilt podczas swoich wypraw do fontanny, jeśli pójdzie do fontanny 4 razy dzisiaj?",
+        "answer": "120.0"
+    },
+    {
+        "question": "Rolnik szacuje, że zbierze 48097 buszli pszenicy. Pogoda jest idealna w sezonie wegetacyjnym, więc zbiera 684 buszli pszenicy niż się spodziewał. Ile buszli pszenicy zbiera rolnik?",
+        "answer": "48781.0"
+    },
+    {
+        "question": "Pięćset pięćdziesiąt cztery osoby jadą na konkurs wiedzy ogólnej. Jeśli każdy szkolny van może pomieścić dziewięciu uczniów, ile vanów będą potrzebować?",
+        "answer": "62 "
+    },
+    {
+        "question": "Na półce są 2 zielone książki, 1 niebieska książka i 4 pomarańczowe książki. Jeśli 3 z nich zostaną wyjęte, aby je przeczytać, ile książek zostanie na półce?",
+        "answer": "4 "
+    },
+    {
+        "question": "Ryan zebrał 89 liści. Stracił 24 liście i wyrzucił 43 liście. Ile liści zostało Ryanowi?",
+        "answer": "22 "
+    },
+    {
+        "question": "Sally zarabia 25,00 $ za każdy dom, który posprząta. Jeśli posprząta 96 domów, ile dziesiątek dolarów zarobi?",
+        "answer": "200.0"
+    },
+    {
+        "question": "Jawbreakers są pakowane po 8 sztuk. Sarah zjadła 20 Jawbreakers. Ile Jawbreakers jej zostało?",
+        "answer": "4 "
+    },
+    {
+        "question": "Jedna trzecia pewnej liczby dodana do jednej piątej daje osiem piętnastych tej liczby. Znajdź liczbę i sprawdź swoje obliczenia.",
+        "answer": "1"
+    },
+    {
+        "question": "Pralka może wyprać 28 funtów ubrań dziennie. Jeśli jest 200 funtów ubrań do wyprania dziennie, ile funtów ubrań pierze pralka, która nie jest w pełni załadowana, dziennie?",
+        "answer": "4 "
+    },
+    {
+        "question": "Lavinia ma 9 szklanek i 6 kubków. Chciałaby ustawić je w identycznych grupach, tak aby nic nie zostało, w ramach przygotowań do kolacji. Jaka jest największa liczba grup, jaką Lavinia może ustawić?",
+        "answer": "3 "
+    },
+    {
+        "question": "Pan Lee chce załadować 134 tony swoich owoców. Duża ciężarówka może załadować 15 ton owoców, a mała ciężarówka może załadować 7 ton. Aby użyć jak najmniej ciężarówek i mieć każdą w pełni zajętą, ile dużych ciężarówek należy użyć?",
+        "answer": "8 "
+    },
+    {
+        "question": "Potrzeba ośmiu gramów plastiku, aby wyprodukować linijkę. Gdyby firma miała osiemset dwadzieścia osiem gramów plastiku, ile całych linijek mogłaby wyprodukować?",
+        "answer": "103 "
+    },
+    {
+        "question": "Gabe i Steven zarabiają pieniądze, wyprowadzając zwierzęta z sąsiedztwa. Podczas rozmowy o swojej pracy zdają sobie sprawę, że obaj wyprowadzają taką samą liczbę zwierząt, mimo że Gabe wyprowadza zwierzęta w grupach po 2, a Steven w grupach po 10. Jaka jest najmniejsza liczba zwierząt, które każdy z nich może wyprowadzać?",
+        "answer": "10 "
+    },
+    {
+        "question": "Nauczyciel chóru dzieli 10 sopranów i 15 altów na grupy śpiewające. Chce, aby każda grupa miała taką samą kombinację sopranów i altów, bez żadnych śpiewaków. Jaka jest największa liczba grup, jaką może utworzyć?",
+        "answer": "5 "
+    },
+    {
+        "question": "Dysk flash może pomieścić dziewięć gigabajtów danych. Jeśli potrzebujesz przechowywać czterysta sześćdziesiąt dwa gigabajty, ile dysków flash potrzebujesz?",
+        "answer": "52 "
+    },
+    {
+        "question": "Tom kupił grę Batman za 13,60 $ i grę Superman za 5,06 $. Tom ma już 2 gry. Ile Tom wydał na gry wideo?",
+        "answer": "18.66"
+    },
+    {
+        "question": "Shelley ma 12 widelców i 16 noży do umieszczenia w pojemnikach na sztućce w restauracji typu fast food, w której pracuje. Chce je rozdzielić po równo, tak aby nie zostało ani widelca, ani noża. Jaka jest największa liczba pojemników na sztućce, jaką Shelley może pomieścić?",
+        "answer": "4 "
+    },
+    {
+        "question": "Wilson ma na myśli pewną liczbę. Jeśli odejmie jedną trzecią tej liczby, wynik będzie szesnaście trzecich. Znajdź tę liczbę.",
+        "answer": "8"
+    },
+    {
+        "question": "Ava spakowała plastikowe butelki po akcji recyklingu. Włożyła 45 butelek do pierwszej torby, 53 butelki do drugiej torby, 61 butelek do trzeciej torby i 69 butelek do czwartej torby. Jeśli ten schemat się utrzyma, ile plastikowych butelek Ava włoży do piątej torby?",
+        "answer": "77 "
+    },
+    {
+        "question": "Jeśli Simon musi zrobić 519 toreb prezentowych w tempie 42 toreb dziennie, ile toreb prezentowych zrobi ostatniego dnia?",
+        "answer": "15 "
+    },
+    {
+        "question": "Na lunchu jest dwieście osiemdziesiąt siedem osób. Jeśli stół może pomieścić dziewięć osób, ile stołów jest im potrzebnych?",
+        "answer": "32 "
+    },
+    {
+        "question": "Jeremy ma dwa kawałki drewna: jeden ma 90 cali, a drugi 72 cale. Chce pociąć oba kawałki drewna na mniejsze kawałki, aby wszystkie miały tę samą długość. Jak długie będą oba kawałki drewna?",
+        "answer": "18 "
+    },
+    {
+        "question": "Dan wyhodował 42 rzepy i 38 kantelopów. Jessica wyhodowała 47 rzep. Ile rzep wyhodowali w sumie?",
+        "answer": "89.0"
+    },
+    {
+        "question": "W piekarni są dzieci. Gdy zastanawiały się, co kupić, weszło 24 dziewczynki, a wyszło 31 chłopców. Jeśli w piekarni jest ostatecznie 78 dzieci, ile dzieci było na początku?",
+        "answer": "85 "
+    },
+    {
+        "question": "Jest 757 funtów piasku do wypełnienia worków. Jeśli każdy worek ma pojemność 65 funtów, ile worków jest potrzebnych?",
+        "answer": "12 "
+    },
+    {
+        "question": "Dave pomagał pracownikom stołówki podnosić tace z lunchem, ale mógł nieść tylko 9 tac na raz. Gdyby musiał podnieść 17 tac z jednego stołu i 55 tac z drugiego, ile razy by to zrobił?",
+        "answer": "8.0"
+    },
+    {
+        "question": "Licząc krzesła w stołówce, Marie zauważyła, że w pierwszym rzędzie było 14 krzeseł, w drugim rzędzie 23 krzesła, w trzecim rzędzie 32 krzesła, w czwartym rzędzie 41 krzeseł, a w piątym rzędzie 50 krzeseł. Jeśli ten schemat się utrzyma, ile krzeseł będzie w szóstym rzędzie?",
+        "answer": "50 "
+    },
+    {
+        "question": "Różnica między jedną trzecią liczby a 5 wynosi 10. Znajdź liczbę.",
+        "answer": "45"
+    },
+    {
+        "question": "Skittles są pakowane po 6 sztuk. Juan zjadł 24 Skittles. Ile Skittles mu zostało?",
+        "answer": "0 "
+    },
+    {
+        "question": "Odległość wokół prostokątnego ogrodu wynosi 36 stóp. Jeden bok mierzy 10 stóp. Jaka jest powierzchnia ogrodu?",
+        "answer": "80 "
+    },
+    {
+        "question": "Fred kupił pięć nowych kart baseballowych, aby dodać je do swojej kolekcji. Następnego dnia jego pies zjadł połowę jego kolekcji. Teraz zostało tylko dwadzieścia sześć kart. Od ilu kart zaczynał Fred?",
+        "answer": "47 "
+    },
+    {
+        "question": "Jasper odpowiada za poczęstunek. Sprzedał 27 paczek chipsów. Sprzedał o 8 hot dogów mniej niż chipsów. Sprzedał o 12 napojów więcej niż hot dogów. Ile napojów sprzedał Jasper?",
+        "answer": "31 "
+    },
+    {
+        "question": "Samantha ma dwa kawałki materiału. Jeden ma 72 cale szerokości, a drugi 90 cali. Chce pociąć oba kawałki na paski o równej szerokości, które będą tak szerokie, jak to możliwe. Jak szerokie powinny być paski?",
+        "answer": "18 "
+    },
+    {
+        "question": "Benny dostał 79 dolarów i 9 biletów do kina na urodziny. Poszedł do sklepu sportowego i kupił rękawicę baseballową, piłkę baseballową i kij. Miał ponad 32 dolary, ile wydał na sprzęt baseballowy?",
+        "answer": "47.0"
+    },
+    {
+        "question": "Jeśli masz 1 banknot dziesięciodolarowy, 1 ćwiartkę i 1 niklową monetę, ile masz pieniędzy?",
+        "answer": "10.3 "
+    },
+    {
+        "question": "Chris oszczędzał kieszonkowe, aby kupić nową parę korków i piłkę. Babcia dała mu 25 dolarów na urodziny. Ciotka i wujek dali mu 20 dolarów, a rodzice dali mu 75 dolarów. Teraz miał 279 dolarów. Ile pieniędzy miał przed urodzinami?",
+        "answer": "159 "
+    },
+    {
+        "question": "W warsztacie było 44 laptopów, a Mike podzielił je równo na 5 rzędów. Ile zostało?",
+        "answer": "4 "
+    },
+    {
+        "question": "Keith wydał 6,51$ na zabawkę dla królika, 5,79$ na karmę dla zwierząt, a klatka kosztowała go 12,51$. Znalazł na ziemi banknot dolarowy. Jaki był całkowity koszt zakupów Keitha?",
+        "answer": "24.81"
+    },
+    {
+        "question": "Na przyjęcie obiadowe Abraham przygotowuje indywidualne porcje przystawek. Ma 9 marchewek i 18 selerów. Jeśli chce, aby każda porcja była identyczna, bez resztek jedzenia, jaka jest największa liczba porcji, jaką Abraham może przygotować?",
+        "answer": "9 "
+    },
+    {
+        "question": "Książka miała długość 2 cali i szerokość 3 cali. Jaka jest powierzchnia książki?",
+        "answer": "6 "
+    },
+    {
+        "question": "Christine dzieli wiśnie do misek. Włożyła 35 wiśni do pierwszej miski, 40 wiśni do drugiej miski, 45 wiśni do trzeciej miski, 50 wiśni do czwartej miski i 55 wiśni do piątej miski. Jeśli ten schemat będzie kontynuowany, ile wiśni Christine włoży do szóstej miski?",
+        "answer": "60 "
+    },
+    {
+        "question": "Kiera robi mieszankę studencką z 16 torebek orzechów i 6 torebek suszonych owoców. Chce, aby każda nowa porcja mieszanki studencka była identyczna, zawierała tę samą kombinację torebek orzechów i torebek suszonych owoców, bez żadnych resztek. Jaka jest największa liczba porcji mieszanki studencka, jaką Kiera może zrobić?",
+        "answer": "2 "
+    },
+    {
+        "question": "Eric ma dwa kawałki liny. Jeden kawałek jest o 10 cali dłuższy od drugiego. Całkowita długość dwóch kawałków wynosi 40 cali. Jak długi jest krótszy kawałek?",
+        "answer": "15 "
+    },
+    {
+        "question": "W sklepie z artykułami na Halloween są 3 zielone peleryny, 2 niebieskie peleryny i 3 czerwone peleryny. Jeśli kupi się 6 peleryn, ile peleryn zostanie?",
+        "answer": "2 "
+    },
+    {
+        "question": "Evelyn ma 95 kulek. Dostaje 9 kolejnych od Henry'ego. Później Evelyn kupuje 6 kart w sklepie. Ile kulek ma w sumie Evelyn?",
+        "answer": "104.0"
+    },
+    {
+        "question": "Drew przygotowała 61 porcji toffi. Jeśli spodziewa się, że jej 6 gości lubiących słodycze podzieli się toffi po równo, ile porcji zostanie niezjedzonych?",
+        "answer": "1 "
+    },
+    {
+        "question": "Robin ma 27 opakowań gumy. W każdym opakowaniu jest 18 sztuk. Ile gum ma Robin?",
+        "answer": "486.0"
+    },
+    {
+        "question": "Przed grudniem klienci kupują 1346 nauszników w centrum handlowym. W grudniu kupują 6444 więcej i nie ma już żadnych. Ile nauszników kupują klienci?",
+        "answer": "7790.0"
+    },
+    {
+        "question": "Dwa zegary dzwonią raz w tym samym czasie. Następnie pierwszy zegar dzwoni co 90 minut, a drugi co 60 minut. Po ilu minutach zadzwonią ponownie razem?",
+        "answer": "180 "
+    },
+    {
+        "question": "Gdy pięć dodamy do trzech razy większej od pewnej liczby, wynikiem będzie 19. Jaka to liczba?",
+        "answer": "11"
+    },
+    {
+        "question": "Pewna liczba dodana dwukrotnie do siebie równa się 96. Jaka to liczba?",
+        "answer": "32"
+    },
+    {
+        "question": "Mam 3 setki, 8 dziesiątek i 3 jedności. Jakim jestem numerem?",
+        "answer": "383"
+    },
+    {
+        "question": "Keith wydał 136,01$ na głośniki, 139,38$ na odtwarzacz CD i 112,46$ na nowe opony. Chciał 3 płyty CD za 6,16$, ale ich nie kupił. Ile wydał w sumie?",
+        "answer": "387.85"
+    },
+    {
+        "question": "Sam dostał 9 pensów za pranie ubrań i 7 ćwiartek za koszenie trawników. Ile pieniędzy ma Sam?",
+        "answer": "1.84"
+    },
+    {
+        "question": "W ostatnim akcie cyrk wyprowadził tańczące zwierzęta w koronach. Jeśli każda korona jest zrobiona z 7 różnokolorowych piór, ile piór potrzeba na 934 korony?",
+        "answer": "6538.0"
+    },
+    {
+        "question": "W drużynie matematycznej jest 72 chłopców i 90 dziewcząt. Na następny konkurs matematyczny pan Johnson chciałby ustawić wszystkich uczniów w równych rzędach, tak aby w każdym rzędzie były tylko dziewczynki lub tylko chłopcy. Jaka jest największa liczba uczniów, która może być w każdym rzędzie?",
+        "answer": "18 "
+    },
+    {
+        "question": "Nancy zebrała 12 marchewek ze swojego ogrodu. Gdyby wyrzuciła 2 z nich, a następnego dnia zebrała 21 więcej, ile marchewek miałaby w sumie?",
+        "answer": "31 "
+    },
+    {
+        "question": "Tom musi sprzedać osiemset czterdzieści dziewięć tabliczek czekolady, aby wygrać wycieczkę. Jeśli każde pudełko zawiera pięć tabliczek czekolady, ile pudełek będzie musiał sprzedać, aby wygrać wycieczkę?",
+        "answer": "170 "
+    },
+    {
+        "question": "Koperta z poczty ma 6 cali szerokości i całkowitą powierzchnię 36 cali kwadratowych. Jaka jest wysokość koperty?",
+        "answer": "6 "
+    },
+    {
+        "question": "W sklepie jest 92 komputerów. Sprzedano 31. 20 wysłano do firmy. Ile komputerów zostało?",
+        "answer": "41 "
+    },
+    {
+        "question": "Dan wydał 11,76$ na zabawkę w kształcie węża, a klatka kosztowała go 14,54$. Dan znalazł również dolar na ziemi. Jaki był całkowity koszt zakupów Dana?",
+        "answer": "26.3"
+    },
+    {
+        "question": "Zespół Sarah rozegrał 8 meczów koszykówki. Podczas tych 8 meczów wynik jej zespołu wynosił: 69, 68, 70, 61, 74, 62, 65 i 74. Jaka jest średnia wyników?",
+        "answer": "67.9 "
+    },
+    {
+        "question": "W warsztacie było 44 laptopów, a Mike podzielił je równo na 5 rzędów. Ile laptopów jest w każdym rzędzie?",
+        "answer": "8 "
+    },
+    {
+        "question": "W fabryce płaszczy było 29 płaszczy. Gdyby chcieli umieścić je w 3 pudełkach, z taką samą liczbą płaszczy w każdym pudełku, ile dodatkowych płaszczy by im zostało?",
+        "answer": "2 "
+    },
+    {
+        "question": "Kolejka górska na jarmarku stanowym kosztuje sześć biletów na przejażdżkę. Gdybyś miał osiemset sześćdziesiąt osiem biletów, ile biletów by ci zostało, gdybyś przejechał się nią tyle razy, ile tylko możesz?",
+        "answer": "4 "
+    },
+    {
+        "question": "W koszyku jest mniej niż 6 tuzinów jajek. Jeśli jajka są liczone po 2, 3, 4 lub 5 na raz, nie ma żadnego. Ile jajek jest w koszyku?",
+        "answer": "60 "
+    },
+    {
+        "question": "Math Counts Club zorganizował przyjęcie w szkole. Było 20 ciasteczek i 40 kawałków pizzy do równego podziału. Każdy uczeń dostał taką samą liczbę całych ciasteczek i taką samą liczbę kawałków pizzy, nic nie zostało. Jaka jest największa liczba ciasteczek i kawałków pizzy, jaką każdy uczeń może dostać?",
+        "answer": "20 "
+    },
+    {
+        "question": "Podziel 39 balonów na 7 równych grup. Ile balonów zostało?",
+        "answer": "4 "
+    },
+    {
+        "question": "Lou's Shoes musi sprzedać 80 par butów miesięcznie. W zeszłym tygodniu sprzedali 27 par, a w tym 12 par. Ile jeszcze par butów muszą sprzedać?",
+        "answer": "41 "
+    },
+    {
+        "question": "172 studentów tworzy drużyny na zawody alpinistyczne. Każda drużyna powinna mieć 18 studentów. Ilu studentów nie będzie w drużynie?",
+        "answer": "10 "
+    },
+    {
+        "question": "Jeśli Karen sprzedała 36 pudełek ciasteczek Tagalong, ile skrzynek po 12 pudełek odebrała od mamy sprzedającej ciasteczka?",
+        "answer": "3.0"
+    },
+    {
+        "question": "Matt ma dwa kawałki sznurka, jeden o długości 15 stóp i drugi o długości 12 stóp. Chce je pociąć, aby uzyskać wiele kawałków sznurka o tej samej długości, bez nadmiaru sznurka. Jaka jest największa długość, w stopach, jaką może uzyskać?",
+        "answer": "3 "
+    },
+    {
+        "question": "Międzynarodowa korporacja ma 2041 pracowników na część etatu i 63093 pracowników na pełen etat. Ilu pracowników pracuje w korporacji?",
+        "answer": "65134.0"
+    },
+    {
+        "question": "Sweet Time Bakery właśnie się otworzyło i zwiększa liczbę wypiekanych przez siebie produktów. Na przykład, piekarnia zrobiła 19 ciast marchewkowych w październiku, 21 ciast marchewkowych w listopadzie, 23 ciasta marchewkowe w grudniu i 25 ciast marchewkowych w styczniu. Jeśli ten schemat się utrzyma, ile ciast marchewkowych piekarnia zrobi w lutym?",
+        "answer": "27 "
+    },
+    {
+        "question": "W salonie gier Jerry wygrał 29 biletów grając w „whack a mole” i 17 biletów grając w „skee ball”. Jeśli wydał 12 swoich biletów na kapelusz, ile biletów zostało Jerry'emu?",
+        "answer": "34 "
+    },
+    {
+        "question": "Edeena pakuje równe ilości plasterków jabłka i winogron na przekąski. Edeena pakuje plasterki jabłka w grupach po 18, a winogrona w grupach po 9. Jaka jest najmniejsza liczba winogron, którą może spakować?",
+        "answer": "18 "
+    },
+    {
+        "question": "Zack udziela korepetycji uczniom w grupach 14-osobowych. Tymczasem Karen udziela korepetycji uczniom w grupach 10-osobowych. Podczas omawiania swojej pracy korepetytorzy zdają sobie sprawę, że oboje pracują z tą samą liczbą uczniów. Jaka jest najmniejsza liczba uczniów, jaką każdy może mieć?",
+        "answer": "70 "
+    },
+    {
+        "question": "Magellan postanowił przygotować kosze imprezowe na zbiórkę funduszy. Balony sprzedawane są w workach po 20 sztuk, rogi imprezowe sprzedawane są w workach po 10 sztuk, a w opakowaniu znajduje się 8 batoników. Ile sztuk każdego powinien kupić, aby w każdym koszu znalazła się taka sama liczba balonów, rogów i batoników?",
+        "answer": "40 "
+    },
+    {
+        "question": "Miguel ma 46 lat. Jest o 4 lata starszy od trzykrotnie starszego syna. Znajdź wiek jego syna.",
+        "answer": "14 "
+    },
+    {
+        "question": "Fred poszedł w tym roku na 36 meczów koszykówki, ale opuścił 35. W zeszłym roku poszedł na 11 meczów. Na ile meczów koszykówki poszedł w sumie Fred?",
+        "answer": "47.0"
+    },
+    {
+        "question": "Pani Hilt kupi nową parę butów za 11 dni. Ile minut musi czekać, zanim będzie mogła kupić nową parę butów?",
+        "answer": "15840 "
+    },
+    {
+        "question": "Na biurku jest 8 jabłek w stosie. Każde jabłko jest w opakowaniu po 11 sztuk. Do stosu dodano 5 jabłek. Ile jabłek jest w stosie?",
+        "answer": "13.0"
+    },
+    {
+        "question": "Firma przekazuje szkole 935 ołówków. Ołówki są równo dzielone między 9 klas. Pozostałe ołówki są przekazywane do biblioteki. Ile ołówków przekazano bibliotece?",
+        "answer": "8 "
+    },
+    {
+        "question": "Prostokątny klomb miał powierzchnię 35 jardów kwadratowych. Jeśli miał 5 jardów szerokości, jaka była jego długość?",
+        "answer": "7 "
+    },
+    {
+        "question": "Jest 124 uczniów, którzy robią po 3 gwiazdki na ścianę szkoły. Ile gwiazdek zrobią razem?",
+        "answer": "372.0"
+    },
+    {
+        "question": "Sean miał 45 Starbursts. Jeśli Sean dał taką samą liczbę Starbursts swoim 18 przyjaciołom, a następnie zjadł to, co zostało, ile Starbursts zjadła każda osoba?",
+        "answer": "2 "
+    },
+    {
+        "question": "W środę Joan wydała 4 półdolarówki na grę w pinball. Następnego dnia wydała 14 półdolarówek na grę w pinball. Ile łącznie Joan wydała na grę w pinball?",
+        "answer": "9.0"
+    },
+    {
+        "question": "Na szkolną wyprzedaż wypieków Amy upiekła ciastka. Upiekła 15 babeczek i 48 ciasteczek. Po wyprzedaży miała 12 do zabrania do domu. Ile ciastek sprzedała?",
+        "answer": "51 "
+    },
+    {
+        "question": "Kot Alyssy miał 8 kociąt i 8 miało cętki. Dała 4 swoim przyjaciołom. Ile kociąt ma teraz?",
+        "answer": "4.0"
+    },
+    {
+        "question": "9 chłopców poszło podlewać drzewa. Było 29 drzew. Jeśli każdy z nich podlał taką samą liczbę drzew, ile drzew podlał każdy chłopiec?",
+        "answer": "3 "
+    },
+    {
+        "question": "Ella ma 2 psy. Każdego dnia 1 pies zjada 0,125 miarki karmy dla psów, a drugi pies zjada 0,125 miarki. Ile karmy dla psów jedzą te 2 psy razem każdego dnia?",
+        "answer": "0.25"
+    },
+    {
+        "question": "Liczba jest równa 5-krotności różnicy między tą liczbą a 4. Znajdź liczbę.",
+        "answer": "5"
+    },
+    {
+        "question": "Nauczyciel języka angielskiego chciałby podzielić 10 chłopców i 15 dziewcząt na grupy, każda z taką samą kombinacją chłopców i dziewcząt i nikogo nie pominąć. Jaka jest największa liczba grup, które można utworzyć?",
+        "answer": "5 "
+    },
+    {
+        "question": "Benny dostał 67 dolarów na urodziny. Poszedł do sklepu ze sprzętem sportowym i kupił rękawicę baseballową, piłkę baseballową i kij. Miał ponad 33 dolary, ile wydał na sprzęt baseballowy?",
+        "answer": "34.0"
+    },
+    {
+        "question": "W szkole jest 542 dziewcząt i 387 chłopców. Ilu uczniów jest w tej szkole?",
+        "answer": "929.0"
+    },
+    {
+        "question": "Kwiaciarnia miała 50 róż. Jeśli sprzedałaby 15 z nich, a później zerwała 21 więcej, ile róż by miała?",
+        "answer": "56 "
+    },
+    {
+        "question": "Mark miał 24 kulki, a Evan 3. Mark dał Evanowi część swoich kulek. Teraz Mark ma dokładnie dwa razy więcej kulek niż Evan. Ile kulek dał Evanowi Mark?",
+        "answer": "6 "
+    },
+    {
+        "question": "Maddie, Luisa i Amy policzyły swoje książki. Maddie miała 15 książek. Luisa miała 18 książek. Razem Amy i Luisa miały o 9 książek więcej niż Maddie. Ile książek miała Amy?",
+        "answer": "6 "
+    },
+    {
+        "question": "Statek jest wypełniony 5973 tonami ładunku. Zatrzymuje się na Bahamach, gdzie marynarze ładują na pokład kolejne 8723 tony ładunku. Ile ton ładunku mieści teraz statek?",
+        "answer": "14696.0"
+    },
+    {
+        "question": "15 studentów dzieli 122 portfolio obrazów. Każdy student powinien otrzymać taką samą liczbę portfolio. Ile portfolio obrazów pozostanie?",
+        "answer": "2 "
+    },
+    {
+        "question": "Tom miał 19 dolarów i chciał kupić tyle folderów, ile tylko mógł. Jeśli jeden folder kosztuje 2 dolary, ile folderów może kupić Tom?",
+        "answer": "9 "
+    },
+    {
+        "question": "Sprzedawca samochodów sprzedał 8 w poniedziałek, 3 we wtorek, 10 w środę, 4 w czwartek, 4 w piątek i 4 w sobotę. Jaka jest średnia liczba sprzedanych przez niego samochodów?",
+        "answer": "5.5 "
+    },
+    {
+        "question": "W szufladzie jest 48 ołówków i 40 nożyczek. Joan umieściła 29 ołówków w szufladzie. Ile ołówków jest teraz w sumie?",
+        "answer": "77.0"
+    },
+    {
+        "question": "Tess ozdabia papiery łącznie 45 naklejkami w kształcie serca i 27 gwiazdkami dla dziecka, którym się opiekuje. Jeśli chce, aby wszystkie papiery były identyczne, z tą samą kombinacją naklejek w kształcie serca i gwiazdki i bez żadnych zbędnych naklejek, jaka jest największa liczba stron, którą Tess może ozdobić?",
+        "answer": "9 "
+    },
+    {
+        "question": "Bryan również przyjrzał się swoim książkom. Jeśli Bryan ma 56 książek na każdej ze swoich 9 półek, ile książek ma w sumie?",
+        "answer": "504.0"
+    },
+    {
+        "question": "Opłaty za taksówki w mieście składają się ze stałej opłaty wraz z opłatą za przejechany dystans. Za przejazd 10 km opłata wynosi 75 USD, a za przejazd 15 km opłata wynosi 110 USD. Ile będzie musiała zapłacić osoba, która przejedzie dystans 25 km?",
+        "answer": "180 "
+    },
+    {
+        "question": "Całkowity koszt czesnego plus zakwaterowanie i wyżywienie na State University wynosi 2584 USD. Czesne jest o 704 USD wyższe niż zakwaterowanie i wyżywienie. Ile wynosi czesne?",
+        "answer": "1644 "
+    },
+    {
+        "question": "Joe ma 45 pomarańczy, które trzeba odłożyć do pudełek. Daniel przychodzi z pomocą i przynosi 16 ciasteczek, aby podzielić się nimi z Joe. Jeśli pudełek jest 9, ile pomarańczy musi się znaleźć w każdym pudełku?",
+        "answer": "5.0"
+    },
+    {
+        "question": "Trójkąt ma obwód 90 cm. Długości trzech boków są w stosunku 5:12:13. Jaka jest długość najkrótszego boku?",
+        "answer": "15 "
+    },
+    {
+        "question": "Martha's Blossoms sprzedaje róże w grupach po 9 sztuk. Po drugiej stronie miasta Rachel's Blooms sprzedaje róże w grupach po 19 sztuk. Jeśli klient chce kupić taką samą liczbę róż od obu sprzedawców, jaka jest najmniejsza liczba róż, którą klient będzie musiał kupić od każdego sprzedawcy?",
+        "answer": "171 "
+    },
+    {
+        "question": "W pojemniku jest 1 zielony koralik, 2 brązowe koraliki i 3 czerwone koraliki. Tom wyjął kilka koralików z pojemnika i zostawił 4 cale. Ile koralików wyjął Tom?",
+        "answer": "2 "
+    },
+    {
+        "question": "Sam wyciął równej długości kawałki wstążki z 3730-centymetrowej wstążki. Jeśli każdy kawałek miał 73 cm długości, ile 73-centymetrowych kawałków wstążki zrobił Sam?",
+        "answer": "51 "
+    },
+    {
+        "question": "105 osób idzie do kina. W każdym wagonie może jechać 6 osób. Ile wagonów jest potrzebnych, aby zabrać wszystkich 105 osób do kina?",
+        "answer": "18 "
+    },
+    {
+        "question": "Emily zebrała jajka od kury i włożyła je do 303 koszyków. Włożyła 28 jajek do każdego koszyka. Ile jajek zebrała Emily?",
+        "answer": "8484.0"
+    },
+    {
+        "question": "Właściciel sklepu miał dwóch pracowników i kupił dla nich dziewięćset dwadzieścia siedem mundurów. Jeśli chciałby dać każdemu pracownikowi taką samą liczbę mundurów, ile powinien kupić, żeby nie mieć żadnych dodatkowych?",
+        "answer": "1 "
+    },
+    {
+        "question": "Suma trzech kolejnych liczb nieparzystych wynosi sto dwadzieścia trzy. Jaka jest najmniejsza z tych trzech liczb?",
+        "answer": "39"
+    },
+    {
+        "question": "Pan Bradley zadał swojej klasie zadanie matematyczne do rozwiązania. Powiedział: „Zacznijcie od liczby 28. Dodajcie do niej 12. Następnie dodajcie jeszcze 7”. Ned wykonał polecenie perfekcyjnie, ale Billy odjął 7. Jaka jest różnica między odpowiedziami chłopców?",
+        "answer": "14"
+    },
+    {
+        "question": "Pewnego dnia Trent i jego przyjaciele jedli lunch, siedząc przy stolikach dla dwóch osób. Innego dnia jedli lunch przy stolikach dla ośmiu osób. Jaka jest najmniejsza liczba osób, jaka może być w grupie?",
+        "answer": "8 "
+    },
+    {
+        "question": "Miała 35 naklejek jemioły i chciała je umieścić równo na 8 kartach. Ile naklejek jemioły jej zostanie?",
+        "answer": "3 "
+    },
+    {
+        "question": "Sean ma 8-calowe kawałki torów kolejowych, a Ruth ma 18-calowe kawałki torów kolejowych. Ile każdego kawałka potrzebowałoby każde dziecko, aby zbudować tory o równej długości?",
+        "answer": "72 "
+    },
+    {
+        "question": "Laurie ma o 12 kulek więcej niż Kurt. Kurt ma o 45 kulek mniej niż Dennis. Dennis ma 70 kulek. Ile kulek ma Laurie?",
+        "answer": "37 "
+    },
+    {
+        "question": "Na lodowisku można wypożyczyć 85 par łyżew. 18 osób wypożyczyło łyżwy, gdy lodowisko zostało otwarte. 25 kolejnych osób wypożyczyło łyżwy w ciągu pierwszej godziny. Ile par łyżew zostało?",
+        "answer": "42 "
+    },
+    {
+        "question": "Obecnie w parku jest 42 drzew orzechowych i 12 drzew pomarańczowych. Pracownicy parku musieli ściąć 13 drzew orzechowych, które zostały uszkodzone. Ile drzew orzechowych będzie w parku, gdy pracownicy zakończą pracę?",
+        "answer": "29.0"
+    },
+    {
+        "question": "Każdy bok kwadratowego kawałka blachy ma 7 metrów długości. Jaki jest obwód blachy?",
+        "answer": "28 "
+    },
+    {
+        "question": "Ezra kupuje nakrętki i śruby w lokalnym sklepie z narzędziami. Sklep sprzedaje nakrętki w paczkach po 13 sztuk, a śruby w paczkach po 8 sztuk. Jeśli Ezra chce kupić taką samą liczbę nakrętek i śrub, jaka jest najmniejsza liczba nakrętek, jaką może kupić?",
+        "answer": "104 "
+    },
+    {
+        "question": "Obecnie w parku są 2 klony i 5 popularnych drzew. Pracownicy parku zasadzą dziś 9 klonów. Ile klonów będzie w parku, gdy pracownicy skończą?",
+        "answer": "11.0"
+    },
+    {
+        "question": "Podczas wydarzenia szkolnego dorośli siedzą w grupach liczących dokładnie 17 osób, a dzieci w grupach liczących dokładnie 15 osób. Jeśli liczba dorosłych i dzieci jest taka sama, jaka musi być minimalna liczba dorosłych uczestniczących w wydarzeniu?",
+        "answer": "255 "
+    },
+    {
+        "question": "Matthew chodzi na piesze wędrówki co 12 dni i pływa co 6 dni. Dziś wykonywał oba rodzaje ćwiczeń. Za ile dni znów będzie chodził na piesze wędrówki i pływał?",
+        "answer": "12 "
+    },
+    {
+        "question": "Jeden znaczek kosztuje 34 centy. Jeśli koszt każdego znaczka pozostanie taki sam, ile będą kosztować 4 znaczki?",
+        "answer": "134.0"
+    },
+    {
+        "question": "Ile kosztowałoby 136 gum do żucia, jeśli każda sztuka kosztowałaby 18 centów?",
+        "answer": "2448.0"
+    },
+    {
+        "question": "Piekarz miał 7 pudełek na pączki. Skończyło się na tym, że zrobił 48 pączków i równo je podzielił między pudełka. Ile dodatkowych pączków mu zostało?",
+        "answer": "6 "
+    },
+    {
+        "question": "Prostokąt ma powierzchnię 360 centymetrów kwadratowych. Ma 20 centymetrów długości. Jaki jest jego obwód?",
+        "answer": "76 "
+    },
+    {
+        "question": "Joe, brat Susie, zebrał wszystkie 94 karty kolekcjonerskie rozrzucone w jego pokoju i umieścił je w pudełkach. Jeśli pełne pudełko może pomieścić maksymalnie 8 kart, ile pudełek było w pełni wypełnionych?",
+        "answer": "11 "
+    },
+    {
+        "question": "Mary zerwała 14 pomarańczy, a Jason 41 pomarańczy. Keith zerwał 38 jabłek. Ile pomarańczy zostało zerwanych w sumie?",
+        "answer": "55.0"
+    },
+    {
+        "question": "Laverne ma 20 piłek baseballowych i 15 piłek do koszykówki. Jeśli chce podzielić je na identyczne grupy bez pozostawienia piłek, jaka jest największa liczba grup, które Laverne może utworzyć?",
+        "answer": "5 "
+    },
+    {
+        "question": "Sarah's Shipping i Ryan's Mail Services wysyłają paczki. Ciężarówki Sarah's przewożą tylko 18 paczek. Natomiast ciężarówki Ryan's przewożą tylko 11 paczek. Jeśli obie firmy ostatecznie wysłałyby tę samą liczbę paczek dziś rano, jaka jest minimalna liczba paczek, które każda z nich musiałaby wysłać?",
+        "answer": "198 "
+    },
+    {
+        "question": "W zeszłym roku Springtown Hardware zamówiło 3 młotki w czerwcu, 4 młotki w lipcu, 6 młotków w sierpniu i 9 młotków we wrześniu. Jeśli ten schemat się utrzyma, ile młotków zamówi sklep w październiku?",
+        "answer": "13 "
+    },
+    {
+        "question": "Melody zrobiła 26 wycinanek choinek z czerwonymi błyszczącymi kulkami. Jeśli planowała przykleić 4 z nich na okładkę pewnej liczby kartek, ile wycinanek choinek zostanie Melody?",
+        "answer": "2 "
+    },
+    {
+        "question": "Doświadczona łyżwiarka figurowa obraca się na lodzie, tworząc idealne koło. Następnie oblicza, że musi mieć obwód 6,28 jarda. Jaka jest średnica koła?",
+        "answer": "2 "
+    },
+    {
+        "question": "Nauczyciel dał 42 ołówki 12 uczniom po równo. Ile ołówków zostało?",
+        "answer": "6 "
+    },
+    {
+        "question": "Kiedy Jose jechał autobusem, zauważył siedzących ludzi. Na następnym przystanku autobusowym wsiadło 5 osób i wysiadły 2 osoby. Dwa przystanki dalej wsiadło 7 osób, a 15 osób wysiadło na stacji końcowej. Ile osób było w autobusie, kiedy Jose wsiadł do autobusu?",
+        "answer": "5 "
+    },
+    {
+        "question": "Joanne prowadzi kampanię na przewodniczącą klasy i planuje rozdać materiały kampanijne: 20 ulotek i 16 guzików. Chce, aby każda klasa otrzymała identyczny zestaw materiałów kampanijnych, bez pozostawiania żadnych materiałów. Do jakiej największej liczby klas Joanne może rozdać materiały?",
+        "answer": "4 "
+    },
+    {
+        "question": "Sam miał 7 pensów i 8 dziesięciocentówek w banku. Jego siostra pożyczyła 4 dziesięciocentówki. Ile dziesięciocentówek ma teraz Sam?",
+        "answer": "4.0"
+    },
+    {
+        "question": "Tom miał już 2 cukierki. Jego przyjaciel dał mu 7 więcej, a potem Tom kupił kolejne 10. Ile cukierków ma teraz Tom?",
+        "answer": "19 "
+    },
+    {
+        "question": "Pani Wilson, nauczycielka matematyki, ma 18 łamigłówek logicznych i 9 łamigłówek wizualnych, które chce pogrupować w zestawy dla uczniów, którzy ukończą testy wcześniej. Pani Wilson chce, aby każdy zestaw był identyczny, zawierał tę samą kombinację łamigłówek logicznych i łamigłówek wizualnych, bez żadnych łamigłówek pozostałych. Jaka jest największa liczba zestawów, które może stworzyć?",
+        "answer": "9 "
+    },
+    {
+        "question": "Shirley sprzedała 20 pudełek Do-Si-Dos. Ile skrzynek po 4 pudełka plus dodatkowe pudełka musi dostarczyć Shirley?",
+        "answer": "5.0"
+    },
+    {
+        "question": "Amanda ma dwa kawałki wstążki, jeden o długości 8 cali i drugi o długości 16 cali. Aby ozdobić album, chce je pociąć, aby uzyskać wiele kawałków wstążki, które będą miały tę samą długość, bez żadnej zbędnej wstążki. Jaka jest największa długość, w calach, jaką może zrobić?",
+        "answer": "8 "
+    },
+    {
+        "question": "W poniedziałek 375 uczniów wybrało się na wycieczkę do zoo. Wszystkie 7 autobusów było pełnych, a 4 uczniów musiało podróżować samochodami. Ilu uczniów było w każdym autobusie?",
+        "answer": "53.0"
+    },
+    {
+        "question": "89 ciasteczek jest dzielonych równo między 4 osoby. Ile ciasteczek dostanie każda osoba?",
+        "answer": "22 "
+    },
+    {
+        "question": "Kwadrat ma boki o długości 15 cm. Prostokąt ma długość 18 cm. Obwód kwadratu jest równy obwodowi prostokąta. Jakie jest pole prostokąta?",
+        "answer": "216 "
+    },
+    {
+        "question": "Atomic Fireballs są pakowane po 9 sztuk. Barbara zjadła 59 Atomic Fireballs. Ile Atomic Fireballs jej zostało?",
+        "answer": "5 "
+    },
+    {
+        "question": "W sali konferencyjnej są 2 Amerykanów, 4 Francuzów i 4 Chińczyków. 3 z nich wychodzi. Ile osób opuszcza salę konferencyjną?",
+        "answer": "7 "
+    },
+    {
+        "question": "Jerry liczył pieniądze, które dostał na urodziny. Od ciotki dostał 9 dolarów. Od wujka dostał 9 dolarów. Jego najlepsi przyjaciele dali mu 22 dolary, 23 dolary, 22 dolary i 22 dolary. A jego siostra dała mu 7 dolarów. Jaka jest średnia pieniędzy, które dostał?",
+        "answer": "16.3 "
+    },
+    {
+        "question": "Lenny ma 84 dolary. Wydał 24 dolary na gry wideo i 21 dolarów w sklepie spożywczym. Ile zostało Lenny'emu?",
+        "answer": "39 "
+    },
+    {
+        "question": "Budowniczy potrzebował kupić sto pięćdziesiąt cztery deski do swojego najnowszego projektu. Jeśli deski, których potrzebuje, są w paczkach po trzy, ile paczek będzie musiał kupić?",
+        "answer": "52 "
+    },
+    {
+        "question": "Stacja radiowa prowadzi promocję, w ramach której co 12. dzwoniący otrzymuje darmowy bilet na koncert, a co 15. dzwoniący otrzymuje przejazd limuzyną. Który dzwoniący jako pierwszy wygra oba?",
+        "answer": "60 "
+    },
+    {
+        "question": "Wiek matki Vidyi jest o 5 lat większy niż trzykrotność obecnego wieku Vidyi. Znajdź obecny wiek Vidyi, jeśli jej matka ma 44 lata.",
+        "answer": "13 "
+    },
+    {
+        "question": "Austin umieszcza naklejki w książeczce naklejek. Umieścił 8 naklejek na pierwszej stronie, 16 naklejek na drugiej stronie, 24 naklejki na trzeciej stronie i 32 naklejki na czwartej stronie. Jeśli ten schemat będzie kontynuowany, ile naklejek Austin umieści na piątej stronie?",
+        "answer": "40 "
+    },
+    {
+        "question": "Randy potrzebuje 53 babeczek na przyjęcie urodzinowe. Ma już 7 czekoladowych babeczek i 19 waniliowych. Ile jeszcze babeczek powinien kupić Randy?",
+        "answer": "32.0"
+    },
+    {
+        "question": "Kristen zauważa identyczną liczbę dwóch rodzajów owadów w swojej okolicy: motyli i świetlików. Zawsze wydaje się, że obserwuje motyle w grupach po 44, a świetliki w grupach po 17. Jaka jest najmniejsza liczba motyli, którą mogła zobaczyć?",
+        "answer": "748 "
+    },
+    {
+        "question": "Lindsey ma 16 puszek zwykłej coli i 8 puszek coli dietetycznej. Chce stworzyć kilka identycznych stolików z napojami, które będą działać podczas meczu futbolowego. Nie chce też, żeby zostały jej jakieś napoje gazowane. Jaka jest największa liczba stolików z napojami, które Lindsey może zaopatrzyć?",
+        "answer": "8 "
+    },
+    {
+        "question": "W pudełku papieru komputerowego zostało dwieście dwadzieścia jeden arkuszy. Gdyby każda drukarka w pracowni komputerowej potrzebowała siedmiu arkuszy, ile drukarek wypełniłoby pudełko?",
+        "answer": "31 "
+    },
+    {
+        "question": "Do domu babci jest 78 mil. Pan Welch przejechał 35 mil. Zatrzymał się, żeby kupić ciasto na deser. Potem przejechał 18 mil i zatrzymał się, żeby zatankować samochód. Ile jeszcze mil, żeby dotrzeć do domu babci?",
+        "answer": "25 "
+    },
+    {
+        "question": "Melanie miała 276 dolarów do wydania na 9 książek. Po ich zakupie miała 15 dolarów. Ile kosztowała każda książka?",
+        "answer": "29 "
+    },
+    {
+        "question": "W sklepie było 22 pary butów w dużych rozmiarach, 50 par butów w średnich rozmiarach i 24 pary butów w małych rozmiarach. Po sprzedaży części butów zostało 13 par. Ile par butów sprzedał sklep?",
+        "answer": "83 "
+    },
+    {
+        "question": "Jest 397 motyli. Każdy motyl ma 12 czarnych kropek i 17 żółtych kropek. Ile jest łącznie czarnych kropek?",
+        "answer": "4764.0"
+    },
+    {
+        "question": "Firma transportowa kupiła 95 ton ropy. Duża beczka może pomieścić 6 ton ropy, a mała beczka może pomieścić 5 ton ropy. Aby wykorzystać najmniejszą liczbę beczek i mieć każdą w pełni zajętą, ile dużych beczek należy wykorzystać?",
+        "answer": "15 "
+    },
+    {
+        "question": "Jenny chodzi na zajęcia taneczne co 6 dni, na zajęcia karate co 12 dni, a do biblioteki co 18 dni. 1 grudnia chodziła na oba zajęcia i do biblioteki. Przez ile dni od 1 grudnia będzie chodzić na oba zajęcia i do biblioteki?",
+        "answer": "36 "
+    },
+    {
+        "question": "Rosa robi planszę do gry o wymiarach 16 na 24 cale. Chce użyć kwadratowych kafelków. Jaki jest największy kafelek, którego może użyć?",
+        "answer": "8 "
+    },
+    {
+        "question": "Denise się starzeje i czuje, że powinna przekazać swoją kolekcję pluszowych zwierząt dzieciom, które mają mniej szczęścia. Ma 14 pluszowych kotów i 7 pluszowych psów, które chce podzielić na identyczne grupy, bez żadnych pluszowych zwierząt. Do jakiej największej liczby grup Denise może przydzielić swoje pluszowe zwierzęta?",
+        "answer": "7 "
+    },
+    {
+        "question": "Joan wyhodowała 24 dynie, Keith wyhodował 42 dynie, a Alyssa wyhodowała 13 dyń. Pracowali na farmie przez 34 dni. Ile dyń wyhodowali w sumie?",
+        "answer": "79.0"
+    },
+    {
+        "question": "Muzeum sztuki miało 15 zdjęć do równego podziału na 2 różne wystawy. Ile jeszcze zdjęć by potrzebowali, aby mieć pewność, że każda wystawa ma taką samą liczbę?",
+        "answer": "1 "
+    },
+    {
+        "question": "Bernard miał 15 czerwonych zeszytów, 17 niebieskich zeszytów i 19 białych zeszytów. Część z nich dał Tomowi i zostało mu 5. Ile zeszytów dał Bernard Tomowi?",
+        "answer": "46 "
+    },
+    {
+        "question": "Roger pomagał pracownikom stołówki podnosić tace z lunchem, ale mógł nieść tylko 4 tace na raz. Gdyby musiał podnieść 10 tac z jednego stołu i 2 tace z drugiego, ile razy by to zrobił?",
+        "answer": "3.0"
+    },
+    {
+        "question": "Cztery dziewczyny były w domu cały dzień w weekend, przygotowując domowe smakołyki. Anna upiekła 33 ciasteczka z jagodami. Jeśli podzieli się tym po równo między czwórkę swoich przyjaciół, ile otrzyma każda z nich?",
+        "answer": "8 "
+    },
+    {
+        "question": "Liczba składająca się z dwóch cyfr jest równa 7-krotności sumy cyfr. Gdy odejmiemy od liczby 27, cyfry zamieniają się miejscami. Znajdź liczbę.",
+        "answer": "63"
+    },
+    {
+        "question": "Wiek ojca jest równy sumie wieku jego 5 dzieci. Po 15 latach suma wieku dzieci będzie dwa razy większa od wieku ojca. Znajdź wiek ojca.",
+        "answer": "75 "
+    },
+    {
+        "question": "Pani Evans ma 120 kredek i 30 kartek papieru do rozdania swoim uczniom. Jaka jest największa liczba uczniów, jaką może mieć w swojej klasie, aby każdy uczeń dostał taką samą liczbę kredek i taką samą liczbę kartek papieru?",
+        "answer": "30 "
+    },
+    {
+        "question": "Do wykończenia potrzebował 70 galonów farby. Jeśli kupił 23 galony, aby dodać do swoich 36 galonów farby, ile jeszcze farby będzie potrzebował?",
+        "answer": "11 "
+    },
+    {
+        "question": "W pudełku jest 69 gumek. Jane ma 15 gumek w torbie. Doris wyjmuje 54 gumki z pudełka. Ile gumek zostało w pudełku?",
+        "answer": "15.0"
+    },
+    {
+        "question": "Wyspa na Oceanie Spokojnym miała 5 mil szerokości. Jej całkowita powierzchnia wynosiła 50 mil kwadratowych. Jak długa jest wyspa?",
+        "answer": "10 "
+    },
+    {
+        "question": "Jason wyhodował 32 arbuzy i 22 kantelopy. Dan wyhodował 31 arbuzów. Ile arbuzów wyhodowali w sumie?",
+        "answer": "63.0"
+    },
+    {
+        "question": "Robert zarobił 76 dolarów w pracy. Wydał 6 dolarów na długopis i 14 dolarów na kalkulator. Ile pieniędzy mu zostało?",
+        "answer": "56 "
+    },
+    {
+        "question": "Pani Hilt ma 40 markerów. Są podzielone równo na 7 opakowań. Pani Hilt chce wiedzieć, ile markerów zostało?",
+        "answer": "5 "
+    },
+    {
+        "question": "Bibliotekarz musiał spakować pięćset dziewięćdziesiąt książek do pudeł. Jeśli każde pudełko może pomieścić trzy książki, ile pudełek potrzebowała?",
+        "answer": "197 "
+    },
+    {
+        "question": "Lewis poszedł zobaczyć, jak zbierane są pomarańcze. Lewis dowiedział się, że zbierają 83 worki dziennie. Ile worków pomarańczy będą mieli po 6 dniach zbiorów?",
+        "answer": "498.0"
+    },
+    {
+        "question": "Janice i Jasmine dostały po kawałku wstążki o równej długości. Janice tnie swoje wstążki na równe odcinki 2 m, podczas gdy Jasmine tnie swoje wstążki na równe odcinki 5 m. Jeśli w obu przypadkach nie było reszty, jaka jest najkrótsza możliwa długość wstążki, którą im dano?",
+        "answer": "10 "
+    },
+    {
+        "question": "Rodzina przygotowuje plecaki wypełnione przyborami szkolnymi, które mają zostać przekazane potrzebującym dzieciom. Mają 9 ołówków i 15 zeszytów. Jeśli chcą, aby wszystkie plecaki były takie same, bez żadnych przyborów szkolnych, jaka jest największa liczba plecaków, które mogą wypełnić?",
+        "answer": "3 "
+    },
+    {
+        "question": "Warren przebiegł 1 okrążenie w środę, 2 okrążenia w czwartek, 4 okrążenia w piątek, 8 okrążeń w sobotę i 16 okrążeń w niedzielę. Jeśli ten schemat się utrzyma, ile okrążeń przebiegnie Warren w poniedziałek?",
+        "answer": "32 "
+    },
+    {
+        "question": "Pani Baker ma 17 babeczek. Chce podzielić je równo między 3 dzieci, aby nikt nie dostał więcej niż ktokolwiek inny. Jeśli da każdemu dziecku jak najwięcej babeczek, ile babeczek zostanie dla pani Baker?",
+        "answer": "2 "
+    },
+    {
+        "question": "Nathan zaopatruje łazienki w hotelu, w którym pracuje. Ma 18 rolek papieru toaletowego i 9 kostek mydła. Jeśli chce, aby wszystkie łazienki były zaopatrzone identycznie, z tą samą kombinacją zapasów w każdej i bez żadnych resztek, jaka jest największa kombinacja łazienek, jaką Nathan może zaopatrzyć?",
+        "answer": "9 "
+    },
+    {
+        "question": "Georgia miała 24 żółte guziki, 16 czarnych guzików i 19 zielonych guzików. Część guzików dała Mary i teraz Georgia ma 13 guzików. Ile guzików Georgia dała Mary?",
+        "answer": "46 "
+    },
+    {
+        "question": "Jared przegląda rachunek za telefon komórkowy. Kiedy dochodzi do części z wiadomościami tekstowymi, zauważa, że wysłał 1 wiadomość tekstową w listopadzie, 2 wiadomości tekstowe w grudniu, 4 wiadomości tekstowe w styczniu i 8 wiadomości tekstowych w lutym. Jeśli ten schemat się utrzyma, ile wiadomości tekstowych Jared wyśle w marcu?",
+        "answer": "16 "
+    },
+    {
+        "question": "Emily grała w grę quizową. W pierwszej rundzie zdobyła 16 punktów, a w drugiej 33. W ostatniej rundzie straciła 48 punktów. Ile punktów miała na koniec gry?",
+        "answer": "1.0"
+    },
+    {
+        "question": "Rozważ dwie trzecie liczby i dodaj do niej sześć. Wynik to dziesięć. Znajdź nieznaną liczbę.",
+        "answer": "6"
+    },
+    {
+        "question": "Pani Hilt ma 40 markerów. Są one podzielone równo na 7 paczek. Pani Hilt chce wiedzieć, ile markerów jest w każdej paczce?",
+        "answer": "5.0"
+    },
+    {
+        "question": "Harry spacerował po plaży i zebrał 34 rozgwiazdy, 21 muszli i 29 ślimaków. Zgubił część przedmiotów i na koniec spaceru zostało mu 59 przedmiotów. Ile stworzeń morskich zgubił w sumie?",
+        "answer": "25 "
+    },
+    {
+        "question": "Klub ma 16 dziewcząt i 8 chłopców jako członków. Prezydent chce podzielić klub na grupy, przy czym każda grupa będzie zawierać taką samą kombinację dziewcząt i chłopców. Prezydent chce również upewnić się, że nikt nie zostanie pominięty. Jaka jest największa liczba grup, jaką może utworzyć prezydent?",
+        "answer": "8 "
+    },
+    {
+        "question": "Aby zachęcić do korzystania z transportu publicznego, Russom chce dać znajomym koperty z biletami autobusowymi i biletami metra. Jeśli ma 18 biletów autobusowych i 12 biletów metra do równo rozdysponowania między koperty i nie chce, aby zostały mu żadne bilety, jaka jest największa liczba kopert, jaką Russom może zrobić?",
+        "answer": "6 "
+    },
+    {
+        "question": "Zoe miała 42 butelki wody w lodówce. Gdyby wypiła 25 z nich, a potem kupiła 30 kolejnych, ile butelek by miała?",
+        "answer": "47 "
+    },
+    {
+        "question": "Emma ma puszkę koktajlu owocowego w spiżarni. Okrągła pokrywka ma średnicę 2 cali. Jaki jest obwód pokrywki?",
+        "answer": "6.28 "
+    },
+    {
+        "question": "Suma pewnej liczby i 15 wynosi 96. Znajdź tę liczbę.",
+        "answer": "81"
+    },
+    {
+        "question": "Nauczyciel wychowania fizycznego musi podzielić 14 uczniów płci męskiej i 7 uczennic na zespoły, każdy z taką samą kombinacją uczniów płci męskiej i żeńskiej i nikogo nie pominąć. Jaka jest największa liczba zespołów, które można utworzyć?",
+        "answer": "7 "
+    },
+    {
+        "question": "Suma trzech kolejnych liczb wynosi 90. Jaka jest najmniejsza z tych trzech liczb?",
+        "answer": "29"
+    },
+    {
+        "question": "Tom kupił deskorolkę za 9,46$ i wydał 9,56$ na kulki. Tom wydał także 14,50$ na spodenki. Ile w sumie Tom wydał na zabawki?",
+        "answer": "19.02"
+    },
+    {
+        "question": "Alyssa poszła w tym roku na 11 meczów piłki nożnej, ale opuściła 12. W zeszłym roku poszła na 13 meczów i planuje pójść na 15 meczów w przyszłym roku. Na ile meczów piłki nożnej pójdzie w sumie Alyssa?",
+        "answer": "39.0"
+    },
+    {
+        "question": "Klasa baletowa chce podzielić swoich 90 członków na kilka dużych grup po 7 członków każda i kilka małych grup po 3 członków każda. Aby utworzyć najmniejszą liczbę grup, ile dużych grup należy utworzyć?",
+        "answer": "12 "
+    },
+    {
+        "question": "Na siłowni Hillary pływa co 6 dni, biega co 4 dni i jeździ na rowerze co 16 dni. Jeśli zrobiła wszystkie trzy aktywności dzisiaj, za ile dni zrobi wszystkie trzy aktywności tego samego dnia?",
+        "answer": "48 "
+    },
+    {
+        "question": "Najwyższy zawodnik w drużynie koszykarskiej ma 77,75 cala wzrostu. Jest o 9,5 cala wyższy od najniższego zawodnika. Jaki jest wzrost najniższego zawodnika w calach?",
+        "answer": "68.25"
+    },
+    {
+        "question": "Adam miał 33 książki. Gdyby sprzedał 11 z nich i za zarobione pieniądze kupił 23 nowe książki, ile książek miałby Adam?",
+        "answer": "45 "
+    },
+    {
+        "question": "Johnny trenował dla drużyny lekkoatletycznej i przebiegł 3 okrążenia na minutę. Ile minut zajęło Johnny'emu przebiegnięcie 10 okrążeń?",
+        "answer": "3.33333"
+    },
+    {
+        "question": "Suma cyfr dwucyfrowej liczby wynosi 8, a różnica między tą liczbą a liczbą utworzoną przez odwrócenie cyfr wynosi 18. Znajdź liczbę.",
+        "answer": "53"
+    },
+    {
+        "question": "Na potrzeby przedstawienia dla piątej klasy krzesła ustawiono w 27 rzędach, po 16 krzeseł w każdym rzędzie. Ile krzeseł ustawiono na potrzeby przedstawienia?",
+        "answer": "432.0"
+    },
+    {
+        "question": "Gary miał kilka naklejek. Dał 42 naklejki Lucy i 26 naklejek Alexowi. Jeśli zostało mu 31 naklejek, ile naklejek miał Gary na początku?",
+        "answer": "99 "
+    },
+    {
+        "question": "William sprzedaje hot dogi na stadionie. Sprzedał 19 hot dogów w ciągu pierwszych trzech inningów. Sprzedał 27 hot dogów w ciągu następnych trzech inningów. Williamowi zostało 45 hot dogów do sprzedania. Ile hot dogów miał William na początku?",
+        "answer": "91 "
+    },
+    {
+        "question": "Melanie zerwała 7 śliwek i 4 pomarańcze z sadu. Dała 3 śliwki Samowi. Ile śliwek ma teraz?",
+        "answer": "4.0"
+    },
+    {
+        "question": "Mei ma 15 pomarańczy, 9 brzoskwiń i 18 gruszek. Chce umieścić wszystkie owoce w koszykach, tak aby w każdym koszyku była taka sama liczba owoców. Bez mieszania owoców, jaka jest największa liczba owoców, jaką Mei może umieścić w każdym koszyku?",
+        "answer": "3 "
+    },
+    {
+        "question": "Następny akt obejmował kilku żonglerów. Jeśli każdy żongler żongluje 6 piłkami na raz, ile piłek jest potrzebnych, jeśli 378 żonglerów wystawia show w tym samym czasie?",
+        "answer": "2268.0"
+    },
+    {
+        "question": "Pan Peter zebrał kilka gruszek. Zebrał 43 kg gruszek do worka i 35 kg gruszek do innego worka. Jeśli pozostało jeszcze 15 kg gruszek bez opakowania, ile kilogramów gruszek zebrał pan Peter?",
+        "answer": "93 "
+    },
+    {
+        "question": "Keith zerwał 3 gruszki, a Jason zerwał 2 gruszki z drzewa gruszowego. Joan zerwała 5 jabłek z drzewa jabłoniowego. Ile gruszek zostało zerwanych w sumie?",
+        "answer": "5.0"
+    },
+    {
+        "question": "Ben rysuje okrąg wewnątrz kwadratowej kartki papieru o powierzchni 400 cali kwadratowych. Upewnia się, że okrąg dotyka każdej strony kwadratu. Jakie jest pole okręgu?",
+        "answer": "314 "
+    },
+    {
+        "question": "Podczas zbiórki żywności w puszkach, artykuły były sortowane do pojemników. Zbiórka zakończyła się zebraniem 0,125 pojemnika zupy, 0,125 pojemnika warzyw i 0,5 pojemnika makaronu. Ile pojemników łącznie zajęłyby konserwy?",
+        "answer": "0.75"
+    },
+    {
+        "question": "Szkoła kupiła 54 piłki do koszykówki i rozdzieliła je równo między 7 klas. Ile piłek do koszykówki dostała każda klasa?",
+        "answer": "7 "
+    },
+    {
+        "question": "Jest 544 doniczek. W każdej doniczce jest 32 kwiatów. Ile jest kwiatów w sumie?",
+        "answer": "17408.0"
+    },
+    {
+        "question": "Mary znalazła 2 muszle, a Keith znalazł 5 muszelek na plaży. Kiedy je wyczyścili, odkryli, że 9 było popękanych. Ile muszelek znaleźli razem?",
+        "answer": "7.0"
+    },
+    {
+        "question": "W szufladzie jest 48 gumek, a na biurku 30. Alyssa położyła 39 gumek i 45 linijek na biurku. Ile gumek jest teraz w sumie?",
+        "answer": "117.0"
+    },
+    {
+        "question": "Tom poszedł na 4 mecze hokejowe w tym roku, ale opuścił 7. W zeszłym roku poszedł na 9 meczów. Na ile meczów hokejowych Tom poszedł w sumie?",
+        "answer": "13.0"
+    },
+    {
+        "question": "Na biurku są 2 jabłka w stosie. Każde jabłko jest w opakowaniu po 7 sztuk. Do stosu dodano 4 jabłka. Ile jabłek jest w stosie?",
+        "answer": "6.0"
+    },
+    {
+        "question": "Pani Hilt przejechała 6760 mil do Japonii. Przeczytała jedną książkę na każde 450 mil, które przejechała. Ile książek skończyła, kiedy dotarła do Japonii?",
+        "answer": "15 "
+    },
+    {
+        "question": "Alyssa zebrała 25 limonek, a Mike zebrał 32 limonki. Tom zebrał 12 śliwek. Ile limonek zostało zebranych w sumie?",
+        "answer": "57.0"
+    },
+    {
+        "question": "Pani Hilt spojrzała na licznik kilometrów swojego samochodu przed podróżą. Licznik wskazywał, że przejechała 212,3 mil. Kiedy zatrzymała się na lunch, licznik wskazywał 372,0. Ile mil przejechała?",
+        "answer": "159.7"
+    },
+    {
+        "question": "Alvin próbuje zbudować mały domek w lesie, aby mieć gdzie się zatrzymać, kiedy idzie na polowanie. Zaczął od zebrania drewna. Według jego planu będzie potrzebował 376 kawałków drewna. Jeśli jego przyjaciel dał mu 123 kawałki, a jego brat 136 kawałków, ile jeszcze drewna będzie potrzebował zebrać?",
+        "answer": "117 "
+    },
+    {
+        "question": "Pudełko może pomieścić 18 sztuk kredy. Jeśli jest 3484 sztuk kredy, ile kred jest w pudełku, które nie jest pełne?",
+        "answer": "10 "
+    },
+    {
+        "question": "Mary uwielbia jeść owoce. Mary zapłaciła 7,19 $ za jagody i 6,83 $ za brzoskwinie banknotem 20-dolarowym. Ile reszty dostała Mary?",
+        "answer": "5.98"
+    },
+    {
+        "question": "Eric ma 9306 gumek. Jeśli podzieli się nimi z 99 przyjaciółmi, ile gumek dostanie każdy z nich?",
+        "answer": "94.0"
+    },
+    {
+        "question": "Sally zapłaciła łącznie 12,32$ za brzoskwinie, po 3-dolarowym kuponie, a 11,54$ za wiśnie. Ile pieniędzy wydała w sumie Sally?",
+        "answer": "23.86"
+    },
+    {
+        "question": "Jeśli liczba jest odejmowana od 32, cyfry 32 są zamieniane. Znajdź liczbę.",
+        "answer": "55"
+    },
+    {
+        "question": "W szkole jest 650 uczniów. Jeśli liczba dziewcząt jest o 106 większa od liczby chłopców, ilu chłopców jest w szkole?",
+        "answer": "272 "
+    },
+    {
+        "question": "Trzy kawałki drewna o długości 42 m, 49 m i 63 m należy podzielić na deski o tej samej długości. Jaka jest największa możliwa długość każdej deski?",
+        "answer": "7 "
+    },
+    {
+        "question": "W księgarni były 4 książki w koszu wyprzedażowym. Gdyby sprzedali 3 książki, ale potem wrzucili 10 kolejnych do kosza, ile książek znalazłoby się w koszu?",
+        "answer": "11 "
+    },
+    {
+        "question": "Podczas porannego spaceru dwie osoby wychodzą razem. Ich kroki mierzą odpowiednio 75 cm i 90 cm. Jaki jest minimalny dystans, jaki każda osoba powinna przejść, aby wszyscy mogli pokonać ten sam dystans w pełnych krokach?",
+        "answer": "450 "
+    },
+    {
+        "question": "Nauczycielka miała 38 arkuszy do oceny. Jeśli oceniłaby 4, ale oddałaby kolejne 15, ile arkuszy miałaby do oceny?",
+        "answer": "49 "
+    },
+    {
+        "question": "Li Na zamierza posadzić 63 rośliny pomidorów i 81 roślin rabarbaru. Li Na chciałaby posadzić rośliny w rzędach, w których każdy rząd ma taką samą liczbę roślin pomidorów i każdy rząd ma taką samą liczbę roślin rabarbaru. Jaka jest największa liczba rzędów, jaką Li Na może posadzić?",
+        "answer": "9 "
+    },
+    {
+        "question": "Las za domem Wendy miał 8 mil szerokości i powierzchnię 24 mil kwadratowych. Jaka jest długość lasu?",
+        "answer": "3 "
+    },
+    {
+        "question": "London ma 11 lat, a Blair 16. Kilka lat temu Blair był dwa razy starszy od London. Ile lat miał wtedy London?",
+        "answer": "6 "
+    },
+    {
+        "question": "Tom miał 19$ i chciał kupić tyle folderów, ile tylko mógł. Jeśli jeden folder kosztuje 2$, ile zostało mu po zakupie folderów?",
+        "answer": "1 "
+    },
+    {
+        "question": "Okno miało długość 6 stóp i szerokość 10 stóp. Jaka jest powierzchnia okna?",
+        "answer": "60 "
+    },
+    {
+        "question": "W ośrodku dla zwierząt było 36 psów i 29 kotów. Po tym, jak 20 psów zostało adoptowanych przez ludzi, ośrodek dla zwierząt przyjął kolejne 12 kotów. Ile zwierząt ostatecznie znalazło się w ośrodku dla zwierząt?",
+        "answer": "57 "
+    },
+    {
+        "question": "Na koncercie zespół ma 20 męskich koszulek i 8 damskich koszulek. Zespół chce ustawić stoły do sprzedaży koszulek, przy których będzie dostępna taka sama liczba męskich i damskich koszulek na każdym stole i nie będzie żadnych koszulek. Z jakiej największej liczby stołów zespół może sprzedawać koszulki?",
+        "answer": "4 "
+    },
+    {
+        "question": "W sklepie ze słodyczami są 3 brązowe pudełka cukierków, 3 czarne pudełka cukierków i 2 niebieskie pudełka cukierków. Jeśli kupiono 5 pudełek, ile pudełek cukierków pozostało?",
+        "answer": "3 "
+    },
+    {
+        "question": "Pudełko może pomieścić 18 sztuk kredy. Jeśli jest 3484 sztuk kredy, ile pudełek jest pełnych, aby pomieścić całą kredę?",
+        "answer": "194 "
+    },
+    {
+        "question": "Emily zbiera 63 karty. Ojciec Emily daje Emily jeszcze 7. Bruce ma 13 jabłek. Ile kart ma Emily?",
+        "answer": "70.0"
+    },
+    {
+        "question": "W klasie jest 5 chłopców i 4 dziewczynki. Po tym, jak 3 chłopców opuściło klasę, do klasy weszły kolejne 2 dziewczynki. Ile dzieci ostatecznie było w klasie?",
+        "answer": "8 "
+    },
+    {
+        "question": "Megan i jej siostra Tara chciały kupić skuter za 26 dolarów. Tara miała o 4 dolary więcej niż Megan. Razem miały wystarczająco dużo pieniędzy, aby kupić skuter. Ile pieniędzy miała Tara?",
+        "answer": "15 "
+    },
+    {
+        "question": "Pełnia księżyca występuje co 30 dni. Jeśli ostatnia pełnia księżyca miała miejsce w piątek, ile dni upłynie, zanim pełnia księżyca wystąpi ponownie w piątek?",
+        "answer": "210 "
+    },
+    {
+        "question": "Joan kupiła samochodziki za 14,88$, deskorolkę za 4,88$ i dostała ciężarówki za 5,86$. Wydała 14,55$ na spodnie. Ile w sumie Joan wydała na zabawki?",
+        "answer": "25.62"
+    },
+    {
+        "question": "Brian ma 39 ołówków. Daje 18 ołówków przyjacielowi. Kupuje 22 kolejne ołówki. Ile ołówków ma teraz Brian?",
+        "answer": "43 "
+    },
+    {
+        "question": "Na Halloween Adam dostał 201 cukierków. Jeśli ułożyłby je w stosy po 43 w każdym, ile mniej więcej stosów mógłby zrobić?",
+        "answer": "5 "
+    },
+    {
+        "question": "86 uczniów wybiera się na pieszą wędrówkę. Każdy autobus szkolny może zabrać 9 uczniów. Ile autobusów szkolnych jest potrzebnych?",
+        "answer": "9 "
+    },
+    {
+        "question": "Kwiaciarnia ma 12 tulipanów i 18 goździków. Jeśli kwiaciarnia chce stworzyć identyczne bukiety bez żadnych resztek kwiatów, jaka jest największa liczba bukietów, które może stworzyć kwiaciarnia?",
+        "answer": "6 "
+    },
+    {
+        "question": "Philip kupuje długopisy i ołówki w sklepie. Długopisy są sprzedawane w paczkach po 12 sztuk, ale ołówki są sprzedawane w paczkach po 15 sztuk. Jeśli Philip chce kupić tyle samo długopisów, co ołówków, jaka jest najmniejsza liczba długopisów, którą może kupić?",
+        "answer": "60 "
+    },
+    {
+        "question": "Lewis zostawił sprawdzanie winorośli na swój ostatni przystanek. Jeden ze zbieraczy powiedział mu, że napełniają 324 beczki winogron dziennie. Ile beczek winogron zostanie napełnionych w ciągu 9 dni?",
+        "answer": "2916.0"
+    },
+    {
+        "question": "Właściciel lodziarni śledził liczbę sprzedanych wafelków czekoladowych w ciągu tygodnia. Jego wyniki to: 100, 92, 109, 96, 103, 96 i 105. Jaka jest średnia sprzedanych wafelków?",
+        "answer": "100.1 "
+    },
+    {
+        "question": "Keith znalazł 6 muszelek, Jessica znalazła 8 muszelek, a Tim znalazł 7 muszelek na plaży. Kiedy je wyczyścili, odkryli, że 3 były popękane. Ile muszelek znaleźli razem?",
+        "answer": "21.0"
+    },
+    {
+        "question": "Peter's Party Zone sprzedaje kubki w paczkach po 6 sztuk, a talerze w paczkach po 8 sztuk. Shaniya organizuje przyjęcie urodzinowe dla swojej młodszej siostry i chce mieć taką samą liczbę każdego przedmiotu. Jaka jest najmniejsza liczba paczek talerzy, którą Shaniya musi kupić?",
+        "answer": "24 "
+    },
+    {
+        "question": "Evan dostarcza przesyłki w budynku. Zaczął od pierwszego piętra i wszedł na 7 pięter. Zszedł 3 piętra w dół, a potem wszedł 16 pięter w górę. Następnie był tylko 2 piętra od szczytu budynku. Ile pięter jest w budynku w sumie?",
+        "answer": "23 "
+    },
+    {
+        "question": "Jane może ułożyć 16 wazonów z kwiatami w ciągu jednego dnia. Jeśli jest 248 wazonów z kwiatami do ułożenia, ile dni zajmie jej ułożenie wszystkich kwiatów?",
+        "answer": "16 "
+    },
+    {
+        "question": "Jared jest właścicielem sklepu z narzędziami i przegląda swoje poprzednie zamówienia. Sklep z narzędziami Jareda zamówił 5 wiertarek w styczniu, 6 wiertarek w lutym, 8 wiertarek w marcu i 11 wiertarek w kwietniu. Jeśli ten schemat się utrzyma, ile wiertarek zamówi sklep w maju?",
+        "answer": "15 "
+    },
+    {
+        "question": "Andy kupuje baterie AA i baterie D. Sklep sprzedaje baterie AA w paczkach po 38 sztuk, a baterie D w paczkach po 44 sztuki. Jeśli Andy chce kupić taką samą liczbę baterii AA i D, jaka jest najmniejsza liczba baterii każdego typu, jaką może kupić?",
+        "answer": "836 "
+    },
+    {
+        "question": "W klasie jest 32 uczniów. Nauczyciel podzielił ich na 5 równych grup. Ilu uczniów zostało?",
+        "answer": "2 "
+    },
+    {
+        "question": "Sam i Carlos grają w kręgle plastikowymi kręglami w salonie Sama. Co ciekawe, Sam strąca 8 kręgli w każdej kuli, a Carlos strąca 9 kręgli w każdej kuli. Pod koniec dnia Sam i Carlos strącają taką samą liczbę kręgli. Jaka jest najmniejsza liczba kręgli, jaką Sam i Carlos mogliby strącić?",
+        "answer": "72 "
+    },
+    {
+        "question": "W czwartej klasie było 35 uczniów na początku roku. W ciągu roku 10 uczniów odeszło, a 10 nowych przyszło do szkoły. Ilu uczniów było w czwartej klasie pod koniec?",
+        "answer": "35 "
+    },
+    {
+        "question": "Carol grała w grę quizową. W pierwszej rundzie zdobyła 17 punktów, a w drugiej 6. W ostatniej rundzie straciła 16 punktów. Ile punktów miała na koniec gry?",
+        "answer": "7.0"
+    },
+    {
+        "question": "Restauracja podała 7 kawałków ciasta na lunch i 5 na kolację dzisiaj. Wczoraj podano ich 8. Ile kawałków ciasta podano dzisiaj?",
+        "answer": "12.0"
+    },
+    {
+        "question": "Pudełko może pomieścić siedem brownie. Jeśli piekarz zrobił trzysta czterdzieści dziewięć brownie, ile pełnych pudełek brownie zrobił?",
+        "answer": "49 "
+    },
+    {
+        "question": "Jason i Lexi odkładają książki w bibliotece publicznej. Jason odkłada 6 książek na raz, podczas gdy Lexi odkłada 17 na raz. Jeśli skończą odkładając tę samą liczbę książek, jaka jest najmniejsza liczba książek, którą każdy z nich mógłby odłożyć?",
+        "answer": "102 "
+    },
+    {
+        "question": "Bianca miała 45 kolorowanek. Gdyby oddała 6 z nich, ale potem kupiła 20 więcej, ile miałaby ich w sumie?",
+        "answer": "59.0"
+    },
+    {
+        "question": "Derek zbiera kwiaty w ogrodzie. Zerwał 18 kwiatów z pierwszego krzewu, 22 kwiaty z drugiego krzewu, 26 kwiatów z trzeciego krzewu, 30 kwiatów z czwartego krzewu i 34 kwiaty z piątego krzewu. Jeśli ten schemat się utrzyma, ile kwiatów Derek zbierze z szóstego krzewu?",
+        "answer": "38 "
+    },
+    {
+        "question": "Pole trójkąta prostokątnego wynosi 32 cm2. Jeśli podstawa ma 8 cm, znajdź jej wysokość.",
+        "answer": "8 "
+    },
+    {
+        "question": "Dwóch entuzjastów rowerów opuszcza Cincinnati w tym samym czasie. Jeden jedzie 840 mil do Bostonu. Drugi 440 mil do Atlanty. Jaka jest największa liczba mil dziennie, jaką każdy z nich może przejechać, jeśli chcą pokonywać równe odległości każdego dnia?",
+        "answer": "40 "
+    },
+    {
+        "question": "Podczas sortowania koralików Jenna włożyła 74 koraliki do pierwszego słoika, 83 koraliki do drugiego słoika, 92 koraliki do trzeciego słoika i 101 koralików do czwartego słoika. Jeśli ten wzór będzie kontynuowany, ile koralików Jenna włoży do piątego słoika?",
+        "answer": "110 "
+    },
+    {
+        "question": "Kimberly ma 5 Skittlesów. Kupuje 7 kolejnych. Później Kimberly kupuje 18 pomarańczy w sklepie. Ile Skittlesów ma w sumie Kimberly?",
+        "answer": "12.0"
+    },
+    {
+        "question": "Jazmin kończy projekt artystyczny. Ma dwa kawałki papieru budowlanego. Pierwszy kawałek ma 44 cale szerokości, a drugi 33 cale szerokości. Jazmin chce pociąć papier na paski o równej szerokości i jak najszersze. Jaką szerokość powinna mieć każdy pasek?",
+        "answer": "11 "
+    },
+    {
+        "question": "Ściana fontanny w parku rozrywki Zee ma kształt trójkąta równobocznego. Całkowity obwód ściany wynosi 51 jardów. Znajdź miarę każdej strony ściany.",
+        "answer": "17 "
+    },
+    {
+        "question": "Na farmie jest 22 psów. Mieszkają po równo w 5 budach dla psów. Ile psów zostało?",
+        "answer": "2 "
+    },
+    {
+        "question": "Serena chce przygotować torebki na przekąski na wyjazd. Ma 6 batoników zbożowych i 10 kawałków suszonych owoców. Jeśli torebki na przekąski mają być identyczne, bez resztek jedzenia, ile torebek na przekąski Serena może przygotować?",
+        "answer": "2 "
+    },
+    {
+        "question": "Malarz potrzebował pomalować 11 pokoi w budynku. Malowanie każdego pokoju zajmuje 7 godzin. Jeśli pomalował już 2 pokoje, ile jeszcze zajmie mu pomalowanie reszty?",
+        "answer": "63.0"
+    },
+    {
+        "question": "Chcę zasadzić 45 roślin słonecznika, 81 roślin kukurydzy i 63 rośliny pomidorów w moim ogrodzie. Jeśli posadzę taką samą liczbę roślin w każdym rzędzie, a każdy rząd będzie miał tylko jeden rodzaj rośliny, jaka jest największa liczba roślin, którą mogę posadzić w jednym rzędzie?",
+        "answer": "9 "
+    },
+    {
+        "question": "Jeden batonik zawiera 31 kalorii. Ile kalorii jest w 11 batonikach?",
+        "answer": "341.0"
+    },
+    {
+        "question": "Powierzchnia prostokątnego ogrodu wynosi 1800 stóp kwadratowych. Znajdź szerokość, jeśli jego wysokość wynosi 40 stóp.",
+        "answer": "45 "
+    },
+    {
+        "question": "Autobus Hailey jest trzeci w kolejce. Autobus Danny'ego jest 3 autobusy za jej autobusem. Na którym miejscu w kolejce jest autobus Danny'ego?",
+        "answer": "6"
+    },
+    {
+        "question": "Trzykrotna suma liczby i 2 równa się 24 dodana do tej samej liczby. Napisz równanie algebraiczne i znajdź liczbę.",
+        "answer": "9"
+    },
+    {
+        "question": "Na Halloween Debby i jej siostra połączyły cukierki, które dostały. Debby miała 32 cukierki, a jej siostra 42. Jeśli zjadły 35 cukierków pierwszej nocy, ile cukierków im zostało?",
+        "answer": "39 "
+    },
+    {
+        "question": "David ma 8 bananów. Dostaje 50 więcej od Christophera. Później David kupuje 9 kart w sklepie. Ile bananów ma w sumie David?",
+        "answer": "58.0"
+    },
+    {
+        "question": "Po zapłaceniu 6 dolarów za ciasto, Mary ma 52 dolary, jej przyjaciółka ma 43 dolary. Ile pieniędzy miała przed zakupem ciasta?",
+        "answer": "58.0"
+    },
+    {
+        "question": "Podczas wykonywania utworu muzycznego Jacob uderza w talerze co 7 uderzeń, a trójkąt co 2 uderzenia. Jeśli uderzyłby w oba w tym samym czasie, ile uderzeń upłynie, zanim znów uderzyłby w nie w tym samym czasie?",
+        "answer": "14 "
+    },
+    {
+        "question": "Joyce ma 8 jajek. Marie daje Joyce jeszcze 6. Później Joyce kupuje w sklepie 13 gumek. Ile jajek ma w sumie Joyce?",
+        "answer": "14.0"
+    },
+    {
+        "question": "Kwadratowy kawałek szkła ma powierzchnię 64 centymetrów kwadratowych. Jak długi jest każdy bok?",
+        "answer": "8 "
+    },
+    {
+        "question": "Szkoła kupiła 54 piłki do koszykówki i rozdzieliła je równo między 7 klas. Ile piłek do koszykówki zostało?",
+        "answer": "5 "
+    },
+    {
+        "question": "Jerry pomagał pracownikom stołówki podnosić tace z lunchem, ale mógł nieść tylko 8 tac na raz. Gdyby musiał podnieść 9 tac z jednego stołu i 7 tac z drugiego, ile razy by to zrobił?",
+        "answer": "2.0"
+    },
+    {
+        "question": "Adam malował ramę obrazu. Rama miała 6 cali szerokości i 9 cali wysokości. Jaki jest obwód ramy obrazu?",
+        "answer": "30 "
+    },
+    {
+        "question": "Gospodarstwo miało 7 mil szerokości i 8 mil długości. Jaka jest powierzchnia gospodarstwa?",
+        "answer": "56 "
+    },
+    {
+        "question": "Allie ma 5 książek matematycznych i 10 książek naukowych. Jeśli chce je równomiernie rozdzielić na kilka półek, tak aby każda półka miała taką samą kombinację książek matematycznych i naukowych, bez żadnych zbędnych książek, jaka jest największa liczba półek, z których Allie może skorzystać?",
+        "answer": "5 "
+    },
+    {
+        "question": "Marian przygotowała również 59 rogalików, które planuje dać swoim 8 sąsiadom. Jeśli każdy sąsiad otrzymałby taką samą liczbę rogalików, ile zostanie u Marian?",
+        "answer": "3 "
+    },
+    {
+        "question": "Khan Corporation chciałaby przekazać 48 komputerów i 32 drukarki lokalnym szkołom. Korporacja chciałaby się upewnić, że każda szkoła otrzyma ten sam zestaw komputerów i drukarek, bez żadnych zbędnych. Jaka jest największa liczba szkół, którym Khan Corporation może przekazać darowiznę?",
+        "answer": "16 "
+    },
+    {
+        "question": "Pudełko babeczek kosztowało sześć dolarów. Gdybyś miał osiemset dwadzieścia jeden dolarów i kupił tyle pudełek, ile tylko możesz, ile pieniędzy by ci zostało?",
+        "answer": "5 "
+    },
+    {
+        "question": "Na kręgielni było 31 grup ludzi. Jeśli łączna liczba osób wynosiła 177, ile osób było w każdej grupie?",
+        "answer": "6 "
+    },
+    {
+        "question": "Pociąg pokonał pewną odległość z jednostajną prędkością. Gdyby pociąg był szybszy o 6 km/h, podróż trwałaby 8 godzin krócej niż planowano, a gdyby był wolniejszy o 6 km/h, podróż trwałaby 12 godzin dłużej niż planowano. Oblicz długość podróży.",
+        "answer": "1440 "
+    },
+    {
+        "question": "W parku było 86 drzew. 15 z nich obumarło, a kolejne 23 zostały wycięte. Ile drzew jeszcze zostało?",
+        "answer": "48 "
+    },
+    {
+        "question": "Lemon Heads są pakowane po 3 sztuki. Patricia zjadła 15 Lemon Heads. Ile Lemon Heads jej zostało?",
+        "answer": "0 "
+    },
+    {
+        "question": "Sally miała 39 kart baseballowych i 9 z nich było podartych. Sara kupiła 24 karty baseballowe Sally. Ile kart baseballowych ma teraz Sally?",
+        "answer": "15.0"
+    },
+    {
+        "question": "Mapa gry wideo miała 10 metrów szerokości i 2 metry długości. Jaki jest jej obszar?",
+        "answer": "20 "
+    },
+    {
+        "question": "Jest 10 kształtów. Ile zostanie po zrobieniu grup po 5?",
+        "answer": "0 "
+    },
+    {
+        "question": "Tammy przejechała 55 mil w godzinę. W takim tempie, ile może przejechać w 36 godzin?",
+        "answer": "1980.0"
+    },
+    {
+        "question": "Charlie ma o 31 śnieżek więcej niż Lucy. Ona ma 19 śnieżek. Ile ma Charlie?",
+        "answer": "50.0"
+    },
+    {
+        "question": "Każda strona kwadratowej płytki kuchennej ma 7 cali długości. Jaka jest powierzchnia płytki?",
+        "answer": "49 "
+    },
+    {
+        "question": "George porównywał punkty zdobyte przez Bulls w różnych grach. Zanotował: 81, 73, 83, 86 i 73. Jaka jest średnia zdobytych punktów?",
+        "answer": "79.2 "
+    },
+    {
+        "question": "Pani Hilt ma ramę obrazu o wysokości 12 cali i długości 10 cali. Jaki jest obwód tej ramki obrazu?",
+        "answer": "44 "
+    },
+    {
+        "question": "Diane ma 37 kredek. Dostaje 5 kolejnych od Frances. Później Diane kupuje 16 kartek w sklepie. Ile kredek ma w sumie Diane?",
+        "answer": "42.0"
+    },
+    {
+        "question": "Firma kupowała nowe uniformy dla swoich pracowników. Kupili w sumie 121 uniformów do swoich 32 sklepów. Ile uniformów powinien dostać każdy sklep?",
+        "answer": "4 "
+    },
+    {
+        "question": "Trawnik miał powierzchnię 20 stóp kwadratowych. Jeśli miał 5 stóp szerokości, jaka była jego długość?",
+        "answer": "4 "
+    },
+    {
+        "question": "Melanie ma kawałki torów kolejowych o długości 8 cali, które łączy ze sobą, aby utworzyć tor, po którym może poruszać się jej pociąg. Martin również próbuje zbudować tor dla swojego pociągu, ale używa kawałków torów o długości 20 cali. Jak długi będzie najkrótszy tor, jeśli tor zbudowany przez Melanie będzie miał taką samą długość jak tor Martina?",
+        "answer": "40 "
+    },
+    {
+        "question": "Matt miał 4 małe puszki złotej farby. Jeśli 34 gwiazdy, które zrobili, miałyby być rozdzielone równo między puszki farby, ile gwiazd pozostałoby niepomalowanych?",
+        "answer": "2 "
+    },
+    {
+        "question": "Luke miał 9 cukierków. Jeśli chce podzielić cukierki na 2 torebki z taką samą ilością cukierków w każdej torebce, ile jeszcze cukierków będzie mu potrzebnych, aby mieć pewność, że każda torebka będzie miała taką samą ilość?",
+        "answer": "1 "
+    },
+    {
+        "question": "Jeśli Simon musi wykonać 519 toreb prezentowych w tempie 42 toreb dziennie, ile dni potrzebuje na wykonanie wszystkich pudełek prezentowych?",
+        "answer": "13 "
+    },
+    {
+        "question": "Prostokątny basen miał 3 metry szerokości i powierzchnię 30 metrów kwadratowych. Jaka jest długość basenu?",
+        "answer": "10 "
+    },
+    {
+        "question": "W sklepie z filmami było 9 filmów, które umieszczano na 2 półkach. Gdyby właściciel chciał mieć pewność, że na każdej półce będzie tyle samo filmów, ile filmów więcej by potrzebował?",
+        "answer": "1 "
+    },
+    {
+        "question": "Mapa gry wideo miała całkowitą powierzchnię 10 metrów kwadratowych. Jeśli mapa miała 5 metrów długości, jaka była jej szerokość?",
+        "answer": "2 "
+    },
+    {
+        "question": "Marie może jechać na rowerze z prędkością 12 mil na godzinę. Jak daleko może przejechać rowerem w ciągu 31 godzin?",
+        "answer": "372.0"
+    },
+    {
+        "question": "Jeżeli 28 jest mniejsze niż pięć razy pewna liczba wynosi 232. Jaka to liczba?",
+        "answer": "52"
+    },
+    {
+        "question": "Wazon może pomieścić siedem kwiatów. Gdyby florysta miał dziewięćset pięć kwiatów, które chciałby umieścić po równo w wazonach, ile kwiatów znalazłoby się w ostatnim wazonie, który nie jest pełny?",
+        "answer": "2 "
+    },
+    {
+        "question": "Wyspa na Oceanie Atlantyckim miała 2 mile szerokości i 6 mil długości. Jaka jest powierzchnia wyspy?",
+        "answer": "12 "
+    },
+    {
+        "question": "Kwadratowy ogród ma obwód 48 metrów. Staw w ogrodzie ma powierzchnię 20 metrów kwadratowych. Jaka jest powierzchnia ogrodu, której nie zajmuje staw?",
+        "answer": "124 "
+    },
+    {
+        "question": "Jaden kompletuje apteczki pierwszej pomocy. Ma 39 dużych bandaży i 26 małych bandaży i chce, aby każdy zestaw był identyczny, bez żadnych zbędnych bandaży. Jaka jest największa liczba apteczek pierwszej pomocy, jaką Jaden mógłby przygotować?",
+        "answer": "13 "
+    },
+    {
+        "question": "W torbie są cztery kartki papieru. Na każdej kartce jest numer. Numery to 19, 23, 34 i 38. Harry wyjął jedną kartkę papieru. Suma pozostałych numerów wynosiła 76. Jaką liczbę Harry wyjął z torby?",
+        "answer": "38"
+    },
+    {
+        "question": "Pan Lee zebrał 495 jabłek i równomiernie je zapakował do kilku koszyków. Jeśli w każdym koszyku było 25 jabłek, ile jabłek pozostało nierozpakowanych?",
+        "answer": "20 "
+    },
+    {
+        "question": "Shannon robi identyczne kompozycje z balonów na imprezę. Ma 32 bordowe balony, 24 białe balony i 16 pomarańczowych balonów. Chce, aby każda kompozycja miała taką samą liczbę każdego koloru. Jaka jest największa liczba kompozycji, którą może zrobić, jeśli wykorzysta wszystkie balony?",
+        "answer": "8 "
+    },
+    {
+        "question": "Roger zebrał 42 pensy, 36 nikli i 15 dziesięciocentówek. Podarował część swoich monet i zostało mu 27 monet. Ile monet podarował Roger?",
+        "answer": "66 "
+    },
+    {
+        "question": "Wholesome Bakery upiekło 5 bochenków chleba w środę, 7 bochenków chleba w czwartek, 10 bochenków chleba w piątek, 14 bochenków chleba w sobotę i 19 bochenków chleba w niedzielę. Jeśli ten schemat się utrzyma, ile bochenków chleba upieką w poniedziałek?",
+        "answer": "25 "
+    },
+    {
+        "question": "Restauracja dodała nową sekcję zewnętrzną o powierzchni 35 stóp kwadratowych. Miała 7 stóp szerokości. Jak długa jest ich nowa sekcja?",
+        "answer": "5 "
+    },
+    {
+        "question": "Ramon pracuje w supermarkecie. Położył 26 pudełek Choco Delights na półce. Było tam już 15 pudełek. Później tego dnia Ramon naliczył 22 pudełka na półce. Ile pudełek Choco Delights brakowało?",
+        "answer": "19 "
+    },
+    {
+        "question": "Zbiegiem okoliczności, Monica's Obedience School wyszkoliła w zeszłym tygodniu taką samą liczbę psów i kotów. Szkoła uczy psy w grupach po 18 osób, a koty w grupach po 3 osoby. Jaka jest najmniejsza liczba kotów, jaką mogła mieć szkoła?",
+        "answer": "18 "
+    },
+    {
+        "question": "Cody miał 36 pudełek. Razem pudełka ważyły 243 kilogramy. Ile mniej więcej ważyło każde pudełko?",
+        "answer": "6 "
+    },
+    {
+        "question": "Jest 757 funtów piasku do wypełnienia worków. Jeśli każdy worek ma pojemność 65 funtów, ile funtów piasku jest w worku, który nie jest pełny?",
+        "answer": "42 "
+    },
+    {
+        "question": "Pan Lee zebrał 495 jabłek i równomiernie je zapakował do kilku koszyków. Jeśli w każdym koszyku jest 25 jabłek, ile jest koszyków jabłek?",
+        "answer": "19 "
+    },
+    {
+        "question": "Na farmie jest 22 psów. Mieszkają po równo w 5 budach dla psów. Ile psów jest w każdej budzie?",
+        "answer": "4 "
+    },
+    {
+        "question": "Jeśli Lillian podzieliła 20 cukierków Skittles pomiędzy 8 osób w swojej klasie i zachowała resztę, ile cukierków dostał każdy z jej kolegów?",
+        "answer": "2 "
+    },
+    {
+        "question": "Pracownik musi pociąć linę o długości 27 jardów na kilka długich kawałków po 4 jardy każdy i kilka krótkich kawałków po 1 jard każdy. Aby uzyskać jak najmniej kawałków, ile długich kawałków należy pociąć?",
+        "answer": "6 "
+    },
+    {
+        "question": "W szufladzie jest 33 ołówków i 44 kredek. Joan umieściła 27 ołówków w szufladzie. Ile ołówków jest teraz w sumie?",
+        "answer": "60.0"
+    },
+    {
+        "question": "Pan Lee rozdawał wstążki za pierwsze miejsce po każdym wydarzeniu. Na starcie miał 38 wstążek. Rano rozdał 14 wstążek. Po południu rozdał 16 wstążek. Ile wstążek zostało panu Lee?",
+        "answer": "8 "
+    },
+    {
+        "question": "Drut jest cięty na kilka mniejszych kawałków. Każdy z mniejszych kawałków jest wyginany w kwadraty. Każdy kwadrat ma bok o długości 2 centymetrów. Całkowita powierzchnia mniejszych kwadratów wynosi 92 centymetry kwadratowe. Jaka była pierwotna długość drutu?",
+        "answer": "184 "
+    },
+    {
+        "question": "Rachel kupiła papier do pakowania na Boże Narodzenie, który miał 4 stopy długości i powierzchnię 20 stóp kwadratowych. Jaka jest szerokość papieru do pakowania?",
+        "answer": "5 "
+    },
+    {
+        "question": "Jeśli Tom planuje naprawić 158 zegarków w tempie 12 zegarków dziennie, ile zegarków naprawi ostatniego dnia?",
+        "answer": "2 "
+    },
+    {
+        "question": "Prostokąt miał długość 2 cali i szerokość 4 cali. Jakie jest pole prostokąta?",
+        "answer": "8 "
+    },
+    {
+        "question": "Eddie myśli o liczbie, która jest podzielna zarówno przez 8, jak i 5. Jaka jest najmniejsza możliwa liczba, o której mógłby pomyśleć Eddie?",
+        "answer": "40"
+    },
+    {
+        "question": "Destiny właśnie dostała dwa oddzielne prezenty od swojej praprababci. Pierwszy prezent to pudełko 18 batoników czekoladowych, a drugi to paczka 12 ciasteczek. Destiny chce wykorzystać wszystkie batoniki czekoladowe i ciasteczka, aby zrobić identyczne torebki na przekąski dla swoich kuzynów. Jaka jest największa liczba torebek na przekąski, jaką Destiny może zrobić?",
+        "answer": "6 "
+    },
+    {
+        "question": "Billy próbował pobić swój stary wynik siedmiuset dwudziestu pięciu punktów w grze wideo. Jeśli zdobywa dokładnie dwa punkty w każdej rundzie, ile rund musiałby rozegrać, aby pobić swój stary wynik?",
+        "answer": "363 "
+    },
+    {
+        "question": "Ciasteczka Girl Scout są pakowane po 12 pudełek w pudełku. Scout Deborah sprzedała 31 pudełek Lemon Chalet Cremes. Ile pudełek nie będzie pakowanych w pudełku?",
+        "answer": "7 "
+    },
+    {
+        "question": "W liczbie dwucyfrowej suma dwóch cyfr wynosi 9. Jeżeli zamienimy cyfry, liczba wzrośnie o 9. Znajdź tę liczbę.",
+        "answer": "45"
+    },
+    {
+        "question": "Virginia miała 13 Sweettarts. Jeśli Virginia dała 4 swoim przyjaciołom taką samą liczbę Sweettarts, a następnie zjadła to, co zostało, ile Sweettarts zjadła każda osoba?",
+        "answer": "3 "
+    },
+    {
+        "question": "Bill zauważył dwa rodzaje ptaków w krzakach: wróble i papugi. Podczas gdy wróble były w stadach po 13 osobników, papugi były w stadach po 14 osobników. Gdyby Bill zaobserwował taką samą łączną liczbę wróbli i papug, jaka byłaby najmniejsza liczba wróbli, którą mógłby zaobserwować?",
+        "answer": "182 "
+    },
+    {
+        "question": "Mike serwuje warzywa w jadłodajni dla ubogich. Ma 15 marchewek w słupkach i 10 młodych ziemniaków, które chce podzielić równo, bez resztek jedzenia. Jaka jest największa liczba talerzy, które Mike może przygotować?",
+        "answer": "5 "
+    },
+    {
+        "question": "Łowca skarbów odkrył zakopaną skrzynię ze skarbami wypełnioną łącznie 5155 klejnotami. 45 z nich to diamenty, a reszta to rubiny. Ile klejnotów to rubiny?",
+        "answer": "5110.0"
+    },
+    {
+        "question": "Paul miał 7 kart baseballowych, które wkładał do segregatora, po 3 na każdej stronie. Ile kart będzie miał na stronie, która nie jest pełna?",
+        "answer": "1 "
+    },
+    {
+        "question": "Benny znalazł 66 muszelek i 49 rozgwiazd na plaży. Dał 52 muszelki Jasonowi. Ile muszelek ma teraz Benny?",
+        "answer": "14.0"
+    },
+    {
+        "question": "Obwód prostokątnej deski do krojenia wynosi 50 cali. Ma 10 cali szerokości. Jaką ma długość?",
+        "answer": "15 "
+    },
+    {
+        "question": "Kathleen jest przedstawicielką handlową w branży stomatologicznej, która chce rozprowadzić 18 broszur i 12 ulotek do lokalnych gabinetów stomatologicznych. Chce dostarczyć tę samą kombinację broszur i ulotek do każdego gabinetu, nie zostawiając żadnych materiałów. Do jakiej największej liczby gabinetów stomatologicznych Kathleen może rozprowadzić materiały?",
+        "answer": "6 "
+    },
+    {
+        "question": "Nancy kupiła napój bezalkoholowy za 4 dolary i 6 batoników. Wydała łącznie 28 dolarów. Ile kosztował każdy batonik?",
+        "answer": "4 "
+    },
+    {
+        "question": "Shannon i jej rodzina zużywają dużo galaretki truskawkowej i jagodowej, ponieważ jedzą tosty każdego ranka. W tej chwili mają łącznie 6310 gramów galaretki. Jeśli mają 4518 gramów galaretki jagodowej, ile gramów galaretki truskawkowej mają?",
+        "answer": "1792.0"
+    },
+    {
+        "question": "Sandy wyhodowała 8 marchewek i 7 rzepek. Mary wyhodowała 6 marchewek. Ile marchewek wyhodowały w sumie?",
+        "answer": "14.0"
+    },
+    {
+        "question": "Luke miał 48 dolarów w styczniu. Do marca wydał 11 dolarów. Gdyby dostał od mamy kolejne 21 dolarów, ile pieniędzy by miał?",
+        "answer": "58 "
+    },
+    {
+        "question": "Kuchnia kwadratowa ma powierzchnię 100 stóp kwadratowych. Jaki jest obwód kuchni?",
+        "answer": "40 "
+    },
+    {
+        "question": "Papierowa torba może pomieścić 16 ciasteczek. Jeśli Edgar kupi 292 ciasteczek, ile papierowych toreb będzie potrzebował?",
+        "answer": "19 "
+    },
+    {
+        "question": "Sam włożył 86 precli do miski na przyjęcie. Jego przyjaciele zjedli 49 z nich. Sam włożył 27 kolejnych precli. Ile precli było wtedy w misce?",
+        "answer": "64 "
+    },
+    {
+        "question": "Podczas porządkowania magazynów w gabinecie lekarskim Blanca umieściła 3 magazyny w pierwszym stosie, 4 magazyny w drugim stosie, 6 magazynów w trzecim stosie i 9 magazynów w czwartym stosie. Jeśli ten schemat się utrzyma, ile magazynów Blanca umieści w piątym stosie?",
+        "answer": "13 "
+    },
+    {
+        "question": "Carol robi naszyjniki z koralików dla swoich przyjaciół. Ma 159 koralików, a każdy naszyjnik wymaga 37 koralików. Ile naszyjników może zrobić Carol?",
+        "answer": "4 "
+    },
+    {
+        "question": "Przygotowując się do przyjęcia, Brant układa desery na półmiskach. Ciasto czekoladowe jest krojone na 15 kawałków, a sernik na 6 kawałków. Jeśli chce przygotować identyczne półmiski bez pozostawienia ciasta, jaka jest największa liczba półmisków, które może przygotować?",
+        "answer": "3 "
+    },
+    {
+        "question": "Linie lotnicze mają 41 sztuk bagażu do odłożenia. Jeśli każdy przedział bagażowy pomieści 5 sztuk bagażu, ile z nich będzie w przedziale, który nie jest pełny?",
+        "answer": "1 "
+    },
+    {
+        "question": "Oscar musi wysłać 14 płyt CD z muzyką rockową, 12 płyt CD z muzyką klasyczną i 8 płyt CD z muzyką pop. Może spakować tylko jeden rodzaj płyt CD do każdego pudełka i musi spakować taką samą liczbę płyt CD do każdego pudełka. Jaka jest największa liczba płyt CD, którą Oscar może spakować do każdego pudełka?",
+        "answer": "2 "
+    },
+    {
+        "question": "Bob uderza w bębny co 9 sekund, a w talerze co 12 sekund. Jeśli uderzyłby w oba w tym samym czasie, ile sekund upłynie, zanim znów uderzyłby w nie w tym samym czasie?",
+        "answer": "36 "
+    },
+    {
+        "question": "George próbuje zarobić sto dziewiętnaście dolarów na nowe zabawki. Jeśli pobiera trzy dolary za skoszenie trawnika, ile trawników będzie musiał skosić, aby zarobić pieniądze?",
+        "answer": "40 "
+    },
+    {
+        "question": "W John's Pizza Palace w ciągu 6 godzin otwarcia sprzedano następującą liczbę pizz: 92 pepperoni, 106 kiełbasek, 96 serów, 104 pieczarek, 96 anchois i 88 ananasów. Jaka jest średnia liczba sprzedanych pizz?",
+        "answer": "97 "
+    },
+    {
+        "question": "Las za domem Jerry'ego miał 6 mil szerokości i 3 mile długości. Jaka jest powierzchnia lasu?",
+        "answer": "18 "
+    },
+    {
+        "question": "Suma cyfr liczby dwóch wynosi 15. Liczba jest zmniejszona o 27, cyfry są odwrócone. Znajdź liczbę.",
+        "answer": "96"
+    },
+    {
+        "question": "Robin miała 30 piosenek na swoim odtwarzaczu mp3. Jeśli usunęła z niego 8 starych piosenek, a następnie dodała 10 nowych, ile piosenek ma na swoim odtwarzaczu mp3?",
+        "answer": "32 "
+    },
+    {
+        "question": "Maria ma 3 pudełka z jajkami. Każde pudełko mieści 7 jajek, a w pudełku jest 8 pudełek. Ile jajek ma Maria?",
+        "answer": "21.0"
+    },
+    {
+        "question": "Stacja radiowa Z-100 rozdawała banknot 100 dolarowy co setnemu dzwoniącemu podczas konkursu i dawała bilety na Jingle Ball co 40 dzwoniącemu. Ilu dzwoniących musi zadzwonić, aby ktoś wygrał banknot 100 dolarowy i bilet na Jingle Ball?",
+        "answer": "200 "
+    },
+    {
+        "question": "Kevin zebrał zabawki, aby wykorzystać je jako nagrody na jarmarku. Zebrał 14 pluszowych zwierząt. Zebrał również 18 frisbee i kilka jo-jo. Kevin ma w sumie 50 nagród. Ile jo-jo zebrał Kevin?",
+        "answer": "18 "
+    },
+    {
+        "question": "Jeśli odejmiemy pięć od trzykrotności pewnej liczby, wynikiem będzie 10. Jaka to liczba?",
+        "answer": "5"
+    },
+    {
+        "question": "Robin robi naszyjniki z koralików. Chce użyć 31 koralików, aby zrobić 4 naszyjniki. Jeśli chce, aby każdy naszyjnik miał taką samą liczbę koralików, ile koralików jej zostanie?",
+        "answer": "3 "
+    },
+    {
+        "question": "Brenda chce podzielić zbiór gumek na grupy po 90 sztuk. Brenda ma 270 gumek. Ile grup zostanie utworzonych?",
+        "answer": "3.0"
+    },
+    {
+        "question": "Kate ma 12 lat. Jest 4 razy starszy od Robbiego. Znajdź wiek Robbiego.",
+        "answer": "3 "
+    },
+    {
+        "question": "Twoja lokalna stacja radiowa organizuje coroczną rozdawnictwo odtwarzaczy muzycznych i biletów na koncerty. Przez jedną minutę co piąty dzwoniący wygra odtwarzacz muzyczny, a co siódmy wygra bilety na koncerty. Byłeś pierwszym dzwoniącym, który wygrał odtwarzacz muzyczny i bilety na koncerty! Jaki numer wybrałeś?",
+        "answer": "35 "
+    },
+    {
+        "question": "Jennifer ma wstążkę o długości 87 cm. Używa 24 cm wstążki, aby zawiązać prezent dla swojej przyjaciółki i 45 cm wstążki, aby zrobić kokardę. Ile wstążki zostaje na końcu?",
+        "answer": "18 "
+    },
+    {
+        "question": "Cody policzył, ile razy ludzie temperowali ołówki na zajęciach w ciągu tygodnia. Policzył: 13, 8, 13, 21, 7 i 23. Jaka jest średnia tych liczb?",
+        "answer": "14.2 "
+    },
+    {
+        "question": "Jeśli Lawrence przeszedł 4 kilometry z prędkością 3 kilometrów na godzinę, jaki był czas jego marszu?",
+        "answer": "1.0"
+    },
+    {
+        "question": "Melody wydrukowała 53 identyczne rysunki bałwanów. Jeśli udało jej się przygotować karty z 4 identycznymi rysunkami bałwanów, ile kart udało jej się przygotować?",
+        "answer": "13 "
+    },
+    {
+        "question": "Vivian wysłała 5 przesyłek pocztowych w kwietniu, 10 przesyłek pocztowych w maju, 20 przesyłek pocztowych w czerwcu i 40 przesyłek pocztowych w lipcu. Jeśli ten schemat się utrzyma, ile przesyłek pocztowych Vivian wyśle w sierpniu?",
+        "answer": "80 "
+    },
+    {
+        "question": "Nancy kupiła 615 kredek w paczkach po 15 sztuk. Ile paczek kredek kupiła Nancy?",
+        "answer": "41.0"
+    },
+    {
+        "question": "Karuzela ma okrągłą platformę o średnicy 2 jardów. Jaka jest powierzchnia platformy?",
+        "answer": "3.14 "
+    },
+    {
+        "question": "Lemon Heads są pakowane po 6 sztuk. Louis zjadł 54 Lemon Heads. Ile całych pudełek zjadł i ile Lemon Heads mu zostało?",
+        "answer": "9.0"
+    },
+    {
+        "question": "Mary miała 33 karty Pokemon i 6 było podartych. Sam dał Mary 23 nowe karty Pokemon. Ile kart Pokemon ma teraz Mary?",
+        "answer": "56.0"
+    },
+    {
+        "question": "Urząd pocztowy ma pięćset osiemdziesiąt dwa kawałki poczty śmieciowej, które chce równo podzielić między siedem ciężarówek pocztowych. Ile dodatkowych sztuk poczty śmieciowej będzie mieć, jeśli każdej ciężarówce rozda się taką samą ilość?",
+        "answer": "1 "
+    },
+    {
+        "question": "Stosunek długości prostokąta do jego szerokości wynosi 6:5. Jego długość wynosi 24 cale. Jaka jest jego szerokość?",
+        "answer": "20 "
+    },
+    {
+        "question": "Tommy ma 79$. Chce kupić aparat za 35$. Chce też kupić odtwarzacz CD za 59$. Ile jeszcze pieniędzy potrzebuje Tommy?",
+        "answer": "15 "
+    },
+    {
+        "question": "Camryn ćwiczy trąbkę co 11. dzień, a flet co 3. dzień. Camryn ćwiczyła dziś zarówno trąbkę, jak i flet. Ile dni zostało do tego, aby Camryn ćwiczyła trąbkę i flet ponownie tego samego dnia?",
+        "answer": "33 "
+    },
+    {
+        "question": "Pojemność zbiornika wynosi 32 galony. Jeśli firma kupiła 728 galonów oleju, ile zbiorników jest potrzebnych, aby pomieścić cały olej?",
+        "answer": "23 "
+    },
+    {
+        "question": "Restauracja dodała nową sekcję zewnętrzną o szerokości 4 stóp i długości 6 stóp. Jaka jest powierzchnia nowej sekcji zewnętrznej?",
+        "answer": "24 "
+    },
+    {
+        "question": "Komitet organizujący maraton ma 16 dzbanków wody i 12 dzbanków napoju sportowego. Komitet chciałby ustawić kilka punktów odświeżania wzdłuż trasy maratonu, z taką samą kombinacją dzbanków wody i dzbanków napoju sportowego na każdym punkcie, bez zbędnych napojów. Jaka jest największa liczba punktów odświeżania, które można ustawić?",
+        "answer": "4 "
+    },
+    {
+        "question": "Stacja radiowa rozdawała banknot 100 dolarów za każdego setnego dzwoniącego. Co trzydziesty dzwoniący otrzymywał darmowe bilety na koncert. Ilu dzwoniących musi się dodzwonić, zanim ktoś z nich otrzyma kupon i bilet na koncert?",
+        "answer": "300 "
+    },
+    {
+        "question": "Henry i Margo zaczęli podróżować po torze kołowym. Henry jedzie na rowerze, a Margo idzie. Henry potrzebuje 7 minut, aby pokonać całą trasę, a Margo 12 minut. Ile czasu minie, zanim spotkają się na linii startu?",
+        "answer": "84 "
+    },
+    {
+        "question": "John miał 33 skarpetki. Gdyby wyrzucił 19 starych, które nie pasowały i kupił 13 nowych, ile skarpetek by miał?",
+        "answer": "27 "
+    },
+    {
+        "question": "Ariel robi kompozycje kwiatowe. Ma 7 róż i 14 stokrotek. Jeśli Ariel chce zrobić wszystkie kompozycje identyczne i nie mieć żadnych kwiatów, jaka jest największa liczba kompozycji kwiatowych, które może zrobić?",
+        "answer": "7 "
+    },
+    {
+        "question": "Carmen tworzy bukiety lizaków, używając 4 wiśniowych i 6 pomarańczowych lizaków. Chce, aby każdy bukiet był identyczny, bez resztek lizaków. Jaka jest największa liczba bukietów lizaków, jaką Carmen może stworzyć?",
+        "answer": "2 "
+    },
+    {
+        "question": "Mary kupiła fast food na lunch. Mary wydała 1,08 dolara na zupę i 4,80 dolara na sałatkę. Mary zapłaciła banknotem 20-dolarowym. Jaka była całkowita suma rachunku za lunch?",
+        "answer": "5.88"
+    },
+    {
+        "question": "Sklep z elektroniką miał 163 gry wideo. Gdyby umieścili je na półkach po 84 na każdej półce, ile półek by potrzebowali?",
+        "answer": "2 "
+    },
+    {
+        "question": "Sklep Monroe Vitamin Shop sprzedał dziś rano równe ilości suplementów witaminy A i witaminy D, mimo że suplementy witaminy A są sprzedawane w paczkach po 7, a suplementy witaminy D w paczkach po 17. Jaka jest najmniejsza liczba każdego rodzaju, jaką sklep mógł sprzedać?",
+        "answer": "119"
+    },
+    {
+        "question": "Daniel ma 44 pamiątkowe talerze i 33 pamiątkowe łyżki. Chce je eksponować w grupach w całym domu, każda z tą samą kombinacją talerzy i łyżek, bez niczego resztkowego. Jaka jest największa liczba grup, które Daniel może eksponować?",
+        "answer": "11 "
+    },
+    {
+        "question": "Bridget chce wygrać gigantycznego pluszowego misia pandę. Potrzebuje łącznie 75 punktów, aby go zdobyć. Bridget zdobyła już 35 punktów w stoisku z nagrodami. Zdobyła 18 punktów więcej w kolejnej próbie. Ile punktów jeszcze potrzebuje Bridget?",
+        "answer": "22 "
+    },
+    {
+        "question": "Różnica między dwiema liczbami wynosi 100. Jeśli jedna z liczb wynosi 91, znajdź drugą liczbę.",
+        "answer": "191"
+    },
+    {
+        "question": "Sklep z lustrami ma 78 luster w magazynie. 8 luster jest zepsutych, a 57 luster zostało sprzedanych. Ile luster zostało?",
+        "answer": "13 "
+    },
+    {
+        "question": "Jeśli 10 lat temu miał 25 lat, ile lat ma Rojer teraz?",
+        "answer": "35 "
+    },
+    {
+        "question": "Liści jest 84. Na każdym liściu jest 139 biedronek. Ile biedronek jest w sumie?",
+        "answer": "11676.0"
+    },
+    {
+        "question": "Haley i jej przyjaciele recyklingowali papier w swojej klasie. Za każde 3 funty, które poddali recyklingowi, zdobywali jeden punkt. Jeśli Haley poddała recyklingowi 11 funtów, a jej przyjaciele 16 funtów, ile punktów otrzymali?",
+        "answer": "9.0"
+    },
+    {
+        "question": "Sean gra w Monopoly ze swoimi przyjaciółmi. Ma już 27 domów. Sean wymienił 8 domów na pieniądze, aby kupić Park Place. Zebrał tyle czynszu, że postanowił kupić 12 kolejnych domów. Ile domów miał wtedy Sean?",
+        "answer": "31 "
+    },
+    {
+        "question": "W trójkącie równoramiennym jeden z kątów trójkąta ma 54 stopnie. Znajdź kąty podstawy trójkąta.",
+        "answer": "63 "
+    },
+    {
+        "question": "Firma Sullivan Stationery sprzedaje karty w paczkach po 20 sztuk i koperty w paczkach po 17 sztuk. Jeśli Vera chce kupić taką samą liczbę kartek, jaka jest minimalna liczba kartek, którą będzie musiała kupić?",
+        "answer": "340 "
+    },
+    {
+        "question": "Sandy sprzedała połowę swoich komiksów, a potem kupiła 6 kolejnych. Teraz ma ich 13. Od ilu zaczynała?",
+        "answer": "14.0"
+    },
+    {
+        "question": "Tim znalazł 37 muszelek, a Sally 13 na plaży. Kiedy je wyczyścili, odkryli, że 25 było popękanych. Ile muszelek znaleźli razem?",
+        "answer": "50.0"
+    },
+    {
+        "question": "Nauczycielka rozdaje swoim uczniom fiszki. Pierwszemu uczniowi dała 3 fiszki, drugiemu 12 fiszek, trzeciemu 48 fiszek, a czwartemu 192 fiszki. Jeśli ten schemat się utrzyma, ile fiszek nauczycielka da piątemu uczniowi?",
+        "answer": "768 "
+    },
+    {
+        "question": "Vondra przygotowuje torby z zakupami, które chce przekazać na cele charytatywne. Ma 7 pudełek makaronu z serem i 14 puszek warzyw. Vondra chce podzielić je równo, tak aby każda torba miała taką samą zawartość i aby nic nie zostało. Jaka jest największa liczba toreb z zakupami, które Vondra może przygotować?",
+        "answer": "7 "
+    },
+    {
+        "question": "Sachin mówi, że ma o 6 książek więcej niż 6 razy więcej książek ma Priyanka. Sachin ma 42 książki. Ile książek ma Priyanka?",
+        "answer": "6 "
+    },
+    {
+        "question": "Steve układa kubki; umieścił 17 plastikowych kubków w pierwszym stosie, 21 plastikowych kubków w drugim stosie, 25 plastikowych kubków w trzecim stosie i 29 plastikowych kubków w czwartym stosie. Jeśli ten schemat będzie kontynuowany, ile plastikowych kubków umieści Steve w piątym stosie?",
+        "answer": "33 "
+    },
+    {
+        "question": "Komiks kosztuje 37 centów. Właściciel sklepu przez pomyłkę zamienił cyfry. Napisał tę liczbę na komiksie. O ile właściciel sklepu zawyżył cenę swojego klienta?",
+        "answer": "36 "
+    },
+    {
+        "question": "Zachary zbiera puszki dla klubu recyklingu. Pierwszego dnia znalazł 4 puszki. Drugiego dnia znalazł 9 puszek. Trzeciego dnia znalazł 14 puszek. Jeśli ten schemat się utrzyma, ile puszek Twoim zdaniem znajdzie Zachary siódmego dnia?",
+        "answer": "34 "
+    },
+    {
+        "question": "Długość prostokątnego boiska wynosi 75 metrów. Jego szerokość wynosi 15 metrów. Sofie obiegła tor 3 razy. Jak daleko przebiegła?",
+        "answer": "540 "
+    },
+    {
+        "question": "Alec ma ogród i lubi wkładać kwiaty ze swojego ogrodu do ładnych wazonów. Alec włożył 5 kwiatów do pierwszego wazonu, 7 kwiatów do drugiego wazonu, 10 kwiatów do trzeciego wazonu i 14 kwiatów do czwartego wazonu. Jeśli ten schemat się utrzyma, ile kwiatów Alec włoży do piątego wazonu?",
+        "answer": "19 "
+    },
+    {
+        "question": "Każdy bok kwadratowej reklamy w gazecie ma 8 centymetrów długości. Jaki jest obwód reklamy w gazecie?",
+        "answer": "32 "
+    },
+    {
+        "question": "Beth ma 4 opakowania kredek. W każdym opakowaniu jest 10 kredek. Ma też 6 dodatkowych kredek. Ile kredek ma Beth w sumie?",
+        "answer": "40.0"
+    },
+    {
+        "question": "Bruno miał kilka książek z opowiadaniami. Stracił 4 z nich, a jego tata dał mu 10 kolejnych. Jeśli miał 39 książek po tym, ile książek miał Bruno na początku?",
+        "answer": "33 "
+    },
+    {
+        "question": "Nancy liczyła liczbę osób na różnych zabawkach na placu zabaw. Policzyła: 6, 12, 1, 12, 7, 3 i 8. Jaka jest średnia liczba osób?",
+        "answer": "7 "
+    },
+    {
+        "question": "Adam miał 5 dolarów. W sklepie wydał 2 dolary na nową grę. Jeśli dostałby kolejne 5 dolarów na kieszonkowe, ile pieniędzy miałby teraz?",
+        "answer": "8 "
+    },
+    {
+        "question": "Pani Hilt kupiła 6 hot dogów. Każdy hot dog kosztował 50 centów. Ile pieniędzy zapłaciła za wszystkie hot dogi?",
+        "answer": "300.0"
+    },
+    {
+        "question": "Łazienka miała długość 4 stóp i całkowitą powierzchnię 8 stóp kwadratowych. Jaka jest szerokość łazienki?",
+        "answer": "2 "
+    },
+    {
+        "question": "Heather lubi obserwować ptaki i w tym sezonie zaobserwowała dwa rodzaje ptaków: kaczki i mewy. Podczas gdy kaczki podróżowały w stadach po 18 osobników, mewy podróżowały w stadach po 10 osobników. Gdyby Heather zaobserwowała taką samą łączną liczbę kaczek i mew, jaka byłaby najmniejsza liczba kaczek, którą mogłaby zaobserwować?",
+        "answer": "90 "
+    },
+    {
+        "question": "Na karnawale 6 przyjaciół kupiło 27 biletów. Gdyby chcieli podzielić wszystkie bilety, tak aby każdy przyjaciel dostał taką samą liczbę, ile biletów więcej musieliby kupić?",
+        "answer": "3 "
+    },
+    {
+        "question": "Dzisiaj restauracja podała 9 hot dogów na lunch i 2 na kolację. Wczoraj podano ich 5. Ile hot dogów podano dzisiaj?",
+        "answer": "11.0"
+    },
+    {
+        "question": "Gumballs są pakowane po 5 sztuk. Nathan zjadł 20 gumballs. Ile całych pudełek zjadł i ile gumballs mu zostało?",
+        "answer": "4.0"
+    },
+    {
+        "question": "Pies Sandy miał 8 szczeniąt i 4 miały plamki. Dała 4 swoim przyjaciołom. Ile szczeniąt ma teraz?",
+        "answer": "4.0"
+    },
+    {
+        "question": "Sarah sprzedała 24 pudełka kremów Lemon Chalet. Ile skrzynek po 12 pudełek plus dodatkowe pudełka potrzebuje Sarah?",
+        "answer": "2.0"
+    },
+    {
+        "question": "W autobusie jest kilku pasażerów. Na przystanku autobusowym do autobusu wsiadło 7 kolejnych pasażerów, a 9 wysiadło. Jeśli w autobusie ostatecznie było 26 pasażerów, ilu pasażerów było na początku?",
+        "answer": "28 "
+    },
+    {
+        "question": "Ryan zebrał 89 liści. Stracił 24 liście. Po chwili złamało się 43 kolejne liście. Ile liści zostało w jego kolekcji?",
+        "answer": "22 "
+    },
+    {
+        "question": "Kawałek płyty gipsowo-kartonowej został przycięty tak, że jego długość wynosiła 6 stóp na 5 stóp. Jaka jest powierzchnia płyty gipsowo-kartonowej?",
+        "answer": "30 "
+    },
+    {
+        "question": "Jeśli masz 2 ćwiartki, 1 dziesięciocentówkę i 3 pensy, ile masz pieniędzy?",
+        "answer": "0.63 "
+    },
+    {
+        "question": "Sklep zoologiczny miał 2 psy. W niedzielę dostali 5 kolejnych. W poniedziałek dostali 3 kolejne. Ile psów ma teraz sklep zoologiczny?",
+        "answer": "10 "
+    },
+    {
+        "question": "Pani Hilt kupiła rożek z lodami za 99 centów. Ile kosztowałyby 2 rożki z lodami?",
+        "answer": "198.0"
+    },
+    {
+        "question": "Veronica przygotowuje zestawy do przygotowania na wypadek sytuacji awaryjnej, aby podzielić się nimi z przyjaciółmi. Ma 20 butelek wody i 12 puszek jedzenia, które chciałaby równo rozdzielić między zestawy, tak aby nic nie zostało. Jaka jest największa liczba zestawów, które Veronica może przygotować?",
+        "answer": "4 "
+    },
+    {
+        "question": "Na przyjęciu pizza z serem jest krojona na 6 kawałków, a pizza z warzywami na 12 kawałków. Jeśli gospodarz chce podać identyczne talerze, które zawierają tę samą kombinację kawałków sera i warzyw, bez żadnych resztek, jaka jest największa liczba talerzy, które gospodarz może przygotować?",
+        "answer": "6 "
+    },
+    {
+        "question": "Podstawa równoległoboku ma 11 cali, a jego pole wynosi 132 cale kwadratowe. Znajdź wysokość równoległoboku.",
+        "answer": "12 "
+    },
+    {
+        "question": "Malia zbiera jagody w polu jagodowym. Zrywa 3 jagody z pierwszego krzaka, 4 jagody z drugiego krzaka, 7 jagód z trzeciego krzaka i 12 jagód z czwartego krzaka. Jeśli ten schemat się utrzyma, ile jagód Malia zbierze z piątego krzaka?",
+        "answer": "19 "
+    },
+    {
+        "question": "Dwa zegary są włączane jednocześnie. Jeden zegar wybija godzinę co 15 minut. Drugi zegar wybija godzinę co 25 minut. Za ile minut wybiją godzinę razem?",
+        "answer": "75 "
+    },
+    {
+        "question": "W wazonie były 3 róże. Alyssa ścięła kilka róż ze swojego ogrodu. Teraz w wazonie jest 14 róż. Ile róż ścięła?",
+        "answer": "11.0"
+    },
+    {
+        "question": "Sam wyciął równej długości kawałki wstążki z 3730-centymetrowej wstążki. Jeśli każdy kawałek miał 73 cm długości, ile pozostało oryginalnej wstążki?",
+        "answer": "7 "
+    },
+    {
+        "question": "Keith uwielbia karty kolekcjonerskie. Kupiła 4 pakiety kart Digimon za 4,45 USD każdy i talię kart baseballowych za 6,06 USD. Ile Keith wydał na karty?",
+        "answer": "23.86"
+    },
+    {
+        "question": "Podczas wakacji Debby zrobiła 24 zdjęcia w zoo i 12 w muzeum. Jeśli później usunęła 14 zdjęć, ile zdjęć z wakacji nadal miała?",
+        "answer": "22 "
+    },
+    {
+        "question": "Maggi zjadła 3 opakowania babeczek. W każdym opakowaniu są 4 babeczki. Zjadła 5 babeczek. Ile zostało?",
+        "answer": "12.0"
+    },
+    {
+        "question": "W centrum handlowym otwarto nowy sklep. W ciągu pierwszej godziny weszło 94 osoby, a wyszło 27. W ciągu drugiej godziny weszło 18 osób, a wyszło 9. Ile osób zostało w sklepie po 2 godzinach?",
+        "answer": "76 "
+    },
+    {
+        "question": "Hangar lotniczy ma 300 stóp długości. Ile samolotów może się w nim zmieścić, jeden za drugim, jeśli każdy samolot ma 40 stóp długości?",
+        "answer": "7 "
+    },
+    {
+        "question": "Linda kupuje gumę truskawkową w paczkach po 6 sztuk i gumę jagodową w paczkach po 5 sztuk. Jeśli Linda chce kupić taką samą ilość gumy każdego rodzaju, jaka jest najmniejsza liczba sztuk każdego smaku, którą musi kupić?",
+        "answer": "30 "
+    },
+    {
+        "question": "Sadzę 50 jabłoni i 30 brzoskwiń. Chcę taką samą liczbę i rodzaj drzew w rzędzie. Jaka jest maksymalna liczba drzew, które mogę zasadzić w rzędzie?",
+        "answer": "10 "
+    },
+    {
+        "question": "Karlene przeczytała 3 strony we wtorek, 6 stron w środę, 12 stron w czwartek, 24 strony w piątek i 48 stron w sobotę. Jeśli ten schemat się utrzyma, ile stron Karlene przeczyta w niedzielę?",
+        "answer": "96 "
+    },
+    {
+        "question": "Samuel miał 14 Skittles. Jeśli Samuel dał 4 swoim przyjaciołom taką samą liczbę Skittles, a następnie zjadł to, co zostało, ile Skittles zjadła każda osoba?",
+        "answer": "3 "
+    },
+    {
+        "question": "Opakowanie sera cheddar zawiera 12 plasterków, podczas gdy opakowanie sera szwajcarskiego zawiera 28 plasterków. Gdyby Randy kupił taką samą liczbę plasterków każdego rodzaju sera, jaka jest najmniejsza liczba plasterków każdego rodzaju, jaką Randy mógłby kupić?",
+        "answer": "84 "
+    },
+    {
+        "question": "Dziesięć lat temu suma wieku dwóch synów wynosiła jedną trzecią wieku ich ojca. Jeden syn jest o dwa lata starszy od drugiego, a suma ich obecnego wieku jest o 14 lat mniejsza od obecnego wieku ojca. Znajdź obecny wiek wszystkich.",
+        "answer": "21 "
+    },
+    {
+        "question": "Megan miała trzysta siedemdziesiąt dwie piosenki na swoim odtwarzaczu mp3. Gdyby chciała umieścić piosenki po równo na dziewięciu różnych playlistach, ile piosenek by jej zostało?",
+        "answer": "3 "
+    },
+    {
+        "question": "Koperta z poczty ma 4 cale szerokości i 4 cale długości. Jaki jest obszar koperty?",
+        "answer": "16 "
+    },
+    {
+        "question": "Jacqueline ma 4 pudełka gumek. Każde pudełko mieści 10 gumek, a w pudełku jest 9 pudełek. Ile gumek ma Jacqueline?",
+        "answer": "40.0"
+    },
+    {
+        "question": "Bryan ma 50 Skittlesów. Ben ma 20 M&M’sów. Kto ma więcej? Ile jeszcze ma?",
+        "answer": "30.0"
+    },
+    {
+        "question": "Obwód heksagonalnej tablicy ekspozycyjnej wynosi 42 cm. Tablicę należy obramować wstążką satynową. Znajdź długość wstążki potrzebną do obramowania każdej strony.",
+        "answer": "7 "
+    },
+    {
+        "question": "Melanie miała 30 kart baseballowych i 9 z nich było podartych. Sara kupiła 18 kart baseballowych Melanie. Ile kart baseballowych ma teraz Melanie?",
+        "answer": "12.0"
+    },
+    {
+        "question": "Mike poszedł w tym roku na 15 meczów koszykówki, ale opuścił 41. W zeszłym roku poszedł na 39 meczów. Na ile meczów koszykówki Mike poszedł w sumie?",
+        "answer": "54.0"
+    },
+    {
+        "question": "Kawałek sklejki miał całkowitą powierzchnię 24 stóp kwadratowych i szerokość 6 stóp. Jaka jest długość drewna?",
+        "answer": "4 "
+    },
+    {
+        "question": "W salonie gier Dave wygrał 11 biletów. Gdyby wydał 5 biletów na czapkę i później wygrał 10 kolejnych biletów, ile by miał?",
+        "answer": "16 "
+    },
+    {
+        "question": "Suma trzech kolejnych liczb parzystych wynosi 42. Wybierz odpowiednią zmienną i utwórz równania algebraiczne z jedną zmienną, a następnie znajdź różnicę między największą i najmniejszą liczbą.",
+        "answer": "4"
+    },
+    {
+        "question": "Na szkolną wyprzedaż wypieków Katie zrobiła 26 babeczek. Jeśli sprzedałaby 20 z nich, a potem zrobiłaby 20 kolejnych, ile babeczek by miała?",
+        "answer": "26 "
+    },
+    {
+        "question": "Omar uwielbia grać w warcaby. Wczoraj rozegrał 37 partii. Dziś rozegrał 49 partii. Omar przegrał 18 partii. Ile partii wygrał?",
+        "answer": "68 "
+    },
+    {
+        "question": "Stosunek pola prostokąta do pola trójkąta wynosi 2:5. Prostokąt ma długość 6 cm i szerokość 4 cm. Jakie jest pole trójkąta?",
+        "answer": "60 "
+    },
+    {
+        "question": "Dave kupił nowy telewizor z płaskim ekranem. Ekran miał 2 stopy szerokości i 4 stopy wysokości. Jaka jest powierzchnia ekranu?",
+        "answer": "8 "
+    },
+    {
+        "question": "Mary znalazła 45 muszelek, Melanie znalazła 23 muszelki, a Jason znalazł 32 muszelki na plaży. Kiedy je wyczyścili, odkryli, że 31 było popękanych. Ile muszelek znaleźli razem?",
+        "answer": "100.0"
+    },
+    {
+        "question": "W klasie przedszkolnej pani Hutchinson dzieci robią odciski dłoni w okrągłej glinianej formie dla swoich rodziców. Forma ma średnicę 4 cali. Jaki jest promień formy?",
+        "answer": "2 "
+    },
+    {
+        "question": "Po imprezie zostaje 0,625 tortu. Tej nocy starszy brat zjada 0,25 tortu. Ile zostaje po tym?",
+        "answer": "0.375"
+    }
+]

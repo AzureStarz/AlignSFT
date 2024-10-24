@@ -1,0 +1,3246 @@
+[
+    {
+        "question": "Po 15 letih bo Ariel štirikrat starejša kot je zdaj. Določite njeno trenutno starost.",
+        "answer": "5 "
+    },
+    {
+        "question": "Razdelite 39 balonov v 7 enakih skupin. Koliko balonov je v vsaki skupini?",
+        "answer": "5 "
+    },
+    {
+        "question": "V lončku je bilo 1050 ml čaja. Anna je natočila čaj v nekaj skodelic. Če je bilo v vsaki skodelici 65 ml čaja, koliko čaja je ostalo v loncu?",
+        "answer": "10 "
+    },
+    {
+        "question": "V razredu matematike gospoda Olsena je 0,7 učencev prejelo petice in 0,2 dijaka B. Kolikšen delež učencev je dobil petice ali petice?",
+        "answer": "0.9"
+    },
+    {
+        "question": "Joan je porabila 15 $ za kratke hlače in 14,82 $ za jakno ter 12,51 $ za srajco. Šla je v 3 trgovine. Koliko denarja je skupaj porabila Joan za oblačila?",
+        "answer": "42.33"
+    },
+    {
+        "question": "Natakar je čakal 47 strank. Če bi 41 strank odšlo in bi dobil še 20 strank, koliko strank bi imel?",
+        "answer": "26 "
+    },
+    {
+        "question": "Učiteljica je dala 42 svinčnikov 12 učencem enako. Koliko svinčnikov je dobil vsak učenec?",
+        "answer": "3 "
+    },
+    {
+        "question": "Pralni stroj lahko opere 28 funtov oblačil na dan. Če je treba na dan oprati 200 funtov oblačil, koliko pralnih strojev potrebujete?",
+        "answer": "8 "
+    },
+    {
+        "question": "Avtobus lahko prepelje 48 potnikov. Če gre šola s 1230 učenci in učitelji na ekskurzijo, koliko avtobusov bi morali najeti?",
+        "answer": "26 "
+    },
+    {
+        "question": "Gloria ima 9 škatel vstopnic. V vsaki škatli je 5 vstopnic, v škatli pa je 10 škatel. Koliko vstopnic ima Gloria?",
+        "answer": "45.0"
+    },
+    {
+        "question": "Otok v Indijskem oceanu je bil širok 4 milje in dolg 7 milj. Kolikšen je obseg otoka?",
+        "answer": "22 "
+    },
+    {
+        "question": "Nova kuharska knjiga postaja priljubljena. Lokalna knjigarna je septembra naročila 4 izvode, oktobra 6 izvodov, novembra 8 izvodov in decembra 10 izvodov. Če se bo ta vzorec nadaljeval, koliko izvodov bo knjigarna naročila januarja?",
+        "answer": "12 "
+    },
+    {
+        "question": "Corey dodatno zasluži z iskanjem izgubljenih žogic za golf. Njegov cilj je vsak konec tedna najti 48 žogic za golf. V soboto je našel 16 žogic za golf. V nedeljo je našel še 18 žogic za golf. Koliko žogic za golf mora Corey še najti, da doseže svoj cilj?",
+        "answer": "14 "
+    },
+    {
+        "question": "J.T. ima nekaj menjalnih kartic superjunakov. Izgubil jih je 14. 19 jih je podaril najboljšemu prijatelju. Sedaj ima še 45 kart. Koliko kart je J.T. imeti na začetku?",
+        "answer": "78 "
+    },
+    {
+        "question": "Faye je prodajala svoje ogrlice na garažni razprodaji. Prodala je 3 ogrlice iz kroglic in 7 ogrlic iz dragih kamnov. Če je vsaka ogrlica stala 7 dolarjev, koliko denarja je zaslužila?",
+        "answer": "70.0"
+    },
+    {
+        "question": "Kvadratni prometni znak ima obseg 16 čevljev. Kako dolga je vsaka stran prometnega znaka?",
+        "answer": "4 "
+    },
+    {
+        "question": "Carmen je v nedeljo naredila 4 trebušnjake, v ponedeljek 8 trebušnjakov, v torek 16 trebušnjakov, v sredo 32 trebušnjakov in v četrtek 64 trebušnjakov. Če se bo ta vzorec nadaljeval, koliko trebušnjakov bo Carmen naredila v petek?",
+        "answer": "128 "
+    },
+    {
+        "question": "Vanessa je za rojstni dan prejela šeststo dvaindvajset dolarjev. Kasneje je našla nekaj igrač, ki stanejo po devet dolarjev. Koliko denarja bi ji ostalo, če bi jih kupila čim več?",
+        "answer": "1 "
+    },
+    {
+        "question": "Amanda in Sadie imata vsaka svoj bend. Amandina skupina igra pesmi v sklopih po 2, Sadiein bend pa igra pesmi v sklopih po 9. Po skupnem nastopu obe skupini ugotovita, da sta odigrali enako število pesmi. Kakšno je najmanjše število pesmi, ki bi jih lahko izvajala posamezna skupina?",
+        "answer": "18 "
+    },
+    {
+        "question": "Tim ima 39 parov slušalk in 13 predvajalnikov glasbe. Tim želi prodati vse slušalke in glasbene predvajalnike v enakih paketih. Katero največje število paketov lahko naredi Tim?",
+        "answer": "13 "
+    },
+    {
+        "question": "Sadna solata, pripravljena na televizijskem kuharskem programu, zahteva koščke melone in medene rose. Kakšno je največje število porcij, ki jih lahko pripravite z vsem sadjem, če imate 30 kosov melone in 42 kosov medene rose?",
+        "answer": "6 "
+    },
+    {
+        "question": "Dan se je pridružil šolskemu bendu. Kupil je klarinet za 130,30 $ in pesmarico, ki je bila 11,24 $. Dan je v svojem žepu našel 12,32 $. Koliko je Dan zapravil v glasbeni trgovini?",
+        "answer": "141.54"
+    },
+    {
+        "question": "Hay's Linens prodaja brisače za roke v kompletih po 17 in kopalne brisače v kompletih po 6. Če je trgovina danes zjutraj prodala enako število brisač, kakšno je najmanjše število vsake vrste brisač, ki ga je trgovina morala prodati?",
+        "answer": "102 "
+    },
+    {
+        "question": "Obseg enakostraničnega trikotnika je 54 cm. Poiščite dolžino vsake stranice trikotnika.",
+        "answer": "18 "
+    },
+    {
+        "question": "V prvih 6 urah sejma je bilo naslednje število strank: 58, 58, 62, 55, 49 in 48. Kakšna je povprečna vrednost števila strank?",
+        "answer": "55 "
+    },
+    {
+        "question": "Družina Montoya porabi 0,6 svojega proračuna za nakup živil in še 0,2, ko gre ven pojest. Kolikšen del svojega proračuna družina Montoya skupaj porabi za hrano?",
+        "answer": "0.8"
+    },
+    {
+        "question": "Vsako leto lososi potujejo gorvodno, od oceana do rek, kjer so se rodili. Letos se je v svoje reke vrnilo 712261 lososovih samcev in 259378 samic. Koliko lososov je potovalo?",
+        "answer": "971639.0"
+    },
+    {
+        "question": "V ponedeljek se je tristo šestindevetdeset dijakov odpravilo na izlet v živalski vrt. Vseh sedem avtobusov je bilo polnih, štirje učenci pa so morali potovati z avtomobili. Koliko učencev je bilo v vsakem avtobusu?",
+        "answer": "56 "
+    },
+    {
+        "question": "Na stezi za daljinsko vodene dirkalnike dirkalnik A preteče stezo v 28 sekundah, dirkalnik B pa v 24 sekundah. Če začneta oba hkrati, po koliko sekundah bosta spet drug ob drugem?",
+        "answer": "168 "
+    },
+    {
+        "question": "Na tekaško srečanje se je odpravilo 52 otrok in 29 odraslih. Stadion ima 95 sedežev. Koliko sedežev je bilo praznih?",
+        "answer": "14  "
+    },
+    {
+        "question": "Na progi je bilo 18 deklet in 15 dečkov. Ekipi se je pridružilo še 7 deklet. 4 fantje so zapustili ekipo. Koliko otrok je bilo takrat v tekaški ekipi?",
+        "answer": "36 "
+    },
+    {
+        "question": "9 fantov je šlo zalivat drevesa. Bilo je 29 dreves. Če je vsak zalil enako količino dreves, koliko dreves ostane?",
+        "answer": "2 "
+    },
+    {
+        "question": "Mike je našel 6 školjk in 4 morske zvezde, vendar so bile 4 školjke polomljene. Koliko nezlomljenih školjk je našel Mike?",
+        "answer": "2.0"
+    },
+    {
+        "question": "Marian je eno soboto doma za svojo družino in prijatelje v tem prazničnem času spekla kruh, piškote in pecivo. Naredila je 47 medenjakov, ki jih bo enakomerno porazdelila v majhne steklene kozarčke. Če naj bo vsak kozarec vseboval šest piškotov, koliko piškotov ne bo danih v kozarec?",
+        "answer": "5 "
+    },
+    {
+        "question": "Cindy je imela 41 bonbonov. Zjutraj je pojedla šest kosov, popoldne pa še dvanajst kosov. Koliko bonbonov ji je ostalo?",
+        "answer": "23 "
+    },
+    {
+        "question": "Na neki šoli je več učiteljev organiziralo tekmovanje, da bi ugotovili, kateri razred si lahko prisluži največ točk trivialnosti. Razred gospe William je dosegel 50 točk. Razred gospoda Adamsa je prejel 57 točk. Razred gospe Brown je dobil 49, razred gospe Daniel pa 57. Kakšna je povprečna vrednost doseženih točk?",
+        "answer": "53.3 "
+    },
+    {
+        "question": "Obseg razglednice je 20 palcev. Razglednica je široka 6 cm. Kako visok je?",
+        "answer": "4 "
+    },
+    {
+        "question": "Dve žici z dolžino 448 cm in 616 cm je treba brez ostanka razrezati na kose enake dolžine. Kakšna je največja možna dolžina kosov?",
+        "answer": "56 "
+    },
+    {
+        "question": "Martin lepi kose kvadratnega barvnega papirja enake velikosti na tablo velikosti 72 cm x 90 cm. Kolikšna je največja možna dolžina stranice vsakega kvadratnega barvnega papirja, če so uporabljeni samo celi kvadratni kosi in mora biti tabla popolnoma prekrita?",
+        "answer": "18 "
+    },
+    {
+        "question": "Med vožnjo mimo trgovin je Dave štel število avtomobilov na parkiriščih. Preštel je: 30, 14, 14, 21 in 25. Kolikšna je povprečna vrednost avtomobilov, ki jih je preštel?",
+        "answer": "20.8 "
+    },
+    {
+        "question": "Kayla je dobila novo video igrico. Na prvi stopnji je dosegla 2 točki, na drugi stopnji 3 točke, na tretji stopnji 5 točk, na četrti stopnji 8 točk in na peti stopnji 12 točk. Če se bo ta vzorec nadaljeval, koliko točk bo Kayla dosegla na šesti stopnji?",
+        "answer": "17 "
+    },
+    {
+        "question": "Morris je opazoval dve vrsti ptic med potovanjem: race in žerjave. Medtem ko so race potovale v jatah po 13, so žerjavi potovali v jatah po 17. Če je Morris opazoval enako skupno število rac in žerjavov, kakšno je najmanjše število rac, ki bi jih lahko opazil?",
+        "answer": "221 "
+    },
+    {
+        "question": "Med kampanjo za senat je prostovoljec izročil gumb \"Glasujte za Hatfielda\". Gumb akcije ima premer 8 centimetrov. Kolikšen je obseg gumba?",
+        "answer": "25.12 "
+    },
+    {
+        "question": "Rupert in Ronald sta uspešno opravila test matematike. Tako jima je mama včeraj kupila čudovit trampolin. Ronald je na trampolinu skočil 157-krat. Rupert je skočil 86-krat več kot Ronald. Kolikokrat so skočili skupaj?",
+        "answer": "243.0"
+    },
+    {
+        "question": "Gospa Hilt in njena sestra sta se odpeljali na koncert 78 milj stran. Vozili so 32 milj in se nato ustavili za bencin. Njena sestra je v avto natočila 28 litrov goriva. Koliko kilometrov jim je ostalo prevoziti?",
+        "answer": "46.0"
+    },
+    {
+        "question": "Evan ima veliko zbirko knjig. Svojemu najboljšemu prijatelju je podaril 14 knjig. Mlajšemu bratu je podaril 8 knjig. Zdaj ima Evan v svoji zbirki 60 knjig. Koliko knjig je imel na začetku?",
+        "answer": "82 "
+    },
+    {
+        "question": "Mary je imela 18 baseball kart in 8 jih je bilo raztrganih. Fred je dal Mary 26 novih baseball kart. Mary je kupila 40 baseball kart. Koliko baseball kart ima zdaj Mary?",
+        "answer": "84.0"
+    },
+    {
+        "question": "Dramski krožek se sestaja v šolski avli vsake 3 dni, pevski zbor pa vsakih 5 dni. Če se obe skupini danes srečata v avditoriju, čez koliko dni si bosta naslednjič morali deliti avditorij?",
+        "answer": "15 "
+    },
+    {
+        "question": "Vsota števk dvomestnega števila je 15. Če je števk na desetem mestu 8, poiščite dvomestno število.",
+        "answer": "87"
+    },
+    {
+        "question": "Sherman gre golf vsak 6. dan, Brad pa vsak 7. dan. Če sta šla Sherman in Brad oba danes igrat golf, koliko dni bo še minilo, preden bosta spet šla na golf na isti dan?",
+        "answer": "42 "
+    },
+    {
+        "question": "Sara ima 16 rdečih cvetov in 24 rumenih cvetov. Želi narediti šopke z enakim številom cvetov vsake barve v vsakem šopku. Katero največje število šopkov lahko naredi?",
+        "answer": "8 "
+    },
+    {
+        "question": "Ker se bliža sezona gripe, se Lexi odloči izdelati komplete za hitro okrevanje. Ima 10 pločevink piščančje juhe in 15 škatel robčkov, ki jih želi uporabiti za izdelavo enakih kompletov brez ostankov materiala. Kakšno je največje število kompletov za hitro okrevanje, ki jih lahko naredi Lexi?",
+        "answer": "5 "
+    },
+    {
+        "question": "Jessica je polovico svojega denarnega zneska porabila za obisk kina. Prala je družinski avto in zaslužila šest dolarjev. Kolikšen je njen tedenski dodatek, če je končala z enajstimi dolarji?",
+        "answer": "10 "
+    },
+    {
+        "question": "Devon je star 12 let. Njegova starost je 2 leti več kot polovica starosti Stevena. Poiščite Stevenovo starost.",
+        "answer": "20 "
+    },
+    {
+        "question": "Whitney je zbrala 4 majice in 20 gumbov svoje najljubše skupine. Želi jih združiti v enake komplete za prodajo, ne da bi ostali kosi. Kakšno je največje število nizov, ki jih lahko naredi Whitney?",
+        "answer": "4 "
+    },
+    {
+        "question": "Šola je imela 14 učencev prijavljenih za trivialne ekipe. Če bi želeli imeti 4 ekipe z enakim številom študentov v vsaki ekipi, koliko študentov bi se še moralo prijaviti?",
+        "answer": "2 "
+    },
+    {
+        "question": "Gospa Smith je enakomerno dala 53 jagod 8 dekletom. Koliko jagod je dobila vsaka deklica?",
+        "answer": "6 "
+    },
+    {
+        "question": "Oceanside Bike Rental Shop zaračunava fiksno pristojbino 17 dolarjev in 7 dolarjev na uro za najem kolesa. Mary je plačala 80 dolarjev za najem kolesa. Koliko ur je plačala za pregled kolesa?",
+        "answer": "9 "
+    },
+    {
+        "question": "40 deklet in 32 fantov se želi udeležiti internega pouka v 6. razredu. Če mora imeti vsaka ekipa enako število deklet in enako število fantov, kakšno je največje število ekip, ki lahko sodelujejo v intramurskih tekmovanjih?",
+        "answer": "8 "
+    },
+    {
+        "question": "George ima 2 škatli blokov. Vsaka škatla vsebuje 6 blokov, v škatli pa je 5 škatel. Koliko blokov ima George?",
+        "answer": "12.0"
+    },
+    {
+        "question": "Sara je iz sadovnjaka pobrala 35 hrušk in 27 jabolk. Danu je dala 28 hrušk. Koliko hrušk ima Sara?",
+        "answer": "7.0"
+    },
+    {
+        "question": "Klovn je potreboval dvesto sedemindvajset balonov za zabavo, na katero se je odpravljal, vendar so baloni prišli samo v paketu po dva. Koliko paketov balonov bi moral kupiti?",
+        "answer": "114 "
+    },
+    {
+        "question": "Janezov oče je kupil štiristo štirinajst metrov vrvice. Če bi hotel razrezati vrvico na kose, pri čemer bi bil vsak kos dolg sedem metrov, koliko kosov polne velikosti bi lahko naredil?",
+        "answer": "59 "
+    },
+    {
+        "question": "V trgovini je bilo 86 ananasov. Lastnik je prodal 48 ananasov. 9 preostalih ananasov je bilo gnilih in zavrženih. Koliko svežih ananasov je ostalo?",
+        "answer": "29 "
+    },
+    {
+        "question": "Shaquira peče piškote, ki jih da v pakete za zbiranje sredstev. Shaquira je naredila 86 čokoladnih piškotov in 42 sladkornih piškotov. Shaquira želi ustvariti enake pakete piškotkov za prodajo in mora uporabiti vse piškotke. Kakšno je največje število enakih paketov, ki jih lahko naredi Shaquira?",
+        "answer": "2 "
+    },
+    {
+        "question": "Knjiga je imela dolžino 5 palcev in skupno površino 50 kvadratnih palcev. Kako široka je knjiga?",
+        "answer": "10 "
+    },
+    {
+        "question": "Lisa izdeluje košare za dejavnosti, ki jih bo podarila v dobrodelne namene. Ima 12 pobarvank, 28 flomastrov in 36 barvic. Kolikšno največje število košar lahko naredi, če je vsaka vrsta igrač enakomerno porazdeljena med košare?",
+        "answer": "4 "
+    },
+    {
+        "question": "V razredu je 32 učencev. Učiteljica jih je razdelila v 5 enakih skupin. Koliko študentov je v vsaki skupini?",
+        "answer": "6 "
+    },
+    {
+        "question": "Gospa Hilt je imela 43 centov. Kupila je svinčnik za 20 centov in bonbon za 5 centov. Koliko denarja ji je ostalo?",
+        "answer": "18 "
+    },
+    {
+        "question": "Pomislim na številko. Če od števila odštejem 6 in ga delim s 13, dobim rezultat 2. Poiščite število v mislih.",
+        "answer": "32"
+    },
+    {
+        "question": "Milan plačuje za medkrajevno telefonsko storitev 2 dolarja mesečno in 12 centov na minuto. Prejšnji mesec je Milanov medkrajevni račun znašal 23,36 dolarja. Za koliko minut je bil zaračunan Milan?",
+        "answer": "178.0"
+    },
+    {
+        "question": "Edward je začel lastno košnjo trate. Spomladi je s košnjo trave zaslužil 2 dolarja, poleti pa 27 dolarjev. Če bi moral porabiti 5 dolarjev za nakup zalog, koliko denarja bi imel na koncu?",
+        "answer": "24 "
+    },
+    {
+        "question": "Cristina je spekla 17 rogljičkov. Če je načrtovala, da bo to enako postregla svojim sedmim gostom, koliko jih bo imel vsak?",
+        "answer": "2 "
+    },
+    {
+        "question": "Vrt ima 52 vrstic in 15 stolpcev načrtov fižola. Koliko rastlin je vsega skupaj?",
+        "answer": "780.0"
+    },
+    {
+        "question": "Med razvrščanjem nekaj gumbov je Malia dala 1 gumb v prvo polje, 3 gumbe v drugo polje, 9 gumbov v tretje polje, 27 gumbov v četrto polje in 81 gumbov v peto polje. Če se bo ta vzorec nadaljeval, koliko gumbov bo Malia dala v šesto polje?",
+        "answer": "243 "
+    },
+    {
+        "question": "Razred je zbral 122 pločevink za recikliranje. Če bi lahko dali 57 pločevink v vsako vrečko, koliko vrečk bi približno potrebovali?",
+        "answer": "2 "
+    },
+    {
+        "question": "V kapiteljskem poslopju visi državni pečat, ki je okrogel. Ima premer 2 metra. Kakšno je območje tjulnja?",
+        "answer": "3.14 "
+    },
+    {
+        "question": "Tiffany je igrala video igrico in imela 43 življenj. V težkem delu igre je izgubila 14 življenj. Koliko življenj bi imela, če bi v naslednji stopnji dobila še 27 življenj?",
+        "answer": "56 "
+    },
+    {
+        "question": "Caitlin je na 13. stopnici velikega tobogana. Hodila je po 4 stopnicah navzdol, da bi se pogovorila s prijateljico Dano. Nato je prehodila 12 stopnic do vrha. Koliko stopnic ima velikanski tobogan?",
+        "answer": "21 "
+    },
+    {
+        "question": "Kate, Maggie in Sue so seštele svojo starost. Skupno jih je bilo 48. Kate je stara 19, Maggie pa 17. Koliko je stara Sue?",
+        "answer": "12 "
+    },
+    {
+        "question": "Patrulja smeti je v soboto pobrala 10 steklenic in 8 aluminijastih pločevink. Koliko kosov odpadkov so skupaj pobrali?",
+        "answer": "18.0"
+    },
+    {
+        "question": "Jessica želi narediti girlando iz 8 vrtnic, 12 marjetic in 48 ognjičev. Koliko aranžmajev lahko naredi s temi rožami, da ne ostane nobena roža.",
+        "answer": "4 "
+    },
+    {
+        "question": "Gospa Hilt je prejšnji vikend spekla pite za praznično večerjo. Spekla je 16 pit z orehi in 14 jabolčnih pit. Če želi vse pite razporediti v vrste po 5 pit, koliko vrst bo imela?",
+        "answer": "30.0"
+    },
+    {
+        "question": "Gwen si je prislužila 8 točk za vsako vrečko pločevink, ki jo je reciklirala. Če bi imela 4 vrečke, a 2 od njih ne bi reciklirala, koliko točk bi si prislužila?",
+        "answer": "16.0"
+    },
+    {
+        "question": "V predalu je 54 škarij. Keith je v predal položil 22 škarij. Koliko škarij je zdaj skupaj?",
+        "answer": "76.0"
+    },
+    {
+        "question": "Alyssa je kupila nekaj igrač. Kupila je nogometno žogo za 5,71 $, za frnikole pa je porabila 6,59 $. Koliko je Alyssa skupaj porabila za igrače?",
+        "answer": "12.3"
+    },
+    {
+        "question": "Po naključju je Luther's Paint Supplies včeraj prodal enake količine dveh barv: rumene in modre. Vsa rumena barva je na voljo v 2-litrski posodi, medtem ko se modra barva prodaja v 19-litrski posodi. Kolikšna je najmanjša količina vsake barve barve, ki jo je trgovina morala prodati?",
+        "answer": "38 "
+    },
+    {
+        "question": "James ima 1222 balonov. Amy ima 513 balonov. Koliko balonov ima James več kot Amy?",
+        "answer": "208.0"
+    },
+    {
+        "question": "Številski stroj spreminja vrednost števil, ki so v njem. Moj številski stroj bo številu dodal 15 in nato od vsote odštel 6. Če vstavim številko 68, katera številka bo prišla iz avtomata?",
+        "answer": "77"
+    },
+    {
+        "question": "Paige je imela list papirja, dolg 9 in širok 10 palcev. Kakšna je površina papirja?",
+        "answer": "90 "
+    },
+    {
+        "question": "Robin je imel sedemsto šestintrideset fotografij, ki jih je dal v foto album. Če ima vsaka stran šest fotografij, koliko polnih strani bo imela?",
+        "answer": "122 "
+    },
+    {
+        "question": "V neki trgovini je bilo v zabojniku 40 pomaranč. Če bi zavrgli 25 starih in dali v smetnjak 21 novih, koliko bi jih bilo v smetnjaku?",
+        "answer": "36 "
+    },
+    {
+        "question": "Benny je prodal polovico svojih stripov in nato kupil še 6. Zdaj jih ima 17. S koliko jih je začel?",
+        "answer": "22 "
+    },
+    {
+        "question": "Ben je imel nekaj baseball kart. Njegov prijatelj Tim je imel 20 kart. Ko je Ben kupil še 3 karte, je imel dvakrat več kart kot Tim. Koliko kart je imel Ben na začetku?",
+        "answer": "37 "
+    },
+    {
+        "question": "V hlevu je bilo 32 bal sena , v lopi pa 26 bal . Jason je danes zlagal bale v hlevu. V hlevu je sedaj 98 bal sena . Koliko bal je shranil v hlevu?",
+        "answer": "66.0"
+    },
+    {
+        "question": "Pravokotna omara ima dolžino 6 m in obseg 20 m. Poiščite širino omare.",
+        "answer": "4 "
+    },
+    {
+        "question": "Imeli so 119 vžigaličnih škatlic, zavitih v pisane svetleče ovitke. Koliko pisanih škatlic za vžigalice jim bo ostalo, če bodo vžigalične škatlice enakomerno razdelili na 9 hiš v prvem bloku?",
+        "answer": "2 "
+    },
+    {
+        "question": "K pouku računalništva se je prijavilo 94 dijakov. Drugošolcev je bilo 24, tretješolcev pa 29. Ostali učenci so bili četrtošolci. Koliko četrtošolcev je obiskovalo ure računalništva?",
+        "answer": "41 "
+    },
+    {
+        "question": "Joanina srednja šola je letos odigrala 864 bejzbolskih iger, 128 iger je bilo odigranih ponoči. Udeležila se je 395 tekem. Koliko tekem baseballa je Joan izpustila?",
+        "answer": "469.0"
+    },
+    {
+        "question": "Mike je pobral 8 hrušk, Jason pa 7 hrušk s hruške. Fred je z jablane pobral 6 jabolk. Koliko hrušk je bilo skupaj obranih?",
+        "answer": "15.0"
+    },
+    {
+        "question": "Oliver organizira svoje knjige in jih postavlja na police. Na prvo polico je postavil 2 knjigi, na drugo polico 6 knjig, na tretjo polico 18 knjig in na četrto polico 54 knjig. Če se bo ta vzorec nadaljeval, koliko knjig bo Oliver postavil na peto polico?",
+        "answer": "162 "
+    },
+    {
+        "question": "Tanner je septembra prihranil 17 dolarjev. Oktobra je prihranil 48 dolarjev, novembra pa 25 dolarjev. Nato je Tanner porabil 49 dolarjev za video igro. Koliko denarja je ostalo Tannerju?",
+        "answer": "41.0"
+    },
+    {
+        "question": "Cvetličarna vsak mesec v sprednji izložbi postavi različno število vrtnic. Oktobra je bilo na ogled 108 vrtnic, novembra 120 vrtnic, decembra 132 vrtnic in januarja 144 vrtnic. Če se bo ta vzorec nadaljeval, koliko vrtnic bo razstavljeno v izložbi cvetličarne februarja?",
+        "answer": "156 "
+    },
+    {
+        "question": "Joe, Susien brat, je zbral vseh 94 menjalnih kart, raztresenih v svoji sobi, in jih položil v škatle. Če lahko polna škatla vsebuje največ 8 kart, koliko kart je v nenapolnjeni škatli?",
+        "answer": "6 "
+    },
+    {
+        "question": "Jack bere 285 strani dolgo knjigo. Če prebere 23 strani na dan, koliko strani bo prebral zadnji dan?",
+        "answer": "9 "
+    },
+    {
+        "question": "Ishin svinčnik je dolg 22 palcev. Kako dolg bo takrat njen svinčnik, če se bo v ponedeljek ošilila za dva palca in v torek za dva palca?",
+        "answer": "18 "
+    },
+    {
+        "question": "Dvomestno število je štirikratna vsota svojih števk in dvakratni produkt števk. Poiščite številko.",
+        "answer": "36"
+    },
+    {
+        "question": "Avtomobilsko podjetje je proizvedlo 3884 avtomobilov v Severni Ameriki in 2871 avtomobilov v Evropi. Koliko avtomobilov je to skupaj?",
+        "answer": "6755.0"
+    },
+    {
+        "question": "V ponedeljek je Debby tekla 2 kilometra. V torek je pretekla 5 kilometrov, v sredo pa 9. Koliko kilometrov je skupaj pretekla?",
+        "answer": "16 "
+    },
+    {
+        "question": "Filmski plakat je bil širok 4 centimetre in visok 7 centimetrov. Kakšna je površina plakata?",
+        "answer": "28 "
+    },
+    {
+        "question": "Joan je natrgala 37 pomaranč, Sara pa 10 pomaranč. Alyssa je pobrala 30 hrušk. Koliko pomaranč je bilo skupaj obranih?",
+        "answer": "47.0"
+    },
+    {
+        "question": "Krekerji so pakirani po 18 krekerjev. Betty je pojedla 45 krekerjev. Koliko krekerjev ji je ostalo?",
+        "answer": "9 "
+    },
+    {
+        "question": "Cristina je spekla 17 rogljičkov. Če bi Cristinine rogljičke enako postregli med njenimi sedmimi gosti, koliko bi jih Cristini ostalo?",
+        "answer": "3 "
+    },
+    {
+        "question": "Turistična skupina šteje 26 ljudi. V hotelu želijo najeti nekaj velikih sob za po 3 osebe in nekaj majhnih sob za po 2. Koliko velikih sob bi morali najeti, da bi najeli najmanj sob in imeli vse polno zasedeno?",
+        "answer": "8 "
+    },
+    {
+        "question": "V lončku je bilo 1050 ml čaja. Anna je natočila čaj v nekaj skodelic. Če je bilo v vsaki skodelici 65 ml čaja, koliko skodelic je bilo napolnjenih s čajem?",
+        "answer": "16 "
+    },
+    {
+        "question": "Ena tretjina števila minus sedem da osem. Poiščite številko.",
+        "answer": "45"
+    },
+    {
+        "question": "Willie ima 48 banan. Charles ima 14 banan. Izgubil jih je 35. Koliko banan bo imel Willie?",
+        "answer": "13.0"
+    },
+    {
+        "question": "Jake je na svojem dvorišču postavil stojalo s sladkarijami. Za prodajo ima 80 bonbonov. V ponedeljek je prodal 15 bonbonov. V torek je prodal veliko več kot to. Do srede je imel Jakes le še 7 kosov. Koliko bonbonov je Jake prodal v torek?",
+        "answer": "58 "
+    },
+    {
+        "question": "V predalu je 41 barvic in 26 svinčnikov . Sam je v predal položil 12 barvic. Koliko barvic je zdaj skupaj?",
+        "answer": "53.0"
+    },
+    {
+        "question": "Joan se je pridružila šolskemu bendu. Kupila je trobento za 149,16 $, glasbeno orodje za 9,98 $ in pesmarico, ki je bila 4,14 $. Joan je v svojem žepu našla 8,65 $. Koliko je Joan zapravila v glasbeni trgovini?",
+        "answer": "163.28"
+    },
+    {
+        "question": "V razredu je 46 otrok, vsak učenec bo dobil 4 ducate svinčnikov. Koliko svinčnikov bo moral izdati učitelj?",
+        "answer": "2208.0"
+    },
+    {
+        "question": "Koliko piškotov bi imeli, če bi imeli 37 vrečk piškotov z 19 piškoti v vsaki vrečki?",
+        "answer": "703.0"
+    },
+    {
+        "question": "V stroj sem dal drugo številko. Stroj je dodal 15 in nato odštel 6. Iz stroja je prišlo število 35. Katero številko sem vpisal?",
+        "answer": "26"
+    },
+    {
+        "question": "Jonathan želi kupiti slovar, ki stane 11 dolarjev, knjigo o dinozavrih, ki stane 19 dolarjev, in otroško kuharsko knjigo, ki stane 7 dolarjev. Od svojega dodatka je prihranil 8 dolarjev. Koliko več denarja potrebuje Jonathan, da kupi vse tri knjige?",
+        "answer": "29.0"
+    },
+    {
+        "question": "Ronald in Tim sta danes prala perilo. Ronald pere perilo vsakih 6 dni, Tim pa vsakih 9 dni. Koliko dni bo minilo, preden bosta Ronald in Tim spet prala perilo na isti dan?",
+        "answer": "18 "
+    },
+    {
+        "question": "Joan je na plaži našla 72 školjk in 12 morskih zvezd. Alyssi je dala nekaj svojih školjk. Ima 28 školjk. Koliko školjk je dala Alysi?",
+        "answer": "44.0"
+    },
+    {
+        "question": "V piceriji so imeli 11 kosov feferonov, ki so jih dali na svoje pice. Če bi vsaka pica dobila 2 kosa, koliko dodatnih kosov feferonov bi imeli?",
+        "answer": "1 "
+    },
+    {
+        "question": "Faye je izrezovala blago za prijatelja. Odrezala je kos, ki je bil širok 3 centimetre in je imel površino 24 kvadratnih centimetrov. Kako dolg je bil komad?",
+        "answer": "8 "
+    },
+    {
+        "question": "Mika na povečevalnem steklu izmeri lečo in izračuna, da ima obseg 31,4 centimetra. Kakšen je premer leče?",
+        "answer": "10 "
+    },
+    {
+        "question": "Adam je pleskal steno v svoji sobi. Stena je bila 4 metre široka in 4 metre visoka. Kolikšno površino stene mora poslikati?",
+        "answer": "16 "
+    },
+    {
+        "question": "Tessa ima 4 jabolka. Anita ji je dala še 5. Za pito potrebuje 10 jabolk. Ima dovolj za pripravo pite?",
+        "answer": "9.0"
+    },
+    {
+        "question": "Tom je našel 15 školjk, Fred pa 43 školjk na plaži. Ko so jih očistili, so ugotovili, da jih je 29 razpokanih. Koliko školjk sta skupaj našla?",
+        "answer": "58.0"
+    },
+    {
+        "question": "Gospa Hilt je kupila zvezek za 1,30 $. Plačala je z centi. Koliko centov je porabila za nakup zvezka?",
+        "answer": "26 "
+    },
+    {
+        "question": "Rachel je tretja v vrsti. Julie je 2 mesti pred njo. Katero mesto v vrsti je Julie?",
+        "answer": "1"
+    },
+    {
+        "question": "Tim ima vrečko 36 bonbonov z okusom pomaranče, Peter pa vrečko 44 bonbonov z okusom grozdja. Sladkarije morajo razdeliti na majhne pladnje z enakim številom sladkarij; vsak pladenj vsebuje samo sladkarije z okusom pomaranče ali grozdja. Če ni ostanka, koliko je največje možno število sladkarij na vsakem pladnju?",
+        "answer": "4 "
+    },
+    {
+        "question": "Melody je naredila 26 izrezkov božičnih drevesc z rdečimi sijočimi kroglami. Če je nameravala 4 od tega prilepiti na sprednjo stran določenega števila kartic, koliko kartic bo lahko naredila?",
+        "answer": "6 "
+    },
+    {
+        "question": "Nancy, Melanie, Mary in Alyssa so kupile vsaka po 540 baseball kart, ki so v paketih po 20. Koliko paketov baseball kart imajo skupaj?",
+        "answer": "108.0"
+    },
+    {
+        "question": "V dvomestnem številu je desetica 4-krat večja od številke enote. Ko števke obrnemo, je novo oblikovano število 54 manjše od prvotnega števila. Poiščite izvirno številko.",
+        "answer": "82"
+    },
+    {
+        "question": "Sushijev oče je kupil x lizik. 5 so jih pojedli otroci. Če je ostalo 7 lizik, koliko lizik je prinesel sušijev oče?",
+        "answer": "12 "
+    },
+    {
+        "question": "Rita, Peter in Skeeter so pingvini. Skupaj tehtajo 90 funtov. Rita in Peter vesta, da tehtata enako. Peter in Skeeter vesta, da skupaj tehtata 68 funtov. Koliko tehta Skeeter?",
+        "answer": "46 "
+    },
+    {
+        "question": "December je naporen mesec za trgovino z igračami. Na polici so imeli 95 tekem. Prvi teden je bilo prodanih 68 iger. Trgovina je iz tovarne dobila še 47 iger. Koliko iger so imeli takrat?",
+        "answer": "74 "
+    },
+    {
+        "question": "Vsaka hiša, ki jo zgradi tesar, potrebuje šest umivalnikov. Če bi kupil dvesto šestinšestdeset umivalnikov, koliko hiš bi to pokrilo?",
+        "answer": "44 "
+    },
+    {
+        "question": "Slikar je moral prepleskati 12 sob v stavbi. Barvanje vsake sobe traja 7 ur. Če je že prepleskal 5 sob, koliko časa bo še potreboval, da prepleska ostale?",
+        "answer": "49.0"
+    },
+    {
+        "question": "Sandra razvršča svinčnike v škatle. V prvo škatlo je dala 78 svinčnikov, v drugo 87 svinčnikov, v tretjo 96 svinčnikov in v četrto škatlo 105 svinčnikov. Če se ta vzorec nadaljuje, koliko svinčnikov bo Sandra dala v peto škatlo?",
+        "answer": "114 "
+    },
+    {
+        "question": "Tom je prebral 2 knjigi maja, 6 junija in 10 julija. Koliko knjig je prebral Tom?",
+        "answer": "18 "
+    },
+    {
+        "question": "Jane lahko uredi 16 vaz z rožami na dan. Če je treba aranžirati 248 vaz z rožami, koliko vaz z rožami bo aranžirala zadnji dan?",
+        "answer": "8 "
+    },
+    {
+        "question": "V hladilniku sta 2 rdeči bidoni, 3 črne bidone in 4 modre bidone. Če vzamete 5 plastenk vode, koliko steklenic vode ostane v hladilniku?",
+        "answer": "4 "
+    },
+    {
+        "question": "Prašna nevihta zajame prerijo. Pokriva 64535 hektarjev prerije v prahu, vendar pušča 522 hektarjev nedotaknjenih. Koliko hektarjev pokriva prerija?",
+        "answer": "64013.0"
+    },
+    {
+        "question": "Restavracija mora kupiti tristo sedeminosemdeset novih krožnikov. Če ima vsaka škatla pet krožnikov, koliko škatel bodo morali kupiti?",
+        "answer": "78 "
+    },
+    {
+        "question": "Kos vezanega lesa je bil odrezan tako, da je njegova dolžina znašala 6 čevljev x 5 čevljev. Kakšen je obseg lesa?",
+        "answer": "22 "
+    },
+    {
+        "question": "Mati je kupila nekaj krompirja. 15 krompirjev je uporabila za pripravo solate in 24 krompirjev za pire krompir. Če je ostalo 13 krompirjev, koliko krompirjev je mama najprej kupila?",
+        "answer": "52 "
+    },
+    {
+        "question": "Robert želi trenirati udarce na gol za nogomet. Odloči se, da bo imel 98 udarcev z nogo, preden gre domov iz parka. Izvede 43 udarcev z nogo, preden si vzame odmor, da se napije vode. Nato izvede še 36 udarcev z nogo. Koliko brc mora še narediti, preden gre domov?",
+        "answer": "19 "
+    },
+    {
+        "question": "Jacqueline je imela 16 sliv, 18 guav in 21 jabolk. Nekaj ​​jih je dala Jane in ostalo ji je 15 sadežev. Koliko sadja je Jacqueline dala Jane?",
+        "answer": "40 "
+    },
+    {
+        "question": "Za noč čarovnic je Faye dosegla 47 bonbonov. Prvo noč je pojedla 25 kosov, nato pa ji je sestra dala še 40 kosov. Koliko bonbonov ima Faye zdaj?",
+        "answer": "62 "
+    },
+    {
+        "question": "Polje je v obliki enakostraničnega trikotnika, pritrjenega na širino pravokotnega območja, kjer sta širina pravokotnika in stranica trikotnika enaki. Dolžina pravokotnega območja je 76 ft, stranica trikotnega območja pa meri 42 ft. Poiščite obseg polja.",
+        "answer": "90 "
+    },
+    {
+        "question": "Kinodvorana je potrebovala štiristo šestindvajset veder za pokovko. Če ima vsak paket osem veder, koliko paketov bodo morali kupiti?",
+        "answer": "54 "
+    },
+    {
+        "question": "Dan je imel 97 baseball kart in 8 jih je bilo raztrganih. Sam je kupil 15 Danovih baseball kart. Koliko baseball kart ima Dan zdaj?",
+        "answer": "82.0"
+    },
+    {
+        "question": "Alvin je imel 57 frnikol in je odigral dve igri. V prvi igri je izgubil 18 frnikol. V drugi igri je osvojil 25 frnikol. Koliko frnikol je imel takrat Alvin?",
+        "answer": "64 "
+    },
+    {
+        "question": "G. Johnson je uporabil 80 metrov ograje, da je ogradil pravokotni vrt. Dolžina vrta je 25 metrov. Kako širok je vrt?",
+        "answer": "15 "
+    },
+    {
+        "question": "Tovornjak lahko sprejme štiri škatle. Če bi morali premakniti osemsto enainsedemdeset škatel po mestu, koliko potovanj bi morali narediti?",
+        "answer": "218 "
+    },
+    {
+        "question": "Tretješolci imajo sejem. V prodaji imajo 90 vstopnic. Prvi teden so prodali 38 vstopnic, drugi teden pa 17 vstopnic. Koliko vstopnic jim je še ostalo za prodajo?",
+        "answer": "35 "
+    },
+    {
+        "question": "George je kupil 17 bonbonov, da bi jih podaril 5 svojim prijateljem. Če želi vsakemu prijatelju dati enako količino, koliko kosov bi mu ostalo?",
+        "answer": "2 "
+    },
+    {
+        "question": "Bryan je imel v svoji zbirki 8 dragih kamnov, ki jih je prodal prijatelju iz zlatarne. Če so bili kamni prodani po 1785 dolarjev, koliko denarja je Bryan skupaj dobil?",
+        "answer": "14280.0"
+    },
+    {
+        "question": "Bonboni so pakirani po 4. Shirley je pojedla 10 bonbonov. Koliko bonbonov ji je ostalo?",
+        "answer": "2 "
+    },
+    {
+        "question": "Frank ima okrogel prt s premerom 10 čevljev. Kolikšen je polmer prta?",
+        "answer": "5 "
+    },
+    {
+        "question": "Tkanina se prodaja v trgovinah iz vijakov, širokih 45 ali 60 centimetrov. Kolikšna je širina najširših trakov blaga, ki jih lahko izrežete iz katerega koli zapaha, ne da bi pri tem zapravili blago, če ima vsak trak enako širino?",
+        "answer": "15 "
+    },
+    {
+        "question": "Številne družine vsakemu članu družine vsako jutro postrežejo en kozarec 6 unč pomarančnega soka. Če kupijo pomarančni sok na galone, koliko celih porcij soka bodo dobili iz ene galone (ena galona = 4 litre, 1 kvart = 32 unč) soka?",
+        "answer": "21 "
+    },
+    {
+        "question": "Na mizi je na kupu 6 bonbonov. Vsak bonbon je pakiran po 15 bonbonov. Na kup so dodani 4 bonboni. Koliko bonbonov je na kupu?",
+        "answer": "10.0"
+    },
+    {
+        "question": "Knjižnica je razdeljena na različne oddelke za različne vrste knjig. Oddelek znanstvena fantastika ima 8 knjig. Če ima vsaka knjiga 478 strani, koliko strani imajo vse knjige skupaj?",
+        "answer": "3824.0"
+    },
+    {
+        "question": "V tovarni so proizvedli 50 tiskalnikov in 21 skenerjev. Potem ko je bilo prodanih 41 tiskalnikov, je izdelalo še 16 skenerjev. Koliko tiskalnikov in skenerjev je na koncu imela tovarna?",
+        "answer": "46 "
+    },
+    {
+        "question": "Na moderni umetniški sliki so v prvi vrsti 3 zelene pike, v drugi vrsti 6 zelenih pik, v tretji vrsti 9 zelenih pik in v četrti vrsti 12 zelenih pik. Če se ta vzorec nadaljuje, koliko zelenih pik bo v peti vrsti?",
+        "answer": "15 "
+    },
+    {
+        "question": "Susie in njena družina so se prvi pomladni vikend zbudili zgodaj. Za spomladansko čiščenje so imeli dolg seznam aktivnosti. Susieina mama je za zajtrk pripravila 74 korenčkov. Koliko korenčkov je ostalo nepojedenih, če so korenje enako postregli 12 osebam?",
+        "answer": "2 "
+    },
+    {
+        "question": "Ben je imel 18 frnikol, Janez pa 17 frnikol. Ben je dal polovico svojih frnikol Johnu. Koliko več frnikol je takrat imel Janez kot Ben?",
+        "answer": "17 "
+    },
+    {
+        "question": "Pekač za pekovske piškote je bil širok 10 in dolg 2 palca. Kakšen je obseg njihovega piškotnega lista?",
+        "answer": "24 "
+    },
+    {
+        "question": "Število plus samo sebe, plus dvakrat samo sebe, plus 4 krat samo sebe, je enako 104. Kaj je število?",
+        "answer": "13"
+    },
+    {
+        "question": "Na avtobusu je bilo 46 potnikov. Na prvi postaji je izstopilo 19 potnikov. Na drugi postaji je izstopilo 15 potnikov. Koliko potnikov je ostalo na avtobusu?",
+        "answer": "12 "
+    },
+    {
+        "question": "Za torto so potrebna 3 jajca. Koliko tort lahko narediš iz 37 jajc?",
+        "answer": "12 "
+    },
+    {
+        "question": "V Kentucky Fried Chicken je kuhinjsko osebje speklo 96 piščančjih nog, 144 beder in 224 peruti. Osebje je moralo pripraviti krožnike za catering kosilo v pisarni. Vsak krožnik bo imel enako število nog, stegen in kril. Koliko krožnikov lahko pripravi osebje, če želi čim več kosov piščanca na vsakem krožniku?",
+        "answer": "16 "
+    },
+    {
+        "question": "Spletna trgovina z igračami je imela na zalogi nekaj igrač. Prvi teden je prodal 38 igrač, drugi teden pa 26 igrač. Če je ostalo 19 igrač, koliko igrač je bilo na zalogi na začetku?",
+        "answer": "83 "
+    },
+    {
+        "question": "Amy ima 67 balonov. 29 jih je rdečih in 17 zelenih. Ostali baloni so modri. Koliko modrih balonov ima Amy?",
+        "answer": "21 "
+    },
+    {
+        "question": "Rachel je kupila dve pobarvanki. Ena je imela 24 slik, druga pa 39. Po enem tednu je pobarvala že 4 slike. Koliko slik mora še pobarvati?",
+        "answer": "59.0"
+    },
+    {
+        "question": "Kvadratna ploščica z imenom ima stranico, ki je dolga 9 centimetrov. Kakšen je obseg imenske tablice?",
+        "answer": "36 "
+    },
+    {
+        "question": "Šola načrtuje ekskurzijo. Na vsakem šolskem avtobusu je 28 učencev in 7 sedežev. Koliko avtobusov je potrebnih za potovanje?",
+        "answer": "4.0"
+    },
+    {
+        "question": "Namesto nakupa v trgovini je Melody naredila božične voščilnice za ostarele v domu za ostarele. Imela je 99 modrih cekinov, ki jih namerava uporabiti kot snežinke za voščilnice. Če cekine enakomerno razdeli na 12 kart, koliko cekinov bo ostalo Melody?",
+        "answer": "3 "
+    },
+    {
+        "question": "Učiteljičina pomočnica je polagala piškote na krožnike. Na prvi krožnik je dal 5 piškotov, na drugi krožnik 7 piškotov, na tretji krožnik 10 piškotov, na četrti krožnik 14 piškotov in na peti krožnik 19 piškotov. Če se ta vzorec nadaljuje, koliko piškotov bo pomočnik dal na šesti krožnik?",
+        "answer": "25 "
+    },
+    {
+        "question": "Na sejmu je bilo 10 ljudi v vrsti za odbijače. Če bi se 2 od njih naveličala čakati in odšla, še 2 pa bi prišla v vrsto, koliko ljudi bi bilo v vrsti?",
+        "answer": "10 "
+    },
+    {
+        "question": "Limonine glave so pakirane po 5. Ann je pojedla 78 limonovih glav. Koliko limonovih glav ji je ostalo?",
+        "answer": "3 "
+    },
+    {
+        "question": "Imeli so 119 vžigaličnih škatlic, zavitih v pisane svetleče ovitke. Če bodo škatlice za vžigalice enakomerno razdelili 9 hišam v prvem bloku, kako bo škatlice za vžigalice prejela vsaka hiša?",
+        "answer": "13 "
+    },
+    {
+        "question": "Nova konzola za video igre potrebuje pet računalniških čipov. Če lahko stroj ustvari štiristo sedeminšestdeset računalniških čipov na dan, koliko konzol za video igre je mogoče ustvariti na dan?",
+        "answer": "93 "
+    },
+    {
+        "question": "Blithe ima veliko igrač. Izgubil jih je 6 in našel 9 v svoji omari. Če je imel po tem 43, koliko igrač je imel Blithe na začetku?",
+        "answer": "40 "
+    },
+    {
+        "question": "Melanie prodaja 4 žogice po osem centov. Koliko denarja lahko dobi Melanie s prodajo žogic?",
+        "answer": "32.0"
+    },
+    {
+        "question": "Med razvrščanjem drobiža v prašičke je Diane v prvi prašiček dala 72 kovancev, v drugega 81 kovancev, v tretjega 90 kovancev, v četrtega 99 kovancev in v petega 108 kovancev. . Če se bo ta vzorec nadaljeval, koliko kovancev bo Diane dala v šesti hranilnik?",
+        "answer": "117 "
+    },
+    {
+        "question": "V igri začnete z 2 življenjema. Koliko življenj bi imeli, če bi imeli 6 dodatnih življenj na prvi ravni in 11 več na drugi?",
+        "answer": "19 "
+    },
+    {
+        "question": "Industrijski stroj lahko naredi tristo enaindvajset barvic na dan. Če ima vsaka škatla barvic sedem barvic, koliko polnih škatel naredi stroj na dan?",
+        "answer": "45 "
+    },
+    {
+        "question": "Pravokotna strešna skodla je dolga 10 in široka 7 palcev. Kakšno je njegovo območje?",
+        "answer": "70 "
+    },
+    {
+        "question": "Joan je na plaži našla 75 školjk in 14 morskih zvezd. Timu je dala nekaj svojih školjk. Ima 62 školjk. Koliko školjk je dala Timu?",
+        "answer": "13.0"
+    },
+    {
+        "question": "Manuel je odprl varčevalni račun z začetnim vlogom 177 dolarjev. Če želi prihraniti 500 dolarjev v naslednjih 19 tednih, koliko mora prihraniti vsak teden v dolarjih?",
+        "answer": "17.0"
+    },
+    {
+        "question": "Victor je prodajal čokolado za zbiranje šolskih sredstev. Prvi teden jih je prodal 75. Drugi teden jih je prodal 67. Tretji teden jih je prodal 75. Četrti teden jih je prodal 70, zadnji teden pa 68. Kakšna je povprečna vrednost prodanih čokoladnih tablic ?",
+        "answer": "71 "
+    },
+    {
+        "question": "Lena je imela nekaj žepnine. Izgubila je 4 $ in mama ji je dala 9 $. Če je po tem imela 66 dolarjev, koliko dolarjev je imela Lena na začetku?",
+        "answer": "61 "
+    },
+    {
+        "question": "Prireditev ima 12 odraslih in 20 otrok. Načrtovalec dogodkov želi narediti vsako mizo enako, z enako kombinacijo odraslih in otrok ter brez odvečnih ljudi. Kakšno je največje število tabel, ki jih lahko planer postavi?",
+        "answer": "4 "
+    },
+    {
+        "question": "Melanie je kupila igro Batman za 6,95 $, strateško igro za 7,90 $ in igro Superman za 7,73 $. Melanie ima že 4 igrice. Koliko je Melanie porabila za video igre?",
+        "answer": "22.58"
+    },
+    {
+        "question": "Prejšnjo soboto je Marie prodala 425 revij in 275 časopisov. Kolikšno je skupno število prodanih bralnih gradiv?",
+        "answer": "700.0"
+    },
+    {
+        "question": "Mitch je lastnik podjetja in dvema zaposlenima dodeli izmene. Prve izmene delavcem razporedi v blokih po 2 uri, druge izmene pa v blokih po 11 ur. Če morata oba delavca prejeti enako število ur, koliko najmanj ur mora biti dodeljeno vsakemu?",
+        "answer": "22 "
+    },
+    {
+        "question": "Bianca je želela vsak dan spiti natanko 5 steklenic vode, zato je kupila 47 steklenic, ko so bile v akciji. Koliko steklenic bo še morala kupiti zadnji dan?",
+        "answer": "3 "
+    },
+    {
+        "question": "Cody je imel 45 dolarjev. Za rojstni dan je dobil še 9 dolarjev, a jih je 19 porabil za novo igro. Koliko denarja ima zdaj?",
+        "answer": "35 "
+    },
+    {
+        "question": "Christina je pravkar nakazala 69 $ s svojega bančnega računa. Posledično je na računu zdaj 26935 $. Koliko denarja je bilo na računu pred nakazilom?",
+        "answer": "27004.0"
+    },
+    {
+        "question": "Fred obožuje menjalne karte. Kupil je 2 paketa nogometnih kart za 2,73 $ vsak, paket Pokemon kart za 4,01 $ in komplet baseball kart za 8,95 $. Koliko je Fred porabil za karte?",
+        "answer": "18.42"
+    },
+    {
+        "question": "Elizabeth je šla v salon in si odstrigla 0,375 palca las. Naslednji dan se je vrnila in prosila, naj ji odrežejo še 0,5 palca. Koliko las si je vsega odstrigla?",
+        "answer": "0.875"
+    },
+    {
+        "question": "Dva kolesarja se peljeta po krožni poti. Prvi kolesar opravi krog v 12 minutah. Drugi kolesar opravi krog v 18 minutah. Če sta oba startala ob istem kraju in ob istem času ter gresta v isto smer, po koliko minutah se bosta spet srečala na izhodišču?",
+        "answer": "36 "
+    },
+    {
+        "question": "Umetnik je junija naslikal 2 sliki. Julija je naslikal še 2, avgusta pa 9. Koliko slik je skupaj naslikal?",
+        "answer": "13 "
+    },
+    {
+        "question": "Želite deliti 34 svinčnikov med 6 prijateljev. Koliko bi jih dobil vsak prijatelj?",
+        "answer": "5 "
+    },
+    {
+        "question": "Doug je zgradil šotor v obliki pravilnega peterokotnika. Njegov obseg je 60 čevljev. Kakšna je dolžina vsake stranice šotora?",
+        "answer": "12 "
+    },
+    {
+        "question": "Karen ima 252 markerjev. Mama ji da še 34 markerjev. Karen izgubi 11 točk. Koliko markerjev ima zdaj?",
+        "answer": "275 "
+    },
+    {
+        "question": "Kos kvadratnega papirja ima obseg 32 centimetrov. Nickyjev pes Rocky je odtrgal 1/4 papirja. Kolikšna je površina preostalega papirja?",
+        "answer": "48 "
+    },
+    {
+        "question": "Istočasno sta prižgani dve neonski reklami. oba znaka utripata, ko sta vklopljena. En znak utripa vsakih 9 sekund. Drugi znak utripa vsakih 15 sekund. Čez koliko sekund bosta spet utripala skupaj?",
+        "answer": "45 "
+    },
+    {
+        "question": "Gospa Smith je enakomerno dala 53 jagod 8 dekletom. Koliko jagod je ostalo?",
+        "answer": "5 "
+    },
+    {
+        "question": "Gospa Walker bo imela 56 jabolk za bobbing za jabolka. Vsako vedro bo držalo 9 jabolk. Koliko veder bo potrebovala?",
+        "answer": "7 "
+    },
+    {
+        "question": "V knjižnici je 14240 knjig. Razporejeni so na policah, ki sprejmejo po 8 knjig. Koliko polic je v knjižnici?",
+        "answer": "1780.0"
+    },
+    {
+        "question": "Vesoljska ladja je potovala 0,5 svetlobnega leta od Zemlje do planeta X in 0,1 svetlobnega leta od planeta X do planeta Y. Nato je potovala 0,1 svetlobnega leta od planeta Y nazaj do Zemlje. Koliko svetlobnih let je skupaj prepotovala vesoljska ladja?",
+        "answer": "0.7"
+    },
+    {
+        "question": "Tess piše pesem. V prvo vrstico napiše 23 besed, v drugo 26 besed, v tretjo 29 besed, v četrto 32 besed in v peto vrstico 35 besed. Če se ta vzorec nadaljuje, koliko besed bo Tess napisala v šesti vrstici?",
+        "answer": "38 "
+    },
+    {
+        "question": "Pek zlaga kolačke na pladnje, da se ohladijo. Na prvi pladenj je dala 3 kolačke, na drugi 6 kolačkov, na tretji 12 kolačkov in na četrti pladenj 24 kolačkov. Če se ta vzorec nadaljuje, koliko kolačkov bo pek dal na peti pladenj?",
+        "answer": "48 "
+    },
+    {
+        "question": "Jack bere 285 strani dolgo knjigo. Če prebere 23 strani na dan, koliko dni bo potreboval, da prebere knjigo?",
+        "answer": "13 "
+    },
+    {
+        "question": "Karen pakira enake količine prestic in krekerjev za prigrizke. Karen pakira preste v skupine po 5 kosov, krekerje pa v skupine po 7 kosov. Katero najmanjše število krekerjev lahko zapakira?",
+        "answer": "35 "
+    },
+    {
+        "question": "172 dijakov sestavlja ekipe za planinsko tekmovanje. Vsaka ekipa mora imeti 18 učencev. Koliko ekip lahko sestavijo?",
+        "answer": "9 "
+    },
+    {
+        "question": "Charlene je naredila 60 ogrlic iz kroglic. Na obrtnem sejmu jih je prodala 16. 18 jih je dala svojim prijateljem. Koliko ogrlic je takrat imela Charlene?",
+        "answer": "26 "
+    },
+    {
+        "question": "Mary je prodala 9 škatel Do-Si-Dosa. Koliko zabojev s 6 škatlami in dodatnimi škatlami mora dostaviti Mary?",
+        "answer": "2 "
+    },
+    {
+        "question": "Trgovina z živili je potrebovala osemsto deset pločevink graha. Če je grah v škatlah s štirimi pločevinkami v vsaki škatli, koliko škatel bi morali naročiti?",
+        "answer": "203 "
+    },
+    {
+        "question": "Jason je vzgojil 23 lubenic in 18 rep. Nancy je vzgojila 28 lubenic. Koliko lubenic so skupaj pridelali?",
+        "answer": "51.0"
+    },
+    {
+        "question": "Paul je zaslužil 3 dolarje s košnjo trate in 3 dolarje z uživanjem plevela. Če bi porabil samo 3 dolarje na teden, kako dolgo bi mu zdržal denar?",
+        "answer": "2.0"
+    },
+    {
+        "question": "V dvomestnem številu je desetica trikrat večja od enote. Ko se število zmanjša za 54, se števki obrnejo. Poiščite številko.",
+        "answer": "93"
+    },
+    {
+        "question": "P in Q začneta istočasno v isti smeri in tečeta po stadionu. P opravi krog v 252 sekundah, Q pa v 198 sekundah, oba se začneta na isti točki. Po kolikšnem času se bosta spet srečala na izhodišču?",
+        "answer": "2772 "
+    },
+    {
+        "question": "Abe bo zasadil 54 hrastov in 27 borovcev. Abe bi rad posadil drevesa v vrstah, ki imajo enako število dreves in so sestavljene iz samo ene vrste dreves. Kakšno je največje število dreves, ki jih lahko ima Abe v vsaki vrsti?",
+        "answer": "27 "
+    },
+    {
+        "question": "Clarence ima 5 pomaranč. Od Joyce dobi še 3. Kasneje Clarence v trgovini kupi 9 kegljev. Koliko pomaranč ima Clarence?",
+        "answer": "8.0"
+    },
+    {
+        "question": "Wendy je za poroko svoje prijateljice nabrala 103 rože. Delala je šopke z 8 rožicami v vsakem. Če bi 47 cvetov ovenelo pred poroko, koliko šopkov bi še lahko naredila?",
+        "answer": "7.0"
+    },
+    {
+        "question": "Krožniček za Mikino skodelico ima polmer 3 centimetre. Kakšna je površina krožnika?",
+        "answer": "28.26 "
+    },
+    {
+        "question": "Prostornina rezervoarja je 32 litrov. Če je podjetje kupilo 728 galon nafte, koliko olja je v rezervoarju, ki ni poln?",
+        "answer": "24 "
+    },
+    {
+        "question": "Obstaja 37 košar. V vsaki košari je 17 jabolk. Koliko jabolk je vsega skupaj?",
+        "answer": "629.0"
+    },
+    {
+        "question": "Georgia ima 4 rumene gumbe, 2 črna gumba in 3 zelene gumbe. Nekaj ​​gumbov da Mariji in ostalo ji je 5. Koliko gumbov je Georgia dala Marry?",
+        "answer": "4 "
+    },
+    {
+        "question": "V kavarni je bilo 50 jabolk. Za kosilo so 5 razdelili učencem, ostalo pa so sklenili porabiti za pripravo pit. Če vsaka pita vzame 5 jabolk, koliko pit bi lahko naredili?",
+        "answer": "9.0"
+    },
+    {
+        "question": "Samov pes je imel mladičke in 8 je imelo pike. 2 je dal svojim prijateljem. Zdaj ima 6 mladičkov. S koliko mladički je moral začeti?",
+        "answer": "8.0"
+    },
+    {
+        "question": "Sedemkrat dvomestno je enako štirikratnemu številu, ki ga dobimo z obračanjem vrstnega reda števk, vsota števk pa je 3. Poiščite število.",
+        "answer": "12"
+    },
+    {
+        "question": "Slaščice so v paketih po 7. Stephen je pojedel 64 sladkarij. Koliko sladkarij mu je ostalo?",
+        "answer": "1 "
+    },
+    {
+        "question": "Pravokotna dnevna soba meri 12 krat 10 čevljev. Preproga, položena na tla, pušča obrobo, široko 2 metra. Kakšno je območje meje?",
+        "answer": "72 "
+    },
+    {
+        "question": "V škatli je 55 pomaranč. Deborah ima v vrečki 11 pomaranč. Susan iz škatle vzame 35 pomaranč. Koliko pomaranč je ostalo v škatli?",
+        "answer": "20.0"
+    },
+    {
+        "question": "V šolski jedilnici vsak šesti dan strežejo takose, vsak osmi dan pa čizburgerje. Če sta takos in cheeseburger na današnjem jedilniku, koliko dni bo minilo, preden bosta spet oba na meniju?",
+        "answer": "24 "
+    },
+    {
+        "question": "Kristen je našla darilne vrečke v paketih po 12 in pentlje v paketih po 5. Če bi Kristen želela imeti enako število darilnih vrečk kot pentlj, kakšno je najmanjše število darilnih vrečk, ki bi jih morala kupiti?",
+        "answer": "60 "
+    },
+    {
+        "question": "Živilsko podjetje ima sedemsto sedeminsedemdeset kilogramov hrane, ki jo mora dati v škatle. Koliko polnih zabojev bodo imeli, če vsak zaboj dobi natanko dva kilograma?",
+        "answer": "388 "
+    },
+    {
+        "question": "Peskovnik je dolg 312 centimetrov in širok 146 centimetrov. Koliko kvadratnih centimetrov površine pokriva peskovnik?",
+        "answer": "45552.0"
+    },
+    {
+        "question": "Trenutno je v parku 47 grmov orhidej. Delavci parka bodo danes posadili 37 grmov orhidej, jutri pa 25 grmov orhidej. Za dokončanje dela je bilo potrebnih 35 delavcev. Koliko grmov orhidej bo imel park, ko bodo delavci končali?",
+        "answer": "109.0"
+    },
+    {
+        "question": "Ko je Joan obiskala zobna vila, je prejela po 14 četrtin, pol dolarjev in centov. Koliko denarja je zobna vila zapustila Joan?",
+        "answer": "11.9"
+    },
+    {
+        "question": "Jason ima 18 knjig in prebral jih je 9. Marija ima 42 knjig. Koliko knjig imata skupaj?",
+        "answer": "60.0"
+    },
+    {
+        "question": "Jean je imel vrečko sladkarij. 18 kosov je podarila prijateljici. Žan je pojedel 7 kosov. Zdaj ji je ostalo še 16 kosov. Koliko bonbonov je imel Žan na začetku?",
+        "answer": "41 "
+    },
+    {
+        "question": "Abejeva družina se je preselila z Bahamov na Japonsko, zato so svoj denar pretvorili v japonske jene. Na njihovem tekočem računu je zdaj 6359 jenov, na varčevalnem računu pa 3485 jenov. Koliko jenov imajo?",
+        "answer": "9844.0"
+    },
+    {
+        "question": "Tony je imel 20 dolarjev. Za vstopnico za bejzbolsko tekmo je plačal 8 dolarjev. Na tekmi je kupil hot dog za 3 dolarje. Koliko denarja je takrat imel Tony?",
+        "answer": "9 "
+    },
+    {
+        "question": "Obstaja 261 ribarnic. Vsaka posoda za ribe ima 23 rib. Koliko rib je tam?",
+        "answer": "6003.0"
+    },
+    {
+        "question": "Aylin izdeluje beležko iz 18 fotografij in 20 časopisnih izrezkov. Želi, da so vse strani postavljene na enak način, z enako kombinacijo fotografij in časopisnih izrezkov na vsaki strani. Prav tako se želi prepričati, da ne ostane noben predmet. Kakšno je največje število strani beležke, ki jih lahko ustvari Aylin?",
+        "answer": "2 "
+    },
+    {
+        "question": "12 manj kot dvakratno število je 20. Poišči število.",
+        "answer": "16"
+    },
+    {
+        "question": "Dve luči na lokalnem stadionu utripata. Oba sta samo utripala hkrati. Ena od lučk utripa vsakih 7 sekund, druga lučka pa vsakih 8 sekund. V koliko sekundah bosta obe lučki spet utripali hkrati?",
+        "answer": "56 "
+    },
+    {
+        "question": "Martha v trgovini kupuje 18 paketov svinčnikov in 14 paketov pisal. Če želi Martha kupiti enako število svinčnikov kot pisal, koliko je najmanjše število pisal, ki jih lahko kupi?",
+        "answer": "126 "
+    },
+    {
+        "question": "Starši pripravljajo sendviče za razredni piknik. Imajo 72 rezin purana, 48 rezin sira in 96 rezin paradižnika. Kakšno je največje število sendvičev, ki jih lahko naredijo, če ima vsak sendvič enak nadev?",
+        "answer": "24 "
+    },
+    {
+        "question": "Danes popoldne je Alec opazil, da je številka strani, dodeljene domači nalogi, deljiva s 4 in 13. Kakšna je najmanjša možna številka strani, ki bi jo lahko dodelili?",
+        "answer": "52 "
+    },
+    {
+        "question": "Papirnata vrečka lahko sprejme 16 piškotov. Če Edgar kupi 292 piškotov, koliko piškotov je v papirnati vrečki, ki ni polna?",
+        "answer": "4 "
+    },
+    {
+        "question": "Restavracija je danes med kosilom postregla 4 pite in 9 med večerjo. Restavracija je včeraj postregla 7 pit in 2 pici. Koliko pit je bilo skupaj postreženih?",
+        "answer": "20.0"
+    },
+    {
+        "question": "Plesna skupina je uporabila trak za oblikovanje pravokotnika. Pravokotnik je bil dolg 20 čevljev in širok 15 čevljev. Kako dolg je bil kos traku?",
+        "answer": "70 "
+    },
+    {
+        "question": "Med igranjem trivialne igre je Adam skupno dosegel 283 točk. Če je v vsaki rundi dosegel 71 točk, približno koliko rund je odigral?",
+        "answer": "4 "
+    },
+    {
+        "question": "Alyssa je nabrala 17 sliv, Jason pa 10 sliv. Melanie je obrala 35 hrušk. Koliko sliv je bilo vseh nabranih?",
+        "answer": "27.0"
+    },
+    {
+        "question": "Pekarna Irene's Bakery prodaja mafine v paketih po 18 kosov in piškote v paketih po 5 kosov. Ko pregleduje včerajšnje račune, vodja trgovine opazi, da je pekarna včeraj popoldne prodala enako število mafinov in piškotov. Kakšno je najmanjše število mafinov, ki bi jih lahko prodala pekarna?",
+        "answer": "90 "
+    },
+    {
+        "question": "15 učencev je razdelilo 122 map s slikami. Vsak učenec mora dobiti enako število portfolijev. Koliko portfeljev slik bo dobil vsak od njih?",
+        "answer": "8 "
+    },
+    {
+        "question": "Gregova mama je pripravila nekaj piškotov za družino. Piškoti so bili tako veliki, da se jih je odločila prerezati na pol. Greg je pojedel 4 polovice, njegov brat Brad pa 6 polovic. Ostalo je še 18 polovic. Koliko celih piškotov je naredila Gregova mama?",
+        "answer": "14 "
+    },
+    {
+        "question": "Carey in Pat premikata stole v telovadnico. Dogovorili so se za premik 74 stolov. Carey je premaknil 28 stolov. Pat je premaknil 29 stolov. Koliko stolov jim še preostane za premakniti?",
+        "answer": "17 "
+    },
+    {
+        "question": "Alexa bere skrivnost Nancy Drew. Njena knjiga ima 95 strani. Prvi dan je prebrala 18 strani. Naslednji dan Alexa kar ni mogla nehati brati. Prebrala je 58 strani. Koliko strani ima Alexa še za prebrati?",
+        "answer": "19 "
+    },
+    {
+        "question": "Joan je imela 695 Pokemon kart in 6 jih je bilo raztrganih. Sara je kupila 133 Joaninih Pokemon kart. Koliko Pokemon kart ima Joan zdaj?",
+        "answer": "562.0"
+    },
+    {
+        "question": "Med urejanjem svoje zbirke DVD-jev je Seth postavil 2 DVD-ja na prvo stojalo, 4 DVD-je na drugo stojalo, 8 DVD-jev na tretje stojalo, 16 DVD-jev na četrto stojalo in 32 DVD-jev na peto stojalo. Če se bo ta vzorec nadaljeval, koliko DVD-jev bo Seth postavil na šesto stojalo?",
+        "answer": "64 "
+    },
+    {
+        "question": "Če Tom namerava popraviti 158 ur s hitrostjo 12 ur na dan, koliko dni potrebuje za popravilo ur?",
+        "answer": "14 "
+    },
+    {
+        "question": "Fred ima v banki 90 centov.  Koliko centov ima Fred?",
+        "answer": "9.0"
+    },
+    {
+        "question": "Nancy je prodala 45 škatel Tagalongov. Koliko zabojev z 12 škatlami in dodatnimi škatlami potrebuje Nancy?",
+        "answer": "4 "
+    },
+    {
+        "question": "Pravokoten kos kovine je širok 16 centimetrov in dolg 19 centimetrov. Kakšen je njegov obseg?",
+        "answer": "70 "
+    },
+    {
+        "question": "Na pohod se odpravlja 86 učencev. Vsak šolski avtobus sprejme 9 učencev. Koliko študentov je ostalo?",
+        "answer": "5 "
+    },
+    {
+        "question": "Avtobus lahko prepelje 48 potnikov. Če se šola s 1230 učenci in učitelji odpravlja na ekskurzijo, koliko potnikov je na avtobusu, ki ni polno zaseden?",
+        "answer": "30 "
+    },
+    {
+        "question": "Peter ima 18 pomaranč, 27 hrušk in 12 banan. Želi narediti košare s sadjem z enakim številom vsakega sadja v vsaki košari. Kakšno je največje število košar s sadjem, ki jih lahko naredi?",
+        "answer": "3 "
+    },
+    {
+        "question": "Vsota trenutne starosti Abe in starosti pred 7 leti je 31. Poiščite sedanjo starost Abe.",
+        "answer": "19 "
+    },
+    {
+        "question": "Kiara je spekla 30 ovsenih piškotov in 48 piškotov s čokoladnimi kosmiči, ki jih je zapakirala v plastične posode za svoje prijatelje učiteljice v šoli. Piškote želi razdeliti v enake posodice, tako da bo v vsaki posodici enako število vsake vrste piškotkov. Če želi, da ima vsaka posoda največje možno število piškotov, koliko plastičnih posod potrebuje?",
+        "answer": "6 "
+    },
+    {
+        "question": "Površina kvadratne fotografije je 25 kvadratnih palcev. Angie se je odločila, da fotografijo poveča tako, da podvoji stranice. Kakšno bo novo območje?",
+        "answer": "100 "
+    },
+    {
+        "question": "Anna ima v svojem hranilniku skupno 28 centov. Ima 8 centov manj kot centov. Koliko centov ima Anna?",
+        "answer": "18 "
+    },
+    {
+        "question": "Luke je zaslužil 9 dolarjev s košnjo trate in 18 dolarjev z uživanjem plevela. Če bi porabil samo 3 dolarje na teden, kako dolgo bi mu zdržal denar?",
+        "answer": "9.0"
+    },
+    {
+        "question": "Smučišče je poročalo o 65 centimetrih snega v januarju. V prvem tednu so namerili 18 centimetrov snega. Drugi teden so izmerili 25 centimetrov snega. Koliko snega so dobili do konca meseca?",
+        "answer": "22 "
+    },
+    {
+        "question": "Za svoj avto je Mike porabil 118,54 $ za zvočnike in 106,33 $ za nove gume. Mike je želel 3 CD-je za 4,58 $, a se je odločil, da ne bo. Koliko je Mike skupaj porabil za avtomobilske dele?",
+        "answer": "224.87"
+    },
+    {
+        "question": "Število, dodano trikratnemu številu, je 20. Pretvorite to izjavo v algebraične enačbe in poiščite število.",
+        "answer": "5"
+    },
+    {
+        "question": "Mike je utrgal 123 pomaranč, Melanie pa 104 pomaranče. Fred je pobral 130 jabolk. Koliko pomaranč je bilo skupaj obranih?",
+        "answer": "227.0"
+    },
+    {
+        "question": "Anthony vsak dan dobi 75 centov za kosilo. Kupil je škatlo soka za 27 centov. Kupil je tudi kolaček. Anthonyju je ostalo 8 centov. Koliko je stal kolaček?",
+        "answer": "40 "
+    },
+    {
+        "question": "Vaš pes je pojedel 12 vaših listkov za šolo. To je bilo 3/4 vaših beležk, ki jih morate oddati. Koliko beležk ste izpolnili?",
+        "answer": "16 "
+    },
+    {
+        "question": "Kmet Singleton ima parcelo s paradižniki. V prvi vrsti so 4 rastline paradižnika, v drugi vrsti 8 rastlin paradižnika, v tretji vrsti 16 rastlin paradižnika, v četrti vrsti 32 rastlin paradižnika in v peti vrsti 64 rastlin paradižnika. Če se ta vzorec nadaljuje, koliko rastlin paradižnika bo v šesti vrsti?",
+        "answer": "128 "
+    },
+    {
+        "question": "V enem tednu je Mitcheva družina popila 0,5 škatle navadnega mleka in 0,1 škatle sojinega mleka. Koliko mleka so skupaj popili?",
+        "answer": "0.6"
+    },
+    {
+        "question": "Fred ima 5 rumenih balonov, Sam ima 6 rumenih balonov in Mary ima 7 rumenih balonov. Baloni stanejo 5 dolarjev. Koliko rumenih balonov imajo skupaj?",
+        "answer": "18.0"
+    },
+    {
+        "question": "Gwen in njeni prijatelji so reciklirali papir za svoj razred. Za vsake 3 funte, ki so jih reciklirali, so zaslužili eno točko. Če je Gwen reciklirala 5 funtov, njeni prijatelji pa 13 funtov, koliko točk so si zaslužili?",
+        "answer": "6.0"
+    },
+    {
+        "question": "Yadirina mama kupuje hrenovke in hrenovke za družinski žar. Hrenovke so na voljo v pakiranjih po 12, hrenovke pa v paketih po 9. Trgovina ne prodaja delov paketa in Yadirina mama želi enako število hrenovk kot hrenovk. Kakšno je najmanjše skupno število hrenovk, ki jih lahko kupi Yadirina mama?",
+        "answer": "36 "
+    },
+    {
+        "question": "Kavarna je zlagala škatle z mlekom v sklade. Imeli so sedemsto devetindevetdeset kartonov in so jih zlagali v kupe po šest kartonov v vsakem kupu. Koliko polnih skladov bi lahko naredili?",
+        "answer": "133 "
+    },
+    {
+        "question": "Kvadrat ima obseg 24 palcev. Kolikšna je ploščina kvadrata?",
+        "answer": "36 "
+    },
+    {
+        "question": "Amy je delala anketo v razredu. Dekleta v razredu je vprašala, koliko bratov in sester imajo, in zabeležila rezultate: 1, 6, 10, 4, 3, 3, 11, 3 in 10. Kakšna je srednja vrednost rezultatov?",
+        "answer": "5.7 "
+    },
+    {
+        "question": "Billy je pleskal steno v svoji sobi. Skupna površina je bila 8 kvadratnih metrov. Če je bil zid širok 2 metra, kako visok je?",
+        "answer": "4 "
+    },
+    {
+        "question": "G. White je kupil preprogo za pravokotno dvorano površine 800 kvadratnih metrov. Dolžina dvorane je 32 metrov. Poiščite želeno širino preproge.",
+        "answer": "25 "
+    },
+    {
+        "question": "Adam je kupil nov televizor z ravnim zaslonom s površino 21 kvadratnih metrov. Zaslon je širok 3 metre. Kako visok je?",
+        "answer": "7 "
+    },
+    {
+        "question": "Sally je vzgojila 113 rep in 118 buč. Marija je zrasla 129 rep. Koliko repe so skupaj zrasli?",
+        "answer": "242.0"
+    },
+    {
+        "question": "V šolski jedilnici je bilo 17 jabolk. Če bi porabili 2 za pripravo kosila za učence in nato kupili še 23, koliko jabolk bi imeli?",
+        "answer": "38 "
+    },
+    {
+        "question": "Restavracija ima 67 paradižnikov. 32 jih pripravimo v solate. Drugih 21 jih pripravimo v omako za testenine. Koliko paradižnikov je ostalo?",
+        "answer": "14 "
+    },
+    {
+        "question": "Na igrišču je bil nov peskovnik širok 4 metre in dolg 2 metra. Kakšna je površina peskovnika?",
+        "answer": "8 "
+    },
+    {
+        "question": "Colton ima 16 modrih frnikol in 8 belih. Če jih želi postaviti v enake skupine, ne da bi ostale frnikole, kakšno je največje število skupin, ki jih lahko sestavi Colton?",
+        "answer": "8 "
+    },
+    {
+        "question": "Jenny je prodala 24 škatel Trefoils. Koliko zabojev z 8 škatlami in dodatnimi škatlami mora dostaviti Jenny?",
+        "answer": "3.0"
+    },
+    {
+        "question": "Rita kupuje čebulice za svoj vrt. Želi kupiti enako število tulipanov in narcis. Če so čebulice tulipanov v paketih po 15 in čebulice narcis v paketih po 16, koliko najmanj čebulic vsake vrste bo morala Rita kupiti?",
+        "answer": "240 "
+    },
+    {
+        "question": "Tayli želi oglaševati svoje podjetje, zato vsakemu lastniku restavracije podari pakete po 13 rdečih letakov, vsakemu lastniku trgovine z oblačili pa komplete 20 modrih letakov. Na koncu dneva Tayli ugotovi, da je razdelila enako število rdečih in modrih letakov. Kakšno je najmanjše število letakov vsake barve, ki jo je razdelila?",
+        "answer": "260 "
+    },
+    {
+        "question": "Šola načrtuje ekskurzijo. Na vsakem šolskem avtobusu je 45 učencev in 9 sedežev. Koliko avtobusov je potrebnih za potovanje?",
+        "answer": "5.0"
+    },
+    {
+        "question": "Učiteljica je prvemu učencu dala 29 zlatih nalepk, drugemu 35 zlatih nalepk, tretjemu 41 zlatih nalepk, četrtemu učencu 47 zlatih nalepk in petemu učencu 53 zlatih nalepk. Če se bo ta vzorec nadaljeval, koliko zlatih nalepk bo učitelj dal šestemu učencu?",
+        "answer": "59 "
+    },
+    {
+        "question": "Vsota števk dvomestnega števila je 9. Prav tako je devetkrat to število dvakrat večje od števila, ki ga dobimo z obračanjem vrstnega reda števk. Poiščite številko.",
+        "answer": "18"
+    },
+    {
+        "question": "Nancy je na plaži našla 35 školjk in 25 morskih zvezd. 17 školjk je dala Jasonu. Koliko školjk ima zdaj Nancy?",
+        "answer": "18.0"
+    },
+    {
+        "question": "Joe's Bath Shop prodaja milo v škatlah s 5 ploščicami in steklenice mila v škatlah z 19 steklenicami. Zaposleni presenečeno ugotovi, da je trgovina prejšnji teden prodala enako število ploščic in steklenic. Kakšno je najmanjše število vsake vrste mila, ki bi ga trgovina lahko prodala?",
+        "answer": "95 "
+    },
+    {
+        "question": "Črv je padel v luknjo, ki je globoka 26 centimetrov. Vsak dan se povzpne za 8 centimetrov in zdrsne nazaj 3 centimetre. Koliko dni bo črv potreboval, da doseže vrh?",
+        "answer": "5 "
+    },
+    {
+        "question": "Učitelj naj razporedi 60 fantov in 72 deklet v vrste. Želi jih urediti tako, da bodo tam v vrsti le fantje ali dekleta. Poiščite največje število študentov, ki bi jih lahko postavili v vrsto.",
+        "answer": "12 "
+    },
+    {
+        "question": "Andrew je našel nekaj praznih zabojnikov, v katere je dal pločevinke za recikliranje. V prvi koš je dal 2 prazni pločevinki, v drugega 4 prazne pločevinke, v tretjega 7 praznih pločevink, v četrtega 11 praznih pločevink in v petega 16 praznih pločevink. Če se bo ta vzorec nadaljeval, koliko praznih pločevink bo Andrew dal v šesti zabojnik?",
+        "answer": "22 "
+    },
+    {
+        "question": "Cindy ima 105 nalepk. Uporablja 23 nalepk. Kupi še 45 nalepk. Koliko nalepk ima zdaj Cindy?",
+        "answer": "127 "
+    },
+    {
+        "question": "Sod pomarančnega soka je bil sto triinpetdeset pintov. Če bi želeli kad natočiti v pet kozarcev z enako količino v vsakem kozarcu, koliko pintov bi bilo v vsakem kozarcu?",
+        "answer": "30 "
+    },
+    {
+        "question": "Gospa Hilt je izmerila razdaljo od svoje mize do vodnjaka. Bilo je 30 čevljev. Koliko metrov bo prehodila gospa Hilt na svojih izletih do vodnjaka, če bo danes 4-krat šla do vodnjaka?",
+        "answer": "120.0"
+    },
+    {
+        "question": "Kmet ocenjuje, da bo požel 48097 bušev pšenice. Vreme je med rastno sezono odlično, tako da požanje 684 bušev pšenice, kot je bilo pričakovano. Koliko bušev pšenice požanje kmet?",
+        "answer": "48781.0"
+    },
+    {
+        "question": "Petsto štiriinpetdeset študentov gre na tekmovanje v trivialnosti. Če lahko vsak šolski kombi sprejme devet učencev, koliko kombijev bodo potrebovali?",
+        "answer": "62 "
+    },
+    {
+        "question": "Na knjižni polici sta 2 zeleni knjigi, 1 modra knjiga in 4 oranžne knjige. Koliko knjig ostane na knjižni polici, če jih vzamemo 3 v branje?",
+        "answer": "4 "
+    },
+    {
+        "question": "Ryan je zbral 89 listov. Izgubil je 24 listov in zavrgel 43 listov. Koliko listov je ostalo Ryanu?",
+        "answer": "22 "
+    },
+    {
+        "question": "Sally zasluži 25,00 $ za vsako hišo, ki jo očisti. Če bo očistila 96 hiš, koliko desetin dolarjev bo zaslužila?",
+        "answer": "200.0"
+    },
+    {
+        "question": "Jawbreakers so v paketih po 8. Sarah je pojedla 20 Jawbreakers. Koliko Jawbreakers ji je ostalo?",
+        "answer": "4 "
+    },
+    {
+        "question": "Ena tretjina določenega števila, dodana petini, da osem petnajstino števila. Poiščite številko in preverite svoj izračun.",
+        "answer": "1"
+    },
+    {
+        "question": "Pralni stroj lahko opere 28 funtov oblačil na dan. Če je treba na dan oprati 200 funtov oblačil, koliko funtov perila na dan opere pralni stroj, ki ni poln?",
+        "answer": "4 "
+    },
+    {
+        "question": "Lavinia ima 9 kozarcev in 6 skodelic. Želela bi jih razdeliti v enake skupine, tako da nobena ne bi ostala, v pripravah na večerjo. Katero največje število skupin lahko postavi Lavinia?",
+        "answer": "3 "
+    },
+    {
+        "question": "G. Lee želi naložiti 134 ton svojega sadja. Velik tovornjak lahko naloži 15 ton sadja, majhen tovornjak pa 7 ton. Koliko velikih tovornjakov bi morali uporabiti, da bi uporabili najmanjše število tovornjakov in da bi bil vsak tovornjak polno zaseden?",
+        "answer": "8 "
+    },
+    {
+        "question": "Za izdelavo ravnila potrebujemo osem gramov plastike. Če bi imelo podjetje osemsto osemindvajset gramov plastike, koliko celih ravnil bi lahko naredilo?",
+        "answer": "103 "
+    },
+    {
+        "question": "Gabe in Steven služita denar s sprehajanjem domačih ljubljenčkov. Med pogovorom o njunem delu ugotovita, da oba sprehajata enako skupno število hišnih ljubljenčkov, čeprav Gabe sprehaja hišne ljubljenčke v skupinah po 2 in Steven sprehaja hišne ljubljenčke v skupinah po 10. Kakšno je najmanjše skupno število hišnih ljubljenčkov, ki bi jih lahko imel vsak hoja?",
+        "answer": "10 "
+    },
+    {
+        "question": "Zborovodja razdeli 10 sopranov in 15 altov v pevske skupine. Želi, da ima vsaka skupina enako kombinacijo sopranov in altov, brez pevcev. Kakšno je največje število skupin, ki jih lahko sestavi?",
+        "answer": "5 "
+    },
+    {
+        "question": "Bliskovni pogon lahko vsebuje devet gigabajtov podatkov. Če bi morali shraniti štiristo dvainšestdeset koncertov, koliko bliskovnih pogonov bi potrebovali?",
+        "answer": "52 "
+    },
+    {
+        "question": "Tom je kupil igro Batman za 13,60 $ in igro Superman za 5,06 $. Tom ima že 2 igrici. Koliko je Tom porabil za video igre?",
+        "answer": "18.66"
+    },
+    {
+        "question": "Shelley ima 12 vilic in 16 nožev, ki jih mora postaviti v držala za srebrnino v restavraciji s hitro prehrano, kjer dela. Želi jih enakomerno porazdeliti, brez vilic ali nožev. Kakšno je največje število držal za srebrnino, ki jih lahko založi Shelley?",
+        "answer": "4 "
+    },
+    {
+        "question": "Wilson ima v mislih številko. Če mu odvzame eno tretjino števila, je rezultat šestnajst tretjin. Poiščite številko.",
+        "answer": "8"
+    },
+    {
+        "question": "Ava je plastične steklenice pospravila v vreče po akciji recikliranja. V prvo vrečko je dala 45 plastenk, v drugo 53 plastenk, v tretjo 61 plastenk in v četrto 69 plastenk. Če se bo ta vzorec nadaljeval, koliko plastenk bo Ava dala v peto vrečko?",
+        "answer": "77 "
+    },
+    {
+        "question": "Če mora Simon izdelati 519 darilnih vrečk s hitrostjo 42 vrečk na dan, koliko darilnih vrečk bo naredil zadnji dan?",
+        "answer": "15 "
+    },
+    {
+        "question": "Na kosilu je dvesto sedeminosemdeset ljudi. Če miza sprejme devet ljudi, koliko miz potrebujejo?",
+        "answer": "32 "
+    },
+    {
+        "question": "Jeremy ima dva kosa lesa: enega meri 90 palcev, drugega pa 72 palcev. Oba kosa lesa želi razrezati na manjše kose, tako da bodo vsi enako dolgi. Kako dolgo je rezal oba kosa lesa?",
+        "answer": "18 "
+    },
+    {
+        "question": "Dan je vzgojil 42 rep in 38 kantelop. Jessica je vzgojila 47 rep. Koliko repe so skupaj zrasli?",
+        "answer": "89.0"
+    },
+    {
+        "question": "V pekarni je nekaj otrok. Ko so se odločali, kaj bodo kupili, je vstopilo 24 deklet, odšlo pa 31 fantov. Če je na koncu v pekarni 78 otrok, koliko otrok je bilo najprej?",
+        "answer": "85 "
+    },
+    {
+        "question": "V vreče je treba napolniti 757 funtov peska. Če ima vsaka vreča kapaciteto 65 funtov, koliko vreč potrebujete?",
+        "answer": "12 "
+    },
+    {
+        "question": "Dave je delavcem v kavarni pomagal pobirati pladnje za kosilo, vendar je lahko nosil samo 9 pladnjev naenkrat. Če bi moral pobrati 17 pladnjev z ene mize in 55 pladnjev z druge, koliko potovanj bo naredil?",
+        "answer": "8.0"
+    },
+    {
+        "question": "Med štetjem stolov v jedilnici je Marie opazila, da je bilo v prvi vrsti 14 stolov, v drugi vrsti 23, v tretji vrsti 32 stolov, v četrti vrsti 41 stolov in v peti vrsti 50 stolov. Če se bo ta vzorec nadaljeval, koliko stolov bo v šesti vrsti?",
+        "answer": "50 "
+    },
+    {
+        "question": "Razlika med eno tretjino števila in 5 je 10. Poišči število.",
+        "answer": "45"
+    },
+    {
+        "question": "Keglji so v paketih po 6. Juan je pojedel 24 kegljev. Koliko kegljev mu je ostalo?",
+        "answer": "0 "
+    },
+    {
+        "question": "Razdalja okoli pravokotnega vrta je 36 čevljev. Ena stran meri 10 čevljev. Kakšna je površina vrta?",
+        "answer": "80 "
+    },
+    {
+        "question": "Fred je kupil pet novih bejzbolskih menjalnih kart, da bi jih dodal svoji zbirki. Naslednji dan je njegov pes pojedel polovico njegove zbirke. Zdaj je ostalo le še šestindvajset kart. S koliko kartami je začel Fred?",
+        "answer": "47 "
+    },
+    {
+        "question": "Jasper je zadolžen za osvežitev. Prodal je 27 vrečk čipsa. Prodal je 8 hrenovk manj kot čipsa. Prodal je 12 pijač več kot hrenovk. Koliko pijač je prodal Jasper?",
+        "answer": "31 "
+    },
+    {
+        "question": "Samantha ima dva kosa blaga. En kos je širok 72 palcev, drugi kos pa 90 palcev. Oba kosa želi razrezati na enako široke trakove, ki so čim širši. Kako široko naj odreže trakove?",
+        "answer": "18 "
+    },
+    {
+        "question": "Benny je za rojstni dan prejel 79 dolarjev in 9 vstopnic za kino. Šel je v trgovino s športno opremo in kupil bejzbolske rokavice, bejzbolsko žogico in kij. Imel je 32 dolarjev več, koliko je porabil za bejzbolsko opremo?",
+        "answer": "47.0"
+    },
+    {
+        "question": "Če imate 1 bankovec za deset dolarjev, 1 četrtino in 1 nikelj, koliko denarja imate?",
+        "answer": "10.3 "
+    },
+    {
+        "question": "Chris je svoj denar varčeval za nakup novega para nogometnih čevljev in žoge. Babica mu je za rojstni dan podarila 25 dolarjev. Teta in stric sta mu dala 20 dolarjev, starši pa 75 dolarjev. Zdaj je imel 279 $. Koliko denarja je imel pred rojstnim dnevom?",
+        "answer": "159 "
+    },
+    {
+        "question": "V trgovini je bilo 44 prenosnih računalnikov in Mike jih je enakomerno razdelil v 5 vrst. Koliko jih je ostalo?",
+        "answer": "4 "
+    },
+    {
+        "question": "Keith je porabil 6,51 $ za igračo za zajce, 5,79 $ za hrano za hišne ljubljenčke, kletka pa ga je stala 12,51 $. Na tleh je našel dolarski bankovec. Kakšni so bili skupni stroški Keithovih nakupov?",
+        "answer": "24.81"
+    },
+    {
+        "question": "Za večerjo Abraham pripravlja posamezne porcije predjedi. Ima 9 korenčkov in 18 zelenih. Če želi, da je vsaka porcija enaka, brez ostankov hrane, koliko porcij lahko pripravi Abraham?",
+        "answer": "9 "
+    },
+    {
+        "question": "Knjiga je bila dolga 2 cm in široka 3 cm. Kakšno je področje knjige?",
+        "answer": "6 "
+    },
+    {
+        "question": "Christine deli češnje med nekaj skledic. V prvo skledo je dala 35 češenj, v drugo 40 češenj, v tretjo 45 češenj, v četrto 50 češenj in v peto 55 češenj. Če se ta vzorec nadaljuje, koliko češenj bo Christine dala v šesto skledo?",
+        "answer": "60 "
+    },
+    {
+        "question": "Kiera pripravlja trail mix iz 16 vrečk oreščkov in 6 vrečk suhega sadja. Želi, da je vsaka nova porcija trail mixa enaka, da vsebuje enako kombinacijo vrečk oreščkov in vrečk suhega sadja, brez ostankov vrečk. Kakšno je največje število porcij trail mixa, ki ga lahko naredi Kiera?",
+        "answer": "2 "
+    },
+    {
+        "question": "Eric ima dva kosa vrvi. En kos je 10 centimetrov daljši od drugega. Skupna dolžina obeh kosov je 40 palcev. Kako dolg je krajši kos?",
+        "answer": "15 "
+    },
+    {
+        "question": "V trgovini za noč čarovnic so 3 zelena ogrinjala, 2 modra ogrinjala in 3 rdeča ogrinjala. Če kupimo 6 pelerin, koliko pelerin ostane?",
+        "answer": "2 "
+    },
+    {
+        "question": "Evelyn ima 95 frnikol. Od Henryja dobi še 9. Kasneje Evelyn kupi 6 kart v trgovini. Koliko frnikol ima Evelyn?",
+        "answer": "104.0"
+    },
+    {
+        "question": "Drew je pripravil 61 porcij butterscotcha. Če pričakuje, da si bo njenih 6 sladkosnednih gostov enakovredno razdelilo maslenico, koliko jih bo ostalo neporabljenih?",
+        "answer": "1 "
+    },
+    {
+        "question": "Robin ima 27 paketov žvečilnih gumijev. V vsakem paketu je 18 kosov. Koliko žvečilnih gumijev ima Robin?",
+        "answer": "486.0"
+    },
+    {
+        "question": "Pred decembrom kupci v nakupovalnem središču kupijo 1346 glušnikov. Med decembrom jih kupijo še 6444 in ne ostane. Koliko glušnikov skupaj kupijo kupci?",
+        "answer": "7790.0"
+    },
+    {
+        "question": "Dve uri zazvonita enkrat hkrati. Nato prva ura zazvoni vsakih 90 minut, druga pa vsakih 60 minut. Po koliko minutah bosta spet skupaj zvonila?",
+        "answer": "180 "
+    },
+    {
+        "question": "Ko pet dodamo trem več kot določeno število, je rezultat 19. Kakšno je število?",
+        "answer": "11"
+    },
+    {
+        "question": "Določeno število, dvakrat dodano samo sebi, je enako 96. Kakšno je število?",
+        "answer": "32"
+    },
+    {
+        "question": "Imam 3 stotice, 8 desetic in 3 enice. Katero številko sem?",
+        "answer": "383"
+    },
+    {
+        "question": "Keith je porabil 136,01 $ za zvočnike, 139,38 $ za CD predvajalnik in 112,46 $ za nove pnevmatike. Želel je 3 CD-je za 6,16 $, a jih ni kupil. Koliko je skupaj porabil?",
+        "answer": "387.85"
+    },
+    {
+        "question": "Sam je dobil 9 penijev za pranje perila in 7 četrtin za košnjo trave. Koliko denarja ima Sam?",
+        "answer": "1.84"
+    },
+    {
+        "question": "Za zaključno dejanje je cirkus prikazal plešoče živali s kronami. Če je vsaka krona narejena iz 7 različnih barvnih peres, koliko peres je potrebnih za 934 kron?",
+        "answer": "6538.0"
+    },
+    {
+        "question": "V matematični ekipi je 72 fantov in 90 deklet. Za naslednje tekmovanje iz matematike želi g. Johnson vse učence razporediti v enake vrste, v vsaki vrsti pa samo dekleta ali fantje. Kolikšno je največje število učencev, ki je lahko v vsaki vrsti?",
+        "answer": "18 "
+    },
+    {
+        "question": "Nancy je s svojega vrta pobrala 12 korenčkov. Če bi 2 od njih vrgla ven in naslednji dan pobrala še 21, koliko korenčkov bi skupaj imela?",
+        "answer": "31 "
+    },
+    {
+        "question": "Tom mora prodati osemsto devetinštirideset tablic čokolade, da osvoji potovanje. Če vsaka škatla vsebuje pet čokoladnih tablic, koliko škatel bo moral prodati, da bo osvojil potovanje?",
+        "answer": "170 "
+    },
+    {
+        "question": "Poštna ovojnica je široka 6 palcev s skupno površino 36 kvadratnih palcev. Kakšna je višina ovojnice?",
+        "answer": "6 "
+    },
+    {
+        "question": "V trgovini je 92 računalnikov. 31 je prodanih. 20 se odpošljejo podjetju. Koliko računalnikov je ostalo?",
+        "answer": "41 "
+    },
+    {
+        "question": "Dan je za kačo igračo porabil 11,76 $, kletka pa ga je stala 14,54 $. Dan je na tleh našel tudi dolarski bankovec. Kakšni so bili skupni stroški Danovih nakupov?",
+        "answer": "26.3"
+    },
+    {
+        "question": "Sarina ekipa je odigrala 8 iger košarke. Med temi 8 tekmami je bil rezultat njene ekipe: 69, 68, 70, 61, 74, 62, 65 in 74. Kakšna je povprečna vrednost rezultatov?",
+        "answer": "67.9 "
+    },
+    {
+        "question": "V trgovini je bilo 44 prenosnih računalnikov in Mike jih je enakomerno razdelil v 5 vrst. Koliko prenosnikov je v vsaki vrsti?",
+        "answer": "8 "
+    },
+    {
+        "question": "Tovarna plaščev je imela 29 plaščev. Če bi jih želeli dati v 3 škatle z enakim številom plaščev v vsaki škatli, koliko dodatnih plaščev bi jim ostalo?",
+        "answer": "2 "
+    },
+    {
+        "question": "Tobogan na državnem sejmu stane šest vstopnic na vožnjo. Če bi imeli osemsto oseminšestdeset vozovnic, koliko vozovnic bi vam ostalo, če bi se z njim vozili tolikokrat, kot bi lahko?",
+        "answer": "4 "
+    },
+    {
+        "question": "V košari je manj kot 6 ducatov jajc. Če jajca preštejemo po 2, 3, 4 ali 5 naenkrat, ne ostane nobeno. Koliko jajc je v košari?",
+        "answer": "60 "
+    },
+    {
+        "question": "Matematični krožek je imel zabavo v šoli. Bilo je 20 piškotov in 40 rezin pice, ki so si jih morali razdeliti enakomerno. Vsak učenec je imel enako število celih piškotov in enako število rezin pice, pri čemer ni ostalo ničesar. Kakšno je največje število piškotov in rezin pice, ki jih lahko dobi vsak učenec?",
+        "answer": "20 "
+    },
+    {
+        "question": "Razdelite 39 balonov v 7 enakih skupin. Koliko balonov je ostalo?",
+        "answer": "4 "
+    },
+    {
+        "question": "Lou's Shoes mora vsak mesec prodati 80 parov čevljev. Prejšnji teden so prodali 27 parov, ta teden pa 12 parov. Koliko parov čevljev morajo še prodati?",
+        "answer": "41 "
+    },
+    {
+        "question": "172 dijakov sestavlja ekipe za planinsko tekmovanje. Vsaka ekipa mora imeti 18 učencev. Koliko študentov ne bo v ekipi?",
+        "answer": "10 "
+    },
+    {
+        "question": "Če je Karen prodala 36 škatel Tagalongov, koliko zabojev po 12 škatel vzame Karen od piškotne mame?",
+        "answer": "3.0"
+    },
+    {
+        "question": "Matt ima dva kosa vrvice, enega dolgega 15 čevljev in drugega 12 čevljev. Želi jih razrezati, da dobi veliko kosov vrvi, ki so vsi enake dolžine, brez vrvice. Kakšna je največja dolžina v čevljih, ki jih lahko naredi?",
+        "answer": "3 "
+    },
+    {
+        "question": "Večnacionalna korporacija ima 2041 zaposlenih za krajši delovni čas in 63093 zaposlenih za polni delovni čas. Koliko zaposlenih dela v podjetju?",
+        "answer": "65134.0"
+    },
+    {
+        "question": "Pekarna Sweet Time je pravkar odprta in povečuje število izdelkov, ki jih pečejo. Na primer, oktobra je pekarna naredila 19 korenčkovih tort, novembra 21 korenčkovih tort, decembra 23 korenčkovih tort in januarja 25 korenčkovih tort. Če se bo ta vzorec nadaljeval, koliko korenčkovih tort bo pekarna naredila februarja?",
+        "answer": "27 "
+    },
+    {
+        "question": "V igralnici je Jerry osvojil 29 vstopnic z igro 'whack a mole' in 17 vstopnic z igro 'skee ball'. Če je porabil 12 svojih vstopnic za klobuk, koliko vstopnic je ostalo Jerryju?",
+        "answer": "34 "
+    },
+    {
+        "question": "Edeena pakira enako število rezin jabolk in grozdja za prigrizke. Edeena pakira jabolčne rezine v skupine po 18 in grozdje v skupine po 9. Katero najmanjše število grozdja lahko zapakira?",
+        "answer": "18 "
+    },
+    {
+        "question": "Zack poučuje študente v skupinah po 14. Medtem Karen poučuje študente v skupinah po 10. Med razpravo o njunem delu mentorja ugotovita, da oba delata z enakim skupnim številom študentov. Kakšno je najmanjše število učencev, ki jih lahko ima vsak?",
+        "answer": "70 "
+    },
+    {
+        "question": "Magellan se je odločil izdelati zabavne košare za zbiratelja sredstev. Baloni se prodajajo v vrečkah po 20 kosov, party rogovi se prodajajo v vrečkah po 10 kosov, v paketu pa je 8 čokoladic. Koliko od vsakega naj kupi, da bo v vsaki košari enako število balonov, rogov in bonbonov?",
+        "answer": "40 "
+    },
+    {
+        "question": "Miguel je star 46 let. Je 4 leta starejši od trikratnika starosti svojega sina. Ugotovite starost njegovega sina.",
+        "answer": "14 "
+    },
+    {
+        "question": "Fred je bil letos na 36 košarkarskih tekmah, a jih je 35 izpustil. Lani je šel na 11 tekem. Na koliko košarkarskih tekmah se je skupaj udeležil Fred?",
+        "answer": "47.0"
+    },
+    {
+        "question": "Gospa Hilt bo čez 11 dni kupila nov par čevljev. Koliko minut mora čakati, preden si lahko kupi nov par čevljev?",
+        "answer": "15840 "
+    },
+    {
+        "question": "Na mizi je na kupu 8 ​​jabolk. Vsako jabolko je pakirano po 11 jabolk. Na kup je dodanih 5 jabolk. Koliko jabolk je v kupu?",
+        "answer": "13.0"
+    },
+    {
+        "question": "Podjetje podari 935 svinčnikov šoli. Svinčniki so enakomerno razdeljeni med 9 učilnic. Ostale svinčnike podarimo knjižnici. Koliko svinčnikov je bilo podarjenih knjižnici?",
+        "answer": "8 "
+    },
+    {
+        "question": "Pravokotna gredica je imela skupno površino 35 kvadratnih metrov. Če je bil širok 5 jardov, koliko je bil dolg?",
+        "answer": "7 "
+    },
+    {
+        "question": "124 učencev izdeluje po 3 zvezdice za šolsko steno. Koliko zvezdic bodo naredili vsi skupaj?",
+        "answer": "372.0"
+    },
+    {
+        "question": "Sean je imel 45 zvezdnih utrinkov. Če je Sean dal enako število zvezdnih utrinkov svojim 18 prijateljem in potem pojedel, kar je ostalo, koliko zvezdnih utrinkov je pojedel vsak?",
+        "answer": "2 "
+    },
+    {
+        "question": "V sredo je Joan zapravila 4 pol dolarjev za igranje fliperja. Naslednji dan je za fliper porabila 14 pol dolarjev. Kolikšen je bil skupni znesek, ki ga je Joan porabila za igranje fliperja?",
+        "answer": "9.0"
+    },
+    {
+        "question": "Za šolsko razprodajo peciva je Amy pripravila pecivo. Spekla je 15 kolačkov in 48 piškotov. Po prodaji jih je morala 12 odnesti domov. Koliko peciva je prodala?",
+        "answer": "51 "
+    },
+    {
+        "question": "Alyssina mačka je imela 8 mladičev in 8 jih je imelo lise. 4 je dala svojim prijateljem. Koliko mačjih mladičev ima zdaj?",
+        "answer": "4.0"
+    },
+    {
+        "question": "9 fantov je šlo zalivat drevesa. Bilo je 29 dreves. Če je vsak od njiju zalil enako količino dreves, koliko dreves je zalil vsak deček?",
+        "answer": "3 "
+    },
+    {
+        "question": "Ella ima 2 psa. Vsak dan en pes poje 0,125 merice pasje hrane, drugi pes pa 0,125 merice. Koliko pasje hrane skupaj pojesta psa vsak dan?",
+        "answer": "0.25"
+    },
+    {
+        "question": "Število je enako 5-kratni razliki med številom in 4. Poišči število.",
+        "answer": "5"
+    },
+    {
+        "question": "Učitelj angleščine bi rad razdelil 10 fantov in 15 deklet v skupine, v vsaki enako kombinacijo fantov in deklet in nihče ne bi bil izpuščen. Kakšno je največje število skupin, ki jih je mogoče sestaviti?",
+        "answer": "5 "
+    },
+    {
+        "question": "Benny je za rojstni dan prejel 67 dolarjev. Šel je v trgovino s športno opremo in kupil bejzbolske rokavice, bejzbolsko žogico in kij. Imel je 33 dolarjev več, koliko je porabil za bejzbolsko opremo?",
+        "answer": "34.0"
+    },
+    {
+        "question": "V šoli je 542 deklic in 387 dečkov. Koliko učencev je na tej šoli?",
+        "answer": "929.0"
+    },
+    {
+        "question": "Cvetličar je imel 50 vrtnic. Koliko vrtnic bi imela, če bi jih prodala 15 in jih pozneje utrgala še 21?",
+        "answer": "56 "
+    },
+    {
+        "question": "Mark je imel 24 frnikol, Evan pa 3 frnikole. Mark je dal nekaj svojih frnikol Evanu. Zdaj ima Mark natanko dvakrat toliko frnikol kot Evan. Koliko frnikol je Mark dal Evanu?",
+        "answer": "6 "
+    },
+    {
+        "question": "Maddie, Luisa in Amy so preštele svoje knjige. Maddie je imela 15 knjig. Luisa je imela 18 knjig. Amy in Luisa sta imeli skupaj 9 knjig več kot Maddie. Koliko knjig je imela Amy?",
+        "answer": "6 "
+    },
+    {
+        "question": "Ladja je napolnjena s 5.973 tonami tovora. Ustavi se na Bahamih, kjer mornarji na krov naložijo še 8723 ton tovora. Koliko ton tovora ima zdaj ladja?",
+        "answer": "14696.0"
+    },
+    {
+        "question": "15 učencev je razdelilo 122 map s slikami. Vsak učenec mora dobiti enako število portfolijev. Koliko portfeljev slik bo ostalo?",
+        "answer": "2 "
+    },
+    {
+        "question": "Tom je imel 19 dolarjev in želel je kupiti čim več map. Če ena mapa stane 2 USD, koliko map lahko kupi Tom?",
+        "answer": "9 "
+    },
+    {
+        "question": "Prodajalec avtomobilov je prodal 8 v ponedeljek, 3 v torek, 10 v sredo, 4 v četrtek, 4 v petek in 4 v soboto. Kakšna je srednja vrednost števila avtomobilov, ki jih je prodal?",
+        "answer": "5.5 "
+    },
+    {
+        "question": "V predalu je 48 svinčnikov in 40 škarij. Joan je v predal položila 29 svinčnikov. Koliko svinčnikov je zdaj skupaj?",
+        "answer": "77.0"
+    },
+    {
+        "question": "Tess krasi papirje s skupaj 45 nalepkami s srčki in 27 nalepkami z zvezdicami za otroka, ki ga varuje. Če želi narediti vse papirje enake, z isto kombinacijo nalepk s srčki in zvezdicami in nobene nalepke, katero največje število strani lahko okrasi Tess?",
+        "answer": "9 "
+    },
+    {
+        "question": "Bryan si je ogledal tudi svoje knjige. Če ima Bryan 56 knjig na vsaki od svojih 9 knjižnih polic, koliko knjig ima skupaj?",
+        "answer": "504.0"
+    },
+    {
+        "question": "Stroški taksija v mestu so sestavljeni iz fiksne cene skupaj s pristojbino za prevoženo razdaljo. Za 10 km dolgo potovanje znaša plačana pristojbina 75 USD, za 15 km dolgo potovanje pa 110 USD. Koliko bo moral človek plačati za potovanje na razdalji 25 km?",
+        "answer": "180 "
+    },
+    {
+        "question": "Skupni strošek za šolnino plus sobo in hrano na državni univerzi znaša 2584 $. Šolnina stane 704 $ več kot bivanje in hrana. Kakšna je šolnina?",
+        "answer": "1644 "
+    },
+    {
+        "question": "Joe ima 45 pomaranč, ki jih je treba pospraviti v škatle. Daniel pride pomagat in prinese 16 piškotov, ki jih deli z Joejem. Če je 9 škatel, koliko pomaranč mora biti v vsaki škatli?",
+        "answer": "5.0"
+    },
+    {
+        "question": "Trikotnik ima obseg 90 cm. Dolžine treh stranic so v razmerju 5:12:13. Kolikšna je dolžina najkrajše stranice?",
+        "answer": "15 "
+    },
+    {
+        "question": "Martha's Blossoms prodaja vrtnice v skupinah po 9. Po vsem mestu Rachel's Blooms prodaja vrtnice v skupinah po 19. Če želi kupec kupiti enako število vrtnic pri obeh prodajalcih, kakšno je najmanjše število vrtnic, pri katerih bo kupec moral kupiti vsakega prodajalca?",
+        "answer": "171 "
+    },
+    {
+        "question": "V posodici so 1 zelena perla, 2 rjavi perli in 3 rdeče perle. Tom je iz posode vzel nekaj kroglic in jih pustil 4 in. Koliko kroglic je Tom vzel ven?",
+        "answer": "2 "
+    },
+    {
+        "question": "Sam je iz 3730 cm dolgega traku izrezal enako dolge kose traku. Če je bil vsak kos dolg 73 cm, koliko 73 cm dolgih kosov traku je naredil Sam?",
+        "answer": "51 "
+    },
+    {
+        "question": "105 ljudi gre v kino. V vsakem avtomobilu se lahko pelje 6 oseb. Koliko avtomobilov je potrebnih, da vseh 105 ljudi pripelje v film?",
+        "answer": "18 "
+    },
+    {
+        "question": "Emily je od kokoši pobrala jajca in jih dala v 303 košare. V vsako košaro je dala 28 jajc. Koliko jajc je zbrala Emily?",
+        "answer": "8484.0"
+    },
+    {
+        "question": "Lastnik trgovine je imel dva zaposlena in je zanju kupil devetsto sedemindvajset uniform. Če bi želel vsakemu zaposlenemu dati enako število uniform, koliko bi jih moral še kupiti, da ne bi imel dodatnih?",
+        "answer": "1 "
+    },
+    {
+        "question": "Vsota treh zaporednih lihih števil je sto triindvajset. Katero je najmanjše od treh števil?",
+        "answer": "39"
+    },
+    {
+        "question": "G. Bradley je svojemu razredu dal rešiti matematično nalogo. Rekel je: \"Začnite s številko 28. Dodajte ji 12. Nato dodajte še 7.\" Ned je popolnoma sledil navodilom, Billy pa je odštel 7. Kakšna je razlika med odgovori fantov?",
+        "answer": "14"
+    },
+    {
+        "question": "Nekega dne so Trent in njegovi prijatelji kosili, ko so sedeli za mizami po 2. Drugi dan so kosili za mizami po 8. Kakšno je najmanjše število ljudi, ki bi lahko bilo v skupini?",
+        "answer": "8 "
+    },
+    {
+        "question": "Imela je 35 nalepk z omelo in jih je želela enakomerno razdeliti na 8 kart. Koliko nalepk z omelo ji bo ostalo?",
+        "answer": "3 "
+    },
+    {
+        "question": "Sean ima 8-palčne kose igralne tirnice, Ruth pa 18-palčne kose tirnice. Koliko kosov bi potreboval vsak otrok, da bi zgradil enako dolge proge?",
+        "answer": "72 "
+    },
+    {
+        "question": "Laurie ima 12 frnikol več kot Kurt. Kurt ima 45 frnikol manj kot Dennis. Dennis ima 70 frnikol. Koliko frnikol ima Laurie?",
+        "answer": "37 "
+    },
+    {
+        "question": "Na drsališču je na voljo 85 parov drsalk za izposojo. Ob odprtju drsališča si je drsalke izposodilo 18 ljudi. V prvi uri si je drsalke izposodilo še 25 ljudi. Koliko parov drsalk je ostalo?",
+        "answer": "42 "
+    },
+    {
+        "question": "Trenutno v parku raste 42 orehov in 12 pomarančevcev. Delavci parka so morali posekati 13 poškodovanih orehov. Koliko orehov bo v parku, ko bodo delavci končali?",
+        "answer": "29.0"
+    },
+    {
+        "question": "Vsaka stranica kvadratnega kosa pločevine je dolga 7 metrov. Kakšen je obseg pločevine?",
+        "answer": "28 "
+    },
+    {
+        "question": "Ezra kupuje matice in vijake v lokalni trgovini s strojno opremo. Trgovina prodaja matice v paketih po 13 in vijake v paketih po 8. Če želi Ezra kupiti enako število matic in vijakov, koliko najmanjših matic lahko kupi?",
+        "answer": "104 "
+    },
+    {
+        "question": "V parku trenutno rasteta 2 javorja in 5 priljubljenih dreves. Delavci parka bodo danes posadili 9 javorjev . Koliko javorjev bo imel park, ko bodo delavci končali?",
+        "answer": "11.0"
+    },
+    {
+        "question": "Na šolski prireditvi odrasli sedijo v skupinah po natanko 17, otroci pa v skupinah po natanko 15. Če je odraslih enako kot otrok, koliko je najmanjše število odraslih prisotnih?",
+        "answer": "255 "
+    },
+    {
+        "question": "Matej gre vsakih 12 dni na pohod in vsakih 6 dni na plavanje. Danes je opravil obe vrsti vaj. Čez koliko dni bo spet šel na pohod in plavanje?",
+        "answer": "12 "
+    },
+    {
+        "question": "Ena znamka stane 34 centov. Če cena vsake znamke ostane enaka, koliko bi stali 4 žigi?",
+        "answer": "134.0"
+    },
+    {
+        "question": "Koliko bi stalo 136 kosov žvečilnih gumijev, če vsak kos stane 18 centov?",
+        "answer": "2448.0"
+    },
+    {
+        "question": "Pek je imel 7 škatel za krofe. Na koncu je naredil 48 krofov in jih enakomerno razdelil med škatle. Koliko dodatnih krofov je dobil na koncu?",
+        "answer": "6 "
+    },
+    {
+        "question": "Pravokotnik ima površino 360 kvadratnih centimetrov. Dolga je 20 centimetrov. Kakšen je njegov obseg?",
+        "answer": "76 "
+    },
+    {
+        "question": "Joe, Susien brat, je zbral vseh 94 menjalnih kart, raztresenih v svoji sobi, in jih položil v škatle. Če lahko polna škatla vsebuje največ 8 kart, koliko škatel je bilo popolnoma napolnjenih?",
+        "answer": "11 "
+    },
+    {
+        "question": "Mary je utrgala 14 pomaranč, Jason pa 41 pomaranč. Keith je obral 38 jabolk. Koliko pomaranč je bilo vseh nabranih?",
+        "answer": "55.0"
+    },
+    {
+        "question": "Laverne ima 20 žog za baseball in 15 košarkarskih žog. Če jih želi razdeliti v enake skupine brez žogic, koliko je največje število skupin, ki jih lahko sestavi Laverne?",
+        "answer": "5 "
+    },
+    {
+        "question": "Sarah's Shipping in Ryan's Mail Services pošiljata pakete. Sarahini tovornjaki bodo prevažali le 18 paketov. V nasprotju s tem bodo Ryanovi tovornjaki prevažali samo 11 paketov. Če sta obe podjetji to jutro na koncu poslali enako število paketov, kakšno je najmanjše število paketov, ki jih je moralo poslati vsako?",
+        "answer": "198 "
+    },
+    {
+        "question": "Lansko leto je Springtown Hardware naročil 3 kladiva junija, 4 kladiva julija, 6 kladiv avgusta in 9 kladiv septembra. Če se bo ta vzorec nadaljeval, koliko kladiv bo trgovina naročila oktobra?",
+        "answer": "13 "
+    },
+    {
+        "question": "Melody je naredila 26 izrezkov božičnih drevesc z rdečimi sijočimi kroglami. Če je nameravala 4 od tega prilepiti na sprednjo stran določenega števila kart, koliko izrezkov božičnih drevesc bo ostalo Melody?",
+        "answer": "2 "
+    },
+    {
+        "question": "Izkušen drsalec se vrti po ledu in ustvari popoln krog. Nato izračuna, da mora imeti obseg 6,28 jarda. Kolikšen je premer kroga?",
+        "answer": "2 "
+    },
+    {
+        "question": "Učiteljica je dala 42 svinčnikov 12 učencem enako. Koliko svinčnikov je ostalo?",
+        "answer": "6 "
+    },
+    {
+        "question": "Ko se je Jose peljal z avtobusom, je opazil sedeče ljudi. Na naslednji avtobusni postaji je vstopilo 5 ljudi in izstopilo 2 osebi. Dve postaji kasneje je 7 ljudi vstopilo 15 ljudi je izstopilo iz avtobusa na končni postaji. Koliko ljudi je bilo v avtobusu, ko je Jose stopil na avtobus?",
+        "answer": "5 "
+    },
+    {
+        "question": "Joanne vodi kampanjo za predsednico razreda in namerava razdeliti nekaj gradiva za kampanjo: 20 letakov in 16 gumbov. Želi, da vsaka učilnica prejme enak nabor gradiva za kampanjo, ne da bi ostalo gradivo. Katero je največje število učilnic, v katere lahko Joanne razdeli gradivo?",
+        "answer": "4 "
+    },
+    {
+        "question": "Sam je imel v svoji banki 7 penijev in 8 centov. Njegova sestra si je izposodila 4 cente. Koliko centov ima Sam zdaj?",
+        "answer": "4.0"
+    },
+    {
+        "question": "Tom je že imel 2 sladkarije. Njegov prijatelj mu je dal še 7 in nato je Tom kupil še 10. Koliko kosov ima Tom zdaj?",
+        "answer": "19 "
+    },
+    {
+        "question": "Gospa Wilson, učiteljica matematike, ima 18 logičnih ugank in 9 vizualnih ugank, ki jih želi združiti v sklope za učence, ki predčasno končajo teste. Gospa Wilson želi, da je vsak komplet enak, da vsebuje enako kombinacijo logičnih in vizualnih ugank, brez ugank. Kakšno je največje število nizov, ki jih lahko sestavi?",
+        "answer": "9 "
+    },
+    {
+        "question": "Shirley je prodala 20 škatel Do-Si-Dosa. Koliko zabojev s 4 škatlami in dodatnimi škatlami mora dostaviti Shirley?",
+        "answer": "5.0"
+    },
+    {
+        "question": "Amanda ima dva kosa traku, enega dolgega 8 palcev in drugega 16 palcev. Da bi okrasila album, jih želi razrezati, da dobi veliko kosov traku, ki so vsi enake dolžine, brez ostankov traku. Kakšna je največja dolžina, v palcih, da jih lahko naredi?",
+        "answer": "8 "
+    },
+    {
+        "question": "V ponedeljek se je 375 učencev odpravilo na izlet v živalski vrt. Vseh 7 avtobusov je bilo polnih in 4 učenci so morali potovati z avtomobili. Koliko učencev je bilo v vsakem avtobusu?",
+        "answer": "53.0"
+    },
+    {
+        "question": "89 piškotkov se enakomerno razdeli med 4 osebe. Koliko jih dobi vsak?",
+        "answer": "22 "
+    },
+    {
+        "question": "Kvadrat ima stranice, ki merijo 15 cm. Pravokotnik ima dolžino 18 cm. Obseg kvadrata je enak obsegu pravokotnika. Kolikšna je ploščina pravokotnika?",
+        "answer": "216 "
+    },
+    {
+        "question": "Atomske ognjene krogle so v paketih po 9. Barbara je pojedla 59 atomskih ognjenih krogel. Koliko atomskih ognjenih krogel ji je ostalo?",
+        "answer": "5 "
+    },
+    {
+        "question": "V sejni sobi sta 2 Američana, 4 Francozi in 4 Kitajci. 3 od njih odidejo. Koliko ljudi je zapustilo sejno sobo?",
+        "answer": "7 "
+    },
+    {
+        "question": "Jerry je štel denar, ki ga je prejel za rojstni dan. Od tete je prejel 9 dolarjev. Od strica je prejel 9 dolarjev. Njegovi najboljši prijatelji so mu dali $22, $23 in $22 in $22. In sestra mu je dala 7 dolarjev. Kakšna je vrednost denarja, ki ga je prejel?",
+        "answer": "16.3 "
+    },
+    {
+        "question": "Lenny ima 84 $. Za video igre je porabil 24 dolarjev, v trgovini pa 21 dolarjev. Koliko je ostalo Lennyju?",
+        "answer": "39 "
+    },
+    {
+        "question": "Graditelj je moral kupiti sto štiriinpetdeset desk za svoj zadnji projekt. Če so plošče, ki jih potrebuje, v paketih po tri, koliko paketov bo moral kupiti?",
+        "answer": "52 "
+    },
+    {
+        "question": "Na radijski postaji poteka akcija, v kateri vsak 12. klicatelj prejme brezplačno vstopnico za koncert, vsak 15. klicatelj pa prejme vožnjo z limuzino. Kateri klicatelj bo prvi osvojil oba?",
+        "answer": "60 "
+    },
+    {
+        "question": "Starost Vidyine mame je 5 let več kot trikratnik Vidyine sedanje starosti. Poiščite Vidyino trenutno starost, če je njena mati stara 44 let.",
+        "answer": "13 "
+    },
+    {
+        "question": "Austin daje nalepke v knjigo z nalepkami. Na prvo stran je nalepil 8 nalepk, na drugo 16 nalepk, na tretjo 24 nalepk in na četrto stran 32 nalepk. Če se bo ta vzorec nadaljeval, koliko nalepk bo Austin nalepil na peto stran?",
+        "answer": "40 "
+    },
+    {
+        "question": "Randy potrebuje 53 kolačkov za rojstnodnevno zabavo. Ima že 7 čokoladnih kolačkov in 19 vanilijevih kolačkov. Koliko kolačkov naj Randy še kupi?",
+        "answer": "32.0"
+    },
+    {
+        "question": "Kristen v svoji soseščini opazi enako število dveh vrst žuželk: metuljev in kresnic. Zdi se, da vedno opazuje metulje v skupinah po 44 in kresničke v skupinah po 17. Kakšno je najmanjše število metuljev, ki bi jih lahko videla?",
+        "answer": "748 "
+    },
+    {
+        "question": "Lindsey ima 16 pločevink navadne gazirane pijače in 8 pločevink dietne. Ustvariti želi nekaj enakih okrepčevalnih miz, ki bodo delovale med nogometno igro. Prav tako ne želi, da bi ji ostal kakšen soda. Kakšno je največje število miz za osvežitev, ki jih lahko založi Lindsey?",
+        "answer": "8 "
+    },
+    {
+        "question": "V škatli računalniškega papirja je še dvesto enaindvajset listov. Če bi vsak tiskalnik v računalniškem laboratoriju potreboval sedem listov, koliko tiskalnikov bi napolnila škatla?",
+        "answer": "31 "
+    },
+    {
+        "question": "Do babičine hiše je 78 milj. G. Welch je vozil 35 milj. Ustavil se je, da bi kupil pito za sladico. Potem je prevozil 18 milj in se ustavil, da bi natočil bencin v avto. Koliko milj še čaka, dokler ne pride do babičine hiše?",
+        "answer": "25 "
+    },
+    {
+        "question": "Melanie je imela 276 dolarjev za 9 knjig. Ko jih je kupila, je imela 15 dolarjev. Koliko je stala posamezna knjiga?",
+        "answer": "29 "
+    },
+    {
+        "question": "V trgovini je bilo na zalogi 22 parov čevljev velikih številk, 50 parov čevljev srednjih številk in 24 parov čevljev majhnih številk. Po prodaji nekaj čevljev je ostalo 13 parov čevljev. Koliko parov čevljev je prodala trgovina?",
+        "answer": "83 "
+    },
+    {
+        "question": "Obstaja 397 metuljev. Vsak metulj ima 12 črnih pik in 17 rumenih pik. Koliko črnih pik je vsega skupaj?",
+        "answer": "4764.0"
+    },
+    {
+        "question": "Prevozno podjetje je kupilo 95 ton nafte. V velikem sodu je lahko 6 ton nafte, v majhnem pa 5 ton nafte. Koliko velikih sodov je treba uporabiti, da bi uporabili najmanjše število sodov in imeli vsak sod popolnoma zasedenega?",
+        "answer": "15 "
+    },
+    {
+        "question": "Jenny gre na plesni tečaj vsakih 6 dni, na tečaj karateja vsakih 12 dni in v knjižnico vsakih 18 dni. 1. decembra je šla v oba razreda in v knjižnico. Koliko dni od 1. decembra bo opravila obe uri in šla v knjižnico?",
+        "answer": "36 "
+    },
+    {
+        "question": "Rosa izdeluje igralno ploščo, ki meri 16 x 24 palcev. Želi uporabiti kvadratne ploščice. Katero največjo ploščico lahko uporabi?",
+        "answer": "8 "
+    },
+    {
+        "question": "Denise se stara in čuti, da bi morala svojo zbirko plišastih živali podariti otrokom, ki so manj srečni. Ima 14 plišastih mačk in 7 plišastih psov, ki jih želi razdeliti v enake skupine, tako da jim ne ostane nobena plišasta žival. V katero največje število skupin lahko Denise uvrsti svoje plišaste živali?",
+        "answer": "7 "
+    },
+    {
+        "question": "Joan je vzgojila 24 buč, Keith 42 buč, Alyssa pa 13 buč. Na kmetiji so delali 34 dni. Koliko buč so skupaj zrasli?",
+        "answer": "79.0"
+    },
+    {
+        "question": "Umetnostni muzej je imel 15 slik, ki jih je enakomerno razdelil na 2 različna eksponata. Koliko slik bi še potrebovali, da bi zagotovili enako količino vseh eksponatov?",
+        "answer": "1 "
+    },
+    {
+        "question": "Bernard je imel 15 rdečih zvezkov, 17 modrih zvezkov in 19 belih zvezkov. Nekaj ​​jih je dal Tomu in ostalo jih je 5. Koliko zvezkov je Bernard dal Tomu?",
+        "answer": "46 "
+    },
+    {
+        "question": "Roger je delavcem v kavarni pomagal pobirati pladnje za kosilo, vendar je lahko nosil samo 4 pladnje naenkrat. Če bi moral pobrati 10 pladnjev z ene mize in 2 pladnja z druge, koliko potovanj bo naredil?",
+        "answer": "3.0"
+    },
+    {
+        "question": "Štiri dekleta so bile nekega vikenda ves dan doma in pripravljale domače dobrote. Anna je naredila 33 borovničevih piškotov. Če to enakomerno razdeli med svoje štiri prijatelje, koliko jih bo vsak prejel?",
+        "answer": "8 "
+    },
+    {
+        "question": "Število, sestavljeno iz dveh števk, je enako 7-kratniku vsote svojih števk. Ko od števila odštejemo 27, števki zamenjata mesti. Poiščite številko.",
+        "answer": "63"
+    },
+    {
+        "question": "Starost očeta je enaka vsoti starosti njegovih 5 otrok. Po 15 letih bo vsota starosti otrok dvakratna starost očeta. Poiščite starost očeta.",
+        "answer": "75 "
+    },
+    {
+        "question": "Gospa Evans ima 120 barvic in 30 kosov papirja, ki jih podari svojim učencem. Kolikšno največje število učencev ima lahko v razredu, da bo vsak učenec dobil enako število barvic in enako število papirja?",
+        "answer": "30 "
+    },
+    {
+        "question": "Za zaključna dela je potreboval 70 litrov barve. Če je kupil 23 litrov, da bi dodal svojim obstoječim 36 galonam barve, koliko barve bo še potreboval?",
+        "answer": "11 "
+    },
+    {
+        "question": "V škatli je 69 radirk. Jane ima v vrečki 15 radirk. Doris iz škatle vzame 54 radirk. Koliko radirk je ostalo v škatli?",
+        "answer": "15.0"
+    },
+    {
+        "question": "Otok v Tihem oceanu je bil širok 5 milj. Imel je skupno površino 50 kvadratnih milj. Kako dolg je otok?",
+        "answer": "10 "
+    },
+    {
+        "question": "Jason je vzgojil 32 lubenic in 22 cantelop. Dan je vzgojil 31 lubenic. Koliko lubenic so skupaj pridelali?",
+        "answer": "63.0"
+    },
+    {
+        "question": "Robert je v službi zaslužil 76 dolarjev. Za pero je porabil 6 dolarjev, za kalkulator pa 14 dolarjev. Koliko denarja mu je ostalo?",
+        "answer": "56 "
+    },
+    {
+        "question": "Gospa Hilt ima 40 markerjev. Enakomerno so razdeljeni v 7 paketov. Gospa Hilt želi vedeti, koliko markerjev je ostalo?",
+        "answer": "5 "
+    },
+    {
+        "question": "Knjižničar je moral zapakirati petsto devetdeset knjig v škatle. Če lahko vsaka škatla drži tri knjige, koliko škatel je potrebovala?",
+        "answer": "197 "
+    },
+    {
+        "question": "Lewis je nato šel pogledat obiranje pomaranč. Lewis je ugotovil, da na dan pospravijo 83 vreč. Koliko vreč pomaranč bodo imeli po 6 dneh obiranja?",
+        "answer": "498.0"
+    },
+    {
+        "question": "Janice in Jasmine sta dobili vsaka kos traku enake dolžine. Janice svoje trakove nareže na enake dolžine po 2 m, Jasmine pa na enake dolžine po 5 m. Če v obeh primerih ni bilo ostanka, kakšna je najkrajša možna dolžina traku, ki sta jima bila dana?",
+        "answer": "10 "
+    },
+    {
+        "question": "Družina pripravlja nahrbtnike, polne šolskih potrebščin, ki jih bo podarila otrokom v stiski. Imajo 9 svinčnikov in 15 zvezkov. Če želijo narediti vse nahrbtnike enake, brez ostankov šolskih potrebščin, kakšno je največje število nahrbtnikov, ki jih lahko napolnijo?",
+        "answer": "3 "
+    },
+    {
+        "question": "Warren je tekel 1 krog v sredo, 2 kroga v četrtek, 4 kroge v petek, 8 krogov v soboto in 16 krogov v nedeljo. Če se bo ta vzorec nadaljeval, koliko krogov bo Warren pretekel v ponedeljek?",
+        "answer": "32 "
+    },
+    {
+        "question": "Ga. Baker ima 17 kolačkov. Želi jih enakomerno razdeliti med svoje 3 otroke, tako da nihče ne dobi več kot kdorkoli drug. Če vsakemu otroku da čim več kolačkov, koliko kolačkov bo ostalo, da jih bo pojedla gospa Baker?",
+        "answer": "2 "
+    },
+    {
+        "question": "Nathan zalaga kopalnice v hotelu, kjer dela. Ima 18 rolic toaletnega papirja in 9 kosov mila. Če želi, da so vse kopalnice enako založene, z enako kombinacijo zalog v vsaki in nič odvečnega, katera je najboljša kombinacija kopalnic, ki jo lahko Nathan založi?",
+        "answer": "9 "
+    },
+    {
+        "question": "Georgia je imela 24 rumenih gumbov, 16 črnih gumbov in 19 zelenih gumbov. Nekaj ​​gumbov je dala Mary in zdaj ima Georgia še 13 gumbov. Koliko gumbov je Georgia dala Mary?",
+        "answer": "46 "
+    },
+    {
+        "question": "Jared pregleduje svoj račun za mobilni telefon. Ko pride do dela s sporočili SMS, opazi, da je novembra poslal 1 sporočilo SMS, decembra 2 sporočila SMS, januarja 4 sporočila SMS in februarja 8 sporočil besedila SMS. Če se bo ta vzorec nadaljeval, koliko besedilnih sporočil bo Jared poslal marca?",
+        "answer": "16 "
+    },
+    {
+        "question": "Emily je igrala trivialko. V prvem krogu je zbrala 16 točk, v drugem krogu pa 33 točk. V zadnjem krogu je izgubila 48 točk. Koliko točk je imela na koncu igre?",
+        "answer": "1.0"
+    },
+    {
+        "question": "Upoštevajte dve tretjini števila in ji dodajte šest. Rezultat je deset. Poiščite neznano število.",
+        "answer": "6"
+    },
+    {
+        "question": "Gospa Hilt ima 40 markerjev. Enakomerno so razdeljeni v 7 paketov. Gospa Hilt želi vedeti, koliko markerjev je v vsakem paketu?",
+        "answer": "5.0"
+    },
+    {
+        "question": "Harry se je sprehajal po plaži in nabral 34 morskih zvezd, 21 školjk in 29 polžev. Izgubil je nekaj predmetov in na koncu hoje mu je ostalo 59 predmetov. Koliko morskih bitij je vsega skupaj izgubil?",
+        "answer": "25 "
+    },
+    {
+        "question": "Klub šteje 16 deklet in 8 dečkov. Predsednik želi razdeliti klub v skupine, pri čemer bo vsaka skupina vsebovala isto kombinacijo deklet in fantov. Predsednik želi tudi poskrbeti, da nihče ne bo izključen. Kakšno je največje število skupin, ki jih lahko sestavi predsednik?",
+        "answer": "8 "
+    },
+    {
+        "question": "Da bi spodbudil javni prevoz, želi Russom nekaterim prijateljem dati kuverte z avtobusnimi vozovnicami in vozovnicami za podzemno železnico. Če ima 18 avtobusnih vozovnic in 12 vozovnic za podzemno železnico, ki jih mora enakomerno razdeliti med kuverte, in ne želi, da bi mu ostala vozovnica, koliko kuvert lahko naredi Russom?",
+        "answer": "6 "
+    },
+    {
+        "question": "Zoe je imela v hladilniku 42 steklenic vode. Če bi jih popila 25 in kupila še 30, koliko steklenic bi imela?",
+        "answer": "47 "
+    },
+    {
+        "question": "Emma ima v shrambi pločevinko sadnega koktajla. Okrogli pokrov ima premer 2 palca. Kolikšen je obseg pokrova?",
+        "answer": "6.28 "
+    },
+    {
+        "question": "Vsota števila in 15 je 96. Poišči število.",
+        "answer": "81"
+    },
+    {
+        "question": "P.E. učitelj mora razdeliti 14 dijakov in 7 dijakinj v ekipe, vsaka z enako kombinacijo dijakov in dijakinj in nihče ne izostane. Kakšno je največje število ekip, ki jih je mogoče sestaviti?",
+        "answer": "7 "
+    },
+    {
+        "question": "Vsota treh zaporednih števil je 90. Katero je najmanjše od treh števil?",
+        "answer": "29"
+    },
+    {
+        "question": "Tom je kupil rolko za 9,46 $ in porabil 9,56 $ za frnikole. Tom je za kratke hlače porabil tudi 14,50 $. Koliko je Tom skupaj porabil za igrače?",
+        "answer": "19.02"
+    },
+    {
+        "question": "Alyssa se je letos udeležila 11 nogometnih iger, a jih je 12 izpustila. Lani je šla na 13 iger, prihodnje leto pa namerava iti na 15 iger. Na koliko nogometnih tekmah bo šla Alyssa?",
+        "answer": "39.0"
+    },
+    {
+        "question": "Baletni razred želi svojih 90 članov razdeliti v nekaj velikih skupin po 7 članov in nekaj majhnih skupin po 3 člane. Koliko velikih skupin je treba sestaviti, da bi sestavili najmanjše število skupin?",
+        "answer": "12 "
+    },
+    {
+        "question": "Hillary v telovadnici plava vsakih 6 dni, teče vsake 4 dni in kolesari vsakih 16 dni. Če je danes opravila vse tri dejavnosti, čez koliko dni bo ponovno opravila vse tri dejavnosti na isti dan?",
+        "answer": "48 "
+    },
+    {
+        "question": "Najvišji igralec v košarkarski ekipi je visok 77,75 palca. To je 9,5 cm višje od najnižjega igralca. Kako visok je najnižji igralec v palcih?",
+        "answer": "68.25"
+    },
+    {
+        "question": "Adam je imel 33 knjig. Če bi jih prodal 11 in z zasluženim denarjem kupil 23 novih knjig, koliko knjig bi imel Adam?",
+        "answer": "45 "
+    },
+    {
+        "question": "Johnny je vadil za tekaško ekipo in tekel 3 kroge na minuto. V koliko minutah je Johnny pretekel 10 krogov?",
+        "answer": "3.33333"
+    },
+    {
+        "question": "Vsota števk dvomestnega števila je 8, razlika med številom in številom, ki nastane z obračanjem števk, pa je 18. Poišči število.",
+        "answer": "53"
+    },
+    {
+        "question": "Za igro v petem razredu so bili stoli postavljeni v 27 vrst s 16 stoli v vsaki vrsti. Koliko stolov je bilo pripravljenih za igro?",
+        "answer": "432.0"
+    },
+    {
+        "question": "Gary je imel nekaj nalepk. 42 nalepk je dal Lucy in 26 nalepk Alexu. Če mu je ostalo 31 nalepk, koliko nalepk je imel Gary na začetku?",
+        "answer": "99 "
+    },
+    {
+        "question": "William prodaja hrenovke v parku. V prvih treh menjavah je prodal 19 hrenovk. V naslednjih treh inningih je prodal 27 hrenovk. William je imel za prodajo še 45 hrenovk. Koliko hrenovk je imel William na začetku?",
+        "answer": "91 "
+    },
+    {
+        "question": "Melanie je v sadovnjaku obrala 7 sliv in 4 pomaranče. Samu je dala 3 slive. Koliko sliv ima zdaj?",
+        "answer": "4.0"
+    },
+    {
+        "question": "Mei ima 15 pomaranč, 9 breskev in 18 hrušk. Vse sadje želi zložiti v košare, v vsaki pa mora biti enako število kosov sadja. Brez mešanja sadja, koliko kosov sadja lahko Mei da največ v vsako košaro?",
+        "answer": "3 "
+    },
+    {
+        "question": "V naslednjem dejanju je sodelovalo več žonglerjev. Če vsak žongler žonglira s 6 žogicami naenkrat, koliko žogic je potrebnih, če je 378 žonglerjev, ki hkrati pripravljajo predstavo?",
+        "answer": "2268.0"
+    },
+    {
+        "question": "Gospod Peter je obral nekaj hrušk. V vrečo je nabral 43 kg hrušk, v drugo vrečo pa 35 kg hrušk. Če je ostalo nepakiranih še 15 kg hrušk, koliko kilogramov hrušk je pridelal gospod Peter?",
+        "answer": "93 "
+    },
+    {
+        "question": "Keith je pobral 3 hruške, Jason pa 2 hruški s hruške. Joan je z jablane pobrala 5 jabolk. Koliko hrušk je bilo skupaj obranih?",
+        "answer": "5.0"
+    },
+    {
+        "question": "Ben nariše krog znotraj kvadratnega lista papirja, katerega površina je 400 kvadratnih palcev. Prepriča se, da se krog dotika vsake strani kvadrata. Kolikšna je ploščina kroga?",
+        "answer": "314 "
+    },
+    {
+        "question": "Med akcijo konzervirane hrane so stvari razvrščali v zabojnike. Rezultat vožnje je bilo 0,125 bina juhe, 0,125 bina zelenjave in 0,5 bina testenin. Koliko zabojnikov bi skupaj zavzela konzervirana hrana?",
+        "answer": "0.75"
+    },
+    {
+        "question": "Šola je kupila 54 košarkarskih žog in jih enakomerno razdelila v 7 razredov. Koliko košarkarskih žog je dobil vsak razred?",
+        "answer": "7 "
+    },
+    {
+        "question": "Lončkov je 544. V vsakem lončku je 32 cvetov. Koliko rožic je vsega skupaj?",
+        "answer": "17408.0"
+    },
+    {
+        "question": "Mary je našla 2 školjki in Keith je našel 5 školjk na plaži. Ko so jih očistili, so ugotovili, da jih je 9 razpokanih. Koliko školjk sta skupaj našla?",
+        "answer": "7.0"
+    },
+    {
+        "question": "V predalu je 48 radirk, na mizi pa 30 radirk. Alyssa je na mizo položila 39 radirk in 45 ravnil. Koliko radirk je zdaj skupaj?",
+        "answer": "117.0"
+    },
+    {
+        "question": "Tom je letos šel na 4 hokejske tekme, a jih je 7 izpustil. Lani je šel na 9 tekem. Na koliko hokejskih tekem je bil Tom skupaj?",
+        "answer": "13.0"
+    },
+    {
+        "question": "Na mizi sta 2 jabolki na kupu. Vsako jabolko je pakirano po 7 kosov. Na kup so dodana 4 jabolka. Koliko jabolk je v kupu?",
+        "answer": "6.0"
+    },
+    {
+        "question": "Gospa Hilt je prepotovala 6760 milj do Japonske. Prebrala je eno knjigo na vsakih 450 milj, ki jih je prepotovala. Koliko knjig je dokončala, ko je prišla na Japonsko?",
+        "answer": "15 "
+    },
+    {
+        "question": "Alyssa je nabrala 25 limet, Mike pa 32 limet. Tom je nabral 12 sliv. Koliko limet je bilo vseh nabranih?",
+        "answer": "57.0"
+    },
+    {
+        "question": "Gospa Hilt je pred potovanjem pogledala na števec prevožene poti svojega avtomobila. Števec kilometrov je pokazal, da je prevozila 212,3 milje. Ko se je ustavila na kosilu, je števec kazal 372,0. Koliko milj je prevozila?",
+        "answer": "159.7"
+    },
+    {
+        "question": "Alvin poskuša zgraditi majhno hišo v gozdu, da bi imel prostor za bivanje, ko gre na lov. Začel je z nabiranjem lesa. Po njegovem načrtu bo potreboval 376 kosov lesa. Če mu je prijatelj dal 123 kosov, brat pa 136 kosov, koliko lesa mora še nabrati?",
+        "answer": "117 "
+    },
+    {
+        "question": "V škatlo je lahko 18 kosov krede. Če je 3484 kred, koliko kred je v nepopolni škatli?",
+        "answer": "10 "
+    },
+    {
+        "question": "Mary obožuje sadje. Mary je plačala 7,19 $ za jagode in 6,83 $ za breskve z bankovcem za 20 $. Koliko drobiža je prejela Mary?",
+        "answer": "5.98"
+    },
+    {
+        "question": "Eric ima 9306 radirk. Če jih razdeli med 99 prijateljev, koliko radirk dobi vsak prijatelj?",
+        "answer": "94.0"
+    },
+    {
+        "question": "Sally je plačala skupaj 12,32 USD za breskve po kuponu za 3 dolarje in 11,54 USD za češnje. Koliko denarja je skupaj porabila Sally?",
+        "answer": "23.86"
+    },
+    {
+        "question": "Če število odštejemo od 32, se številki 32 zamenjata. Poiščite številko.",
+        "answer": "55"
+    },
+    {
+        "question": "Na šoli je 650 učencev. Če je deklic za 106 več kot dečkov, koliko fantov je v šoli?",
+        "answer": "272 "
+    },
+    {
+        "question": "Tri kose lesa, dolge 42 m, 49 m in 63 m, je treba razdeliti na enako dolge deske. Kolikšna je največja možna dolžina vsake deske?",
+        "answer": "7 "
+    },
+    {
+        "question": "V knjigarni so bile v zaboju 4 knjige. Koliko knjig bi bilo v košu, če bi prodali 3 knjige, a bi nato v koš dali še 10?",
+        "answer": "11 "
+    },
+    {
+        "question": "Na jutranji sprehod začneta dve osebi skupaj. Njihovi koraki merijo 75 cm oziroma 90 cm. Kolikšna je najmanjša razdalja, ki jo mora prehoditi vsak, da lahko vsi prehodijo enako razdaljo v vseh korakih?",
+        "answer": "450 "
+    },
+    {
+        "question": "Učitelj je imel za ocenjevanje 38 delovnih listov. Koliko delovnih listov bi morala oceniti, če bi ocenila 4, potem pa je bilo oddanih še 15?",
+        "answer": "49 "
+    },
+    {
+        "question": "Li Na bo posadila 63 rastlin paradižnika in 81 rastlin rabarbare. Li Na bi rada posadila rastline v vrstah, kjer ima vsaka vrsta enako število rastlin paradižnika in vsaka vrsta enako število rastlin rabarbare. Katero največje število vrst lahko posadi Li Na?",
+        "answer": "9 "
+    },
+    {
+        "question": "Gozd za Wendyjino hišo je bil širok 8 milj in ima površino 24 kvadratnih milj. Kolikšna je dolžina gozda?",
+        "answer": "3 "
+    },
+    {
+        "question": "London je star 11 let, Blair pa 16 let. Pred nekaj leti je bil Blair dvakrat starejši od Londona. Koliko je bil takrat star London?",
+        "answer": "6 "
+    },
+    {
+        "question": "Tom je imel 19 dolarjev in želel je kupiti čim več map. Če ena mapa stane 2 USD, koliko ostane potem, ko je mape kupil?",
+        "answer": "1 "
+    },
+    {
+        "question": "Okno je bilo dolgo 6 čevljev in široko 10 čevljev. Kakšna je površina okna?",
+        "answer": "60 "
+    },
+    {
+        "question": "V centru za male živali je bilo 36 psov in 29 mačk. Potem ko so ljudje posvojili 20 psov, je center za živali zbral še 12 mačk. Koliko hišnih ljubljenčkov je bilo na koncu v centru za male živali?",
+        "answer": "57 "
+    },
+    {
+        "question": "Skupina ima na koncertu 20 moških majic in 8 ženskih majic. Skupina želi postaviti mize za prodajo srajc, pri čemer bo za vsako mizo na voljo enako število moških in ženskih srajc in nobena srajca ne ostane. Pri katerem največjem številu miz lahko skupina prodaja majice?",
+        "answer": "4 "
+    },
+    {
+        "question": "V slaščičarni so 3 rjave škatle bonbonov, 3 črne škatle bonbonov in 2 modri škatli bonbonov. Če je kupljenih 5 škatel, koliko škatel ostane?",
+        "answer": "3 "
+    },
+    {
+        "question": "V škatlo je lahko 18 kosov krede. Če je 3484 kosov krede, koliko škatel je polnih, da sprejmejo vso kredo?",
+        "answer": "194 "
+    },
+    {
+        "question": "Emily zbere 63 kart. Emilyin oče da Emily še 7. Bruce ima 13 jabolk. Koliko kart ima Emily?",
+        "answer": "70.0"
+    },
+    {
+        "question": "V razredu je 5 fantov in 4 dekleta. Ko so 3 fantje zapustili učilnico, sta v učilnico prišli še 2 deklici. Koliko otrok je bilo na koncu v učilnici?",
+        "answer": "8 "
+    },
+    {
+        "question": "Megan in njena sestra Tara sta želeli kupiti skuter za 26 dolarjev. Tara je imela 4 $ več kot Megan. Skupaj sta imela dovolj denarja za nakup skuterja. Koliko denarja je imela Tara?",
+        "answer": "15 "
+    },
+    {
+        "question": "Polna luna nastopi vsakih 30 dni. Če je bila zadnja polna luna v petek, koliko dni bo minilo, preden bo polna luna ponovno nastopila v petek?",
+        "answer": "210 "
+    },
+    {
+        "question": "Joan je kupila avtomobilčke za 14,88 $, rolko za 4,88 $ in dobila tovornjake za 5,86 $. Za hlače je porabila 14,55 $. Koliko je Joan skupaj porabila za igrače?",
+        "answer": "25.62"
+    },
+    {
+        "question": "Brian ima 39 svinčnikov. Prijatelju podari 18 svinčnikov. Kupi še 22 svinčnikov. Koliko svinčnikov ima Brian zdaj?",
+        "answer": "43 "
+    },
+    {
+        "question": "Za noč čarovnic je Adam prejel 201 bonbon. Če bi jih zložil v kupe s 43 v vsakem kupu, približno koliko kupov bi lahko naredil?",
+        "answer": "5 "
+    },
+    {
+        "question": "Na pohod se odpravlja 86 učencev. Vsak šolski avtobus sprejme 9 učencev. Koliko šolskih avtobusov je potrebnih?",
+        "answer": "9 "
+    },
+    {
+        "question": "Cvetličar ima 12 tulipanov in 18 nageljnov. Če želi cvetličar ustvariti enake šopke brez ostankov cvetja, koliko šopkov lahko cvetličar naredi?",
+        "answer": "6 "
+    },
+    {
+        "question": "Filip v trgovini kupuje pisala in svinčnike. Pisala so v pakiranjih po 12 kosov, svinčniki pa se prodajajo v paketih po 15 kosov. Če želi Filip kupiti enako število pisal kot svinčnikov, kakšno je najmanjše število pisal, ki jih lahko kupi?",
+        "answer": "60 "
+    },
+    {
+        "question": "Lewis si je za zadnji postanek prihranil preverjanje vinske trte. Eden od trgačev mu je povedal, da dnevno napolnijo 324 sodov grozdja. Koliko sodov grozdja bi napolnili v 9 dneh?",
+        "answer": "2916.0"
+    },
+    {
+        "question": "V slaščičarni je lastnik spremljal število čokoladnih kornetov, ki jih je prodal v enem tednu. Njegovi rezultati so bili: 100, 92, 109, 96, 103, 96 in 105. Kakšna je povprečna vrednost prodanih stožcev?",
+        "answer": "100.1 "
+    },
+    {
+        "question": "Keith je našel 6 školjk, Jessica 8 školjk, Tim pa 7 školjk na plaži. Ko so jih očistili, so ugotovili, da so 3 počene. Koliko školjk sta skupaj našla?",
+        "answer": "21.0"
+    },
+    {
+        "question": "Peter's Party Zone prodaja skodelice v paketih po 6 in krožnike v paketih po 8. Shaniya gosti rojstnodnevno zabavo za svojo mlajšo sestrico in želi imeti enako število vsakega kosa. Katero najmanjše število paketov krožnikov mora kupiti Shaniya?",
+        "answer": "24 "
+    },
+    {
+        "question": "Evan dostavlja pakete v stavbi. Začel je v prvem nadstropju in se povzpel do 7 nadstropij. Spustil se je 3 nadstropja in nato gor za 16 nadstropij. Potem je bil le še 2 nadstropji stran od vrha stavbe. Koliko nadstropij je skupaj v stavbi?",
+        "answer": "23 "
+    },
+    {
+        "question": "Jane lahko uredi 16 vaz z rožami na dan. Če je treba aranžirati 248 vaz z rožami, koliko dni potrebuje, da dokonča vse cvetlične aranžmaje?",
+        "answer": "16 "
+    },
+    {
+        "question": "Jared je lastnik trgovine s strojno opremo in pregleduje svoja pretekla naročila. Jaredova trgovina s strojno opremo je januarja naročila 5 električnih vrtalnikov, 6 električnih vrtalnikov februarja, 8 električnih vrtalnikov marca in 11 električnih vrtalnikov aprila. Če se bo ta vzorec nadaljeval, koliko vrtalnih strojev bo trgovina naročila maja?",
+        "answer": "15 "
+    },
+    {
+        "question": "Andy kupuje AA baterije in D baterije. Trgovina prodaja baterije AA v paketih po 38 baterij in baterije D v paketih po 44. Če Andy želi kupiti enako število baterij AA in D, katero najmanjše število lahko kupi za vsako vrsto baterije?",
+        "answer": "836 "
+    },
+    {
+        "question": "V razredu je 32 učencev. Učiteljica jih je razdelila v 5 enakih skupin. Koliko študentov je ostalo?",
+        "answer": "2 "
+    },
+    {
+        "question": "Sam in Carlos kegljata s plastičnimi keglji v Samovi dnevni sobi. Zanimivo je, da Sam podre 8 kegljev na vsako posodo, Carlos pa 9 kegljev na vsako posodo. Na koncu dneva sta Sam in Carlos podrla enako skupno število kegljev. Kakšno je najmanjše skupno število kegljev, ki sta jih lahko podrla Sam in Carlos?",
+        "answer": "72 "
+    },
+    {
+        "question": "V četrtem razredu je bilo na začetku leta 35 učencev. Med letom je šolo zapustilo 10 učencev in prišlo 10 novih učencev. Koliko učencev je bilo na koncu četrtega razreda?",
+        "answer": "35 "
+    },
+    {
+        "question": "Carol je igrala trivialno igro. V prvem krogu je dosegla 17 točk, v drugem krogu pa 6 točk. V zadnjem krogu je izgubila 16 točk. Koliko točk je imela na koncu igre?",
+        "answer": "7.0"
+    },
+    {
+        "question": "Restavracija je danes med kosilom postregla 7 rezin pite in 5 med večerjo. Včeraj jih je postreglo 8 . Koliko rezin pite je bilo postreženih danes?",
+        "answer": "12.0"
+    },
+    {
+        "question": "V škatlo je lahko sedem brownijev. Če je pek naredil tristo devetinštirideset brownijev, koliko polnih škatel brownijev je naredil?",
+        "answer": "49 "
+    },
+    {
+        "question": "Jason in Lexi odlagata knjige v javni knjižnici. Jason odloži 6 knjig naenkrat, Lexi pa 17 naenkrat. Če na koncu postavijo na police enako število knjig, kakšno je najmanjše število knjig, ki bi jih lahko vsak odložil?",
+        "answer": "102 "
+    },
+    {
+        "question": "Bianca je imela 45 pobarvank. Če bi jih podarila 6, potem pa kupila še 20, koliko bi jih imela skupaj?",
+        "answer": "59.0"
+    },
+    {
+        "question": "Derek nabira rože na vrtu. S prvega grma je utrgal 18 cvetov, z drugega grma 22, s tretjega 26 cvetov, s četrtega grma 30 cvetov in s petega grma 34 cvetov. Če se bo ta vzorec nadaljeval, koliko cvetov bo Derek pobral iz šestega grma?",
+        "answer": "38 "
+    },
+    {
+        "question": "Ploščina pravokotnega trikotnika je 32 kvadratnih cm. Če je osnova 8 cm, poišči njeno višino.",
+        "answer": "8 "
+    },
+    {
+        "question": "Dva kolesarska navdušenca zapuščata Cincinnati hkrati. Eden je s kolesom 840 milj do Bostona. Drugi je kolesarjenje 440 milj do Atlante. Kakšno je največje število milj na dan, ki jih lahko vsak prevozi s kolesom, če želi vsak dan premagati enake razdalje?",
+        "answer": "40 "
+    },
+    {
+        "question": "Med razvrščanjem nekaj kroglic je Jenna dala 74 kroglic v prvi kozarec, 83 kroglic v drugi kozarec, 92 kroglic v tretji kozarec in 101 kroglico v četrti kozarec. Če se bo ta vzorec nadaljeval, koliko kroglic bo Jenna dala v peti kozarec?",
+        "answer": "110 "
+    },
+    {
+        "question": "Kimberly ima 5 kegljev. Kupi še 7. Kasneje Kimberly v trgovini kupi 18 pomaranč. Koliko kegljev ima Kimberly?",
+        "answer": "12.0"
+    },
+    {
+        "question": "Jazmin zaključuje umetniški projekt. Ima dva kosa gradbenega papirja. Prvi kos je širok 44 palcev, drugi kos pa 33 palcev. Jazmin želi papir razrezati na enako široke in čim širše trakove. Kako široko naj Jazmin odreže vsak trak?",
+        "answer": "11 "
+    },
+    {
+        "question": "Stena fontane tematskega parka zee je v obliki enakostraničnega trikotnika. Skupni obseg zidu je 51 jardov. Poiščite mero vsake strani stene.",
+        "answer": "17 "
+    },
+    {
+        "question": "Na kmetiji je 22 psov. Enakomerno živijo v 5 pasjih hiškah. Koliko psov je ostalo?",
+        "answer": "2 "
+    },
+    {
+        "question": "Serena želi ustvariti vrečke s prigrizki za potovanje, na katerega se odpravlja. Ima 6 granol in 10 kosov suhega sadja. Če bi morale biti vrečke za prigrizke enake brez ostankov hrane, koliko vrečk za prigrizke lahko naredi Serena?",
+        "answer": "2 "
+    },
+    {
+        "question": "Slikar je moral prepleskati 11 prostorov v stavbi. Barvanje vsake sobe traja 7 ur. Če je že prepleskal 2 sobi, koliko časa bo še potreboval, da prepleska ostale?",
+        "answer": "63.0"
+    },
+    {
+        "question": "Na svojem vrtu želim posaditi 45 rastlin sončnic, 81 rastlin koruze in 63 rastlin paradižnika. Če v vsako vrsto posadim enako število rastlin in ima vsaka vrsta samo eno vrsto rastline, koliko rastlin lahko dam v eno vrsto?",
+        "answer": "9 "
+    },
+    {
+        "question": "V čokoladici je 31 kalorij. Koliko kalorij je v 11 čokoladicah?",
+        "answer": "341.0"
+    },
+    {
+        "question": "Površina pravokotnega vrta je 1800 kvadratnih čevljev. Poiščite širino, če njegova višina meri 40 čevljev.",
+        "answer": "45 "
+    },
+    {
+        "question": "Haileyin avtobus je tretji v vrsti. Dannyjev avtobus je 3 avtobuse za njenim. Na katerem mestu v vrsti je Dannyjev avtobus?",
+        "answer": "6"
+    },
+    {
+        "question": "Trikratna vsota števila in 2 je enako 24, seštetemu z istim številom. Napišite algebraično enačbo in poiščite število.",
+        "answer": "9"
+    },
+    {
+        "question": "Za noč čarovnic sta Debby in njena sestra združili prejete sladkarije. Debby je imela 32 bonbonov, njena sestra pa 42. Če sta prvi večer pojedli 35 bonbonov, koliko kosov jim je ostalo?",
+        "answer": "39 "
+    },
+    {
+        "question": "David ima 8 banan. Od Christopherja dobi še 50. Kasneje David kupi 9 kart v trgovini. Koliko banan ima David?",
+        "answer": "58.0"
+    },
+    {
+        "question": "Potem ko je za pito plačala 6 dolarjev, ima Mary 52 dolarjev, njena prijateljica pa 43 dolarjev. Koliko denarja je imela, preden je kupila pito?",
+        "answer": "58.0"
+    },
+    {
+        "question": "Med izvajanjem glasbenega dela Jacob udari po činelah vsakih 7 udarcev, trikotnik pa vsakih 2 udarcev. Če bi samo udaril oba hkrati, koliko udarcev bo minilo, preden ju ponovno udari hkrati?",
+        "answer": "14 "
+    },
+    {
+        "question": "Joyce ima 8 jajc. Marie da Joyce še 6. Kasneje Joyce v trgovini kupi 13 radirk. Koliko jajc ima Joyce?",
+        "answer": "14.0"
+    },
+    {
+        "question": "Kvadratni kos stekla ima površino 64 kvadratnih centimetrov. Kako dolga je vsaka stran?",
+        "answer": "8 "
+    },
+    {
+        "question": "Šola je kupila 54 košarkarskih žog in jih enakomerno razdelila v 7 razredov. Koliko košarkarskih žog je ostalo?",
+        "answer": "5 "
+    },
+    {
+        "question": "Jerry je delavcem v kavarni pomagal pobirati pladnje za kosilo, vendar je lahko nosil le 8 pladnjev naenkrat. Če bi moral pobrati 9 pladnjev z ene mize in 7 pladnjev z druge, koliko potovanj bo naredil?",
+        "answer": "2.0"
+    },
+    {
+        "question": "Adam je slikal okvir za sliko. Okvir je bil širok 6 in visok 9 palcev. Kakšen je obseg okvirja slike?",
+        "answer": "30 "
+    },
+    {
+        "question": "Kmetija je bila široka 7 milj in dolga 8 milj. Kakšna je površina kmetije?",
+        "answer": "56 "
+    },
+    {
+        "question": "Allie ima 5 matematičnih knjig in 10 naravoslovnih knjig. Če jih želi enakomerno porazdeliti med nekaj knjižnih polic, tako da je na vsaki knjižni polici enaka kombinacija knjig matematike in naravoslovja, brez preostanka knjig, kakšno je največje število knjižnih polic, ki jih lahko Allie uporabi?",
+        "answer": "5 "
+    },
+    {
+        "question": "Marian je pripravila tudi 59 rogljičkov, ki jih namerava podariti svojim 8 sosedom. Če bi vsak sosed prejel enako število rogljičkov, koliko jih bo ostalo Marianu?",
+        "answer": "3 "
+    },
+    {
+        "question": "Korporacija Khan želi lokalnim šolam podariti 48 računalnikov in 32 tiskalnikov. Korporacija želi zagotoviti, da vsaka šola prejme enak nabor računalnikov in tiskalnikov, tako da noben ne ostane odveč. Kateremu največjemu številu šol lahko donira korporacija Khan?",
+        "answer": "16 "
+    },
+    {
+        "question": "Škatla kolačkov je stala šest dolarjev. Če bi imeli osemsto enaindvajset dolarjev in bi kupili čim več škatel, koliko denarja bi vam ostalo?",
+        "answer": "5 "
+    },
+    {
+        "question": "Na kegljišču je bilo 31 skupin ljudi. Če je bilo skupno število ljudi 177, približno koliko ljudi je bilo v vsaki skupini?",
+        "answer": "6 "
+    },
+    {
+        "question": "Vlak je prevozil določeno razdaljo z enakomerno hitrostjo. Če bi bil vlak 6 km/h hitrejši, bi imel 8 ur manj od voznega reda, če pa bi bil vlak počasnejši za 6 km/h, bi potreboval 12 ur več od voznega reda. Poiščite dolžino poti.",
+        "answer": "1440 "
+    },
+    {
+        "question": "V parku je bilo 86 dreves. 15 jih je umrlo, še 23 pa jih je bilo porezanih. Koliko dreves je še ostalo?",
+        "answer": "48 "
+    },
+    {
+        "question": "Limonine glave so pakirane po 3. Patricia je pojedla 15 limonovih glavic. Koliko limonovih glav ji je ostalo?",
+        "answer": "0 "
+    },
+    {
+        "question": "Sally je imela 39 baseball kart in 9 jih je bilo raztrganih. Sara je kupila 24 Sallynih baseball kart. Koliko baseball kart ima Sally zdaj?",
+        "answer": "15.0"
+    },
+    {
+        "question": "Zemljevid video igre je bil širok 10 metrov in dolg 2 metra. Kolikšna je površina zemljevida?",
+        "answer": "20 "
+    },
+    {
+        "question": "Obstaja 10 oblik. Koliko vam jih bo ostalo, ko sestavite skupine po 5?",
+        "answer": "0 "
+    },
+    {
+        "question": "Tammy je prevozila 55 milj v eni uri. Kako daleč lahko pri tej hitrosti prevozi v 36 urah?",
+        "answer": "1980.0"
+    },
+    {
+        "question": "Charlie ima 31 snežnih kep več kot Lucy. Ima 19 snežnih kep. Koliko jih ima Charlie?",
+        "answer": "50.0"
+    },
+    {
+        "question": "Vsaka stranica kvadratne kuhinjske ploščice je dolga 7 palcev. Kakšna je površina ploščice?",
+        "answer": "49 "
+    },
+    {
+        "question": "George je primerjal točke, ki so jih Bullsi dosegli na različnih tekmah. Zabeležil je: 81, 73, 83, 86 in 73. Kakšna je povprečna vrednost doseženih točk?",
+        "answer": "79.2 "
+    },
+    {
+        "question": "Gospa Hilt ima okvir za sliko, ki je visok 12 in dolg 10 palcev. Kakšen je obseg okvirja za sliko?",
+        "answer": "44 "
+    },
+    {
+        "question": "Diane ima 37 barvic. Od Frances jih dobi še 5. Kasneje Diane v trgovini kupi 16 kart. Koliko barvic ima Diane?",
+        "answer": "42.0"
+    },
+    {
+        "question": "Podjetje je kupovalo nove uniforme za svoje zaposlene. Skupaj so kupili 121 uniform za svojih 32 trgovin. Približno koliko uniform bi morala dobiti vsaka trgovina?",
+        "answer": "4 "
+    },
+    {
+        "question": "Travnik je imel površino 20 kvadratnih metrov. Če je bil širok 5 čevljev, koliko je bil dolg?",
+        "answer": "4 "
+    },
+    {
+        "question": "Melanie ima kose železniške proge, dolge 8 palcev, ki jih povezuje v tir, po katerem lahko vozi njen vlak. Martin prav tako poskuša zgraditi tir za svoj vlak, vendar uporablja dele tirnice, ki so dolgi 20 palcev. Kako dolga bo najkrajša proga, če bo proga, ki jo zgradi Melanie, na koncu enako dolga kot Martinova proga?",
+        "answer": "40 "
+    },
+    {
+        "question": "Matt je imel 4 majhne pločevinke zlate barve. Če bi 34 zvezd, ki so jih naredili, enakomerno porazdelili po pločevinkah z barvo, koliko zvezd bi ostalo nepobarvanih?",
+        "answer": "2 "
+    },
+    {
+        "question": "Luka je imel 9 bonbonov. Če želi razdeliti sladkarije v 2 vrečki z enako količino sladkarij v vsaki vrečki, koliko kosov bi še potreboval, da bi zagotovil, da je v vsaki vrečki enako količino?",
+        "answer": "1 "
+    },
+    {
+        "question": "Če mora Simon izdelati 519 darilnih vrečk s hitrostjo 42 vrečk na dan, koliko dni potrebuje, da dokonča izdelavo vseh darilnih škatel?",
+        "answer": "13 "
+    },
+    {
+        "question": "Pravokotni bazen je bil širok 3 metre s površino 30 kvadratnih metrov. Kakšna je dolžina bazena?",
+        "answer": "10 "
+    },
+    {
+        "question": "Filmska trgovina je imela 9 filmov, ki so jih postavili na 2 polici. Če bi lastnik hotel zagotoviti, da ima vsaka polica enako število filmov, koliko filmov bi še potreboval?",
+        "answer": "1 "
+    },
+    {
+        "question": "Zemljevid video igre je imel skupno površino 10 kvadratnih metrov. Če je zemljevid dolg 5 metrov, koliko je širok?",
+        "answer": "2 "
+    },
+    {
+        "question": "Marie lahko kolesari s hitrostjo 12 milj na uro. Kako daleč lahko prekolesari v 31 urah?",
+        "answer": "372.0"
+    },
+    {
+        "question": "Če je 28 manj kot petkrat, je določeno število 232. Kakšno je število?",
+        "answer": "52"
+    },
+    {
+        "question": "Vaza lahko drži sedem rož. Če bi imela cvetličarka devetsto pet cvetov, ki bi jih želela enakomerno dati v vaze, koliko rož bi bilo v zadnji vazi, ki ni polna?",
+        "answer": "2 "
+    },
+    {
+        "question": "Otok v Atlantskem oceanu je bil širok 2 milji in dolg 6 milj. Kakšna je površina otoka?",
+        "answer": "12 "
+    },
+    {
+        "question": "Kvadratni vrt ima obseg 48 metrov. Ribnik znotraj vrta ima površino 20 kvadratnih metrov. Kolikšna je površina vrta, ki je ne zavzame ribnik?",
+        "answer": "124 "
+    },
+    {
+        "question": "Jaden sestavlja komplete prve pomoči. Ima 39 velikih povojev in 26 majhnih povojev in želi, da je vsak komplet enak, brez ostankov povojev. Kakšno je največje število kompletov prve pomoči, ki bi jih Jaden lahko sestavil?",
+        "answer": "13 "
+    },
+    {
+        "question": "V vrečki so štirje lističi. Vsak papir ima na sebi številko. Številke so 19, 23, 34 in 38. Harry je vzel en kos papirja. Vsota preostalih števil je bila 76. Katero število je Harry vzel iz vrečke?",
+        "answer": "38"
+    },
+    {
+        "question": "G. Lee je obral 495 jabolk in jih enakomerno zapakiral v nekaj košar. Če je v vsaki košari 25 jabolk, koliko jabolk je ostalo nepakiranih?",
+        "answer": "20 "
+    },
+    {
+        "question": "Shannon pripravlja enake aranžmaje iz balonov za zabavo. Ima 32 kostanjevih balonov, 24 belih balonov in 16 oranžnih balonov. Želi, da ima vsak aranžma enako številko vsake barve. Kakšno je največje število dogovorov, ki jih lahko naredi, če uporabi vse balone?",
+        "answer": "8 "
+    },
+    {
+        "question": "Roger je zbral 42 penijev, 36 nikljev in 15 centov. Podaril je nekaj svojih kovancev in ostalo mu je 27 kovancev. Koliko kovancev je podaril Roger?",
+        "answer": "66 "
+    },
+    {
+        "question": "Pekarna Wholesome je v sredo spekla 5 hlebcev kruha, v četrtek 7 kruhov, v petek 10 kruhov, v soboto 14 kruhov in v nedeljo 19 hlebcev kruha. Če se bo ta vzorec nadaljeval, koliko hlebcev kruha bodo spekli v ponedeljek?",
+        "answer": "25 "
+    },
+    {
+        "question": "Restavracija je dodala nov zunanji del, ki je bil velik 35 kvadratnih metrov. Širok je bil 7 čevljev. Kako dolga je njihova nova rubrika?",
+        "answer": "5 "
+    },
+    {
+        "question": "Ramon dela v supermarketu. Na polico je postavil 26 škatel Choco Delights. Tam je bilo že 15 škatel. Kasneje tistega dne je Ramon preštel 22 škatel na polici. Koliko škatel Choco Delights je manjkalo?",
+        "answer": "19 "
+    },
+    {
+        "question": "Po naključju je Monicina šola poslušnosti prejšnji teden izšolala enako število psov in mačk. Šola poučuje pse v skupinah po 18 in mačke v skupinah po 3. Kakšno je najmanjše število mačk, ki bi jih šola lahko imela?",
+        "answer": "18 "
+    },
+    {
+        "question": "Cody je imel 36 škatel. Škatle so skupaj tehtale 243 kilogramov. Približno koliko je tehtala posamezna škatla?",
+        "answer": "6 "
+    },
+    {
+        "question": "V vreče je treba napolniti 757 funtov peska. Če ima vsaka vreča kapaciteto 65 funtov, koliko funtov peska je v vreči, ki ni polna?",
+        "answer": "42 "
+    },
+    {
+        "question": "G. Lee je obral 495 jabolk in jih enakomerno zapakiral v nekaj košar. Če je v vsaki košari 25 jabolk, koliko košar jabolk je tam?",
+        "answer": "19 "
+    },
+    {
+        "question": "Na kmetiji je 22 psov. Enakomerno živijo v 5 pasjih hiškah. Koliko psov je v vsaki pasji uti?",
+        "answer": "4 "
+    },
+    {
+        "question": "Koliko kegljev je dobil vsak sošolec, če je Lillian razdelila 20 kegljev med 8 ljudi v svojem razredu in obdržala preostanek?",
+        "answer": "2 "
+    },
+    {
+        "question": "Delavec mora razrezati 27 jardov dolgo vrv na nekaj dolgih kosov po 4 jarde in nekaj kratkih kosov po 1 jarde. Koliko dolgih kosov je treba odrezati, da bi naredili najmanj kosov?",
+        "answer": "6 "
+    },
+    {
+        "question": "V predalu je 33 svinčnikov in 44 barvic . Joan je v predal položila 27 svinčnikov. Koliko svinčnikov je zdaj skupaj?",
+        "answer": "60.0"
+    },
+    {
+        "question": "G. Lee je po vsakem dogodku podelil trakove za prvo mesto. Na startu je imel 38 trakov. Zjutraj je podelil 14 trakov. Popoldne je podelil 16 trakov. Koliko trakov je ostalo gospodu Leeju?",
+        "answer": "8 "
+    },
+    {
+        "question": "Dolžino žice razrežemo na več manjših kosov. Vsak manjši del je upognjen v kvadratke. Vsak kvadrat ima stranico, ki meri 2 centimetra. Skupna površina manjših kvadratov je 92 kvadratnih centimetrov. Kakšna je bila prvotna dolžina žice?",
+        "answer": "184 "
+    },
+    {
+        "question": "Rachel je za božič kupila nekaj ovojnega papirja, ki je bil dolg 4 čevlje in s površino 20 kvadratnih čevljev. Kakšna je širina ovojnega papirja?",
+        "answer": "5 "
+    },
+    {
+        "question": "Če Tom namerava popraviti 158 ur s hitrostjo 12 ur na dan, koliko ur bo popravil zadnji dan?",
+        "answer": "2 "
+    },
+    {
+        "question": "Pravokotnik je imel dolžino 2 palca in širino 4 palca. Kolikšna je ploščina pravokotnika?",
+        "answer": "8 "
+    },
+    {
+        "question": "Eddie razmišlja o številu, ki je deljivo z 8 in 5. Kakšno je najmanjše možno število, ki bi si ga lahko zamislil Eddie?",
+        "answer": "40"
+    },
+    {
+        "question": "Destiny je pravkar prejela dve ločeni darili od svoje praprababice. Prvo darilo je škatla z 18 čokoladnimi tablicami, drugo darilo pa paket 12 piškotov. Destiny želi uporabiti vse čokoladne bonbone in piškote za izdelavo enakih vrečk za prigrizke za svoje bratrance. Kakšno je največje število vrečk za prigrizke, ki jih lahko naredi Destiny?",
+        "answer": "6 "
+    },
+    {
+        "question": "Billy je v videoigri poskušal preseči svoj stari rezultat sedemsto petindvajset točk. Če v vsakem krogu doseže natanko dve točki, koliko krogov bi moral odigrati, da bi premagal svoj stari rezultat?",
+        "answer": "363 "
+    },
+    {
+        "question": "Piškoti Girl Scout so pakirani po 12 škatel v škatli. Scout Deborah je prodala 31 škatel Lemon Chalet Cremes. Koliko škatel ne bo zapakiranih v kovček?",
+        "answer": "7 "
+    },
+    {
+        "question": "V dvomestnem številu je vsota obeh števk 9. Če sta števki obrnjeni, se število poveča za 9. Poiščite število.",
+        "answer": "45"
+    },
+    {
+        "question": "Virginija je imela 13 sladkarij. Če je Virginia dala enako število sladkarij svojim 4 prijateljem in potem pojedla, kar je ostalo, koliko sladic je pojedla vsaka oseba?",
+        "answer": "3 "
+    },
+    {
+        "question": "Bill je v grmovju opazoval dve vrsti ptic: vrabce in papige. Medtem ko so bili vrabci v jatah po 13, so bile papige v jatah po 14. Če je Bill opazoval enako skupno število vrabcev in papig, kakšno je najmanjše število vrabcev, ki bi jih lahko opazil?",
+        "answer": "182 "
+    },
+    {
+        "question": "Mike streže zelenjavo v ljudski kuhinji. Ima 15 korenčkov in 10 mladih krompirčkov, ki jih želi enakomerno razdeliti, tako da jim ne ostane nič hrane. Katero največje število krožnikov lahko pripravi Mike?",
+        "answer": "5 "
+    },
+    {
+        "question": "Lovec na zaklade je odkril zakopano skrinjo z zakladi, napolnjeno s skupno 5155 dragulji. 45 draguljev je bilo diamantov, ostali pa rubini. Koliko draguljev je bilo rubinov?",
+        "answer": "5110.0"
+    },
+    {
+        "question": "Paul je imel 7 baseball kart, ki jih je dal v registrator s 3 na vsaki strani. Koliko kart bo imel na strani, ki ni polna?",
+        "answer": "1 "
+    },
+    {
+        "question": "Benny je na plaži našel 66 školjk in 49 morskih zvezd. 52 školjk je dal Jasonu. Koliko školjk ima zdaj Benny?",
+        "answer": "14.0"
+    },
+    {
+        "question": "Obseg pravokotne deske za rezanje je 50 palcev. Širok je 10 centimetrov. kako dolgo je",
+        "answer": "15 "
+    },
+    {
+        "question": "Kathleen je zastopnica zobozdravstvene prodaje, ki želi lokalnim zobozdravstvenim ordinacijam razdeliti 18 brošur in 12 brošur. V vsako pisarno želi dostaviti enako kombinacijo brošur in pamfletov, ne da bi pri tem ostali materiali. Kateremu največjemu številu zobozdravstvenih ordinacij lahko Kathleen razdeli gradivo?",
+        "answer": "6 "
+    },
+    {
+        "question": "Nancy je kupila brezalkoholno pijačo za 4 dolarje in 6 čokoladic. Skupaj je zapravila 28 dolarjev. Koliko je stala posamezna čokoladica?",
+        "answer": "4 "
+    },
+    {
+        "question": "Shannon in njena družina porabijo veliko jagodnega in borovničevega želeja, saj vsako jutro jedo toast. Trenutno imajo skupno 6310 gramov želeja. Če imajo 4518 gramov borovničevega želeja, koliko gramov jagodnega želeja imajo?",
+        "answer": "1792.0"
+    },
+    {
+        "question": "Sandy je vzgojil 8 korenčkov in 7 rep. Marija je vzgojila 6 korenčkov. Koliko korenčkov so skupaj pridelali?",
+        "answer": "14.0"
+    },
+    {
+        "question": "Luke je imel januarja 48 dolarjev. Do marca je porabil 11 dolarjev. Če bi od mame dobil še 21 dolarjev, koliko denarja bi imel?",
+        "answer": "58 "
+    },
+    {
+        "question": "Kvadratna kuhinja ima površino 100 kvadratnih metrov. Kakšen je obseg kuhinje?",
+        "answer": "40 "
+    },
+    {
+        "question": "Papirnata vrečka lahko sprejme 16 piškotov. Če Edgar kupi 292 piškotov, koliko papirnatih vrečk potrebuje?",
+        "answer": "19 "
+    },
+    {
+        "question": "Sam je dal 86 preste v skledo za zabavo. Njegovi prijatelji so jih pojedli 49. Sam je dal še 27 prest. Koliko prestic je bilo takrat v skledi?",
+        "answer": "64 "
+    },
+    {
+        "question": "Med urejanjem revij v ordinaciji je Blanca na prvi kup zložila 3 revije, na drugega 4 revije, na tretjega 6 revij in na četrtega 9 revij. Če se bo ta vzorec nadaljeval, koliko revij bo Blanca dala v peti kupček?",
+        "answer": "13 "
+    },
+    {
+        "question": "Carol izdeluje ogrlice iz kroglic za svoje prijatelje. Ima 159 kroglic in vsaka ogrlica ima 37 kroglic. Približno koliko ogrlic lahko naredi Carol?",
+        "answer": "4 "
+    },
+    {
+        "question": "V pripravah na zabavo Brant zlaga sladice na krožnike. Čokoladno torto razrežemo na 15 kosov, sirovo torto pa na 6 kosov. Če želi pripraviti enake krožnike, ne da bi mu ostala kakšna torta, koliko krožnikov lahko pripravi?",
+        "answer": "3 "
+    },
+    {
+        "question": "Letalska družba mora pospraviti 41 kosov prtljage. Če bo v vsakem prtljažnem prostoru 5 kosov prtljage, koliko jih bo v predalu, ki ni poln?",
+        "answer": "1 "
+    },
+    {
+        "question": "Oscar mora poslati 14 rock CD-jev, 12 klasičnih CD-jev in 8 pop CD-jev. V vsako škatlo lahko zapakira samo eno vrsto zgoščenk in v vsako škatlo mora zapakirati enako število zgoščenk. Katero največje število CD-jev lahko Oscar zapakira v vsako škatlo?",
+        "answer": "2 "
+    },
+    {
+        "question": "Bob udarja po bobnih vsakih 9 sekund, po činelah pa vsakih 12 sekund. Če bi samo udaril oba hkrati, koliko sekund bo minilo, preden ju ponovno udari hkrati?",
+        "answer": "36 "
+    },
+    {
+        "question": "George poskuša zaslužiti sto devetnajst dolarjev za nekaj novih igrač. Če zaračuna tri dolarje za košnjo trate, koliko trate bo moral pokositi, da bo zaslužil denar?",
+        "answer": "40 "
+    },
+    {
+        "question": "V John's Pizza Palace so v 6 urah, ko so bili odprti, prodali naslednje število pic: 92 feferonov, 106 klobas, 96 sirov, 104 gobe, 96 inčunov in 88 ananasov. Kakšna je povprečna vrednost števila prodanih pic?",
+        "answer": "97 "
+    },
+    {
+        "question": "Gozd za Jerryjevo hišo je bil 6 milj širok in 3 milje dolg. Kakšna je površina gozda?",
+        "answer": "18 "
+    },
+    {
+        "question": "Vsota števk dvoštevila je 15. Število zmanjšamo za 27, števke pa obrnemo. Poiščite številko.",
+        "answer": "96"
+    },
+    {
+        "question": "Robin je imela na svojem mp3 predvajalniku 30 pesmi. Če je iz njega izbrisala 8 starih pesmi in nato dodala 10 novih pesmi, koliko pesmi ima na svojem mp3 predvajalniku?",
+        "answer": "32 "
+    },
+    {
+        "question": "Maria ima 3 škatle jajc. Vsaka škatla vsebuje 7 jajc, v škatli pa je 8 škatel. Koliko jajc ima Marija?",
+        "answer": "21.0"
+    },
+    {
+        "question": "Radijska postaja Z-100 je med tekmovanjem vsakemu 100. klicatelju podelila 100 $ račun in vsakemu 40. klicatelju podelila vstopnice za Jingle Ball. Koliko klicateljev mora poklicati, preden nekdo osvoji bankovec za 100 $ in vstopnico za Jingle Ball?",
+        "answer": "200 "
+    },
+    {
+        "question": "Kevin je zbiral igrače, ki jih bo uporabil kot nagrade na sejmu. Zbral je 14 plišastih živali. Zbral je tudi 18 frizbijev in več jo-jojev. Kevin ima skupaj 50 nagrad. Koliko jo-jojev je zbral Kevin?",
+        "answer": "18 "
+    },
+    {
+        "question": "Če od trikratnika določenega števila odštejemo pet, je rezultat 10. Kakšno je število?",
+        "answer": "5"
+    },
+    {
+        "question": "Robin izdeluje ogrlice iz kroglic. Za izdelavo 4 ogrlic želi uporabiti 31 kroglic. Če želi, da ima vsaka ogrlica enako število kroglic, koliko perlic ji bo ostalo?",
+        "answer": "3 "
+    },
+    {
+        "question": "Brenda želi zbirko radirk razdeliti v skupine po 90. Brenda ima 270 radirk. Koliko skupin bo ustvarjenih?",
+        "answer": "3.0"
+    },
+    {
+        "question": "Kate je stara 12 let. Njegova starost je 4-krat starejša od Robbieja. Poišči Robbiejevo starost.",
+        "answer": "3 "
+    },
+    {
+        "question": "Vaša lokalna radijska postaja vsako leto podarja glasbeni predvajalnik in vstopnice za koncert. Za eno minuto bo vsak 5. klicatelj osvojil predvajalnik glasbe in vsak 7. klicatelj bo osvojil vstopnico za koncert. Bili ste samo prvi klicatelj, ki je osvojil predvajalnik glasbe in vstopnice za koncert! Klicatelj katere številke ste bili?",
+        "answer": "35 "
+    },
+    {
+        "question": "Jennifer ima 87 cm dolg trak. 24 cm traku uporabi za zavezovanje darila prijateljici in 45 cm traku za pentljo. Koliko traku ostane na koncu?",
+        "answer": "18 "
+    },
+    {
+        "question": "Cody je preštel, kolikokrat so si ljudje v razredu v enem tednu ošilili svinčnike. Štel je: 13, 8, 13, 21, 7 in 23. Kakšna je srednja vrednost števil?",
+        "answer": "14.2 "
+    },
+    {
+        "question": "Če je Lawrence prehodil 4 kilometre s hitrostjo 3 kilometre na uro, koliko časa je hodil Lawrence?",
+        "answer": "1.0"
+    },
+    {
+        "question": "Melody je natisnila 53 enakih risb snežaka. Če je uspela pripraviti karte s po 4 enakimi risbami snežaka, koliko kart je uspela pripraviti?",
+        "answer": "13 "
+    },
+    {
+        "question": "Vivian je aprila poslala 5 kosov pošte, maja 10 kosov, junija 20 kosov in julija 40 kosov pošte. Če se bo ta vzorec nadaljeval, koliko kosov pošte bo Vivian poslala avgusta?",
+        "answer": "80 "
+    },
+    {
+        "question": "Nancy je kupila 615 barvic, ki so bile v pakiranjih po 15 barvic. Koliko paketov barvic je kupila Nancy?",
+        "answer": "41.0"
+    },
+    {
+        "question": "Vrtiljak ima krožno ploščad s premerom 2 jarda. Kakšno je območje platforme?",
+        "answer": "3.14 "
+    },
+    {
+        "question": "Limonine glave so pakirane po 6. Louis je pojedel 54 limonovih glav. Koliko celih škatel je pojedel in koliko limonovih glav mu je ostalo?",
+        "answer": "9.0"
+    },
+    {
+        "question": "Mary je imela 33 Pokemon kart in 6 jih je bilo raztrganih. Sam je dal Mary 23 novih Pokemon kart. Koliko Pokemon kart ima zdaj Mary?",
+        "answer": "56.0"
+    },
+    {
+        "question": "Pošta ima petsto dvainosemdeset kosov neželene pošte, ki jo želi enakomerno razdeliti med sedem poštnih tovornjakov. Koliko dodatnih kosov neželene pošte bodo imeli, če vsakemu tovornjaku dajo enako količino?",
+        "answer": "1 "
+    },
+    {
+        "question": "Razmerje med dolžino pravokotnika in njegovo širino je 6:5. Njegova dolžina je 24 palcev. Kakšna je njegova širina?",
+        "answer": "20 "
+    },
+    {
+        "question": "Tommy ima 79 $. Želi kupiti kamero za 35 $. Prav tako želi kupiti CD predvajalnik za 59 $. Koliko denarja še potrebuje Tommy?",
+        "answer": "15 "
+    },
+    {
+        "question": "Camryn vadi trobento vsak 11. dan in flavto vsak 3. dan. Camryn je danes vadila trobento in flavto. Koliko dni še čaka, da bo Camryn znova vadila trobento in flavto v istem dnevu?",
+        "answer": "33 "
+    },
+    {
+        "question": "Prostornina rezervoarja je 32 litrov. Če je podjetje kupilo 728 galon nafte, koliko rezervoarjev je potrebnih za vso nafto?",
+        "answer": "23 "
+    },
+    {
+        "question": "Restavracija je dodala nov zunanji del, ki je bil širok 4 čevlje in dolg 6 čevljev. Kakšna je površina njihovega novega zunanjega dela?",
+        "answer": "24 "
+    },
+    {
+        "question": "Komisija, ki organizira maraton, ima 16 vrčev vode in 12 vrčev športne pijače. Odbor želi vzpostaviti več okrepčevalnic vzdolž maratonske proge z enako kombinacijo vrčev vode in vrčev športne pijače na vsaki postaji, brez ostankov pijače. Katero je največje število okrepčevalnic, ki jih je mogoče postaviti?",
+        "answer": "4 "
+    },
+    {
+        "question": "Radijska postaja je za vsakega 100. klicatelja podelila 100 dolarjev. Brezplačne vstopnice za koncert je prejel vsak 30. klicatelj. Koliko klicateljev mora prekiniti, preden eden od njih prejme tako kupon kot vstopnico za koncert?",
+        "answer": "300 "
+    },
+    {
+        "question": "Henry in Margo sta začela potovati po krožni progi. Henry se vozi s kolesom, Margo pa hodi. Henry potrebuje 7 minut, da opravi vso pot, Margo pa 12 minut. Koliko časa bo minilo, da se srečata na štartni črti?",
+        "answer": "84 "
+    },
+    {
+        "question": "Janez je imel 33 nogavic. Koliko nogavic bi imel, če bi zavrgel 19 starih, ki mu ne bi ustrezale, in kupil 13 novih?",
+        "answer": "27 "
+    },
+    {
+        "question": "Ariel izdeluje cvetlične aranžmaje. Ima 7 vrtnic in 14 marjetic. Če Ariel želi, da so vsi aranžmaji enaki in da mu ne ostane nobena roža, katero največje število cvetličnih aranžmajev lahko naredi?",
+        "answer": "7 "
+    },
+    {
+        "question": "Carmen ustvarja šopke lizik iz 4 češnjevih lizik in 6 pomarančnih lizik. Želi si, da bi bil vsak šopek enak, brez ostankov lizik. Kakšno je največje število šopkov lizik, ki jih lahko ustvari Carmen?",
+        "answer": "2 "
+    },
+    {
+        "question": "Mary je za kosilo dobila hitro hrano. Mary je porabila 1,08 $ za juho in 4,80 $ za solato. Mary je plačala z bankovcem za 20 dolarjev. Kolikšen je bil skupni račun za kosilo?",
+        "answer": "5.88"
+    },
+    {
+        "question": "Trgovina z elektroniko je imela 163 video iger. Če bi jih postavili na police z 84 na vsaki polici, približno koliko polic bi potrebovali?",
+        "answer": "2 "
+    },
+    {
+        "question": "Monroe Vitamin Shop je danes zjutraj prodal enake količine dodatkov vitamina A in vitamina D, čeprav so dodatki vitamina A v pakiranjih po 7 kosov, dodatki vitamina D pa v pakiranjih po 17. Kakšno je najmanjše število vsake vrste, ki bi ga lahko imela trgovina prodano?",
+        "answer": "119"
+    },
+    {
+        "question": "Daniel ima 44 spominskih krožnikov in 33 spominskih žlic. Želi jih razstaviti v skupinah po vsej hiši, vsako z isto kombinacijo krožnikov in žlic, pri čemer nobena ne ostane. Katero je največje število skupin, ki jih Daniel lahko prikaže?",
+        "answer": "11 "
+    },
+    {
+        "question": "Bridget želi osvojiti velikanskega plišastega medveda pando. Za pridobitev potrebuje skupaj 75 točk. Bridget je dosegla že 35 točk pri penny pitch kabini. V naslednjem poskusu je zbrala 18 točk več. Koliko točk še potrebuje Bridget?",
+        "answer": "22 "
+    },
+    {
+        "question": "Razlika dveh števil je 100. Če je eno od števil 91, poišči drugo število.",
+        "answer": "191"
+    },
+    {
+        "question": "Trgovina z ogledali ima na zalogi 78 ogledal. 8 ogledal je polomljenih, 57 ogledal pa je prodanih. Koliko ogledal je ostalo?",
+        "answer": "13 "
+    },
+    {
+        "question": "Če je bil pred 10 leti star 25 let, koliko je star Rojer zdaj?",
+        "answer": "35 "
+    },
+    {
+        "question": "Listov je 84. Na vsakem listu je 139 pikapolonic. Koliko je vseh pikapolonic?",
+        "answer": "11676.0"
+    },
+    {
+        "question": "Haley in njeni prijatelji so reciklirali papir za svoj razred. Za vsake 3 funte, ki so jih reciklirali, so zaslužili eno točko. Če je Haley reciklirala 11 funtov, njeni prijatelji pa 16 funtov, koliko točk so si zaslužili?",
+        "answer": "9.0"
+    },
+    {
+        "question": "Sean igra Monopoly s svojimi prijatelji. Ima že 27 hiš. Sean je zamenjal 8 hiš za denar, da bi kupil Park Place. Pobral je toliko najemnine, da se je odločil kupiti še 12 hiš. Koliko hiš je takrat imel Sean?",
+        "answer": "31 "
+    },
+    {
+        "question": "V enakokrakem trikotniku je eden od kotov trikotnika 54 stopinj. Poiščite osnovne kote trikotnika.",
+        "answer": "63 "
+    },
+    {
+        "question": "Sullivan Stationery prodaja kartice v paketih po 20 in ovojnice v paketih po 17. Če Vera želi enako število vsake, koliko je najmanjše število kartic, ki jih bo morala kupiti?",
+        "answer": "340 "
+    },
+    {
+        "question": "Sandy je prodala polovico svojih stripov in nato kupila še 6. Zdaj jih ima 13. S koliko jih je začela?",
+        "answer": "14.0"
+    },
+    {
+        "question": "Tim je našel 37 školjk, Sally pa 13 školjk na plaži. Ko so jih očistili, so ugotovili, da jih je 25 razpokanih. Koliko školjk sta skupaj našla?",
+        "answer": "50.0"
+    },
+    {
+        "question": "Učiteljica svojim učencem deli kartončke. Prvemu učencu je dala 3 lističe, drugemu 12 listkov, tretjemu 48 listkov in četrtemu učencu 192 listkov. Če se bo ta vzorec nadaljeval, koliko kartončkov bo učitelj dal petemu učencu?",
+        "answer": "768 "
+    },
+    {
+        "question": "Vondra sestavlja vrečke z živili, ki jih bo podarila v dobrodelne namene. Ima 7 škatel makaronov in sira ter 14 pločevink zelenjave. Vondra jih želi enakomerno razdeliti, tako da ima vsaka vrečka enako vsebino in da ne ostane noben predmet. Kakšno je največje število vrečk z živili, ki jih Vondra lahko sestavi skupaj?",
+        "answer": "7 "
+    },
+    {
+        "question": "Sachin pravi, da ima 6 knjig več kot 6-krat več knjig, ki jih ima Priyanka. Sachin ima 42 knjig. Koliko knjig ima Priyanka?",
+        "answer": "6 "
+    },
+    {
+        "question": "Steve zlaga skodelice; dal je 17 plastičnih kozarcev v prvi kup, 21 plastičnih kozarcev v drugi kup, 25 plastičnih kozarcev v tretji kup in 29 plastičnih kozarcev v četrti kup. Če se ta vzorec nadaljuje, koliko plastičnih kozarcev bo Steve dal v peti kup?",
+        "answer": "33 "
+    },
+    {
+        "question": "Strip stane 37 centov. Lastnik trgovine je pomotoma obrnil številke. To številko je napisal na strip. Koliko je lastnik trgovine preveč zaračunal svoji stranki?",
+        "answer": "36 "
+    },
+    {
+        "question": "Zachary zbira pločevinke za reciklažni klub. Prvi dan je našel 4 pločevinke. Drugi dan je našel 9 pločevink. Tretji dan je našel 14 pločevink. Če se ta vzorec nadaljuje, koliko pločevink mislite, da bo Zachary našel sedmi dan?",
+        "answer": "34 "
+    },
+    {
+        "question": "Dolžina pravokotnega polja je 75 metrov. Njegova širina je 15 metrov. Sofie je trikrat tekla po stezi. Kako daleč je tekla?",
+        "answer": "540 "
+    },
+    {
+        "question": "Alec ima vrt in rože s svojega vrta rad postavi v lepe vaze. Alec je dal 5 rož v prvo vazo, 7 rož v drugo vazo, 10 rož v tretjo vazo in 14 rož v četrto vazo. Če se bo ta vzorec nadaljeval, koliko rož bo Alec dal v peto vazo?",
+        "answer": "19 "
+    },
+    {
+        "question": "Vsaka stranica kvadratnega časopisnega oglasa je dolga 8 centimetrov. Kakšen je obseg časopisnega oglasa?",
+        "answer": "32 "
+    },
+    {
+        "question": "Beth ima 4 pakete barvic. V vsakem paketu je 10 barvic. Ima tudi 6 dodatnih barvic. Koliko barvic ima Beth skupaj?",
+        "answer": "40.0"
+    },
+    {
+        "question": "Bruno je imel nekaj knjig zgodb. Izgubil jih je 4 in oče mu je dal še 10 knjig. Če je imel potem 39 knjig, koliko knjig je imel Bruno najprej?",
+        "answer": "33 "
+    },
+    {
+        "question": "Nancy je štela število ljudi na različnih igralih na igrišču. Štela je: 6, 12, 1, 12, 7, 3 in 8. Kakšno je povprečje ljudi?",
+        "answer": "7 "
+    },
+    {
+        "question": "Adam je imel 5 dolarjev. V trgovini je porabil 2 $ za novo igro. Če je dobil še 5 dolarjev za svoj dodatek, koliko denarja ima zdaj?",
+        "answer": "8 "
+    },
+    {
+        "question": "Gospa Hilt je kupila 6 hrenovk. Vsak hot dog je stal 50 centov. Koliko denarja je plačala za vse hrenovke?",
+        "answer": "300.0"
+    },
+    {
+        "question": "Kopalnica je imela dolžino 4 čevlje in skupno površino 8 kvadratnih čevljev. Kakšna je širina kopalnice?",
+        "answer": "2 "
+    },
+    {
+        "question": "Heather uživa v opazovanju ptic in opazila je dve vrsti ptic, ki potujejo to sezono: race in galebe. Medtem ko so race potovale v jatah po 18, so galebi potovali v jatah po 10. Če je Heather opazila enako skupno število rac in galebov, kakšno je najmanjše število rac, ki bi jih lahko opazila?",
+        "answer": "90 "
+    },
+    {
+        "question": "Na karnevalu je 6 prijateljev kupilo 27 vstopnic. Če bi želeli razdeliti vse vstopnice, tako da bi vsak prijatelj dobil enako količino, koliko vstopnic bi še morali kupiti?",
+        "answer": "3 "
+    },
+    {
+        "question": "Restavracija je danes med kosilom postregla 9 hrenovk in 2 med večerjo. Včeraj jih je postreglo 5. Koliko hrenovk je bilo postreženih danes?",
+        "answer": "11.0"
+    },
+    {
+        "question": "Žvečilne žogice so pakirane po 5 žogic. Nathan je pojedel 20 žvečljivih žogic. Koliko celih škatel je pojedel in koliko žvečljivih kroglic mu je ostalo?",
+        "answer": "4.0"
+    },
+    {
+        "question": "Sandyin pes je imel 8 mladičkov in 4 so imeli pike. 4 je dala svojim prijateljem. Koliko mladičkov ima sedaj?",
+        "answer": "4.0"
+    },
+    {
+        "question": "Sarah je prodala 24 škatel Lemon Chalet Cremes. Koliko zabojev z 12 škatlami in dodatnimi škatlami potrebuje Sarah?",
+        "answer": "2.0"
+    },
+    {
+        "question": "Na avtobusu je nekaj potnikov. Na avtobusni postaji je v avtobus vstopilo še 7 potnikov, izstopilo pa 9 potnikov. Če je na koncu v avtobusu 26 potnikov, koliko potnikov je bilo na začetku?",
+        "answer": "28 "
+    },
+    {
+        "question": "Ryan je zbral 89 listov. Izgubil je 24 listov. Čez nekaj časa se je zlomilo še 43 listov. Koliko listov je ostalo v njegovi zbirki?",
+        "answer": "22 "
+    },
+    {
+        "question": "Kos pločevine je bil odrezan tako, da je njegova dolžina znašala 6 čevljev x 5 čevljev. Kakšna je površina pločevine?",
+        "answer": "30 "
+    },
+    {
+        "question": "Če imate 2 četrtinki, 1 dime in 3 penije, koliko denarja imate?",
+        "answer": "0.63 "
+    },
+    {
+        "question": "Trgovina za male živali je imela 2 psa. V nedeljo so jih dobili še 5. V ponedeljek so dobili še 3. Koliko psov ima zdaj trgovina za male živali?",
+        "answer": "10 "
+    },
+    {
+        "question": "Gospa Hilt je kupila lučko sladoleda za 99 centov. Koliko bi stali 2 lučki sladoleda?",
+        "answer": "198.0"
+    },
+    {
+        "question": "Veronica izdeluje komplete za pripravljenost na izredne razmere, ki jih deli s prijatelji. Ima 20 steklenic vode in 12 pločevink hrane, ki bi jih rada enakomerno razdelila med komplete, tako da jim ne bi ostalo ničesar. Kakšno je največje število kompletov, ki jih lahko naredi Veronica?",
+        "answer": "4 "
+    },
+    {
+        "question": "Na zabavi pico s sirom razrežejo na 6 rezin, zelenjavno pico pa na 12 rezin. Če želi gostitelj postreči enake krožnike, ki vsebujejo enako kombinacijo rezin sira in zelenjave, brez rezin, koliko je največje število krožnikov, ki jih lahko pripravi gostitelj?",
+        "answer": "6 "
+    },
+    {
+        "question": "Osnova paralelograma je 11 palcev in njegova površina je 132 kvadratnih metrov. palcev. Poiščite višino paralelograma.",
+        "answer": "12 "
+    },
+    {
+        "question": "Malia nabira jagode v jagodičevju. S prvega grma pobere 3 jagode, z drugega grma 4 jagode, s tretjega grma 7 jagod in s četrtega grma 12 jagod. Če se bo ta vzorec nadaljeval, koliko jagod bo Malia pobrala s petega grma?",
+        "answer": "19 "
+    },
+    {
+        "question": "Dve uri sta vklopljeni hkrati. Ena ura zazvoni vsakih 15 minut. Druga ura zvoni vsakih 25 minut. Čez koliko minut bosta zazvonila skupaj?",
+        "answer": "75 "
+    },
+    {
+        "question": "V vazi so bile 3 vrtnice. Alyssa je posekala nekaj vrtnic s svojega cvetličnega vrta. V vazi je zdaj 14 vrtnic. Koliko vrtnic je porezala?",
+        "answer": "11.0"
+    },
+    {
+        "question": "Sam je iz 3730 cm dolgega traku izrezal enako dolge kose traku. Če je bil vsak kos dolg 73 cm, koliko prvotnega traku je ostalo?",
+        "answer": "7 "
+    },
+    {
+        "question": "Keith obožuje menjalne karte. Kupila je 4 pakete kartic Digimon za 4,45 $ vsak in komplet baseball kart za 6,06 $. Koliko je Keith porabil za karte?",
+        "answer": "23.86"
+    },
+    {
+        "question": "Med počitnicami je Debby posnela 24 slik v živalskem vrtu in 12 v muzeju. Če je pozneje izbrisala 14 slik, koliko slik z dopusta je še imela?",
+        "answer": "22 "
+    },
+    {
+        "question": "Maggi je imela 3 pakete kolačkov. V vsakem paketu so 4 kolački. Pojedla je 5 kolačkov. Koliko jih je ostalo?",
+        "answer": "12.0"
+    },
+    {
+        "question": "V nakupovalnem središču se je odprla nova trgovina. V prvi uri je vstopilo 94 oseb, izstopilo pa 27 oseb. V drugi uri je vstopilo 18 oseb, izstopilo pa 9 oseb. Koliko ljudi je bilo po 2 urah še v trgovini?",
+        "answer": "76 "
+    },
+    {
+        "question": "Letalski hangar je dolg 300 čevljev. Koliko letal se lahko prilega vanj, od konca do konca, če je vsako letalo dolgo 40 čevljev?",
+        "answer": "7 "
+    },
+    {
+        "question": "Linda kupuje jagodni gumi v pakiranju po 6 kosov in borovničev gumi v pakiranju po 5 kosov. Če želi Linda kupiti enako količino vsake vrste žvečilnega gumija, kakšno je najmanjše število kosov vsakega okusa, ki jih mora kupiti?",
+        "answer": "30 "
+    },
+    {
+        "question": "Sadim 50 jablan in 30 breskev. Želim enako število in vrsto dreves na vrsto. Kakšno je največje število dreves, ki jih lahko posadim na vrsto?",
+        "answer": "10 "
+    },
+    {
+        "question": "Karlene je v torek prebrala 3 strani, v sredo 6 strani, v četrtek 12 strani, v petek 24 strani in v soboto 48 strani. Če se bo ta vzorec nadaljeval, koliko strani bo Karlene prebrala v nedeljo?",
+        "answer": "96 "
+    },
+    {
+        "question": "Samuel je imel 14 kegljev. Če je Samuel dal enako število kegljev svojim 4 prijateljem in potem pojedel, kar je ostalo, koliko kegljev je pojedel vsak?",
+        "answer": "3 "
+    },
+    {
+        "question": "Paketi sira cheddar imajo 12 rezin, medtem ko paketi švicarskega sira vsebujejo 28 rezin. Če bi Randy kupil enako število rezin vsake vrste sira, kakšno je najmanjše število rezin vsake vrste, ki bi jih Randy lahko kupil?",
+        "answer": "84 "
+    },
+    {
+        "question": "Pred desetimi leti je bila vsota starosti dveh sinov tretjina očetove starosti. En sin je dve leti starejši od drugega in vsota njunih trenutnih starosti je 14 let nižja od očetove trenutne starosti. Poiščite sedanjo starost vseh.",
+        "answer": "21 "
+    },
+    {
+        "question": "Megan je imela na svojem mp3 predvajalniku tristo dvainsedemdeset pesmi. Če bi želela pesmi enakomerno uvrstiti na devet različnih seznamov predvajanja, koliko pesmi bi ji ostalo?",
+        "answer": "3 "
+    },
+    {
+        "question": "Poštna ovojnica je široka 4 cm in dolga 4 cm. Kakšna je površina ovojnice?",
+        "answer": "16 "
+    },
+    {
+        "question": "Jacqueline ima 4 škatle radirk. Vsaka škatla vsebuje 10 radirk, v škatli pa je 9 škatel. Koliko radirk ima Jacqueline?",
+        "answer": "40.0"
+    },
+    {
+        "question": "Bryan ima 50 kegljev. Ben ima 20 M&M. Kdo ima več? Koliko jih ima še?",
+        "answer": "30.0"
+    },
+    {
+        "question": "Obseg šestkotne razstavne table je 42 cm. Desko mora biti okrog obrobljen s satenastim trakom. Poiščite dolžino traku, potrebno za obrobo vsake strani.",
+        "answer": "7 "
+    },
+    {
+        "question": "Melanie je imela 30 baseball kart in 9 jih je bilo raztrganih. Sara je kupila 18 Melanijinih baseball kart. Koliko baseball kart ima Melanie zdaj?",
+        "answer": "12.0"
+    },
+    {
+        "question": "Mike je bil letos na 15 košarkarskih tekmah, a jih je 41 izpustil. Lani je odigral 39 tekem. Na koliko košarkarskih tekmah je bil Mike skupaj?",
+        "answer": "54.0"
+    },
+    {
+        "question": "Kos vezanega lesa je imel skupno površino 24 kvadratnih čevljev s širino 6 čevljev. Kakšna je dolžina lesa?",
+        "answer": "4 "
+    },
+    {
+        "question": "Na igralni dvorani je Dave osvojil 11 vstopnic. Koliko bi jih imel, če bi porabil 5 vstopnic za kapo in kasneje dobil še 10 vstopnic?",
+        "answer": "16 "
+    },
+    {
+        "question": "Vsota treh zaporednih sodih števil je 42. Izberite primerno spremenljivko in sestavite algebrske enačbe z eno spremenljivko ter poiščite razliko med največjim in najmanjšim številom.",
+        "answer": "4"
+    },
+    {
+        "question": "Za šolsko razprodajo peciva je Katie naredila 26 kolačkov. Če bi jih prodala 20 in nato naredila še 20, koliko kolačkov bi imela?",
+        "answer": "26 "
+    },
+    {
+        "question": "Omar rad igra damo. Včeraj je odigral 37 tekem. Danes je odigral 49 tekem. Omar je izgubil 18 iger. Koliko iger je zmagal?",
+        "answer": "68 "
+    },
+    {
+        "question": "Razmerje med ploščino pravokotnika in ploščino trikotnika je 2:5. Pravokotnik ima dolžino 6 cm in širino 4 cm. Kolikšna je ploščina trikotnika?",
+        "answer": "60 "
+    },
+    {
+        "question": "Dave je kupil nov televizor z ravnim zaslonom. Zaslon je bil širok 2 čevlje in visok 4 čevlje. Kakšna je površina zaslona?",
+        "answer": "8 "
+    },
+    {
+        "question": "Mary je našla 45 školjk, Melanie 23 školjk, Jason pa 32 školjk na plaži. Ko so jih očistili, so ugotovili, da jih je 31 razpokanih. Koliko školjk sta skupaj našla?",
+        "answer": "100.0"
+    },
+    {
+        "question": "V razredu gospe Hutchinson v vrtcu otroci svojim staršem naredijo odtise dlani v okroglem glinenem modelu. Kalup ima premer 4 cm. Kakšen je polmer kalupa?",
+        "answer": "2 "
+    },
+    {
+        "question": "Po zabavi ostane 0,625 torte. Tisto noč veliki brat poje 0,25 torte. Koliko ostane po tem?",
+        "answer": "0.375"
+    }
+]

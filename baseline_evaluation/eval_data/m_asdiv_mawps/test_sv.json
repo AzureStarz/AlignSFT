@@ -1,0 +1,3246 @@
+[
+    {
+        "question": "Efter 15 år kommer Ariel att vara fyra gånger så gammal som hon är nu. Bestäm hennes nuvarande ålder.",
+        "answer": "5 "
+    },
+    {
+        "question": "Dela 39 ballonger i 7 lika stora grupper. Hur många ballonger finns det i varje grupp?",
+        "answer": "5 "
+    },
+    {
+        "question": "Det fanns 1 050 ml te i en kanna. Anna hällde upp teet i några koppar. Om det fanns 65 ml te i varje kopp, hur mycket te fanns kvar i kannan?",
+        "answer": "10 "
+    },
+    {
+        "question": "I herr Olsens matematikklass fick 0,7 av eleverna A och 0,2 B. Hur stor del av eleverna fick antingen A eller B?",
+        "answer": "0.9"
+    },
+    {
+        "question": "Joan spenderade 15 dollar på shorts och 14,82 dollar på en jacka och 12,51 dollar på en skjorta. Hon gick till 3 butiker. Totalt, hur mycket pengar spenderade Joan på kläder?",
+        "answer": "42.33"
+    },
+    {
+        "question": "En servitör hade 47 kunder att vänta på. Om 41 kunder gick och han fick ytterligare 20 kunder, hur många kunder skulle han ha?",
+        "answer": "26 "
+    },
+    {
+        "question": "Läraren gav lika mycket 42 pennor till 12 elever. Hur många pennor fick varje elev?",
+        "answer": "3 "
+    },
+    {
+        "question": "En tvättmaskin kan tvätta 28 pund kläder per dag. Om det finns 200 pund kläder som ska tvättas per dag, hur många tvättmaskiner behövs?",
+        "answer": "8 "
+    },
+    {
+        "question": "En buss kan transportera 48 passagerare. Om en skola med 1 230 elever och lärare ska på studiebesök, hur många bussar ska man hyra?",
+        "answer": "26 "
+    },
+    {
+        "question": "Gloria har 9 kartonger med biljetter. Varje låda rymmer 5 biljetter och det finns 10 lådor i ett fodral. Hur många biljetter har Gloria?",
+        "answer": "45.0"
+    },
+    {
+        "question": "En ö i Indiska oceanen var 4 mil bred och 7 mil lång. Vad är öns omkrets?",
+        "answer": "22 "
+    },
+    {
+        "question": "En ny kokbok blir populär. Den lokala bokhandeln beställde 4 exemplar i september, 6 exemplar i oktober, 8 exemplar i november och 10 exemplar i december. Om detta mönster fortsätter, hur många exemplar kommer bokhandeln att beställa i januari?",
+        "answer": "12 "
+    },
+    {
+        "question": "Corey tjänar extra pengar på att hitta förlorade golfbollar. Hans mål är att hitta 48 golfbollar varje helg. Han hittade 16 golfbollar i lördags. Han hittade ytterligare 18 golfbollar i söndags. Hur många fler golfbollar behöver Corey hitta för att nå sitt mål?",
+        "answer": "14 "
+    },
+    {
+        "question": "J.T. har några superhjälte-bytekort. Han förlorade 14 av dem. Han gav 19 av dem till sin bästa vän. Nu har han 45 kort kvar. Hur många kort tog J.T. har först?",
+        "answer": "78 "
+    },
+    {
+        "question": "Faye sålde sina halsband på en garagerea. Hon sålde 3 pärlhalsband och 7 ädelstenshalsband. Om varje halsband kostade 7 dollar, hur mycket pengar tjänade hon?",
+        "answer": "70.0"
+    },
+    {
+        "question": "En fyrkantig trafikskylt har en omkrets på 16 fot. Hur lång är varje sida av trafikskylten?",
+        "answer": "4 "
+    },
+    {
+        "question": "Carmen gjorde 4 sit-ups på söndagen, 8 sit-ups på måndagen, 16 sit-ups på tisdagen, 32 sit-ups på onsdagen och 64 sit-ups på torsdagen. Om detta mönster fortsätter, hur många sit-ups kommer Carmen att göra på fredag?",
+        "answer": "128 "
+    },
+    {
+        "question": "Vanessa fick sexhundratjugotvå dollar för sin födelsedag. Senare hittade hon några leksaker som kostade nio dollar styck. Hur mycket pengar skulle hon ha kvar om hon köpte så många hon kunde?",
+        "answer": "1 "
+    },
+    {
+        "question": "Amanda och Sadie har varsitt band. Amandas band spelar låtar i set om 2 och Sadies band spelar låtar i set om 9. Efter att ha uppträtt tillsammans inser båda banden att de har spelat lika många låtar. Vilket är det minsta antalet låtar varje band kunde ha framfört?",
+        "answer": "18 "
+    },
+    {
+        "question": "Tim har 39 par hörlurar och 13 musikspelare. Tim vill sälja alla hörlurar och musikspelare i identiska paket. Vilket är det största antalet paket som Tim kan göra?",
+        "answer": "13 "
+    },
+    {
+        "question": "En fruktsallad gjord på ett TV-matlagningsprogram kräver bitar av cantaloupe och honungsdagg. Vilket är det största antalet portioner du kan göra med all frukt om du har 30 bitar av cantaloupe och 42 bitar av honungsdagg?",
+        "answer": "6 "
+    },
+    {
+        "question": "Dan gick med i sin skolas band. Han köpte en klarinett för $130,30 och en sångbok som kostade $11,24. Dan hittade $12,32 i fickan. Hur mycket spenderade Dan i musikaffären?",
+        "answer": "141.54"
+    },
+    {
+        "question": "Hay's Linens säljer handdukar i set om 17 och badlakan i set om 6. Om butiken sålde lika många av varje i morse, vilket är det minsta antalet av varje typ av handduk som butiken måste ha sålt?",
+        "answer": "102 "
+    },
+    {
+        "question": "Omkretsen av en liksidig triangel är 54 cm. Hitta längden på varje sida av triangeln.",
+        "answer": "18 "
+    },
+    {
+        "question": "Under mässans första 6 timmar fanns följande antal kunder: 58, 58, 62, 55, 49 och 48. Vad är medeltalet av antalet kunder?",
+        "answer": "55 "
+    },
+    {
+        "question": "Familjen Montoya spenderar 0,6 av sin budget på mat och ytterligare 0,2 på att gå ut och äta. Sammantaget, hur stor del av sin budget spenderar familjen Montoya på mat?",
+        "answer": "0.8"
+    },
+    {
+        "question": "Varje år reser laxen uppströms, från havet till floderna där de föddes. I år återvände 712261 laxhanar och 259378 laxhonor till sina floder. Hur många laxar gjorde resan?",
+        "answer": "971639.0"
+    },
+    {
+        "question": "I måndags åkte trehundranittiosex elever på en tur till djurparken. Alla sju bussarna var fyllda och fyra elever fick åka i bilar. Hur många elever fanns i varje buss?",
+        "answer": "56 "
+    },
+    {
+        "question": "På en bana för fjärrstyrda racerbilar klarar racerbil A banan på 28 sekunder, medan racerbil B klarar den på 24 sekunder. Om de båda startar samtidigt, efter hur många sekunder kommer de att ligga sida vid sida igen?",
+        "answer": "168 "
+    },
+    {
+        "question": "52 barn och 29 vuxna gick på banträffen. Stadion har 95 platser. Hur många platser var tomma?",
+        "answer": "14  "
+    },
+    {
+        "question": "Det var 18 tjejer och 15 killar i banlaget. Ytterligare 7 tjejer gick med i laget. 4 pojkar lämnade laget. Hur många barn var med i banlaget då?",
+        "answer": "36 "
+    },
+    {
+        "question": "9 pojkar gick för att vattna träd. Det fanns 29 träd. Om var och en av dem vattnade lika många träd, hur många träd finns det kvar?",
+        "answer": "2 "
+    },
+    {
+        "question": "Mike hittade 6 snäckskal och 4 sjöstjärnor, men 4 av snäckskalen var trasiga. Hur många obrutna snäckskal hittade Mike?",
+        "answer": "2.0"
+    },
+    {
+        "question": "Marian bakade bröd, kakor och bakverk en lördag hemma för sin familj och sina vänner denna semesterperiod. Hon gjorde 47 pepparkakor som hon kommer att fördela lika i små glasburkar. Om varje burk ska innehålla sex kakor var, hur många kakor kommer inte att läggas i en burk?",
+        "answer": "5 "
+    },
+    {
+        "question": "Cindy hade 41 godisbitar. Hon åt sex stycken på morgonen och ytterligare tolv stycken på eftermiddagen. Hur många godisbitar har hon kvar?",
+        "answer": "23 "
+    },
+    {
+        "question": "På en skola höll flera lärare en tävling för att se vilken klass som kunde få flest triviapoäng. Mrs.Williams klass fick 50 poäng. Mr. Adams klass fick 57 poäng. Mrs Browns klass fick 49 och Mrs Daniels klass fick 57. Vad är medelvärdet av antalet poäng?",
+        "answer": "53.3 "
+    },
+    {
+        "question": "Omkretsen på ett vykort är 20 tum. Vykortet är 6 tum brett. Hur hög är den?",
+        "answer": "4 "
+    },
+    {
+        "question": "Två trådar med längderna 448 cm och 616 cm ska skäras i bitar av alla samma längd utan rester. Vilken är största möjliga längd på bitarna?",
+        "answer": "56 "
+    },
+    {
+        "question": "Martin klistrar in bitar av fyrkantigt färgat papper av samma storlek på en skiva som mäter 72 cm gånger 90 cm. Om bara hela fyrkantiga bitar används, och brädet ska täckas helt, vad är den största möjliga längden på sidan av varje fyrkantigt färgat papper?",
+        "answer": "18 "
+    },
+    {
+        "question": "När Dave körde förbi butiker räknade han antalet bilar på parkeringsplatserna. Han räknade: 30, 14, 14, 21 och 25. Vad är medelvärdet av bilarna han räknade?",
+        "answer": "20.8 "
+    },
+    {
+        "question": "Kayla fick ett nytt tv-spel. Hon fick 2 poäng på den första nivån, 3 poäng på den andra nivån, 5 poäng på den tredje nivån, 8 poäng på den fjärde nivån och 12 poäng på den femte nivån. Om detta mönster fortsätter, hur många poäng kommer Kayla att få på den sjätte nivån?",
+        "answer": "17 "
+    },
+    {
+        "question": "Morris observerade två typer av fåglar som färdades: ankor och tranor. Medan änderna reste i flockar om 13, reste tranorna i flockar om 17. Om Morris observerade samma totala antal ankor och tranor, vilket är det minsta antalet ankor som han kunde ha observerat?",
+        "answer": "221 "
+    },
+    {
+        "question": "Under en senatskampanj delade en volontär ut en \"Rösta på Hatfield\"-knapp. Kampanjknappen har en diameter på 8 centimeter. Vad är knappens omkrets?",
+        "answer": "25.12 "
+    },
+    {
+        "question": "Rupert och Ronald klarade sitt matteprov. Så deras mamma köpte en underbar studsmatta till dem igår. Ronald hoppade 157 gånger på studsmatta. Rupert hoppade 86 gånger fler än Ronald. Hur många gånger hoppade de sammanlagt?",
+        "answer": "243.0"
+    },
+    {
+        "question": "Fru Hilt och hennes syster körde till en konsert 78 miles away. De körde 32 mil och stannade sedan för gas. Hennes syster lade 28 liter bensin i bilen. Hur många mil hade de kvar att köra?",
+        "answer": "46.0"
+    },
+    {
+        "question": "Evan har en stor samling böcker. Han gav sin bästa vän 14 böcker. Han gav sin lillebror 8 böcker. Nu har Evan 60 böcker i sin samling. Hur många böcker hade han först?",
+        "answer": "82 "
+    },
+    {
+        "question": "Mary hade 18 baseballkort och 8 var sönderrivna. Fred gav Mary 26 nya basebollkort. Mary köpte 40 baseballkort. Hur många baseballkort har Mary nu?",
+        "answer": "84.0"
+    },
+    {
+        "question": "Dramaklubben träffas i skolans aula var 3:e dag, och kören träffas där var 5:e dag. Om grupperna båda träffas i aulan idag, hur många dagar från och med nu kommer de då att behöva dela aulan?",
+        "answer": "15 "
+    },
+    {
+        "question": "Summan av siffrorna i ett tvåsiffrigt nummer är 15. Om siffrorna på tionde plats 8, hitta det tvåsiffriga numret.",
+        "answer": "87"
+    },
+    {
+        "question": "Sherman spelar golf var 6:e ​​dag och Brad spelar golf var 7:e dag. Om Sherman och Brad båda gick golf idag, hur många dagar tills de ska spela golf samma dag igen?",
+        "answer": "42 "
+    },
+    {
+        "question": "Sara har 16 röda blommor och 24 gula blommor. Hon vill göra buketter med samma antal av varje färgblomma i varje bukett. Vad är det största antalet buketter hon kan göra?",
+        "answer": "8 "
+    },
+    {
+        "question": "När influensasäsongen närmar sig bestämmer sig Lexi för att göra bli frisk-snart-kit. Hon har 10 burkar kycklingsoppa och 15 lådor med vävnader, som hon vill använda för att göra identiska kit utan material över. Vilket är det största antalet bli-frisk-snart-kit Lexi kan göra?",
+        "answer": "5 "
+    },
+    {
+        "question": "Jessica spenderade hälften av sitt bidrag på att gå på bio. Hon tvättade familjens bil och tjänade sex dollar. Vad är hennes veckopeng om hon slutade med elva dollar?",
+        "answer": "10 "
+    },
+    {
+        "question": "Devon är 12 år gammal. Hans ålder är 2 mer än hälften av Stevens ålder. Hitta Stevens ålder.",
+        "answer": "20 "
+    },
+    {
+        "question": "Whitney har samlat 4 T-shirts och 20 knappar från sitt favoritband. Hon vill kombinera dem till identiska uppsättningar att sälja, utan några bitar över. Vilket är det största antalet set Whitney kan göra?",
+        "answer": "4 "
+    },
+    {
+        "question": "En skola hade 14 elever som anmälde sig till trivia-lagen. Om de ville ha 4 lag, med samma antal elever i varje lag, hur många fler elever skulle behöva anmäla sig?",
+        "answer": "2 "
+    },
+    {
+        "question": "Mrs Smith gav lika mycket 53 jordgubbar till 8 flickor. Hur många jordgubbar fick varje tjej?",
+        "answer": "6 "
+    },
+    {
+        "question": "Oceanside Bike Rental Shop tar ut en fast avgift på 17 dollar plus 7 dollar i timmen för att hyra en cykel. Mary betalade 80 dollar för att hyra en cykel. Hur många timmar betalade hon för att få cykeln utcheckad?",
+        "answer": "9 "
+    },
+    {
+        "question": "Det är 40 flickor och 32 pojkar som vill delta i 6:e klass intramurals. Om varje lag måste ha samma antal flickor och lika många pojkar, vilket är det största antalet lag som kan delta i intramurals?",
+        "answer": "8 "
+    },
+    {
+        "question": "George har 2 lådor med block. Varje låda rymmer 6 block och det finns 5 lådor i ett fodral. Hur många block har George?",
+        "answer": "12.0"
+    },
+    {
+        "question": "Sara plockade 35 päron och 27 äpplen från fruktträdgården. Hon gav 28 päron till Dan . Hur många päron har Sara?",
+        "answer": "7.0"
+    },
+    {
+        "question": "En clown behövde tvåhundratjugosju ballonger till en fest han skulle på, men ballongerna kom bara i förpackningar om två. Hur många förpackningar ballonger skulle han behöva köpa?",
+        "answer": "114 "
+    },
+    {
+        "question": "Johns pappa köpte fyrahundrafyrton meter snöre. Om han ville klippa snöret i bitar där varje bit var sju meter lång, hur många fullstora bitar kunde han göra?",
+        "answer": "59 "
+    },
+    {
+        "question": "Det fanns 86 ananas i en butik. Ägaren sålde 48 ananas. 9 av de återstående ananasarna var ruttna och slängdes. Hur många färska ananas är kvar?",
+        "answer": "29 "
+    },
+    {
+        "question": "Shaquira bakar kakor att lägga i paket för en insamling. Shaquira har gjort 86 chokladkakor och 42 sockerkakor. Shaquira vill skapa identiska paket med cookies att sälja, och hon måste använda alla cookies. Vilket är det största antalet identiska paket som Shaquira kan göra?",
+        "answer": "2 "
+    },
+    {
+        "question": "En bok hade en längd på 5 tum och en total yta på 50 kvadrattum. Hur bred är boken?",
+        "answer": "10 "
+    },
+    {
+        "question": "Lisa gör aktivitetskorgar för att donera till välgörenhet. Hon har 12 målarböcker, 28 markörer och 36 kritor. Vilket är det största antalet korgar hon kan göra om varje typ av leksak är lika fördelad mellan korgarna?",
+        "answer": "4 "
+    },
+    {
+        "question": "Det är 32 elever i klassen. Läraren delade in dem i 5 lika grupper. Hur många elever finns det i varje grupp?",
+        "answer": "6 "
+    },
+    {
+        "question": "Fru Hilt hade 43 cent. Hon köpte en penna för 20 cent och en godisbit för 5 cent. Hur mycket pengar hade hon kvar?",
+        "answer": "18 "
+    },
+    {
+        "question": "Jag tänker på ett nummer. Om jag subtraherar 6 från talet och dividerar det med 13 får jag resultatet som 2. Hitta talet i tankarna.",
+        "answer": "32"
+    },
+    {
+        "question": "För sin långdistanstelefontjänst betalar Milan en månadsavgift på 2 dollar plus 12 cent per minut. Förra månaden var Milanos långdistansräkning 23,36 dollar. Hur många minuter fakturerades Milan för?",
+        "answer": "178.0"
+    },
+    {
+        "question": "Edward startade sitt eget gräsklippningsföretag. På våren gjorde han 2 dollar med gräsklippning och på sommaren tjänade han 27 dollar. Om han var tvungen att spendera 5 dollar på att köpa förnödenheter, hur mycket pengar fick han då?",
+        "answer": "24 "
+    },
+    {
+        "question": "Cristina bakade 17 croissanter. Om hon planerade att servera detta lika till sina sju gäster, hur många kommer var och en att ha?",
+        "answer": "2 "
+    },
+    {
+        "question": "En trädgård har 52 rader och 15 kolumner med bönplaner. Hur många växter finns det totalt?",
+        "answer": "780.0"
+    },
+    {
+        "question": "Medan hon sorterade några knappar, satte Malia 1 knapp i den första rutan, 3 knappar i den andra rutan, 9 knappar i den tredje rutan, 27 knappar i den fjärde rutan och 81 knappar i den femte rutan. Om det här mönstret fortsätter, hur många knappar kommer Malia att lägga i den sjätte rutan?",
+        "answer": "243 "
+    },
+    {
+        "question": "En klass samlade in 122 burkar för återvinning. Om de kunde lägga 57 burkar i varje påse, ungefär hur många påsar skulle de behöva?",
+        "answer": "2 "
+    },
+    {
+        "question": "En statssigill, som är rund, hänger i huvudstadsbyggnaden. Den har en diameter på 2 meter. Vad är sälens område?",
+        "answer": "3.14 "
+    },
+    {
+        "question": "Tiffany spelade ett tv-spel och hade 43 liv. I en svår del av spelet förlorade hon 14 liv. Om hon fick 27 liv till i nästa nivå, hur många liv skulle hon ha?",
+        "answer": "56 "
+    },
+    {
+        "question": "Caitlin är på det 13:e steget i en gigantisk rutschkana. Hon gick ner fyra trappsteg för att prata med sin vän Dana. Sedan gick hon upp 12 trappsteg till toppen. Hur många steg har den gigantiska rutschkanan?",
+        "answer": "21 "
+    },
+    {
+        "question": "Kate, Maggie och Sue räknade ihop sina åldrar. Totalt var 48. Kate är 19 och Maggie är 17. Hur gammal är Sue?",
+        "answer": "12 "
+    },
+    {
+        "question": "Kullpatrullen hämtade 10 glasflaskor och 8 aluminiumburkar i lördags. Hur många bitar av skräp plockade de upp totalt?",
+        "answer": "18.0"
+    },
+    {
+        "question": "Jessica vill göra en girlang av 8 rosor, 12 prästkragar och 48 ringblommor. Hur många arrangemang kan hon göra med de blommorna så att det inte finns någon blomma kvar.",
+        "answer": "4 "
+    },
+    {
+        "question": "Fru Hilt bakade pajer förra helgen för en semestermiddag. Hon bakade 16 pekannötspajer och 14 äppelpajer. Om hon vill ordna alla pajer i rader med 5 pajer vardera, hur många rader kommer hon att ha?",
+        "answer": "30.0"
+    },
+    {
+        "question": "Gwen fick 8 poäng för varje påse burkar hon återvann. Om hon hade 4 påsar, men inte återvunnit 2 av dem, hur många poäng skulle hon ha tjänat?",
+        "answer": "16.0"
+    },
+    {
+        "question": "Det finns 54 saxar i lådan. Keith placerade 22 saxar i lådan. Hur många saxar finns det nu totalt?",
+        "answer": "76.0"
+    },
+    {
+        "question": "Alyssa köpte några leksaker. Hon köpte en fotboll för $5,71 och spenderade $6,59 på kulor. Hur mycket spenderade Alyssa totalt på leksaker?",
+        "answer": "12.3"
+    },
+    {
+        "question": "Av en slump sålde Luther's Paint Supplies lika stora mängder av två färger igår: gult och blått. All gul färg kommer i 2-liters behållare medan blå färg säljs i behållare på 19 liter. Vilken är den minsta mängden av varje färg som butiken måste ha sålt?",
+        "answer": "38 "
+    },
+    {
+        "question": "James har 1222 ballonger. Amy har 513 ballonger. Hur många fler ballonger har James än Amy?",
+        "answer": "208.0"
+    },
+    {
+        "question": "En nummermaskin ändrar värdet på siffrorna som placeras inuti den. Min nummermaskin lägger till 15 till ett tal och subtraherar sedan 6 från summan. Om jag sätter in siffran 68, vilket nummer kommer ut ur maskinen?",
+        "answer": "77"
+    },
+    {
+        "question": "Paige hade ett pappersark som var 9 tum långt och 10 tum brett. Vilken yta har papperet?",
+        "answer": "90 "
+    },
+    {
+        "question": "Robin hade sjuhundratrettiosex foton att lägga in i ett fotoalbum. Om varje sida innehåller sex bilder, hur många helsidor kommer hon att ha?",
+        "answer": "122 "
+    },
+    {
+        "question": "En butik hade 40 apelsiner i en soptunna. Om de slängde 25 av de gamla och lade 21 nya i papperskorgen, hur många skulle vara i papperskorgen?",
+        "answer": "36 "
+    },
+    {
+        "question": "Benny sålde hälften av sina serietidningar och köpte sedan 6 till. Han har nu 17. Hur många började han med?",
+        "answer": "22 "
+    },
+    {
+        "question": "Ben hade några basebollkort. Hans vän, Tim, hade 20 kort. Efter att Ben köpt ytterligare 3 kort hade han dubbelt så många kort som Tim. Hur många kort hade Ben först?",
+        "answer": "37 "
+    },
+    {
+        "question": "Det fanns 32 balar hö i ladugården och 26 balar i boden. Jason staplade balar i ladugården idag. Det finns nu 98 höbalar i ladugården. Hur många balar lagrade han i ladugården?",
+        "answer": "66.0"
+    },
+    {
+        "question": "Ett rektangulärt skåp har en längd på 6 m och en omkrets på 20 m. Hitta bredden på skåpet.",
+        "answer": "4 "
+    },
+    {
+        "question": "De hade 119 tändsticksaskar inslagna i färgglada glänsande omslag. Om de ska fördela tändsticksaskarna lika till de 9 husen i det första kvarteret, hur många färgglada tändsticksaskar kommer de att ha kvar?",
+        "answer": "2 "
+    },
+    {
+        "question": "94 elever anmälde sig till datorlektioner. Det var 24 andraklassare och 29 tredjeklassare. Resten av eleverna var fjärdeklassare. Hur många fjärdeklassare gick datorlektioner?",
+        "answer": "41 "
+    },
+    {
+        "question": "Joans high school spelade 864 basebollmatcher i år, 128 av matcherna spelades på natten. Hon deltog i 395 matcher. Hur många basebollmatcher missade Joan?",
+        "answer": "469.0"
+    },
+    {
+        "question": "Mike plockade 8 päron och Jason plockade 7 päron från päronträdet. Fred plockade 6 äpplen från äppelträdet. Hur många päron plockades totalt?",
+        "answer": "15.0"
+    },
+    {
+        "question": "Oliver organiserar sina böcker och lägger dem på hyllorna. Han lade 2 böcker på första hyllan, 6 böcker på andra hyllan, 18 böcker på tredje hyllan och 54 böcker på fjärde hyllan. Om det här mönstret fortsätter, hur många böcker kommer Oliver att lägga på den femte hyllan?",
+        "answer": "162 "
+    },
+    {
+        "question": "Tanner sparade $17 i september. Han sparade $48 i oktober och $25 i november. Sedan spenderade Tanner $49 på ett videospel. Hur mycket pengar har Tanner kvar?",
+        "answer": "41.0"
+    },
+    {
+        "question": "Blomsteraffären visar olika antal rosor i framfönstret varje månad. Den visade 108 rosor i oktober, 120 rosor i november, 132 rosor i december och 144 rosor i januari. Om detta mönster fortsätter, hur många rosor kommer blomsterskyltfönstret att visa upp i februari?",
+        "answer": "156 "
+    },
+    {
+        "question": "Joe, Susies bror, samlade alla 94 samlade kort som var utspridda i hans rum och placerade dem i lådor. Om en full låda kan innehålla maximalt 8 kort, hur många kort finns det i den ofyllda lådan?",
+        "answer": "6 "
+    },
+    {
+        "question": "Jack läser en 285-sidig bok. Om han läser 23 sidor per dag, hur många sidor kommer han att läsa den sista dagen?",
+        "answer": "9 "
+    },
+    {
+        "question": "Ishas penna är 22 tum lång. Om hon vässar två tum på måndag och två tum på tisdag, hur lång blir hennes penna då?",
+        "answer": "18 "
+    },
+    {
+        "question": "Ett tvåsiffrigt tal är fyra gånger summan av dess siffror och två gånger produkten av siffrorna. Hitta numret.",
+        "answer": "36"
+    },
+    {
+        "question": "Ett bilföretag tillverkade 3 884 bilar i Nordamerika och 2 871 bilar i Europa. Hur många bilar är det totalt?",
+        "answer": "6755.0"
+    },
+    {
+        "question": "På måndagen joggade Debby 2 kilometer. På tisdagen joggade hon 5 kilometer och på onsdagen joggade hon 9. Hur många kilometer joggade hon totalt?",
+        "answer": "16 "
+    },
+    {
+        "question": "En filmaffisch var 4 tum bred och 7 tum hög. Vilken yta har affischen?",
+        "answer": "28 "
+    },
+    {
+        "question": "Joan plockade 37 apelsiner och Sara plockade 10 apelsiner. Alyssa plockade 30 päron. Hur många apelsiner plockades totalt?",
+        "answer": "47.0"
+    },
+    {
+        "question": "Kex kommer i förpackningar om 18. Betty åt 45 kex. Hur många kex har hon kvar?",
+        "answer": "9 "
+    },
+    {
+        "question": "Cristina bakade 17 croissanter. Om Cristinas croissanter serverades lika bland hennes sju gäster, hur många kommer Cristina att ha kvar?",
+        "answer": "3 "
+    },
+    {
+        "question": "En turistgrupp har 26 personer. På ett hotell vill de hyra några stora rum för 3 personer var och några små rum för 2 st. Hur många stora rum ska hyras för att få hyra minst antal rum och ha alla rum fullt upptagna?",
+        "answer": "8 "
+    },
+    {
+        "question": "Det fanns 1 050 ml te i en kanna. Anna hällde upp teet i några koppar. Om det fanns 65 ml te i varje kopp, hur många koppar fylldes med te?",
+        "answer": "16 "
+    },
+    {
+        "question": "En tredjedel av ett tal minus sju ger åtta. Hitta numret.",
+        "answer": "45"
+    },
+    {
+        "question": "Willie har 48 bananer. Charles har 14 bananer. Han förlorar 35. Hur många bananer kommer Willie att ha?",
+        "answer": "13.0"
+    },
+    {
+        "question": "Jake satte upp ett godisställ på sin gårdsplan. Han har 80 godisbitar att sälja. Han sålde 15 godisbitar i måndags. Han sålde mycket mer än så i tisdags. På onsdagen hade Jakes bara 7 stycken kvar. Hur många godisbitar sålde Jake i tisdags?",
+        "answer": "58 "
+    },
+    {
+        "question": "Det finns 41 kritor och 26 pennor i lådan. Sam lade 12 kritor i lådan. Hur många kritor finns det nu totalt?",
+        "answer": "53.0"
+    },
+    {
+        "question": "Joan gick med i sin skolas band. Hon köpte en trumpet för $149,16, ett musikverktyg för $9,98 och en sångbok som kostade $4,14. Joan hittade 8,65 dollar i fickan. Hur mycket spenderade Joan i musikaffären?",
+        "answer": "163.28"
+    },
+    {
+        "question": "Det finns 46 barn i klassrummet, varje elev får 4 dussin pennor. Hur många pennor måste läraren ge ut?",
+        "answer": "2208.0"
+    },
+    {
+        "question": "Hur många kakor skulle du ha om du hade 37 påsar kakor med 19 kakor i varje påse?",
+        "answer": "703.0"
+    },
+    {
+        "question": "Jag satte ett annat nummer i min maskin. Maskinen lade till 15 och subtraherade sedan 6. Siffran 35 kom ut ur maskinen. Vilket nummer har jag lagt in?",
+        "answer": "26"
+    },
+    {
+        "question": "Jonathan vill köpa en ordbok som kostar $11, en dinosauriebok som kostar $19 och en barnkokbok som kostar $7. Han har sparat $8 från sitt bidrag. Hur mycket mer pengar behöver Jonathan för att köpa alla tre böckerna?",
+        "answer": "29.0"
+    },
+    {
+        "question": "Ronald och Tim tvättade båda sin tvätt idag. Ronald tvättar var 6:e ​​dag och Tim tvättar var 9:e dag. Hur många dagar tar det innan Ronald och Tim båda tvättar samma dag igen?",
+        "answer": "18 "
+    },
+    {
+        "question": "Joan hittade 72 snäckskal och 12 sjöstjärnor på stranden. Hon gav Alyssa några av sina snäckskal. Hon har 28 snäckskal. Hur många snäckskal gav hon till Alyssa?",
+        "answer": "44.0"
+    },
+    {
+        "question": "En pizzaaffär hade 11 bitar pepperoni att lägga på sina pizzor. Om varje pizza fick 2 bitar, hur många extra bitar pepperoni skulle de ha?",
+        "answer": "1 "
+    },
+    {
+        "question": "Faye klippte ut lite tyg åt en vän. Hon skar en bit som var 3 centimeter bred och hade en yta på 24 kvadratcentimeter. Hur lång var biten?",
+        "answer": "8 "
+    },
+    {
+        "question": "Mika mäter linsen på ett förstoringsglas och räknar ut att den har en omkrets på 31,4 centimeter. Vad är objektivets diameter?",
+        "answer": "10 "
+    },
+    {
+        "question": "Adam målade en vägg i sitt rum. Muren var 4 fot bred och 4 fot hög. Vilken yta på väggen måste han måla?",
+        "answer": "16 "
+    },
+    {
+        "question": "Tessa har 4 äpplen. Anita gav henne 5 till. Hon behöver 10 äpplen för att göra en paj. Har hon tillräckligt för att göra en paj?",
+        "answer": "9.0"
+    },
+    {
+        "question": "Tom hittade 15 snäckskal och Fred hittade 43 snäckskal på stranden. När de rengjorde dem upptäckte de att 29 var spruckna. Hur många snäckskal hittade de tillsammans?",
+        "answer": "58.0"
+    },
+    {
+        "question": "Mrs. Hilt köpte en anteckningsbok för $1,30. Hon betalade med nickel. Hur många nickel använde hon för att köpa anteckningsboken?",
+        "answer": "26 "
+    },
+    {
+        "question": "Rachel är trea i raden. Julie är två platser framför sig. Vilken plats i kö är Julie?",
+        "answer": "1"
+    },
+    {
+        "question": "Tim har en påse med 36 godisar med apelsinsmak och Peter har en påse med 44 sötsaker med druvsmak. De måste dela upp godiset i små brickor med lika många godis; Varje bricka innehåller endast godis med apelsin- eller druvsmak. Om det inte finns någon rest, vad är det största möjliga antalet godis i varje bricka?",
+        "answer": "4 "
+    },
+    {
+        "question": "Melody gjorde 26 utskärningar av julgranar med röda glänsande kulor. Om hon planerade att klistra in 4 av dessa på framsidan av ett visst antal kort, hur många kort kommer hon att kunna göra?",
+        "answer": "6 "
+    },
+    {
+        "question": "Nancy, Melanie, Mary och Alyssa köpte vardera 540 baseballkort, som kommer i förpackningar om 20. Hur många förpackningar med baseballkort har de totalt?",
+        "answer": "108.0"
+    },
+    {
+        "question": "I ett 2-siffrigt tal är tiotalssiffran 4 gånger enhetssiffran. När siffrorna vänds om är det nya numret som bildas 54 mindre än det ursprungliga numret. Hitta originalnumret.",
+        "answer": "82"
+    },
+    {
+        "question": "Sushis pappa köpte x lussebullar. 5 åts upp av barnen. Om 7 klubbor är kvar, hur många klubbor tog sushis pappa med?",
+        "answer": "12 "
+    },
+    {
+        "question": "Rita, Peter och Skeeter är pingviner. De väger totalt 90 pund. Rita och Peter vet att de väger lika mycket. Peter och Skeeter vet att de väger 68 pund tillsammans. Hur mycket väger Skeeter?",
+        "answer": "46 "
+    },
+    {
+        "question": "December är en hektisk månad för leksaksaffären. De hade 95 spel på hyllan. 68 spel såldes den första veckan. Butiken fick 47 spel till från fabriken. Hur många spel hade de då?",
+        "answer": "74 "
+    },
+    {
+        "question": "Varje hus som en snickare bygger behöver sex diskhoar. Om han köpte tvåhundrasextiosex handfat, hur många hus skulle det täcka?",
+        "answer": "44 "
+    },
+    {
+        "question": "En målare behövde måla 12 rum i en byggnad. Varje rum tar 7 timmar att måla. Om han redan målat 5 rum, hur lång tid tar han att måla resten?",
+        "answer": "49.0"
+    },
+    {
+        "question": "Sandra håller på att sortera pennor i lådor. Hon lade 78 pennor i den första lådan, 87 pennor i den andra lådan, 96 pennor i den tredje lådan och 105 pennor i den fjärde lådan. Om det här mönstret fortsätter, hur många pennor kommer Sandra att lägga i den femte rutan?",
+        "answer": "114 "
+    },
+    {
+        "question": "Tom läste 2 böcker i maj, 6 i juni och 10 i juli. Hur många böcker läste Tom?",
+        "answer": "18 "
+    },
+    {
+        "question": "Jane kan ordna 16 vaser med blommor på en dag. Om det finns 248 vaser med blommor som ska arrangeras, hur många vaser med blommor kommer hon att ordna den sista dagen?",
+        "answer": "8 "
+    },
+    {
+        "question": "Det finns 2 röda vattenflaskor, 3 svarta vattenflaskor och 4 blå vattenflaskor i kylen. Om 5 vattenflaskor tas ut, hur många vattenflaskor finns kvar i kylen?",
+        "answer": "4 "
+    },
+    {
+        "question": "En dammstorm sveper över prärien. Den täcker 64535 tunnland av prärien i damm, men lämnar 522 tunnland orörda. Hur många hektar täcker prärien?",
+        "answer": "64013.0"
+    },
+    {
+        "question": "En restaurang behöver köpa trehundraåttiosju nya tallrikar. Om varje låda har fem tallrikar, hur många lådor behöver de köpa?",
+        "answer": "78 "
+    },
+    {
+        "question": "En bit plywood skars så att dess längd var 6 fot gånger 5 fot. Vad är träets omkrets?",
+        "answer": "22 "
+    },
+    {
+        "question": "Mamma köpte lite potatis. Hon använde 15 av potatisen för att göra sallader och 24 av potatisen till potatismos. Om det fanns 13 potatisar kvar, hur många potatisar köpte mamma först?",
+        "answer": "52 "
+    },
+    {
+        "question": "Robert vill träna målspark för fotboll. Han bestämmer sig för att ha 98 sparkar innan han går hem från parken. Han tar 43 sparkar innan han tar en paus för att få en drink vatten. Han tar sedan ytterligare 36 sparkar. Hur många fler sparkar behöver han göra innan han går hem?",
+        "answer": "19 "
+    },
+    {
+        "question": "Jacqueline hade 16 plommon, 18 guava och 21 äpplen. Hon gav några av dem till Jane och hade 15 frukter kvar. Hur många frukter gav Jacqueline Jane?",
+        "answer": "40 "
+    },
+    {
+        "question": "Till Halloween fick Faye 47 godisbitar. Hon åt 25 stycken första natten och sedan gav hennes syster henne 40 stycken till. Hur många godisbitar har Faye nu?",
+        "answer": "62 "
+    },
+    {
+        "question": "Ett fält är i form av en liksidig triangel fäst vid bredden av det rektangulära området där bredden på rektangeln och sidan av triangeln mäter samma. Längden på det rektangulära området är 76 fot och sidan på det triangulära området mäter 42 fot. Hitta fältets omkrets.",
+        "answer": "90 "
+    },
+    {
+        "question": "En biograf behövde fyrahundratjugosex popcornhinkar. Om varje paket har åtta hinkar, hur många paket behöver de köpa?",
+        "answer": "54 "
+    },
+    {
+        "question": "Dan hade 97 baseballkort och 8 var sönderrivna. Sam köpte 15 av Dans baseballkort. Hur många baseballkort har Dan nu?",
+        "answer": "82.0"
+    },
+    {
+        "question": "Alvin hade 57 kulor och spelade två matcher. Han förlorade 18 kulor under den första matchen. Han vann 25 kulor under den andra matchen. Hur många kulor hade Alvin då?",
+        "answer": "64 "
+    },
+    {
+        "question": "Mr. Johnson använde 80 meter stängsel för att omsluta en rektangulär trädgård. Trädgårdens längd är 25 meter. Hur bred är trädgården?",
+        "answer": "15 "
+    },
+    {
+        "question": "En lastbil rymmer fyra lådor. Om du behövde flytta åttahundrasjuttioen lådor över staden, hur många resor skulle du behöva göra?",
+        "answer": "218 "
+    },
+    {
+        "question": "Tredjeklassarna har mässa. De har 90 biljetter att sälja. De sålde 38 biljetter första veckan och 17 biljetter andra veckan. Hur många biljetter har de kvar att sälja?",
+        "answer": "35 "
+    },
+    {
+        "question": "George köpte 17 godisbitar för att ge till 5 av sina vänner. Om han vill ge varje vän lika mycket, hur många bitar skulle han ha över?",
+        "answer": "2 "
+    },
+    {
+        "question": "Bryan hade 8 ädelstenar i sin samling som han sålde till sin vän från smyckesaffären. Om stenarna såldes för 1785 dollar styck, hur mycket pengar fick Bryan totalt?",
+        "answer": "14280.0"
+    },
+    {
+        "question": "Godis kommer i förpackningar om 4. Shirley åt 10 godisar. Hur många godis har hon kvar?",
+        "answer": "2 "
+    },
+    {
+        "question": "Frank har en rund duk med en diameter på 10 fot. Vad är dukens radie?",
+        "answer": "5 "
+    },
+    {
+        "question": "Tyg säljs i butiker från bultar som är 45 eller 60 tum breda. Vad är bredden på de bredaste tygremsorna som du kan klippa från båda bultarna utan att slösa bort något av tyget om varje remsa har samma bredd?",
+        "answer": "15 "
+    },
+    {
+        "question": "Många familjer serverar varje person i familjen ett 6-ounce glas apelsinjuice varje morgon. Om de köper apelsinjuice per gallon, hur många hela portioner juice kommer de att få ut av en gallon (en gallon = 4 liter, 1 liter = 32 ounces) juice?",
+        "answer": "21 "
+    },
+    {
+        "question": "Det ligger 6 godisar i en hög på skrivbordet. Varje godis kommer i ett paket med 15. 4 godisar läggs till i högen. Hur många godisar finns det i högen?",
+        "answer": "10.0"
+    },
+    {
+        "question": "Biblioteket är uppdelat i olika sektioner för olika typer av böcker. Science fiction-sektionen har 8 böcker. Om varje bok har 478 sidor, hur många sidor har alla böckerna totalt?",
+        "answer": "3824.0"
+    },
+    {
+        "question": "En fabrik tillverkade 50 skrivare och 21 skannrar. Efter att 41 av skrivarna sålts producerades ytterligare 16 skannrar. Hur många skrivare och skannrar hade fabriken till slut?",
+        "answer": "46 "
+    },
+    {
+        "question": "På en modern konstmålning finns det 3 gröna prickar i första raden, 6 gröna prickar i andra raden, 9 gröna prickar i tredje raden och 12 gröna prickar i fjärde raden. Om detta mönster fortsätter, hur många gröna prickar kommer det att finnas på den femte raden?",
+        "answer": "15 "
+    },
+    {
+        "question": "Susie och hennes familj vaknade tidigt på vårens första helg. De hade en lång rad aktiviteter för vårstädning. Susies mamma förberedde 74 morotsstavar till frukost. Om morötterna serverades lika till 12 personer, hur många morotsstavar lämnades oätna?",
+        "answer": "2 "
+    },
+    {
+        "question": "Ben hade 18 kulor och John hade 17 kulor. Ben gav hälften av sina kulor till John. Hur många fler kulor hade John än Ben då?",
+        "answer": "17 "
+    },
+    {
+        "question": "En bakarkaksplåt var 10 tum bred och 2 tum lång. Vad är omkretsen av deras kakblad?",
+        "answer": "24 "
+    },
+    {
+        "question": "Ett tal plus sig själv, plus två gånger sig själv, plus 4 gånger sig själv, är lika med 104. Vad är talet?",
+        "answer": "13"
+    },
+    {
+        "question": "Det fanns 46 passagerare på bussen. 19 passagerare klev av vid första stoppet. 15 passagerare klev av vid andra hållplatsen. Hur många passagerare fanns kvar på bussen?",
+        "answer": "12 "
+    },
+    {
+        "question": "Det krävs 3 ägg för att göra en tårta. Hur många kakor kan du göra med 37 ägg?",
+        "answer": "12 "
+    },
+    {
+        "question": "På Kentucky Fried Chicken bakade kökspersonalen 96 kycklinglår, 144 lår och 224 vingar. Personalen fick förbereda tallrikar för en serverad lunch på ett kontor. Varje tallrik kommer att ha samma antal ben, lår och vingar. Hur många fat kan personalen göra om de vill ha flest kycklingbitar på varje fat?",
+        "answer": "16 "
+    },
+    {
+        "question": "En leksaksbutik online hade några leksaker. Den sålde 38 leksaker den första veckan och 26 leksaker den andra veckan. Om den hade 19 leksaker kvar, hur många leksaker fanns på lager i början?",
+        "answer": "83 "
+    },
+    {
+        "question": "Amy har 67 ballonger. 29 av dem är röda och 17 är gröna. Resten av ballongerna är blå. Hur många blå ballonger har Amy?",
+        "answer": "21 "
+    },
+    {
+        "question": "Rachel köpte två målarböcker. Den ena hade 24 bilder och den andra hade 39. Efter en vecka hade hon redan färglagt 4 av bilderna. Hur många bilder har hon kvar att färglägga?",
+        "answer": "59.0"
+    },
+    {
+        "question": "En fyrkantig namnskylt har sidor som är 9 centimeter långa. Vad är namnbrickans omkrets?",
+        "answer": "36 "
+    },
+    {
+        "question": "Skolan planerar en studieresa. Det finns 28 elever och 7 platser på varje skolbuss. Hur många bussar behövs för att ta resan?",
+        "answer": "4.0"
+    },
+    {
+        "question": "Istället för att köpa från affären gjorde Melody julkort till äldre på ett äldreboende. Hon hade 99 blå paljetter som hon planerar att använda som snöflingor till korten. Om hon delar ut paljetterna lika till 12 kort, hur många paljetter kommer Melody att ha kvar?",
+        "answer": "3 "
+    },
+    {
+        "question": "Lärarens medhjälpare höll på att lägga kakor på tallrikar. Han lade 5 kakor på den första tallriken, 7 kakor på den andra tallriken, 10 kakor på den tredje tallriken, 14 kakor på den fjärde tallriken och 19 kakor på den femte tallriken. Om det här mönstret fortsätter, hur många kakor kommer hjälparen att lägga på den sjätte tallriken?",
+        "answer": "25 "
+    },
+    {
+        "question": "På mässan stod 10 personer i kö till stötfångarbilarna. Om 2 av dem tröttnade på att vänta och gick och 2 till ställde sig i kö, hur många personer skulle stå i kö?",
+        "answer": "10 "
+    },
+    {
+        "question": "Citronhuvuden kommer i förpackningar om 5. Ann åt 78 citronhuvuden. Hur många citronhuvuden har hon kvar?",
+        "answer": "3 "
+    },
+    {
+        "question": "De hade 119 tändsticksaskar inslagna i färgglada glänsande omslag. Om de ska fördela tändsticksaskarna lika till de 9 husen i det första blocket, hur får varje hus ta emot tändsticksaskar?",
+        "answer": "13 "
+    },
+    {
+        "question": "En ny spelkonsol behöver fem datorchips. Om en maskin kan skapa fyrahundrasextiosju datorchips om dagen, hur många videospelskonsoler kan skapas på en dag?",
+        "answer": "93 "
+    },
+    {
+        "question": "Blithe har många leksaker. Han förlorade 6 av dem och hittade 9 i sin garderob. Om han hade 43 efter det, hur många leksaker hade Blithe först?",
+        "answer": "40 "
+    },
+    {
+        "question": "Melanie säljer fyra tuggummibollar för åtta cent styck. Hur mycket pengar kan Melanie få på att sälja tuggummibollarna?",
+        "answer": "32.0"
+    },
+    {
+        "question": "Medan hon sorterade lite växel i spargris lade Diane 72 mynt i den första spargrisen, 81 mynt i den andra spargrisen, 90 mynt i den tredje spargrisen, 99 mynt i den fjärde spargrisen och 108 mynt i den femte spargrisen . Om detta mönster fortsätter, hur många mynt lägger Diane i den sjätte spargrisen?",
+        "answer": "117 "
+    },
+    {
+        "question": "I ett spel börjar du med 2 liv. Om du fick 6 extra liv på den första nivån och 11 till i den andra, hur många liv skulle du ha?",
+        "answer": "19 "
+    },
+    {
+        "question": "En industrimaskin kan göra trehundratjugoen kritor om dagen. Om varje låda med kritor har sju kritor, hur många fulla lådor gör maskinen om dagen?",
+        "answer": "45 "
+    },
+    {
+        "question": "En rektangulär takshingel är 10 tum lång och 7 tum bred. Vad är dess område?",
+        "answer": "70 "
+    },
+    {
+        "question": "Joan hittade 75 snäckskal och 14 sjöstjärnor på stranden. Hon gav Tim några av sina snäckskal. Hon har 62 snäckskal. Hur många snäckskal gav hon till Tim?",
+        "answer": "13.0"
+    },
+    {
+        "question": "Manuel öppnade ett sparkonto med en första insättning på 177 dollar. Om han vill spara 500 dollar under de kommande 19 veckorna, hur mycket måste han spara varje vecka, i dollar?",
+        "answer": "17.0"
+    },
+    {
+        "question": "Victor sålde choklad för en skolinsamling. Den första veckan sålde han 75. Den andra veckan sålde han 67. Den tredje veckan sålde han 75. Den fjärde veckan sålde han 70 och den sista veckan sålde han 68. Vad är medelvärdet av chokladkakorna han sålde ?",
+        "answer": "71 "
+    },
+    {
+        "question": "Lena hade lite fickpengar. Hon förlorade 4 dollar och hennes mamma gav henne 9 dollar. Om hon hade $66 efter det, hur många dollar hade Lena först?",
+        "answer": "61 "
+    },
+    {
+        "question": "Ett evenemang har 12 vuxna och 20 barn. Eventplaneraren vill göra varje bord identiskt, med samma kombination av vuxna och barn och inga människor över. Vilket är det största antalet tabeller som planeraren kan sätta upp?",
+        "answer": "4 "
+    },
+    {
+        "question": "Melanie köpte ett Batman-spel för $6,95, ett strategispel för $7,90 och ett Superman-spel för $7,73. Melanie äger redan 4 spel. Hur mycket spenderade Melanie på tv-spel?",
+        "answer": "22.58"
+    },
+    {
+        "question": "I lördags sålde Marie 425 tidningar och 275 tidningar. Vad är det totala antalet läsmaterial hon sålde?",
+        "answer": "700.0"
+    },
+    {
+        "question": "Mitch äger ett företag och tilldelar två av sina anställda sina skift. Han tilldelar de första arbetspassen i block om 2 timmar, och han tilldelar de andra arbetspassen i block om 11 timmar. Om båda arbetarna måste få samma antal timmar, vilket är det minsta antalet timmar som var och en måste tilldelas?",
+        "answer": "22 "
+    },
+    {
+        "question": "Bianca ville dricka exakt 5 flaskor vatten varje dag, så hon köpte 47 flaskor när de var på rea. Hur många fler flaskor behöver hon köpa den sista dagen?",
+        "answer": "3 "
+    },
+    {
+        "question": "Cody hade 45 dollar. På sin födelsedag fick han 9 dollar till men spenderade 19 på ett nytt spel. Hur mycket pengar har han nu?",
+        "answer": "35 "
+    },
+    {
+        "question": "Christina överförde precis $69 från sitt bankkonto. Som ett resultat har kontot nu $26935 på sig. Hur mycket pengar fanns på kontot innan överföringen?",
+        "answer": "27004.0"
+    },
+    {
+        "question": "Fred älskar samlarkort. Han köpte 2 paket fotbollskort för $2,73 vardera, ett paket Pokémonkort för $4,01 och en kortlek med baseballkort för $8,95. Hur mycket spenderade Fred på kort?",
+        "answer": "18.42"
+    },
+    {
+        "question": "Elizabeth gick till salongen och fick 0,375 tum hår avklippt. Nästa dag gick hon tillbaka och bad om att ytterligare 0,5 tum skulle skäras av. Hur mycket hår klippte hon av totalt?",
+        "answer": "0.875"
+    },
+    {
+        "question": "Två cyklister åker en cirkulär stig. Den första ryttaren klarar en runda på 12 minuter. Den andra ryttaren avslutar en runda på 18 minuter. Om de båda startade på samma plats och tid och går åt samma håll, efter hur många minuter kommer de att mötas igen vid startpunkten?",
+        "answer": "36 "
+    },
+    {
+        "question": "En konstnär målade 2 bilder i juni. Han målade 2 till i juli och i augusti målade han 9. Hur många bilder målade han totalt?",
+        "answer": "13 "
+    },
+    {
+        "question": "Du vill dela 34 pennor mellan 6 vänner. Hur många skulle varje vän få?",
+        "answer": "5 "
+    },
+    {
+        "question": "Doug byggde ett tält i form av en vanlig femhörning. Dess omkrets är 60 fot. Vad är längden på varje sida av tältet?",
+        "answer": "12 "
+    },
+    {
+        "question": "Karen har 252 markörer. Hennes mamma ger henne 34 markörer till. Karen tappar 11 markörer. Hur många markörer har hon nu?",
+        "answer": "275 "
+    },
+    {
+        "question": "En bit fyrkantigt papper har en omkrets på 32 centimeter. Nickys hund, Rocky, slet av 1/4 av papperet. Vilken yta har det återstående papperet?",
+        "answer": "48 "
+    },
+    {
+        "question": "Två neonskyltar tänds samtidigt. båda skyltarna blinkar när de slås på. En skylt blinkar var 9:e sekund. Den andra skylten blinkar var 15:e sekund. Om hur många sekunder blinkar de tillsammans igen?",
+        "answer": "45 "
+    },
+    {
+        "question": "Mrs Smith gav lika mycket 53 jordgubbar till 8 flickor. Hur många jordgubbar var kvar?",
+        "answer": "5 "
+    },
+    {
+        "question": "Mrs Walker kommer att ha 56 äpplen att guppa för äpplen. Varje hink rymmer 9 äpplen. Hur många hinkar behöver hon?",
+        "answer": "7 "
+    },
+    {
+        "question": "Det finns 14240 böcker i ett bibliotek. De är ordnade på hyllor som rymmer 8 böcker var. Hur många hyllor finns på biblioteket?",
+        "answer": "1780.0"
+    },
+    {
+        "question": "Ett rymdskepp reste 0,5 ljusår från Jorden till Planet X och 0,1 ljusår från Planet X till Planet Y. Sedan reste det 0,1 ljusår från Planet Y tillbaka till Jorden. Hur många ljusår reste rymdskeppet totalt?",
+        "answer": "0.7"
+    },
+    {
+        "question": "Tess skriver en dikt. Hon skriver 23 ord på första raden, 26 ord på andra raden, 29 ord på tredje raden, 32 ord på fjärde raden och 35 ord på femte raden. Om detta mönster fortsätter, hur många ord kommer Tess att skriva på den sjätte raden?",
+        "answer": "38 "
+    },
+    {
+        "question": "En bagare lägger cupcakes på brickor för att svalna. Hon lade 3 cupcakes på det första brickan, 6 cupcakes på det andra brickan, 12 cupcakes på det tredje facket och 24 cupcakes på det fjärde brickan. Om det här mönstret fortsätter, hur många cupcakes kommer bagaren att lägga på den femte brickan?",
+        "answer": "48 "
+    },
+    {
+        "question": "Jack läser en 285-sidig bok. Om han läser 23 sidor per dag, hur många dagar tar han att läsa klart boken?",
+        "answer": "13 "
+    },
+    {
+        "question": "Karen packar lika stora mängder kringlor och kex till mellanmål. Karen packar kringlorna i grupper om 5 och kexen i grupper om 7. Vilket är det minsta antalet kex som hon kan packa?",
+        "answer": "35 "
+    },
+    {
+        "question": "172 elever bildar lag för en bergsklättrartävling. Varje lag ska ha 18 elever. Hur många lag kan de bilda?",
+        "answer": "9 "
+    },
+    {
+        "question": "Charlene gjorde 60 pärlhalsband. Hon sålde 16 på en hantverksmässa. Hon gav 18 till sina vänner. Hur många halsband hade Charlene då?",
+        "answer": "26 "
+    },
+    {
+        "question": "Mary sålde 9 lådor Do-Si-Dos. Hur många lådor med 6 lådor plus extra lådor behöver Mary leverera?",
+        "answer": "2 "
+    },
+    {
+        "question": "En livsmedelsbutik behövde åttahundratio burkar ärter. Om ärtorna kommer i lådor med fyra burkar i varje låda, hur många lådor skulle de behöva beställa?",
+        "answer": "203 "
+    },
+    {
+        "question": "Jason odlade 23 vattenmeloner och 18 kålrot. Nancy odlade 28 vattenmeloner. Hur många vattenmeloner växte de totalt?",
+        "answer": "51.0"
+    },
+    {
+        "question": "Paul tjänade 3 dollar på att klippa gräsmattor och 3 dollar på att äta gräs. Om han bara spenderade 3 dollar i veckan, hur länge skulle pengarna räcka till honom?",
+        "answer": "2.0"
+    },
+    {
+        "question": "I ett tvåsiffrigt tal är tiotalssiffran tre gånger enhetssiffran. När siffran minskas med 54, vänds siffrorna. Hitta numret.",
+        "answer": "93"
+    },
+    {
+        "question": "P och Q börjar samtidigt i samma riktning för att springa runt en stadion. P avslutar en runda på 252 sekunder och Q på 198 sekunder, båda börjar vid samma punkt. Efter vilken tid träffas de igen vid startpunkten?",
+        "answer": "2772 "
+    },
+    {
+        "question": "Abe ska plantera 54 ekar och 27 tallar. Abe skulle vilja plantera träden i rader som alla har lika många träd och består av endast en typ av träd. Vilket är det största antalet träd Abe kan ha i varje rad?",
+        "answer": "27 "
+    },
+    {
+        "question": "Clarence har 5 apelsiner. Han får 3 till av Joyce. Senare köper Clarence 9 käglor i butiken. Hur många apelsiner har Clarence totalt?",
+        "answer": "8.0"
+    },
+    {
+        "question": "Wendy plockade 103 blommor till sin väns bröllop. Hon gjorde buketter med 8 blommor i varje. Om 47 av blommorna vissnade före bröllopet, hur många buketter kunde hon fortfarande göra?",
+        "answer": "7.0"
+    },
+    {
+        "question": "Fatet till Mikas tekopp har en radie på 3 centimeter. Vilket område har tefatet?",
+        "answer": "28.26 "
+    },
+    {
+        "question": "Kapaciteten på en tank är 32 liter. Om ett företag köpte 728 liter olja, hur mycket olja finns det i tanken som inte är full?",
+        "answer": "24 "
+    },
+    {
+        "question": "Det finns 37 korgar. Det finns 17 äpplen i varje korg. Hur många äpplen finns det totalt?",
+        "answer": "629.0"
+    },
+    {
+        "question": "Georgia har 4 gula knappar, 2 svarta knappar och 3 gröna knappar. Hon ger några av knapparna till Mary, och hon har 5 kvar. Hur många knappar gav Georgia till Marry?",
+        "answer": "4 "
+    },
+    {
+        "question": "Cafeterian hade 50 äpplen. Till lunch delade de ut 5 till eleverna och bestämde sig för att använda resten till att göra pajer. Om varje paj tar 5 äpplen, hur många pajer kan de göra?",
+        "answer": "9.0"
+    },
+    {
+        "question": "Sams hund fick valpar och 8 hade prickar. Han gav 2 till sina vänner. Han har nu 6 valpar. Hur många valpar hade han till att börja med?",
+        "answer": "8.0"
+    },
+    {
+        "question": "Sju gånger en tvåsiffra är lika med fyra gånger talet som erhålls genom att vända siffrornas ordning och summan av siffrorna är 3. Hitta talet.",
+        "answer": "12"
+    },
+    {
+        "question": "Sweettarts kommer i förpackningar om 7. Stephen åt 64 Sweettarts. Hur många Sweettarts har han kvar?",
+        "answer": "1 "
+    },
+    {
+        "question": "Ett rektangulärt vardagsrum mäter 12 fot gånger 10 fot. En matta placerad på golvet lämnar en bård 2 fot bred runt den. Vad är gränsområdet?",
+        "answer": "72 "
+    },
+    {
+        "question": "Det finns 55 apelsiner i en låda. Deborah har 11 apelsiner i en påse. Susan tar 35 apelsiner ur lådan. Hur många apelsiner finns kvar i lådan?",
+        "answer": "20.0"
+    },
+    {
+        "question": "Skolkafeterian serverar tacos var sjätte dag och cheeseburgare var åttonde dag. Om både tacos och cheeseburgare finns på dagens meny, hur många dagar tar det innan de båda finns på menyn igen?",
+        "answer": "24 "
+    },
+    {
+        "question": "Kristen hittade presentpåsar i förpackningar om 12 och rosetter i förpackningar om 5. Om Kristen ville ha samma antal presentpåsar som rosetter, vilket är det minsta antalet presentpåsar hon skulle behöva köpa?",
+        "answer": "60 "
+    },
+    {
+        "question": "Ett livsmedelsföretag har sjuhundrasjuttiosju kilo mat att lägga i lådor. Om varje låda får exakt två kilo, hur många fulla lådor kommer de att ha?",
+        "answer": "388 "
+    },
+    {
+        "question": "En sandlåda är 312 centimeter lång och 146 centimeter bred. Hur många kvadratcentimeter mark täcker sandlådan?",
+        "answer": "45552.0"
+    },
+    {
+        "question": "Det finns för närvarande 47 orkidébuskar i parken. Parkarbetare kommer att plantera 37 orkidébuskar idag och 25 orkidébuskar i morgon. Det tog 35 arbetare att avsluta arbetet. Hur många orkidébuskar kommer parken att ha när arbetarna är färdiga?",
+        "answer": "109.0"
+    },
+    {
+        "question": "När Joan fick besök av tandälvan fick hon 14 vardera av fjärdedelar, halva dollar och dimes. Hur mycket pengar lämnade tandfenan Joan?",
+        "answer": "11.9"
+    },
+    {
+        "question": "Jason har 18 böcker och han har läst 9 av dem. Mary har 42 böcker. Hur många böcker har de tillsammans?",
+        "answer": "60.0"
+    },
+    {
+        "question": "Jean hade en påse godis. Hon gav 18 stycken till sin vän. Jean åt 7 stycken. Nu har hon 16 stycken kvar. Hur många godisbitar hade Jean först?",
+        "answer": "41 "
+    },
+    {
+        "question": "Abes familj flyttade från Bahamas till Japan, så de hade konverterat sina pengar till japanska yen. Deras checkkonto har nu 6359 yen och deras sparkonto har nu 3485 yen. Hur många yen har de?",
+        "answer": "9844.0"
+    },
+    {
+        "question": "Tony hade $20. Han betalade $8 för en biljett till en basebollmatch. På matchen köpte han en varmkorv för $3. Hur mycket pengar hade Tony då?",
+        "answer": "9 "
+    },
+    {
+        "question": "Det finns 261 fiskskålar. Varje fiskskål har 23 fiskar. Hur många fiskar finns det?",
+        "answer": "6003.0"
+    },
+    {
+        "question": "Aylin gör en klippbok med 18 foton och 20 tidningsurklipp. Hon vill att alla sidor ska ställas upp på samma sätt, med samma kombination av foton och tidningsurklipp på varje sida. Hon vill också se till att inga föremål blir över. Vilket är det största antalet klippbokssidor som Aylin kan skapa?",
+        "answer": "2 "
+    },
+    {
+        "question": "12 mindre än två gånger ett nummer är 20. Hitta talet.",
+        "answer": "16"
+    },
+    {
+        "question": "Två av lamporna på den lokala arenan blinkar. De båda bara flimrade samtidigt. Ett av lamporna flimrar var 7:e sekund och det andra ljuset flimrar var 8:e sekund. Hur många sekunder tills båda lamporna flimrar samtidigt igen?",
+        "answer": "56 "
+    },
+    {
+        "question": "Martha köper 18 förpackningar pennor och 14 förpackningar pennor från butiken. Om Martha vill köpa samma antal pennor som pennor, vilket är det minsta antalet pennor hon kan köpa?",
+        "answer": "126 "
+    },
+    {
+        "question": "Föräldrarna gör mackor till klassens picknick. De har 72 kalkonskivor, 48 ostskivor och 96 tomatskivor. Vad är det största antalet smörgåsar de kan göra om varje smörgås har samma fyllning?",
+        "answer": "24 "
+    },
+    {
+        "question": "I eftermiddags märkte Alec att numret på sidan som tilldelats för läxor är delbart med både 4 och 13. Vilket är det minsta möjliga sidnumret som kunde ha tilldelats?",
+        "answer": "52 "
+    },
+    {
+        "question": "En papperspåse rymmer 16 kakor. Om Edgar köper 292 kakor, hur många kakor finns det i papperspåsen som inte är full?",
+        "answer": "4 "
+    },
+    {
+        "question": "En restaurang serverade 4 pajer under lunchen och 9 under middagen idag. Restaurangen serverade 7 pajer och 2 pizzor igår. Hur många pajer serverades totalt?",
+        "answer": "20.0"
+    },
+    {
+        "question": "Danstruppen använde ribbob för att bilda en rektangel. Rektangeln var 20 fot lång och 15 fot bred. Hur lång var bandbiten?",
+        "answer": "70 "
+    },
+    {
+        "question": "När han spelade ett triviaspel fick Adam 283 poäng totalt. Om han fick 71 poäng varje omgång, ungefär hur många rundor spelade han?",
+        "answer": "4 "
+    },
+    {
+        "question": "Alyssa plockade 17 plommon och Jason plockade 10 plommon. Melanie plockade 35 päron. Hur många plommon plockades totalt?",
+        "answer": "27.0"
+    },
+    {
+        "question": "Irenes Bageri säljer muffins i förpackningar om 18 och kakor i förpackningar om 5. När en butikschef går igenom gårdagens kvitton märker en butikschef att bageriet sålde lika många muffins och kakor i går eftermiddag. Vilket är det minsta antalet muffins som bageriet kunde ha sålt?",
+        "answer": "90 "
+    },
+    {
+        "question": "15 elever delar upp 122 portföljer med målningar. Varje elev ska få lika många portföljer. Hur många portföljer med målningar får var och en av dem?",
+        "answer": "8 "
+    },
+    {
+        "question": "Gregs mamma gjorde några kakor till familjen. Kakorna var så enorma att hon bestämde sig för att halvera dem. Greg åt 4 halvor och hans bror, Brad, hade 6 halvor. Det återstod 18 halvlekar. Hur många hela kakor gjorde Gregs mamma?",
+        "answer": "14 "
+    },
+    {
+        "question": "Carey och Pat flyttar stolar till gymmet. De kom överens om att flytta 74 stolar. Carey flyttade 28 stolar. Pat har flyttat 29 stolar. Hur många fler stolar har de kvar att flytta?",
+        "answer": "17 "
+    },
+    {
+        "question": "Alexa läser ett Nancy Drew-mysterium. Det finns 95 sidor i hennes bok. Hon läste 18 sidor första dagen. Dagen efter kunde Alexa bara inte sluta läsa. Hon läste 58 sidor. Hur många sidor har Alexa kvar att läsa?",
+        "answer": "19 "
+    },
+    {
+        "question": "Joan hade 695 Pokémon-kort, och 6 var rivna. Sara köpte 133 av Joans Pokemon-kort. Hur många Pokémonkort har Joan nu?",
+        "answer": "562.0"
+    },
+    {
+        "question": "Medan han organiserade sin DVD-samling, satte Seth 2 DVD-skivor i det första racket, 4 DVD-skivor i det andra racket, 8 DVD-skivor i det tredje racket, 16 DVD-skivor i det fjärde racket och 32 DVD-skivor i det femte racket. Om det här mönstret fortsätter, hur många DVD-skivor kommer Seth att lägga på det sjätte stället?",
+        "answer": "64 "
+    },
+    {
+        "question": "Om Tom planerar att fixa 158 klockor med en hastighet av 12 klockor per dag, hur många dagar behöver han för att fixa klockorna?",
+        "answer": "14 "
+    },
+    {
+        "question": "Fred har 90 cent på sin bank.  Hur många dimes har Fred?",
+        "answer": "9.0"
+    },
+    {
+        "question": "Nancy sålde 45 lådor tagalongs. Hur många lådor med 12 lådor plus extra lådor behöver Nancy?",
+        "answer": "4 "
+    },
+    {
+        "question": "En rektangulär metallbit är 16 centimeter bred och 19 centimeter lång. Vad är dess omkrets?",
+        "answer": "70 "
+    },
+    {
+        "question": "86 elever ska ut på vandring. Varje skolbuss kan ta 9 elever. Hur många elever finns kvar?",
+        "answer": "5 "
+    },
+    {
+        "question": "En buss kan transportera 48 passagerare. Om en skola med 1 230 elever och lärare ska på studiebesök, hur många passagerare finns det på bussen som inte är fullt upptagen?",
+        "answer": "30 "
+    },
+    {
+        "question": "Peter har 18 apelsiner, 27 päron och 12 bananer. Han vill göra fruktkorgar med samma antal av varje frukt i varje korg. Vad är det största antalet fruktkorgar han kan göra?",
+        "answer": "3 "
+    },
+    {
+        "question": "Summan av Abes nuvarande ålder och åldern före 7 år är 31. Hitta Abes nuvarande ålder.",
+        "answer": "19 "
+    },
+    {
+        "question": "Kiara bakade 30 havregrynskakor och 48 chokladkakor att förpacka i plastburkar till sina lärarkompisar i skolan. Hon vill dela upp kakorna i identiska behållare så att varje behållare har samma antal av varje typ av kaka. Om hon vill att varje behållare ska ha så många kakor som möjligt, hur många plastbehållare behöver hon?",
+        "answer": "6 "
+    },
+    {
+        "question": "Arean av kvadratfoto är 25 kvadrattum. Angie bestämde sig för att förstora bilden genom att dubbla sidorna. Vad blir det nya området?",
+        "answer": "100 "
+    },
+    {
+        "question": "Anna har totalt 28 nickel och dimes i sin spargris. Hon har 8 färre nickel än dimes. Hur många dimes har Anna?",
+        "answer": "18 "
+    },
+    {
+        "question": "Luke tjänade 9 dollar på att klippa gräsmattor och 18 dollar på att äta gräs. Om han bara spenderade 3 dollar i veckan, hur länge skulle pengarna räcka till honom?",
+        "answer": "9.0"
+    },
+    {
+        "question": "Skidorten rapporterade 65 tum snö i januari. De mätte 18 tum snö under den första veckan. De mätte 25 tum snö andra veckan. Hur mycket snö fick de resten av månaden?",
+        "answer": "22 "
+    },
+    {
+        "question": "För sin bil spenderade Mike 118,54 dollar på högtalare och 106,33 dollar på nya däck. Mike ville ha 3 CD-skivor för $4,58 men beslutade att inte göra det. Totalt, hur mycket spenderade Mike på bildelar?",
+        "answer": "224.87"
+    },
+    {
+        "question": "Ett tal som läggs till med tre gånger ett tal är 20. Konvertera detta påstående till algebraiska ekvationer och hitta talet.",
+        "answer": "5"
+    },
+    {
+        "question": "Mike plockade 123 apelsiner och Melanie plockade 104 apelsiner. Fred plockade 130 äpplen. Hur många apelsiner plockades totalt?",
+        "answer": "227.0"
+    },
+    {
+        "question": "Anthony får 75 cent varje dag för lunch. Han köpte en juicelåda för 27 cent. Han köpte också en cupcake. Anthony hade 8 cent kvar. Hur mycket kostade cupcaken?",
+        "answer": "40 "
+    },
+    {
+        "question": "Din hund åt 12 av dina anteckningskort till skolan. Det var 3/4 av dina anteckningskort som du måste lämna in. Hur många anteckningskort hade du fyllt i?",
+        "answer": "16 "
+    },
+    {
+        "question": "Farmer Singleton har en tomt med tomatplantor. Det finns 4 tomatplantor i första raden, 8 tomatplantor i andra raden, 16 tomatplantor i tredje raden, 32 tomatplantor i fjärde raden och 64 tomatplantor i femte raden. Om detta mönster fortsätter, hur många tomatplantor kommer det att finnas på sjätte raden?",
+        "answer": "128 "
+    },
+    {
+        "question": "På 1 vecka drack Mitchs familj 0,5 kartong vanlig mjölk och 0,1 kartong sojamjölk. Hur mycket mjölk drack de totalt?",
+        "answer": "0.6"
+    },
+    {
+        "question": "Fred har 5 gula ballonger, Sam har 6 gula ballonger och Mary har 7 gula ballonger. Ballongerna kostar 5 dollar. Hur många gula ballonger har de totalt?",
+        "answer": "18.0"
+    },
+    {
+        "question": "Gwen och hennes vänner återvann papper till sin klass. För varje 3 pund de återvunnade fick de en poäng. Om Gwen återvann 5 pund och hennes vänner återvann 13 pund, hur många poäng fick de?",
+        "answer": "6.0"
+    },
+    {
+        "question": "Yadiras mamma köper varmkorv och korvbullar till familjens grillfest. Varmkorv kommer i förpackningar om 12 och korvbullar kommer i förpackningar om 9. Butiken säljer inte delar av en förpackning och Yadiras mamma vill ha samma antal korv som korvbullar. Vilket är det minsta totala antalet varmkorvar som Yadiras mamma kan köpa?",
+        "answer": "36 "
+    },
+    {
+        "question": "En cafeteria höll på att lägga mjölkkartonger i staplar. De hade sju hundra nittionio kartonger och höll på att lägga dem i staplar med sex kartonger i varje stapel. Hur många fulla stackar kunde de göra?",
+        "answer": "133 "
+    },
+    {
+        "question": "En kvadrat har en omkrets på 24 tum. Vilken yta har torget?",
+        "answer": "36 "
+    },
+    {
+        "question": "Amy gjorde en klassrumsundersökning. Hon frågade tjejerna i klassen hur många syskon de hade och registrerade resultaten: 1, 6, 10, 4, 3, 3, 11, 3 och 10. Vad är medelvärdet av resultaten?",
+        "answer": "5.7 "
+    },
+    {
+        "question": "Billy målade en vägg i sitt rum. Den totala ytan var 8 kvadratmeter. Om väggen var 2 fot bred, hur hög är den?",
+        "answer": "4 "
+    },
+    {
+        "question": "Mr White köpte en matta för rektangulär hall på 800 kvm. Hallens längd är 32 yards. Hitta önskad bredd på mattan.",
+        "answer": "25 "
+    },
+    {
+        "question": "Adam köpte en ny platt-TV med en yta på 21 kvadratfot. Skärmen är 3 fot bred. Hur hög är den?",
+        "answer": "7 "
+    },
+    {
+        "question": "Sally odlade 113 kålrot och 118 pumpor. Mary odlade 129 rovor. Hur många kålrot växte de totalt?",
+        "answer": "242.0"
+    },
+    {
+        "question": "Skolkafeterian hade 17 äpplen. Om de använde 2 för att laga lunch till eleverna och sedan köpte 23 till, hur många äpplen skulle de ha?",
+        "answer": "38 "
+    },
+    {
+        "question": "En restaurang har 67 tomater. 32 görs till sallader. Ytterligare 21 görs till pastasås. Hur många tomater finns kvar?",
+        "answer": "14 "
+    },
+    {
+        "question": "På lekplatsen var den nya sandlådan 4 meter bred och 2 meter lång. Vilken yta har sandlådan?",
+        "answer": "8 "
+    },
+    {
+        "question": "Colton har 16 blå kulor och 8 vita. Om han vill placera dem i identiska grupper utan några kulor över, vad är det största antalet grupper som Colton kan göra?",
+        "answer": "8 "
+    },
+    {
+        "question": "Jenny sålde 24 lådor Trefoils. Hur många lådor med 8 lådor plus extra lådor behöver Jenny leverera?",
+        "answer": "3.0"
+    },
+    {
+        "question": "Rita köper blomlökar till sin trädgård. Hon vill köpa lika många tulpaner och påskliljor. Om tulpanlökar kommer i förpackningar om 15 och påskliljor kommer i förpackningar om 16, vad är det minsta antalet av varje typ av lök som Rita behöver köpa?",
+        "answer": "240 "
+    },
+    {
+        "question": "Tayli vill göra reklam för sin verksamhet, så hon ger paket med 13 röda flygblad till varje restaurangägare och uppsättningar med 20 blå flygblad till varje klädbutiksägare. I slutet av dagen inser Tayli att hon gav ut samma antal röda och blåa flygblad. Vilket är det minsta antalet flygblad av varje färg hon delade ut?",
+        "answer": "260 "
+    },
+    {
+        "question": "Skolan planerar en studieresa. Det finns 45 elever och 9 platser på varje skolbuss. Hur många bussar behövs för att ta resan?",
+        "answer": "5.0"
+    },
+    {
+        "question": "Läraren gav 29 gulddekaler till den första eleven, 35 gulddekaler till den andra eleven, 41 gulddekaler till den tredje eleven, 47 gulddekaler till den fjärde eleven och 53 gulddekaler till den femte eleven. Om detta mönster fortsätter, hur många guldklistermärken kommer läraren att ge till den sjätte eleven?",
+        "answer": "59 "
+    },
+    {
+        "question": "Summan av siffrorna i ett tvåsiffrigt tal är 9. Nio gånger detta nummer är också dubbelt så många som erhålls genom att vända om siffrornas ordning. Hitta numret.",
+        "answer": "18"
+    },
+    {
+        "question": "Nancy hittade 35 snäckskal och 25 sjöstjärnor på stranden. Hon gav 17 av snäckskalen till Jason. Hur många snäckskal har Nancy nu?",
+        "answer": "18.0"
+    },
+    {
+        "question": "Joe's Bath Shop säljer tvål i lådor med 5 st och flaskor tvål i lådor med 19 flaskor. En anställd blir förvånad när han upptäcker att butiken sålde lika många barer och flaskor förra veckan. Vilket är det minsta antalet av varje typ av tvål som butiken kunde ha sålt?",
+        "answer": "95 "
+    },
+    {
+        "question": "En mask har fallit i ett hål som är 26 tum djupt. Den klättrar upp 8 tum och glider tillbaka 3 tum varje dag. Hur många dagar tar det för masken att nå toppen?",
+        "answer": "5 "
+    },
+    {
+        "question": "En lärare ska ordna 60 pojkar och 72 flickor i rader. Han vill ordna dem på ett sådant sätt att endast killar eller flickor kommer att vara där i rad. Hitta det största antalet elever som kan ordnas i rad.",
+        "answer": "12 "
+    },
+    {
+        "question": "Andrew hittade några tomma papperskorgar att lägga burkar i för återvinning. Han lade 2 tomma burkar i den första behållaren, 4 tomma burkar i den andra behållaren, 7 tomma burkar i den tredje behållaren, 11 tomma burkar i den fjärde behållaren och 16 tomma burkar i den femte behållaren. Om detta mönster fortsätter, hur många tomma burkar kommer Andrew att lägga i den sjätte behållaren?",
+        "answer": "22 "
+    },
+    {
+        "question": "Cindy har 105 klistermärken. Hon använder 23 klistermärken. Hon köper 45 klistermärken till. Hur många klistermärken har Cindy nu?",
+        "answer": "127 "
+    },
+    {
+        "question": "Ett fat med apelsinjuice var hundra femtiotre pints. Om du ville hälla upp karet i fem glas med samma mängd i varje glas, hur många pints skulle det vara i varje glas?",
+        "answer": "30 "
+    },
+    {
+        "question": "Fru Hilt mätte avståndet från sitt skrivbord till vattenfontänen. Det var 30 fot. Hur många fot kommer fru Hilt att gå på sina resor till fontänen om hon går till fontänen fyra gånger idag?",
+        "answer": "120.0"
+    },
+    {
+        "question": "En bonde uppskattar att han kommer att skörda 48097 bushels vete. Vädret är perfekt under växtsäsongen, så han skördar 684 bushels vete än väntat. Hur många bushels vete skördar bonden?",
+        "answer": "48781.0"
+    },
+    {
+        "question": "Det är femhundrafemtiofyra elever som går på en triviatävling. Om varje skolbil rymmer nio elever, hur många skåpbilar kommer de att behöva?",
+        "answer": "62 "
+    },
+    {
+        "question": "Det finns 2 gröna böcker, 1 blå bok och 4 orange böcker i en bokhylla. Om 3 av dem tas ut för att läsas, hur många böcker finns det kvar i bokhyllan?",
+        "answer": "4 "
+    },
+    {
+        "question": "Ryan samlade 89 löv. Han tappade 24 löv och kastade 43 löv. Hur många löv hade Ryan kvar?",
+        "answer": "22 "
+    },
+    {
+        "question": "Sally tjänar $25,00 för varje hus hon städar. Om hon städar 96 hus, hur många dussintals dollar kommer hon att tjäna?",
+        "answer": "200.0"
+    },
+    {
+        "question": "Jawbreakers kommer i förpackningar om 8. Sarah åt 20 Jawbreakers. Hur många Jawbreakers har hon kvar?",
+        "answer": "4 "
+    },
+    {
+        "question": "En tredjedel av ett visst antal tillagt med en femtedel ger åtta femtonde av antalet. Hitta numret och kontrollera din beräkning.",
+        "answer": "1"
+    },
+    {
+        "question": "En tvättmaskin kan tvätta 28 pund kläder per dag. Om det finns 200 pund kläder som ska tvättas per dag, hur många pund kläder tvättar tvättmaskinen som inte är fulladdad per dag?",
+        "answer": "4 "
+    },
+    {
+        "question": "Lavinia har 9 glas och 6 muggar. Hon skulle vilja dela ut dem i identiska grupper, utan några över, som förberedelse för en middagsbjudning. Vilket är det största antalet grupper som Lavinia kan ställa ut?",
+        "answer": "3 "
+    },
+    {
+        "question": "Mr Lee vill lasta 134 ton av sina frukter. En stor lastbil kan lasta 15 ton frukt och en liten lastbil kan lasta 7 ton. Hur många stora lastbilar ska användas för att få använda minsta antal lastbilar och ha alla lastbilar fullt upptagna?",
+        "answer": "8 "
+    },
+    {
+        "question": "Det krävs åtta gram plast för att göra en linjal. Om ett företag hade åttahundratjugoåtta gram plast, hur många hela linjaler skulle de kunna göra?",
+        "answer": "103 "
+    },
+    {
+        "question": "Gabe och Steven tjänar pengar på att gå med husdjur i området. Under ett samtal om sitt arbete inser de att de båda går samma totala antal husdjur, även om Gabe går ut med husdjur i grupper om 2 och Steven går med husdjur i grupper om 10. Vilket är det minsta totala antalet husdjur var och en kan vara gående?",
+        "answer": "10 "
+    },
+    {
+        "question": "En körlärare delar upp 10 sopraner och 15 altar i sånggrupper. Han vill att varje grupp ska ha samma kombination av sopraner och altar, utan några sångare över. Vilket är det största antalet grupper han kan göra?",
+        "answer": "5 "
+    },
+    {
+        "question": "En flash-enhet kunde hålla nio spelningar med data. Om du behövde lagra fyrahundrasextiotvå spelningar, hur många flashenheter skulle du behöva?",
+        "answer": "52 "
+    },
+    {
+        "question": "Tom köpte ett Batman-spel för $13,60 och ett Superman-spel för $5,06. Tom äger redan 2 spel. Hur mycket spenderade Tom på tv-spel?",
+        "answer": "18.66"
+    },
+    {
+        "question": "Shelley har 12 gafflar och 16 knivar att placera i silverhållare på snabbmatsrestaurangen där hon arbetar. Hon vill fördela dem lika, utan gafflar eller knivar över. Vilket är det största antalet silverhållare som Shelley kan lagra?",
+        "answer": "4 "
+    },
+    {
+        "question": "Wilson har ett nummer i åtanke. Om han tar bort en tredjedel av antalet från det blir resultatet sexton tredjedel. Hitta numret.",
+        "answer": "8"
+    },
+    {
+        "question": "Ava packade plastflaskorna efter en återvinningsresa. Hon placerade 45 flaskor i den första påsen, 53 flaskor i den andra påsen, 61 flaskor i den tredje påsen och 69 flaskor i den fjärde påsen. Om detta mönster fortsätter, hur många plastflaskor kommer Ava att lägga i den femte påsen?",
+        "answer": "77 "
+    },
+    {
+        "question": "Om Simon behöver göra 519 presentpåsar med en hastighet av 42 påsar per dag, hur många presentpåsar kommer han att göra den sista dagen?",
+        "answer": "15 "
+    },
+    {
+        "question": "Det är tvåhundraåttiosju personer som deltar i en lunch. Om ett bord rymmer nio personer, hur många bord behöver de då?",
+        "answer": "32 "
+    },
+    {
+        "question": "Jeremy har två stycken trä: en är 90 tum och den andra är 72 tum. Han vill kapa båda träbitarna i mindre bitar så att alla dessa bitar blir lika långa. Hur länge kapar han de båda träbitarna?",
+        "answer": "18 "
+    },
+    {
+        "question": "Dan odlade 42 rovor och 38 kanteloper. Jessica odlade 47 rovor. Hur många kålrot växte de totalt?",
+        "answer": "89.0"
+    },
+    {
+        "question": "Det finns några barn på ett bageri. När de bestämde sig för vad de skulle köpa kom 24 flickor in och 31 pojkar gick. Om det är 78 barn i bageriet till slut, hur många barn var det först?",
+        "answer": "85 "
+    },
+    {
+        "question": "Det finns 757 pund sand som ska fyllas i påsar. Om varje påse har en kapacitet på 65 pund, hur många påsar behövs?",
+        "answer": "12 "
+    },
+    {
+        "question": "Dave hjälpte cafeterianarbetarna att hämta lunchbrickor, men han kunde bara bära 9 brickor åt gången. Om han var tvungen att hämta 17 brickor från ett bord och 55 brickor från ett annat, hur många resor kommer han att göra?",
+        "answer": "8.0"
+    },
+    {
+        "question": "När hon räknade stolar i lunchrummet märkte Marie att det fanns 14 stolar på första raden, 23 stolar på andra raden, 32 stolar på tredje raden, 41 stolar på fjärde raden och 50 stolar på femte raden. Om detta mönster fortsätter, hur många stolar kommer det att finnas på sjätte raden?",
+        "answer": "50 "
+    },
+    {
+        "question": "Skillnaden mellan en tredjedel av ett tal och 5 är 10. Hitta talet.",
+        "answer": "45"
+    },
+    {
+        "question": "Käglor kommer i förpackningar om 6. Juan åt 24 käglor. Hur många Skittles har han kvar?",
+        "answer": "0 "
+    },
+    {
+        "question": "Avståndet runt en rektangulär trädgård är 36 fot. Ena sidan mäter 10 fot. Vilken yta har trädgården?",
+        "answer": "80 "
+    },
+    {
+        "question": "Fred köpte fem nya baseball-handelskort att lägga till sin samling. Nästa dag åt hans hund upp hälften av sin samling. Det finns nu bara tjugosex kort kvar. Hur många kort började Fred med?",
+        "answer": "47 "
+    },
+    {
+        "question": "Jasper står för förfriskningarna. Han sålde 27 påsar chips. Han sålde 8 färre varmkorvar än chips. Han sålde 12 fler drinkar än varmkorv. Hur många drinkar sålde Jasper?",
+        "answer": "31 "
+    },
+    {
+        "question": "Samantha har två tygstycken. En bit är 72 tum bred och den andra biten är 90 tum bred. Hon vill klippa båda bitarna till lika breda remsor som är så breda som möjligt. Hur brett ska hon klippa remsorna?",
+        "answer": "18 "
+    },
+    {
+        "question": "Benny fick 79 dollar och 9 biobiljetter till sin födelsedag. Han gick till en sportbutik och köpte en basebollhandske, baseboll och ett slagträ. Han hade 32 dollar över, hur mycket spenderade han på basebollutrustningen?",
+        "answer": "47.0"
+    },
+    {
+        "question": "Om du har 1 tiodollarssedel, 1 fjärdedel och 1 nickel, hur mycket pengar har du?",
+        "answer": "10.3 "
+    },
+    {
+        "question": "Chris har sparat sitt bidrag för att köpa ett nytt par fotbollsskor och en boll. Hans mormor gav honom 25 dollar för hans födelsedag. Hans faster och farbror gav honom 20 dollar och hans föräldrar gav honom 75 dollar. Nu hade han $279. Hur mycket pengar hade han innan sin födelsedag?",
+        "answer": "159 "
+    },
+    {
+        "question": "Det fanns 44 bärbara datorer i butiken och Mike delade upp dem lika i 5 rader. Hur många är kvar?",
+        "answer": "4 "
+    },
+    {
+        "question": "Keith spenderade 6,51 dollar på en kaninleksak, 5,79 dollar på husdjursmat och en bur kostade honom 12,51 dollar. Han hittade en dollarsedel på marken. Vad var den totala kostnaden för Keiths inköp?",
+        "answer": "24.81"
+    },
+    {
+        "question": "Till en middagsbjudning skapar Abraham individuella portioner av förrätter. Han har 9 morotsstavar och 18 selleristavar. Om han vill att varje portion ska vara identisk, utan mat över, vilket är det största antalet portioner som Abraham kan skapa?",
+        "answer": "9 "
+    },
+    {
+        "question": "En bok hade en längd på 2 tum och en bredd på 3 tum. Vilket område har boken?",
+        "answer": "6 "
+    },
+    {
+        "question": "Christine delar körsbär mellan några skålar. Hon lade 35 körsbär i den första skålen, 40 körsbär i den andra skålen, 45 körsbär i den tredje skålen, 50 körsbär i den fjärde skålen och 55 körsbär i den femte skålen. Om detta mönster fortsätter, hur många körsbär kommer Christine att lägga i den sjätte skålen?",
+        "answer": "60 "
+    },
+    {
+        "question": "Kiera gör trailmix av 16 påsar nötter och 6 påsar torkad frukt. Hon vill att varje ny del av trailmixen ska vara identisk, innehålla samma kombination av påsar med nötter och påsar med torkad frukt, utan påsar över. Vad är det största antalet portioner av spårmixen som Kiera kan göra?",
+        "answer": "2 "
+    },
+    {
+        "question": "Eric har två stycken rep. Den ena delen är 10 tum längre än den andra. Den totala längden på de två delarna är 40 tum. Hur lång är den kortare biten?",
+        "answer": "15 "
+    },
+    {
+        "question": "I en halloweenbutik finns det 3 gröna capes, 2 blå capes och 3 röda capes. Om 6 kappor köps, hur många kappor finns kvar?",
+        "answer": "2 "
+    },
+    {
+        "question": "Evelyn har 95 kulor. Hon får 9 till av Henry. Senare köper Evelyn 6 kort i butiken. Hur många kulor har Evelyn totalt?",
+        "answer": "104.0"
+    },
+    {
+        "question": "Drew förberedde 61 portioner smörkola. Om hon förväntar sig att hennes 6 sötnossgäster ska dela smörkolan lika, hur många blir det oförbrukade?",
+        "answer": "1 "
+    },
+    {
+        "question": "Robin har 27 paket tuggummi. Det finns 18 stycken i varje paket. Hur många bitar av tuggummi har Robin?",
+        "answer": "486.0"
+    },
+    {
+        "question": "Före december köper kunderna 1 346 hörselkåpor från gallerian. Under december köper de 6 444 till, och det finns inga kvar. Hur många hörselkåpor köper kunderna totalt?",
+        "answer": "7790.0"
+    },
+    {
+        "question": "Två klockor ringer en gång samtidigt. Därefter ringer den första klockan var 90:e minut och den andra efter var 60:e minut. Efter hur många minuter kommer de att ringa ihop igen?",
+        "answer": "180 "
+    },
+    {
+        "question": "När fem läggs till tre mer än ett visst tal blir resultatet 19. Vilket är talet?",
+        "answer": "11"
+    },
+    {
+        "question": "Ett visst tal som lagts till två gånger till sig själv är lika med 96. Vilket är talet?",
+        "answer": "32"
+    },
+    {
+        "question": "Jag har 3 hundra, 8 tiotal och tre ettor. Vilket nummer är jag?",
+        "answer": "383"
+    },
+    {
+        "question": "Keith spenderade $136,01 på högtalare, $139,38 på en CD-spelare och $112,46 på nya däck. Han ville ha 3 CD-skivor för $6,16, men köpte dem inte. Hur mycket spenderade han totalt?",
+        "answer": "387.85"
+    },
+    {
+        "question": "Sam fick 9 öre för att tvätta kläder och 7 fjärdedelar för att klippa gräsmattor. Hur mycket pengar har Sam?",
+        "answer": "1.84"
+    },
+    {
+        "question": "Till sista akten tog cirkusen fram dansande djur som bär kronor. Om varje krona är gjord med 7 olika färgade fjädrar, hur många fjädrar behövs för 934 kronor?",
+        "answer": "6538.0"
+    },
+    {
+        "question": "Det finns 72 pojkar och 90 flickor i mattelaget. Till nästa matematiktävling skulle Mr. Johnson vilja ordna alla elever i lika rader med bara flickor eller bara pojkar på varje rad. Vilket är det största antalet elever som kan vara på varje rad?",
+        "answer": "18 "
+    },
+    {
+        "question": "Nancy plockade 12 morötter från sin trädgård. Om hon kastade ut 2 av dem och sedan plockade 21 till nästa dag, hur många morötter skulle hon ha totalt?",
+        "answer": "31 "
+    },
+    {
+        "question": "Tom måste sälja åttahundrafyrtionio chokladkakor för att vinna en resa. Om varje ask innehåller fem chokladkakor, hur många kartonger måste han sälja för att vinna resan?",
+        "answer": "170 "
+    },
+    {
+        "question": "Ett kuvert från postkontoret är 6 tum brett med en total yta på 36 kvadrattum. Vad är höjden på kuvertet?",
+        "answer": "6 "
+    },
+    {
+        "question": "I en butik finns 92 datorer. 31 st är sålda. 20 fraktas iväg till ett företag. Hur många datorer finns kvar?",
+        "answer": "41 "
+    },
+    {
+        "question": "Dan spenderade $11,76 på en ormleksak, och en bur kostade honom $14,54. Dan hittade också en dollarsedel på marken. Vad var den totala kostnaden för Dans inköp?",
+        "answer": "26.3"
+    },
+    {
+        "question": "Sarahs lag spelade 8 matcher basket. Under dessa 8 matcher var hennes lags poäng: 69, 68, 70, 61, 74, 62, 65 och 74. Vad är medelvärdet av poängen?",
+        "answer": "67.9 "
+    },
+    {
+        "question": "Det fanns 44 bärbara datorer i butiken och Mike delade upp dem lika i 5 rader. Hur många bärbara datorer finns det i varje rad?",
+        "answer": "8 "
+    },
+    {
+        "question": "En kappafabrik hade 29 rockar. Om de ville lägga dem i 3 lådor, med samma antal lager i varje låda, hur många extra lager skulle de ha över?",
+        "answer": "2 "
+    },
+    {
+        "question": "Berg-och dalbanan på delstatsmässan kostar sex biljetter per åktur. Om du hade åttahundrasextioåtta biljetter, hur många biljetter skulle du ha kvar om du åkte så många gånger du kunde?",
+        "answer": "4 "
+    },
+    {
+        "question": "Det finns mindre än 6 dussin ägg i en korg. Om äggen räknas 2, 3, 4 eller 5 åt gången, finns det inga över. Hur många ägg är det i korgen?",
+        "answer": "60 "
+    },
+    {
+        "question": "Math Counts Club hade fest i skolan. Det fanns 20 kakor och 40 skivor pizza som skulle delas lika. Varje elev hade lika många hela kakor och lika många skivor pizza utan något över. Vilket är det största antalet kakor och pizzaskivor eleverna kan få?",
+        "answer": "20 "
+    },
+    {
+        "question": "Dela 39 ballonger i 7 lika stora grupper. Hur många ballonger finns kvar?",
+        "answer": "4 "
+    },
+    {
+        "question": "Lou's Shoes måste sälja 80 par skor varje månad. De sålde 27 par förra veckan och 12 par denna vecka. Hur många fler par skor måste de sälja?",
+        "answer": "41 "
+    },
+    {
+        "question": "172 elever bildar lag för en bergsklättrartävling. Varje lag ska ha 18 elever. Hur många elever kommer inte att vara med i ett lag?",
+        "answer": "10 "
+    },
+    {
+        "question": "Om Karen sålde 36 lådor tagalongs, hur många lådor med 12 lådor hämtar Karen från kakmamman?",
+        "answer": "3.0"
+    },
+    {
+        "question": "Matt har två stycken sladd, en 15 fot lång och den andra 12 fot lång. Han vill klippa upp dem för att producera många bitar av sladd som alla är av samma längd, utan någon sladd över. Vilken är den största längden, i fot, som han kan göra dem?",
+        "answer": "3 "
+    },
+    {
+        "question": "Ett multinationellt företag har 2041 deltidsanställda och 63093 heltidsanställda. Hur många anställda arbetar för företaget?",
+        "answer": "65134.0"
+    },
+    {
+        "question": "Sweet Time Bakery har precis öppnat och ökar antalet saker de bakar. Till exempel gjorde bageriet 19 morotskakor i oktober, 21 morotskakor i november, 23 morotskakor i december och 25 morotskakor i januari. Om detta mönster fortsätter, hur många morotskakor kommer bageriet att göra i februari?",
+        "answer": "27 "
+    },
+    {
+        "question": "På arkaden vann Jerry 29 biljetter genom att spela \"whack a mole\" och 17 biljetter med \"skee ball\". Om han spenderade 12 av sina biljetter på en hatt, hur många biljetter har Jerry kvar?",
+        "answer": "34 "
+    },
+    {
+        "question": "Edeena packar lika många äppelskivor och vindruvor för mellanmål. Edeena packar äppelskivorna i grupper om 18 och druvorna i grupper om 9. Vilket är det minsta antalet druvor hon kan packa?",
+        "answer": "18 "
+    },
+    {
+        "question": "Zack undervisar elever i grupper om 14. Samtidigt handleder Karen elever i grupper om 10. Medan de diskuterar sitt arbete inser handledarna att de båda arbetar med samma totala antal studenter. Vilket är det minsta antal elever var och en kan ha?",
+        "answer": "70 "
+    },
+    {
+        "question": "Magellan har bestämt sig för att göra festkorgar till insamlingen. Ballonger säljs i påsar om 20, festhorn säljs i påsar om 10 och det finns 8 godisbitar i ett paket. Hur många av varje ska han köpa så att det finns lika många ballonger, horn och godisbitar i varje korg?",
+        "answer": "40 "
+    },
+    {
+        "question": "Miguel är 46 år gammal. Han är 4 år äldre än tre gånger sin sons ålder. Hitta hans sons ålder.",
+        "answer": "14 "
+    },
+    {
+        "question": "Fred gick på 36 basketmatcher i år, men missade 35. Han gick till 11 matcher förra året. Hur många basketmatcher gick Fred på totalt?",
+        "answer": "47.0"
+    },
+    {
+        "question": "Fru Hilt kommer att köpa ett par nya skor om 11 dagar. Hur många minuter måste hon vänta innan hon kan köpa sitt nya par skor?",
+        "answer": "15840 "
+    },
+    {
+        "question": "Det ligger 8 äpplen i en hög på skrivbordet. Varje äpple kommer i en förpackning med 11. 5 äpplen läggs till högen. Hur många äpplen finns det i högen?",
+        "answer": "13.0"
+    },
+    {
+        "question": "Ett företag skänker 935 pennor till en skola. Pennorna är jämnt fördelade på 9 klassrum. Resten av pennorna ges till biblioteket. Hur många pennor donerades till biblioteket?",
+        "answer": "8 "
+    },
+    {
+        "question": "En rektangulär rabatt hade en total yta på 35 kvadratmeter. Om den var 5 meter bred, hur lång var den?",
+        "answer": "7 "
+    },
+    {
+        "question": "Det är 124 elever som gör 3 stjärnor var för skolväggen. Hur många stjärnor kommer de att göra tillsammans?",
+        "answer": "372.0"
+    },
+    {
+        "question": "Sean hade 45 Starbursts. Om Sean gav lika många Starbursts till sina 18 vänner och sedan åt det som var kvar, hur många Starbursts åt varje person?",
+        "answer": "2 "
+    },
+    {
+        "question": "På onsdagen spenderade Joan fyra halva dollar på att spela flipper. Nästa dag spenderade hon 14 halvdollar på flipperspel. Vad var det totala beloppet Joan spenderade på att spela flipper?",
+        "answer": "9.0"
+    },
+    {
+        "question": "Till skolans bakrea gjorde Amy bakverk. Hon bakade 15 muffins och 48 kakor. Efter försäljningen hade hon 12 att ta med sig hem. Hur många bakverk sålde hon?",
+        "answer": "51 "
+    },
+    {
+        "question": "Alyssas katt hade 8 kattungar och 8 hade prickar. Hon gav 4 till sina vänner. Hur många kattungar har hon nu?",
+        "answer": "4.0"
+    },
+    {
+        "question": "9 pojkar gick för att vattna träd. Det fanns 29 träd. Om var och en av dem vattnade lika mycket träd, hur många träd vattnade varje pojke?",
+        "answer": "3 "
+    },
+    {
+        "question": "Ella äger 2 hundar. Varje dag äter en hund 0,125 skopor hundmat och den andra hunden äter 0,125 skopor. Hur mycket hundmat äter de två hundarna tillsammans varje dag?",
+        "answer": "0.25"
+    },
+    {
+        "question": "Ett tal är lika med 5 gånger skillnaden mellan siffran och 4. Hitta talet.",
+        "answer": "5"
+    },
+    {
+        "question": "En engelsklärare skulle vilja dela upp 10 pojkar och 15 flickor i grupper, var och en med samma kombination av pojkar och flickor och ingen lämnade utanför. Vilket är det största antalet grupper som kan bildas?",
+        "answer": "5 "
+    },
+    {
+        "question": "Benny fick 67 dollar för sin födelsedag. Han gick till en sportbutik och köpte en basebollhandske, baseboll och ett slagträ. Han hade 33 dollar över, hur mycket spenderade han på basebollutrustningen?",
+        "answer": "34.0"
+    },
+    {
+        "question": "I en skola finns 542 flickor och 387 pojkar. Hur många elever är det i den skolan?",
+        "answer": "929.0"
+    },
+    {
+        "question": "En florist hade 50 rosor. Om hon sålde 15 av dem och sedan plockade 21 till, hur många rosor skulle hon ha?",
+        "answer": "56 "
+    },
+    {
+        "question": "Mark hade 24 kulor och Evan hade 3 kulor. Mark gav några av sina kulor till Evan. Nu har Mark exakt dubbelt så många kulor som Evan har. Hur många kulor gav Mark till Evan?",
+        "answer": "6 "
+    },
+    {
+        "question": "Maddie, Luisa och Amy räknade sina böcker. Maddie hade 15 böcker. Luisa hade 18 böcker. Tillsammans hade Amy och Luisa nio fler böcker än Maddie. Hur många böcker hade Amy?",
+        "answer": "6 "
+    },
+    {
+        "question": "Ett fartyg är fyllt med 5 973 ton last. Den stannar på Bahamas, där sjömän lastar ytterligare 8 723 ton last ombord. Hur många ton last rymmer fartyget nu?",
+        "answer": "14696.0"
+    },
+    {
+        "question": "15 elever delar upp 122 portföljer med målningar. Varje elev ska få samma antal portfolios. Hur många portföljer med målningar kommer att finnas kvar?",
+        "answer": "2 "
+    },
+    {
+        "question": "Tom hade $19 och han ville köpa så många mappar han kunde. Om en mapp kostar $2, hur många mappar kan Tom köpa?",
+        "answer": "9 "
+    },
+    {
+        "question": "En bilförsäljare sålde 8 på måndagen, 3 på tisdagen, 10 på onsdagen, 4 på torsdagen, 4 på fredagen och 4 på lördagen. Vad är medelvärdet av antalet bilar han sålt?",
+        "answer": "5.5 "
+    },
+    {
+        "question": "Det finns 48 pennor och 40 saxar i lådan. Joan lade 29 pennor i lådan. Hur många pennor finns det nu totalt?",
+        "answer": "77.0"
+    },
+    {
+        "question": "Tess dekorerar papper med totalt 45 hjärtklistermärken och 27 stjärnklistermärken till barnet hon är barnvakt. Om hon vill göra alla papper identiska, med samma kombination av hjärt- och stjärnklistermärken och inga klistermärken över, vilket är det största antalet sidor Tess kan dekorera?",
+        "answer": "9 "
+    },
+    {
+        "question": "Bryan tittade också på sina böcker. Om Bryan har 56 böcker i var och en av sina 9 bokhyllor, hur många böcker har han totalt?",
+        "answer": "504.0"
+    },
+    {
+        "question": "Taxiavgifterna i en stad består av en fast avgift tillsammans med avgiften för tillryggalagd sträcka. För en resa på 10 km är avgiften 75 USD och för en resa på 15 km är avgiften 110 USD. Vad måste en person betala för att resa en sträcka på 25 km?",
+        "answer": "180 "
+    },
+    {
+        "question": "Den totala kostnaden för undervisning plus kost och kost vid State University är $2,584. Undervisningen kostar $704 mer än kost och kost. Vad är terminsavgiften?",
+        "answer": "1644 "
+    },
+    {
+        "question": "Joe har 45 apelsiner som måste läggas i lådor. Daniel kommer för att hjälpa till och tar med 16 kakor att dela med Joe. Om det finns 9 lådor, hur många apelsiner måste det finnas i varje låda?",
+        "answer": "5.0"
+    },
+    {
+        "question": "En triangel har en omkrets på 90 cm. Längden på de tre sidorna är i förhållandet 5:12:13. Hur lång är den kortaste sidan?",
+        "answer": "15 "
+    },
+    {
+        "question": "Martha's Blossoms säljer rosor i grupper om 9. På andra sidan stan säljer Rachel's Blooms rosor i grupper om 19. Om en kund vill köpa lika många rosor från båda leverantörerna, vilket är det minsta antalet rosor kunden måste köpa från varje leverantör?",
+        "answer": "171 "
+    },
+    {
+        "question": "Det finns 1 grön pärla, 2 bruna pärlor och 3 röda pärlor i en behållare. Tom tog några pärlor ur behållaren och lämnade 4 in. Hur många pärlor tog Tom ut?",
+        "answer": "2 "
+    },
+    {
+        "question": "Sam klippte lika långa bitar av band från ett 3 730 cm långt band. Om varje bit var 73 cm lång, hur många 73 cm bitar av band gjorde Sam?",
+        "answer": "51 "
+    },
+    {
+        "question": "105 personer går på bio. 6 personer kan åka i varje bil. Hur många bilar behövs för att få alla 105 personer till filmen?",
+        "answer": "18 "
+    },
+    {
+        "question": "Emily samlade ägg från hönan och lade dem i 303 korgar. Hon lade 28 ägg i varje korg. Hur många ägg samlade Emily?",
+        "answer": "8484.0"
+    },
+    {
+        "question": "En butiksägare hade två anställda och köpte niohundratjugosju uniformer åt dem. Om han ville ge varje anställd lika många uniformer, hur många fler ska han köpa så att han inte har några extra?",
+        "answer": "1 "
+    },
+    {
+        "question": "Summan av tre på varandra följande udda tal är hundra tjugotre. Vilket är det minsta av de tre siffrorna?",
+        "answer": "39"
+    },
+    {
+        "question": "Mr. Bradley gav sin klass ett matematiskt problem att lösa. Han sa: \"Börja med siffran 28. Lägg till 12 till det. Lägg sedan till 7 till.\" Ned följde instruktionerna perfekt men Billy subtraherade 7. Vad är skillnaden mellan pojkarnas svar?",
+        "answer": "14"
+    },
+    {
+        "question": "En dag åt Trent och hans vänner lunch medan de satt vid 2 bord. En annan dag åt de lunch vid 8 bord. Vilket är det minsta antalet personer som kunde vara i gruppen?",
+        "answer": "8 "
+    },
+    {
+        "question": "Hon hade 35 mistelklistermärken och ville placera dem lika i 8 kort. Hur många mistelklistermärken kommer hon att ha kvar?",
+        "answer": "3 "
+    },
+    {
+        "question": "Sean har 8-tums bitar av leksakstågsbana och Ruth har 18-tums bitar av tågspår. Hur många av varje bit skulle varje barn behöva för att bygga spår som är lika långa?",
+        "answer": "72 "
+    },
+    {
+        "question": "Laurie har 12 fler kulor än Kurt. Kurt har 45 kulor mindre än Dennis. Dennis har 70 kulor. Hur många kulor har Laurie?",
+        "answer": "37 "
+    },
+    {
+        "question": "Ishallen har 85 par skridskor att hyra. 18 personer hyrde skridskor när ishallen öppnade. Ytterligare 25 personer hyrde skridskor under den första timmen. Hur många par skridskor finns kvar?",
+        "answer": "42 "
+    },
+    {
+        "question": "Det finns för närvarande 42 valnötsträd och 12 apelsinträd i parken. Parkarbetare var tvungna att hugga ner 13 valnötsträd som skadades. Hur många valnötsträd kommer att finnas i parken när arbetarna är färdiga?",
+        "answer": "29.0"
+    },
+    {
+        "question": "Varje sida av en fyrkantig plåtbit är 7 meter lång. Vad är plåtens omkrets?",
+        "answer": "28 "
+    },
+    {
+        "question": "Ezra köper muttrar och bultar i en lokal järnaffär. Butiken säljer muttrar i förpackningar om 13 och bultar i förpackningar om 8. Om Ezra vill köpa lika många muttrar och bultar, vilket är det minsta antalet muttrar som han kan köpa?",
+        "answer": "104 "
+    },
+    {
+        "question": "Det finns för närvarande 2 lönnträd och 5 populära träd i parken. Parkarbetare kommer att plantera 9 lönnträd idag. Hur många lönnträd kommer parken att ha när arbetarna är klara?",
+        "answer": "11.0"
+    },
+    {
+        "question": "Vid ett skolevenemang sitter vuxna i grupper om exakt 17 och barn i grupper om exakt 15. Om det finns samma antal vuxna som barn, vad är det lägsta antalet vuxna som deltar?",
+        "answer": "255 "
+    },
+    {
+        "question": "Matthew går på vandring var 12:e dag och simmar var 6:e ​​dag. Han tränade båda typerna idag. Hur många dagar från nu ska han både vandra och bada igen?",
+        "answer": "12 "
+    },
+    {
+        "question": "Ett frimärke kostar 34 cent. Om kostnaden för varje frimärke förblir densamma, hur mycket skulle fyra frimärken kosta?",
+        "answer": "134.0"
+    },
+    {
+        "question": "Hur mycket skulle 136 bitar bubbelgum kosta om varje bit kostar 18 cent?",
+        "answer": "2448.0"
+    },
+    {
+        "question": "En bagare hade 7 lådor för munkar. Det slutade med att han gjorde 48 munkar och delade dem jämnt mellan lådorna. Hur många extra munkar fick han?",
+        "answer": "6 "
+    },
+    {
+        "question": "En rektangel har en yta på 360 kvadratcentimeter. Den är 20 centimeter lång. Vad är dess omkrets?",
+        "answer": "76 "
+    },
+    {
+        "question": "Joe, Susies bror, samlade alla 94 samlade kort som var utspridda i hans rum och placerade dem i lådor. Om en full låda kan innehålla maximalt 8 kort, hur många lådor var helt fyllda?",
+        "answer": "11 "
+    },
+    {
+        "question": "Mary plockade 14 apelsiner och Jason plockade 41 apelsiner. Keith plockade 38 äpplen. Hur många apelsiner plockades sammanlagt?",
+        "answer": "55.0"
+    },
+    {
+        "question": "Laverne har 20 basebollar och 15 basketbollar. Om hon vill dela upp dem i identiska grupper utan några bollar över, vad är det största antalet grupper som Laverne kan göra?",
+        "answer": "5 "
+    },
+    {
+        "question": "Sarah's Shipping och Ryan's Mail Services skickar båda paket. Sarahs lastbilar kommer bara att bära laster med 18 paket. Däremot kommer Ryans lastbilar bara att bära laster med 11 paket. Om det slutade med att båda företagen skickade samma antal paket i morse, vad är det minsta antalet paket som var och en måste ha skickat?",
+        "answer": "198 "
+    },
+    {
+        "question": "Förra året beställde Springtown Hardware 3 hammare i juni, 4 hammare i juli, 6 hammare i augusti och 9 hammare i september. Om detta mönster fortsätter, hur många hammare kommer butiken att beställa i oktober?",
+        "answer": "13 "
+    },
+    {
+        "question": "Melody gjorde 26 utskärningar av julgranar med röda glänsande kulor. Om hon planerade att klistra in 4 av dessa på framsidan av ett visst antal kort, hur många utklippta julgranar kommer Melody att ha kvar?",
+        "answer": "2 "
+    },
+    {
+        "question": "En erfaren skridskoåkare snurrar på isen och skapar en perfekt cirkel. Efteråt räknar hon ut att den måste ha en omkrets på 6,28 yards. Vad är cirkelns diameter?",
+        "answer": "2 "
+    },
+    {
+        "question": "Läraren gav lika mycket 42 pennor till 12 elever. Hur många pennor finns kvar?",
+        "answer": "6 "
+    },
+    {
+        "question": "När Jose åkte på en buss, märkte han några människor som satt. Vid nästa busshållplats steg 5 personer på och 2 personer gick av. Två hållplatser senare klev 7 personer på 15 personer klev av bussen vid terminalstationen. Hur många människor var i bussen när Jose klev på bussen?",
+        "answer": "5 "
+    },
+    {
+        "question": "Joanne driver en kampanj för klasspresidenten och planerar att dela ut lite kampanjmaterial: 20 flygblad och 16 knappar. Hon vill att varje klassrum ska få en identisk uppsättning kampanjmaterial, utan att ha något material över. Vilket är det största antalet klassrum som Joanne kan dela ut material till?",
+        "answer": "4 "
+    },
+    {
+        "question": "Sam hade 7 pennies och 8 dimes på sin bank. Hans syster lånade 4 dimes. Hur många dimes har Sam nu?",
+        "answer": "4.0"
+    },
+    {
+        "question": "Tom hade redan 2 godisbitar. Hans vän gav honom 7 till och sedan köpte Tom ytterligare 10. Hur många bitar har Tom nu?",
+        "answer": "19 "
+    },
+    {
+        "question": "Mrs. Wilson, matematikläraren, har 18 logiska pussel och 9 visuella pussel som hon vill gruppera i uppsättningar för elever som avslutar sina prov tidigt. Mrs. Wilson vill att varje set ska vara identiskt, innehålla samma kombination av logiska pussel och visuella pussel, utan några pussel över. Vilket är det största antalet set hon kan skapa?",
+        "answer": "9 "
+    },
+    {
+        "question": "Shirley sålde 20 lådor Do-Si-Dos. Hur många lådor med 4 lådor plus extra lådor behöver Shirley leverera?",
+        "answer": "5.0"
+    },
+    {
+        "question": "Amanda har två stycken band, en 8 tum lång och den andra 16 tum lång. För att dekorera ett album, vill hon klippa upp dem för att producera många bitar av band som alla är av samma längd, utan något band över. Vilken är den största längden, i tum, som hon kan göra dem?",
+        "answer": "8 "
+    },
+    {
+        "question": "I måndags åkte 375 elever på en tur till djurparken. Alla 7 bussar var fyllda och 4 elever fick åka i bilar. Hur många elever fanns i varje buss?",
+        "answer": "53.0"
+    },
+    {
+        "question": "89 cookies delas lika mellan 4 personer. Hur många får varje person?",
+        "answer": "22 "
+    },
+    {
+        "question": "En kvadrat har sidor som mäter 15 cm. En rektangel har en längd på 18 cm. Omkretsen av kvadraten är lika med omkretsen av rektangeln. Vilken yta har rektangeln?",
+        "answer": "216 "
+    },
+    {
+        "question": "Atomic fireballs kommer i förpackningar om 9. Barbara åt 59 Atomic Fireballs. Hur många Atomic Fireballs har hon kvar?",
+        "answer": "5 "
+    },
+    {
+        "question": "Det finns 2 amerikaner, 4 fransmän och 4 kineser i ett mötesrum. 3 av dem lämnar. Hur många personer är kvar från mötesrummet?",
+        "answer": "7 "
+    },
+    {
+        "question": "Jerry räknade pengarna han fick för sin födelsedag. Av sin moster fick han 9 dollar. Av sin farbror fick han 9 dollar. Hans bästa vänner gav honom $22, $23 och $22 och $22. Och hans syster gav honom 7 dollar. Vad betyder pengarna han fick?",
+        "answer": "16.3 "
+    },
+    {
+        "question": "Lenny har $84. Han spenderade 24 dollar på tv-spel och 21 dollar i mataffären. Hur mycket har Lenny kvar?",
+        "answer": "39 "
+    },
+    {
+        "question": "En byggare behövde köpa etthundrafemtiofyra brädor för sitt senaste projekt. Om brädorna han behöver kommer i förpackningar om tre, hur många paket behöver han köpa?",
+        "answer": "52 "
+    },
+    {
+        "question": "En radiostation har en kampanj där var 12:e uppringare får en gratis konsertbiljett och var 15:e uppringare får en limousineresa. Vilken anropare blir den första att vinna båda?",
+        "answer": "60 "
+    },
+    {
+        "question": "Vidyas mammas ålder är 5 år mer än de tre gångerna av Vidyas nuvarande ålder. Hitta Vidyas nuvarande ålder, om hennes mamma är 44 år gammal.",
+        "answer": "13 "
+    },
+    {
+        "question": "Austin sätter klistermärken i en klistermärkesbok. Han satte 8 klistermärken på första sidan, 16 klistermärken på andra sidan, 24 klistermärken på tredje sidan och 32 klistermärken på fjärde sidan. Om det här mönstret fortsätter, hur många klistermärken kommer Austin att sätta på den femte sidan?",
+        "answer": "40 "
+    },
+    {
+        "question": "Randy behöver 53 cupcakes för en födelsedagsfest. Han har redan 7 chokladcupcakes och 19 vaniljcupcakes. Hur många fler cupcakes ska Randy köpa?",
+        "answer": "32.0"
+    },
+    {
+        "question": "Kristen lägger märke till ett identiskt antal av två typer av insekter i hennes grannskap: fjärilar och eldflugor. Hon verkar alltid observera fjärilar i grupper om 44 och eldflugor i grupper om 17. Vilket är det minsta antalet fjärilar hon kunde ha sett?",
+        "answer": "748 "
+    },
+    {
+        "question": "Lindsey har 16 burkar vanlig läsk och 8 burkar dietläsk. Hon vill skapa några identiska förfriskningsbord som ska fungera under fotbollsmatchen. Hon vill inte heller ha någon läsk över. Vilket är det största antalet förfriskningsbord som Lindsey kan lagra?",
+        "answer": "8 "
+    },
+    {
+        "question": "En låda med datorpapper har tvåhundratjugoett ark kvar i den. Om varje skrivare i ett datorlabb behövde sju ark, hur många skrivare skulle lådan fyllas?",
+        "answer": "31 "
+    },
+    {
+        "question": "Det är 78 mil till mormors hus. Mr. Welch körde 35 mil. Han stannade för att köpa en paj till efterrätt. Sedan körde han 18 mil och stannade för att fylla på gas i bilen. Hur många mil kvar tills han når mormors hus?",
+        "answer": "25 "
+    },
+    {
+        "question": "Melanie hade 276 dollar att spendera på 9 böcker. Efter att ha köpt dem hade hon 15 dollar. Hur mycket kostade varje bok?",
+        "answer": "29 "
+    },
+    {
+        "question": "En butik hade 22 par stora skor, 50 par medelstora skor och 24 par småskor. Efter att ha sålt några av skorna hade den 13 par skor kvar. Hur många par skor sålde butiken?",
+        "answer": "83 "
+    },
+    {
+        "question": "Det finns 397 fjärilar. Varje fjäril har 12 svarta prickar och 17 gula prickar. Hur många svarta prickar finns det totalt?",
+        "answer": "4764.0"
+    },
+    {
+        "question": "Ett transportföretag köpte 95 ton olja. Ett stort fat rymmer 6 ton olja och ett litet fat rymmer 5 ton olja. Hur många stora fat ska man använda för att få använda minsta antal fat och ha varje fat fullt upptaget?",
+        "answer": "15 "
+    },
+    {
+        "question": "Jenny går på dansklass var 6:e ​​dag, karate var 12:e dag och till biblioteket var 18:e dag. Den 1 december gick hon till både klasser och biblioteket. Hur många dagar från den 1 december kommer hon att göra båda klasserna och gå till biblioteket?",
+        "answer": "36 "
+    },
+    {
+        "question": "Rosa gör en spelplan som är 16 tum gånger 24 tum. Hon vill använda fyrkantiga plattor. Vilken är den största brickan hon kan använda?",
+        "answer": "8 "
+    },
+    {
+        "question": "Denise blir äldre och känner att hon borde skänka sin samling gosedjur till barn som har mindre tur. Hon har 14 gosekatter och 7 gosehundar som hon vill dela in i identiska grupper, utan gosedjur över. Vilka är det största antalet grupper Denise kan placera sina gosedjur i?",
+        "answer": "7 "
+    },
+    {
+        "question": "Joan odlade 24 pumpor, Keith odlade 42 pumpor och Alyssa odlade 13 pumpor. De arbetade i 34 dagar på gården. Hur många pumpor växte de sammanlagt?",
+        "answer": "79.0"
+    },
+    {
+        "question": "Ett konstmuseum hade 15 bilder att dela upp lika i 2 olika utställningar. Hur många fler bilder skulle de behöva för att se till att varje utställning hade samma mängd?",
+        "answer": "1 "
+    },
+    {
+        "question": "Bernard hade 15 röda anteckningsböcker, 17 blå anteckningsböcker och 19 vita anteckningsböcker. Han gav några av dem till Tom och hade 5 kvar. Hur många anteckningsböcker gav Bernard Tom?",
+        "answer": "46 "
+    },
+    {
+        "question": "Roger hjälpte cafeterianarbetarna att plocka upp lunchbrickor, men han kunde bara bära fyra brickor åt gången. Om han var tvungen att plocka upp 10 brickor från ett bord och 2 brickor från ett annat, hur många resor kommer han att göra?",
+        "answer": "3.0"
+    },
+    {
+        "question": "Fyra tjejer var hemma hela dagen en helg och förberedde hemlagade godsaker. Anna gjorde 33 blåbärskakor. Om hon delar detta lika mellan sina fyra vänner, hur många får var och en?",
+        "answer": "8 "
+    },
+    {
+        "question": "Ett tal som består av två siffror är lika med 7 gånger summan av dess siffror. När 27 subtraheras från talet byter siffrorna plats. Hitta numret.",
+        "answer": "63"
+    },
+    {
+        "question": "En fars ålder är lika med summan av åldrarna på hans 5 barn. Efter 15 år kommer summan av barnens ålder att vara dubbelt så gammal som fadern. Hitta pappans ålder.",
+        "answer": "75 "
+    },
+    {
+        "question": "Mrs. Evans har 120 kritor och 30 papperslappar att ge till sina elever. Vilket är det största antalet elever hon kan ha i sin klass så att varje elev får lika många kritor och lika många papper?",
+        "answer": "30 "
+    },
+    {
+        "question": "För att pricka in behövde han 70 liter färg. Om han köpte 23 liter för att lägga till sina befintliga 36 liter färg, hur mycket mer färg kommer han att behöva?",
+        "answer": "11 "
+    },
+    {
+        "question": "Det finns 69 suddgummi i en låda. Jane har 15 suddgummi i en påse. Doris tar 54 suddgummin ur kartongen. Hur många suddgummi finns kvar i lådan?",
+        "answer": "15.0"
+    },
+    {
+        "question": "En ö i Stilla havet var 5 mil bred. Den hade en total yta på 50 kvadratkilometer. Hur lång är ön?",
+        "answer": "10 "
+    },
+    {
+        "question": "Jason odlade 32 vattenmeloner och 22 kanteloper. Dan odlade 31 vattenmeloner. Hur många vattenmeloner växte de totalt?",
+        "answer": "63.0"
+    },
+    {
+        "question": "Robert tjänade 76 dollar på jobbet. Han spenderade $6 på en penna och $14 för en miniräknare. Hur mycket pengar hade han kvar?",
+        "answer": "56 "
+    },
+    {
+        "question": "Mrs. Hilt har 40 markörer. De är lika uppdelade i 7 paket. Mrs Hilt vill veta hur många markörer som är över?",
+        "answer": "5 "
+    },
+    {
+        "question": "En bibliotekarie var tvungen att packa femhundranittio böcker i lådor. Om varje låda rymmer tre böcker, hur många lådor behövde hon?",
+        "answer": "197 "
+    },
+    {
+        "question": "Lewis gick sedan för att se apelsinerna skördas. Lewis fick reda på att de skördar 83 säckar per dag. Hur många säckar apelsiner kommer de att ha efter 6 dagars skörd?",
+        "answer": "498.0"
+    },
+    {
+        "question": "Janice och Jasmine fick varsin lika lång bit band. Janice klipper sina band i lika långa längder på 2 m, medan Jasmine klipper sina band i lika långa längder på 5 m. Om det inte fanns någon rest i båda fallen, vilken är den kortaste möjliga längden på bandet som de fick?",
+        "answer": "10 "
+    },
+    {
+        "question": "En familj förbereder ryggsäckar fyllda med skolmaterial för att donera till barn i nöd. De har 9 pennor och 15 anteckningsböcker. Om de vill göra alla ryggsäckar likadana, utan skolmaterial över, vad är det största antalet ryggsäckar de kan fylla?",
+        "answer": "3 "
+    },
+    {
+        "question": "Warren sprang 1 varv på onsdagen, 2 varv på torsdagen, 4 varv på fredagen, 8 varv på lördagen och 16 varv på söndagen. Om det här mönstret fortsätter, hur många varv kommer Warren att springa på måndag?",
+        "answer": "32 "
+    },
+    {
+        "question": "Ms. Baker har 17 muffins. Hon vill dela dem lika mellan sina 3 barn så att ingen får mer än någon annan. Om hon ger varje barn så många cupcakes som möjligt, hur många cupcakes blir det över för Ms. Baker att äta?",
+        "answer": "2 "
+    },
+    {
+        "question": "Nathan håller på med badrum på hotellet där han arbetar. Han har 18 rullar toalettpapper och 9 tvål. Om han vill att alla badrum ska ha samma lager, med samma kombination av tillbehör i vart och ett och inget över, vilken är den bästa kombinationen av badrum Nathan kan ha?",
+        "answer": "9 "
+    },
+    {
+        "question": "Georgia hade 24 gula knappar, 16 svarta knappar och 19 gröna knappar. Hon gav några av knapparna till Mary och nu har Georgia 13 knappar kvar. Hur många knappar gav Georgia Mary?",
+        "answer": "46 "
+    },
+    {
+        "question": "Jared ser över sin mobiltelefonräkning. När han kommer till sms-delen märker han att han skickade 1 sms i november, 2 sms i december, 4 sms i januari och 8 sms i februari. Om det här mönstret fortsätter, hur många textmeddelanden kommer Jared att skicka i mars?",
+        "answer": "16 "
+    },
+    {
+        "question": "Emily spelade ett triviaspel. I första omgången fick hon 16 poäng och i andra omgången 33 poäng. I den senaste omgången tappade hon 48 poäng. Hur många poäng hade hon i slutet av matchen?",
+        "answer": "1.0"
+    },
+    {
+        "question": "Tänk på två tredjedelar av antalet och lägg till sex till det. Resultatet är tio. Hitta det okända numret.",
+        "answer": "6"
+    },
+    {
+        "question": "Mrs. Hilt har 40 markörer. De är lika uppdelade i 7 paket. Mrs Hilt vill veta hur många markörer som finns i varje förpackning?",
+        "answer": "5.0"
+    },
+    {
+        "question": "Harry gick längs stranden och samlade 34 havsstjärnor, 21 snäckskal och 29 sniglar. Han tappade några av föremålen och hade 59 föremål kvar i slutet av sin promenad. Hur många havsdjur förlorade han totalt?",
+        "answer": "25 "
+    },
+    {
+        "question": "En klubb har 16 flickor och 8 pojkar som medlemmar. Presidenten vill dela upp klubben i grupper, där varje grupp innehåller samma kombination av flickor och pojkar. Presidenten vill också se till att ingen lämnas utanför. Vilket är det största antalet grupper presidenten kan bilda?",
+        "answer": "8 "
+    },
+    {
+        "question": "För att uppmuntra kollektivtrafiken vill Russom ge några vänner kuvert med bussbiljetter och tunnelbanebiljetter i. Om han har 18 bussbiljetter och 12 tunnelbanebiljetter att dela lika mellan kuverten och inte vill ha några biljetter över, vilket är det största antalet kuvert Russom kan göra?",
+        "answer": "6 "
+    },
+    {
+        "question": "Zoe hade 42 flaskor vatten i sitt kylskåp. Om hon drack 25 av dem och sedan köpte 30 till, hur många flaskor skulle hon ha?",
+        "answer": "47 "
+    },
+    {
+        "question": "Emma har en burk fruktcocktail i skafferiet. Det runda locket har en diameter på 2 tum. Vad är lockets omkrets?",
+        "answer": "6.28 "
+    },
+    {
+        "question": "Summan av ett tal och 15 är 96. Hitta talet.",
+        "answer": "81"
+    },
+    {
+        "question": "En P.E. läraren måste dela upp 14 manliga elever och 7 kvinnliga elever i lag, var och en med samma kombination av manliga elever och kvinnliga elever och ingen lämnas utanför. Vilket är det största antalet lag som kan bildas?",
+        "answer": "7 "
+    },
+    {
+        "question": "Summan av tre på varandra följande tal är 90. Vilket är det minsta av de tre talen?",
+        "answer": "29"
+    },
+    {
+        "question": "Tom köpte en skateboard för $9,46 och spenderade $9,56 på kulor. Tom spenderade också $14,50 på shorts. Hur mycket spenderade Tom totalt på leksaker?",
+        "answer": "19.02"
+    },
+    {
+        "question": "Alyssa gick på 11 fotbollsmatcher i år, men missade 12. Hon gick till 13 matcher förra året och planerar att gå till 15 matcher nästa år. Hur många fotbollsmatcher kommer Alyssa att gå på totalt?",
+        "answer": "39.0"
+    },
+    {
+        "question": "En balettklass vill dela upp sina 90 medlemmar i några stora grupper med 7 medlemmar var och några små grupper med 3 medlemmar vardera. För att göra minst antal grupper, hur många stora grupper bör göras?",
+        "answer": "12 "
+    },
+    {
+        "question": "På gymmet simmar Hillary var 6:e ​​dag, springer var 4:e dag och cyklar var 16:e dag. Om hon gjorde alla tre aktiviteterna idag, om hur många dagar kommer hon att göra alla tre aktiviteterna igen på samma dag?",
+        "answer": "48 "
+    },
+    {
+        "question": "Den längsta spelaren i basketlaget är 77,75 tum lång. Detta är 9,5 tum högre än den kortaste spelaren. Hur lång är den kortaste spelaren, i tum?",
+        "answer": "68.25"
+    },
+    {
+        "question": "Adam hade 33 böcker. Om han sålde 11 av dem och använde pengarna han tjänade till att köpa 23 nya böcker, hur många böcker skulle Adam ha?",
+        "answer": "45 "
+    },
+    {
+        "question": "Johnny tränade för banlaget och sprang 3 varv per minut. Hur många minuter tog det för Johnny att springa 10 varv?",
+        "answer": "3.33333"
+    },
+    {
+        "question": "Summan av siffrorna i ett tvåsiffrigt tal är 8 och skillnaden mellan talet och det som bildas genom att vända siffrorna är 18. Hitta talet.",
+        "answer": "53"
+    },
+    {
+        "question": "Till femteklassspelet har stolarna satts i 27 rader med 16 stolar i varje rad. Hur många stolar har satts ut för pjäsen?",
+        "answer": "432.0"
+    },
+    {
+        "question": "Gary hade några klistermärken. Han gav 42 klistermärken till Lucy och 26 klistermärken till Alex. Om han hade 31 klistermärken kvar, hur många klistermärken hade Gary först?",
+        "answer": "99 "
+    },
+    {
+        "question": "William säljer korv på balparken. Han sålde 19 varmkorvar under de tre första omgångarna. Han sålde 27 varmkorvar under de kommande tre omgångarna. William hade 45 varmkorvar kvar att sälja. Hur många varmkorvar hade William först?",
+        "answer": "91 "
+    },
+    {
+        "question": "Melanie plockade 7 plommon och 4 apelsiner från fruktträdgården. Hon gav 3 plommon till Sam. Hur många plommon har hon nu?",
+        "answer": "4.0"
+    },
+    {
+        "question": "Mei har 15 apelsiner, 9 persikor och 18 päron. Hon vill lägga all frukt i korgar med samma antal fruktbitar i varje korg. Utan att blanda frukten, vad är det största antalet fruktbitar som Mei kan lägga i varje korg?",
+        "answer": "3 "
+    },
+    {
+        "question": "Nästa akt involverade flera jonglörer. Om varje jonglör jonglerar med 6 bollar åt gången, hur många bollar behövs om det finns 378 jonglörer som visar en show samtidigt?",
+        "answer": "2268.0"
+    },
+    {
+        "question": "Mr Peter skördade några päron. Han plockade 43 kg av päronen i en påse och 35 kg av päronen i en annan påse. Om det fortfarande fanns 15 kg päron kvar opackade, hur många kg päron skördade Peter?",
+        "answer": "93 "
+    },
+    {
+        "question": "Keith plockade 3 päron och Jason plockade 2 päron från päronträdet. Joan plockade 5 äpplen från äppelträdet. Hur många päron plockades totalt?",
+        "answer": "5.0"
+    },
+    {
+        "question": "Ben ritar en cirkel inuti ett fyrkantigt papper vars yta är 400 kvadrattum. Han ser till att cirkeln vidrör varje sida av kvadraten. Vilken yta har cirkeln?",
+        "answer": "314 "
+    },
+    {
+        "question": "Under en burkmatskörning sorterades föremål i papperskorgar. Körningen resulterade i 0,125 behållare soppa, 0,125 behållare grönsaker och 0,5 behållare pasta. Sammantaget, hur många papperskorgar skulle konservmaten ta upp?",
+        "answer": "0.75"
+    },
+    {
+        "question": "Skolan köpte 54 basketbollar och fördelade dem i 7 klasser lika. Hur många basketbollar fick varje klass?",
+        "answer": "7 "
+    },
+    {
+        "question": "Det finns 544 krukor. Varje kruka har 32 blommor. Hur många blommor finns det totalt?",
+        "answer": "17408.0"
+    },
+    {
+        "question": "Mary hittade 2 snäckskal och Keith hittade 5 snäckskal på stranden. När de rengjorde dem upptäckte de att 9 var spruckna. Hur många snäckskal hittade de tillsammans?",
+        "answer": "7.0"
+    },
+    {
+        "question": "Det finns 48 suddgummi i lådan och 30 suddgummi på skrivbordet. Alyssa placerade 39 suddgummin och 45 linjaler på skrivbordet. Hur många suddgummi finns nu totalt?",
+        "answer": "117.0"
+    },
+    {
+        "question": "Tom gick på 4 hockeymatcher i år, men missade 7. Han gick till 9 matcher förra året. Hur många hockeymatcher gick Tom på totalt?",
+        "answer": "13.0"
+    },
+    {
+        "question": "Det ligger 2 äpplen i en hög på skrivbordet. Varje äpple kommer i en förpackning med 7. 4 äpplen läggs till högen. Hur många äpplen finns det i högen?",
+        "answer": "6.0"
+    },
+    {
+        "question": "Mrs Hilt reste 6 760 mil till Japan. Hon läste en bok var 450 mil hon reste. Hur många böcker hade hon läst ut när hon kom till Japan?",
+        "answer": "15 "
+    },
+    {
+        "question": "Alyssa plockade 25 limefrukter och Mike plockade 32 limefrukter. Tom plockade 12 plommon. Hur många lime plockades totalt?",
+        "answer": "57.0"
+    },
+    {
+        "question": "Fru Hilt tittade på sin bils vägmätare innan en resa. Vägmätaren visade att hon hade färdats 212,3 mil. När hon stannade för lunch visade vägmätaren 372,0. Hur många mil hade hon rest?",
+        "answer": "159.7"
+    },
+    {
+        "question": "Alvin försöker bygga ett litet hus i skogen så att han har en plats att bo när han går på jakt. Han började med att samla lite ved. Enligt hans ritning kommer han att behöva 376 träbitar. Om hans vän gav honom 123 bitar och hans bror gav honom 136 bitar, hur mycket ved behöver han samla ihop?",
+        "answer": "117 "
+    },
+    {
+        "question": "En låda rymmer 18 bitar krita. Om det finns 3 484 krita, hur många krita är det i lådan som inte är full?",
+        "answer": "10 "
+    },
+    {
+        "question": "Mary älskar att äta frukt. Mary betalade $7,19 för bär och $6,83 för persikor med en $20-sedel. Hur mycket förändring fick Mary?",
+        "answer": "5.98"
+    },
+    {
+        "question": "Eric har 9306 suddgummi. Om han delar dem mellan 99 vänner, hur många suddgummi får varje vän?",
+        "answer": "94.0"
+    },
+    {
+        "question": "Sally betalade 12,32 $ totalt för persikor, efter en kupong på 3 dollar, och 11,54 $ för körsbär. Hur mycket pengar spenderade Sally totalt?",
+        "answer": "23.86"
+    },
+    {
+        "question": "Om ett tal subtraheras från 32, byts siffrorna i 32 om. Hitta numret.",
+        "answer": "55"
+    },
+    {
+        "question": "Det finns 650 elever i en skola. Om antalet flickor är 106 fler än pojkarna, hur många pojkar finns det i skolan?",
+        "answer": "272 "
+    },
+    {
+        "question": "Tre stycken virke 42 m, 49 m och 63 m långa måste delas upp i plankor av samma längd. Vilken är största möjliga längd på varje planka?",
+        "answer": "7 "
+    },
+    {
+        "question": "En bokhandel hade 4 böcker i bargin bin. Om de sålde 3 böcker, men sedan lägger 10 till i papperskorgen, hur många böcker skulle det finnas i papperskorgen?",
+        "answer": "11 "
+    },
+    {
+        "question": "På en morgonpromenad börjar två personer tillsammans. Deras steg mäter 75 cm respektive 90 cm. Vilket är det minsta avståndet var och en ska gå så att alla kan tillryggalägga samma sträcka i hela steg?",
+        "answer": "450 "
+    },
+    {
+        "question": "En lärare hade 38 arbetsblad att betygsätta. Om hon fick betyg 4, men sedan lämnade in ytterligare 15, hur många arbetsblad skulle hon behöva betygsätta?",
+        "answer": "49 "
+    },
+    {
+        "question": "Li Na ska plantera 63 tomatplantor och 81 rabarberplantor. Li Na vill plantera plantorna i rader där varje rad har lika många tomatplantor och varje rad har lika många rabarberplantor. Vilket är det största antalet rader Li Na kan plantera?",
+        "answer": "9 "
+    },
+    {
+        "question": "Skogen bakom Wendys hus var 8 miles bred och har en yta på 24 kvadratkilometer. Hur lång är skogen?",
+        "answer": "3 "
+    },
+    {
+        "question": "London är 11 år och Blair är 16 år. För flera år sedan var Blair dubbelt så gammal som London. Hur gammal var London då?",
+        "answer": "6 "
+    },
+    {
+        "question": "Tom hade $19 och han ville köpa så många mappar han kunde. Om en mapp kostar $2, hur mycket finns kvar efter att han köpte mapparna?",
+        "answer": "1 "
+    },
+    {
+        "question": "Ett fönster hade en längd av 6 fot och en bredd av 10 fot. Vilken yta har fönstret?",
+        "answer": "60 "
+    },
+    {
+        "question": "Det fanns 36 hundar och 29 katter i ett djurcenter. Efter att 20 av hundarna adopterades av människor samlade djurcentret in ytterligare 12 katter. Hur många husdjur fanns det i djurcentret till slut?",
+        "answer": "57 "
+    },
+    {
+        "question": "På en konsert har bandet 20 herr-t-shirts och 8 dam-t-shirts. Bandet vill duka upp bord för att sälja tröjorna, med lika många herr- och damskjortor tillgängliga vid varje bord och inga skjortor över. Vilket är det största antalet bord bandet kan sälja tröjor från?",
+        "answer": "4 "
+    },
+    {
+        "question": "På en godisaffär finns det 3 bruna godisaskar, 3 svarta godisaskar och 2 blå godisaskar. Om 5 lådor köps, hur många godisaskar finns kvar?",
+        "answer": "3 "
+    },
+    {
+        "question": "En låda rymmer 18 bitar krita. Om det finns 3 484 bitar av krita, hur många lådor är fulla för att rymma all krita?",
+        "answer": "194 "
+    },
+    {
+        "question": "Emily samlar 63 kort. Emilys pappa ger Emily 7 till. Bruce har 13 äpplen. Hur många kort har Emily?",
+        "answer": "70.0"
+    },
+    {
+        "question": "Det finns 5 pojkar och 4 flickor i ett klassrum. Efter att 3 pojkar lämnat klassrummet kom ytterligare 2 flickor in i klassrummet. Hur många barn var det i klassrummet till slut?",
+        "answer": "8 "
+    },
+    {
+        "question": "Megan och hennes syster, Tara, ville köpa en skoter för $26. Tara hade $4 mer än Megan. Tillsammans hade de tillräckligt med pengar för att köpa skotern. Hur mycket pengar hade Tara?",
+        "answer": "15 "
+    },
+    {
+        "question": "En fullmåne inträffar var 30:e dag. Om den senaste fullmånen inträffade på en fredag, hur många dagar tar det innan en fullmåne inträffar igen på en fredag?",
+        "answer": "210 "
+    },
+    {
+        "question": "Joan köpte leksaksbilar för $14,88, en skateboard för $4,88 och fick leksaksbilar för $5,86. Hon spenderade 14,55 dollar på byxor. Totalt, hur mycket spenderade Joan på leksaker?",
+        "answer": "25.62"
+    },
+    {
+        "question": "Brian har 39 pennor. Han ger 18 pennor till en vän. Han köper 22 pennor till. Hur många pennor har Brian nu?",
+        "answer": "43 "
+    },
+    {
+        "question": "Till Halloween fick Adam 201 godisbitar. Om han lade dem i högar med 43 i varje hög, ungefär hur många högar kunde han göra?",
+        "answer": "5 "
+    },
+    {
+        "question": "86 elever ska ut på vandring. Varje skolbuss kan ta 9 elever. Hur många skolbussar behövs?",
+        "answer": "9 "
+    },
+    {
+        "question": "En florist har 12 tulpaner och 18 nejlikor. Om floristen vill skapa identiska buketter utan några överblivna blommor, vad är det största antalet buketter floristen kan göra?",
+        "answer": "6 "
+    },
+    {
+        "question": "Philip köper pennor och pennor från butiken. Pennor kommer i förpackningar om 12, men pennor säljs i förpackningar om 15. Om Philip vill köpa samma antal pennor som pennor, vilket är det minsta antalet pennor han kan köpa?",
+        "answer": "60 "
+    },
+    {
+        "question": "Lewis sparade kontroll på vinrankorna till sitt sista stopp. Han fick höra av en av plockarna att de fyller 324 fat med druvor per dag. Hur många trummor med druvor skulle fyllas på 9 dagar?",
+        "answer": "2916.0"
+    },
+    {
+        "question": "På en glassbar spårade ägaren antalet chokladstrutar han sålde under en vecka. Hans resultat var: 100, 92, 109, 96, 103, 96 och 105. Vad är medelvärdet av sålda koner?",
+        "answer": "100.1 "
+    },
+    {
+        "question": "Keith hittade 6 snäckskal, Jessica hittade 8 snäckskal och Tim hittade 7 snäckskal på stranden. När de rengjorde dem upptäckte de att 3 var spruckna. Hur många snäckskal hittade de tillsammans?",
+        "answer": "21.0"
+    },
+    {
+        "question": "Peter's Party Zone säljer koppar i förpackningar om 6 och tallrikar i förpackningar om 8. Shaniya är värd för en födelsedagsfest för sin lillasyster och vill ha samma antal av varje föremål. Vad är det minsta antalet paket med tallrikar som Shaniya behöver köpa?",
+        "answer": "24 "
+    },
+    {
+        "question": "Evan levererar paket i en byggnad. Han började på första våningen och gick upp 7 våningar. Han gick ner 3 våningar och sedan upp 16 våningar. Då var han bara två våningar bort från toppen av byggnaden. Hur många våningar är det totalt i byggnaden?",
+        "answer": "23 "
+    },
+    {
+        "question": "Jane kan ordna 16 vaser med blommor på en dag. Om det finns 248 vaser med blommor som ska ordnas, hur många dagar tar det för henne att avsluta alla blomsterarrangemang?",
+        "answer": "16 "
+    },
+    {
+        "question": "Jared äger en järnaffär och ser över sina tidigare beställningar. Jareds järnaffär beställde 5 maskiner i januari, 6 övningar i februari, 8 övningar i mars och 11 övningar i april. Om detta mönster fortsätter, hur många borrar kommer butiken att beställa i maj?",
+        "answer": "15 "
+    },
+    {
+        "question": "Andy köper AA-batterier och D-batterier. Butiken säljer AA-batterier i förpackningar om 38 och D-batterier i förpackningar om 44. Om Andy vill köpa lika många AA- och D-batterier, vilket är det minsta antalet av varje batterityp som han kan köpa?",
+        "answer": "836 "
+    },
+    {
+        "question": "Det är 32 elever i klassen. Läraren delade in dem i 5 lika grupper. Hur många elever finns kvar?",
+        "answer": "2 "
+    },
+    {
+        "question": "Sam och Carlos bowlar med plastnålar i Sams vardagsrum. Anmärkningsvärt nog slår Sam ner 8 stift på varje skål, och Carlos slår ner 9 stift på varje skål. I slutet av dagen har Sam och Carlos slagit ner samma totala antal pins. Vilket är det minsta antalet stift som Sam och Carlos var och en kunde ha slagit ner?",
+        "answer": "72 "
+    },
+    {
+        "question": "I fjärde klass var det 35 elever i början av året. Under året slutade 10 elever och 10 nya elever kom till skolan. Hur många elever gick i fjärde klass i slutet?",
+        "answer": "35 "
+    },
+    {
+        "question": "Carol spelade ett triviaspel. I första omgången fick hon 17 poäng och i andra omgången 6 poäng. I den senaste omgången tappade hon 16 poäng. Hur många poäng hade hon i slutet av matchen?",
+        "answer": "7.0"
+    },
+    {
+        "question": "En restaurang serverade 7 skivor paj under lunchen och 5 under middagen idag. Det tjänade 8 av dem igår. Hur många skivor paj serverades idag?",
+        "answer": "12.0"
+    },
+    {
+        "question": "En låda rymmer sju brownies. Om en bagare gjorde trehundrafyrtionio brownies, hur många fulla lådor brownies gjorde han?",
+        "answer": "49 "
+    },
+    {
+        "question": "Jason och Lexi hyllar böcker på ett offentligt bibliotek. Jason hyllar 6 böcker åt gången, medan Lexi hyllar 17 åt gången. Om de hamnar i hyllan lika många böcker, vilket är det minsta antalet böcker som var och en kunde ha hyllat?",
+        "answer": "102 "
+    },
+    {
+        "question": "Bianca hade 45 målarböcker. Om hon gav bort 6 av dem, men sedan köpte 20 till, hur många skulle hon ha totalt?",
+        "answer": "59.0"
+    },
+    {
+        "question": "Derek plockar blommor i trädgården. Han plockade 18 blommor från den första busken, 22 blommor från den andra busken, 26 blommor från den tredje busken, 30 blommor från den fjärde busken och 34 blommor från den femte busken. Om detta mönster fortsätter, hur många blommor kommer Derek att plocka från den sjätte busken?",
+        "answer": "38 "
+    },
+    {
+        "question": "Arean av den rätvinkliga triangeln är 32 cm2. Om basen är 8 cm, hitta dess höjd.",
+        "answer": "8 "
+    },
+    {
+        "question": "Två cykelentusiaster lämnar Cincinnati samtidigt. Den ena cyklar 840 miles till Boston. Den andra cyklar 440 miles till Atlanta. Vilket är det största antalet mil om dagen var och en kan cykla om de vill tillryggalägga lika långa sträckor varje dag?",
+        "answer": "40 "
+    },
+    {
+        "question": "Medan hon sorterade några pärlor, lade Jenna 74 pärlor i den första burken, 83 pärlor i den andra burken, 92 pärlor i den tredje burken och 101 pärlor i den fjärde burken. Om det här mönstret fortsätter, hur många pärlor kommer Jenna att lägga i den femte burken?",
+        "answer": "110 "
+    },
+    {
+        "question": "Kimberly har 5 käglor. Hon köper 7 till. Senare köper Kimberly 18 apelsiner i butiken. Hur många Skittles har Kimberly totalt?",
+        "answer": "12.0"
+    },
+    {
+        "question": "Jazmin slutför ett konstprojekt. Hon har två stycken byggpapper. Den första biten är 44 tum bred och den andra delen är 33 tum bred. Jazmin vill skära papperet i remsor som är lika breda och så breda som möjligt. Hur brett ska Jazmin klippa varje remsa?",
+        "answer": "11 "
+    },
+    {
+        "question": "The Zee Theme Parks fontänvägg är i form av en liksidig triangel. Murens totala omkrets är 51 yards. Hitta måttet på varje sida av väggen.",
+        "answer": "17 "
+    },
+    {
+        "question": "Det finns 22 hundar på gården. De bor i 5 hundkojor lika mycket. Hur många hundar finns kvar?",
+        "answer": "2 "
+    },
+    {
+        "question": "Serena vill skapa snackspåsar för en resa hon ska på. Hon har 6 granolastänger och 10 bitar av torkad frukt. Om snackspåsarna skulle vara identiska utan mat över, vad är det största antalet snackspåsar som Serena kan göra?",
+        "answer": "2 "
+    },
+    {
+        "question": "En målare behövde måla 11 rum i en byggnad. Varje rum tar 7 timmar att måla. Om han redan målat 2 rum, hur lång tid tar han att måla resten?",
+        "answer": "63.0"
+    },
+    {
+        "question": "Jag vill plantera 45 solrosplantor, 81 majsplantor och 63 tomatplantor i min trädgård. Om jag sätter lika många växter i varje rad och varje rad bara har en typ av växt, vilket är det största antalet växter jag kan sätta i en rad?",
+        "answer": "9 "
+    },
+    {
+        "question": "Det finns 31 kalorier i en godisbar. Hur många kalorier finns det i 11 godisbarer?",
+        "answer": "341.0"
+    },
+    {
+        "question": "Arean av en rektangulär trädgård är 1800 sq. ft. Hitta bredden om dess höjd mäter 40 ft.",
+        "answer": "45 "
+    },
+    {
+        "question": "Haileys buss är tredje i raden. Dannys buss är 3 bussar bakom hennes. Vilken plats i kö är Dannys buss?",
+        "answer": "6"
+    },
+    {
+        "question": "Tre gånger summan av ett tal och 2 är lika med 24 adderat med samma tal. Skriv algebraisk ekvation och hitta talet.",
+        "answer": "9"
+    },
+    {
+        "question": "Till Halloween kombinerade Debby och hennes syster godiset de fick. Debby hade 32 godisbitar medan hennes syster hade 42. Om de åt 35 bitar första natten, hur många bitar har de kvar?",
+        "answer": "39 "
+    },
+    {
+        "question": "David har 8 bananer. Han får 50 till av Christopher. Senare köper David 9 kort i butiken. Hur många bananer har David totalt?",
+        "answer": "58.0"
+    },
+    {
+        "question": "Efter att ha betalat 6 dollar för pajen har Mary 52 dollar, hennes vän har 43 dollar. Hur mycket pengar hade hon innan hon köpte pajen?",
+        "answer": "58.0"
+    },
+    {
+        "question": "Medan han framför ett musikstycke slår Jacob på cymbalerna vart sjunde slag och triangeln är vartannat slag. Om han bara slog båda samtidigt, hur många slag kommer att passera innan han igen slår dem samtidigt?",
+        "answer": "14 "
+    },
+    {
+        "question": "Joyce har 8 ägg. Marie ger Joyce 6 till. Senare köper Joyce 13 suddgummi i butiken. Hur många ägg har Joyce totalt?",
+        "answer": "14.0"
+    },
+    {
+        "question": "En fyrkantig glasbit har en yta på 64 kvadratcentimeter. Hur lång är varje sida?",
+        "answer": "8 "
+    },
+    {
+        "question": "Skolan köpte 54 basketbollar och fördelade dem i 7 klasser lika. Hur många basketbollar finns kvar?",
+        "answer": "5 "
+    },
+    {
+        "question": "Jerry hjälpte cafeterianarbetarna att plocka upp lunchbrickor, men han kunde bara bära 8 brickor åt gången. Om han var tvungen att hämta 9 brickor från ett bord och 7 brickor från ett annat, hur många resor kommer han att göra?",
+        "answer": "2.0"
+    },
+    {
+        "question": "Adam målade en tavelram. Ramen var 6 tum bred och 9 tum hög. Vad är omkretsen på bildramen?",
+        "answer": "30 "
+    },
+    {
+        "question": "En gård var 7 mil bred och 8 mil lång. Vilken yta har gården?",
+        "answer": "56 "
+    },
+    {
+        "question": "Allie har 5 matematikböcker och 10 naturvetenskapliga böcker. Om hon vill fördela dem jämnt mellan några bokhyllor så att varje bokhylla har samma kombination av matematik- och naturvetenskapliga böcker, utan några böcker över, vilket är det största antalet bokhyllor Allie kan använda?",
+        "answer": "5 "
+    },
+    {
+        "question": "Marian förberedde också 59 croissanter som hon planerar att ge till sina 8 grannar. Om varje granne fick lika många croissanter, hur många blir kvar med Marian?",
+        "answer": "3 "
+    },
+    {
+        "question": "Khan Corporation skulle vilja donera 48 datorer och 32 skrivare till lokala skolor. Företaget vill se till att varje skola får samma uppsättning datorer och skrivare, utan att det finns någon över. Vilket är det största antalet skolor som The Khan Corporation kan donera till?",
+        "answer": "16 "
+    },
+    {
+        "question": "En ask muffins kostade sex dollar. Om du hade åttahundratjugoen dollar och köpte så många lådor du kunde, hur mycket pengar skulle du ha kvar?",
+        "answer": "5 "
+    },
+    {
+        "question": "Det fanns 31 grupper av människor vid bowlinghallen. Om det totala antalet personer var 177, ungefär hur många personer fanns det i varje grupp?",
+        "answer": "6 "
+    },
+    {
+        "question": "Ett tåg körde en viss sträcka med jämn hastighet. Om tåget skulle ha varit 6 km/h snabbare skulle det ha 8 timmar kortare än den planerade tiden, och om tåget hade varit långsammare med 6 km/tim skulle det ha tagit 12 timmar mer än den planerade tiden. Hitta längden på resan.",
+        "answer": "1440 "
+    },
+    {
+        "question": "Det fanns 86 träd i en park. 15 av dem dog och ytterligare 23 av dem skars. Hur många träd fanns kvar?",
+        "answer": "48 "
+    },
+    {
+        "question": "Citronhuvuden kommer i förpackningar om 3. Patricia åt 15 citronhuvuden. Hur många citronhuvuden har hon kvar?",
+        "answer": "0 "
+    },
+    {
+        "question": "Sally hade 39 baseballkort och 9 var sönderrivna. Sara köpte 24 av Sallys baseballkort. Hur många baseballkort har Sally nu?",
+        "answer": "15.0"
+    },
+    {
+        "question": "En videospelskarta var 10 meter bred och 2 meter lång, vilken yta har kartan?",
+        "answer": "20 "
+    },
+    {
+        "question": "Det finns 10 former. Hur många kommer du att ha över efter att ha gjort grupperna om 5?",
+        "answer": "0 "
+    },
+    {
+        "question": "Tammy körde 55 mil på en timme. I den takten, hur långt kan hon köra på 36 timmar?",
+        "answer": "1980.0"
+    },
+    {
+        "question": "Charlie har 31 fler snöbollar än Lucy. Hon har 19 snöbollar. Hur många har Charlie?",
+        "answer": "50.0"
+    },
+    {
+        "question": "Varje sida av en fyrkantig köksplatta är 7 tum lång. Vilken yta har plattan?",
+        "answer": "49 "
+    },
+    {
+        "question": "George jämförde poängen som Bulls gjorde för olika matcher. Han noterade: 81, 73, 83, 86 och 73. Vad är medelvärdet av poängen?",
+        "answer": "79.2 "
+    },
+    {
+        "question": "Mrs. Hilt har en tavelram som är 12 tum hög och 10 tum lång. Vad är omkretsen på den bildramen?",
+        "answer": "44 "
+    },
+    {
+        "question": "Diane har 37 kritor. Hon får 5 till av Frances. Senare köper Diane 16 kort i butiken. Hur många kritor har Diane totalt?",
+        "answer": "42.0"
+    },
+    {
+        "question": "Ett företag köpte nya uniformer till sina anställda. De köpte totalt 121 uniformer för sina 32 butiker. Ungefär hur många uniformer bör varje butik få?",
+        "answer": "4 "
+    },
+    {
+        "question": "En gräsmatta hade en yta på 20 kvadratmeter. Om den var 5 fot bred, hur lång var den?",
+        "answer": "4 "
+    },
+    {
+        "question": "Melanie har bitar av tågspår som är 8 tum långa som hon kopplar ihop för att bilda ett spår som hennes tåg kan färdas på. Martin försöker också bygga ett spår för sitt tåg men använder spårstycken som är 20 tum långa. Hur lång blir den kortaste banan om banan som Melanie bygger blir lika lång som Martins bana?",
+        "answer": "40 "
+    },
+    {
+        "question": "Matt hade 4 små burkar med guldfärg. Om de 34 stjärnorna som de gjorde skulle fördelas lika till burkarna med färg, hur många stjärnor kommer att lämnas omålade?",
+        "answer": "2 "
+    },
+    {
+        "question": "Luke hade 9 godisbitar. Om han vill dela upp godiset i 2 påsar med samma mängd godis i varje påse, hur många fler bitar skulle han behöva för att se till att varje påse hade samma mängd?",
+        "answer": "1 "
+    },
+    {
+        "question": "Om Simon behöver göra 519 presentpåsar med en hastighet av 42 påsar per dag, hur många dagar behöver han göra för att göra klart alla presentförpackningar?",
+        "answer": "13 "
+    },
+    {
+        "question": "En rektangelpool var 3 meter bred med en yta på 30 kvadratmeter. Hur lång är poolen?",
+        "answer": "10 "
+    },
+    {
+        "question": "En filmbutik hade 9 filmer som de satte på 2 hyllor. Om ägaren ville se till att varje hylla hade samma antal filmer, hur många fler filmer skulle han behöva?",
+        "answer": "1 "
+    },
+    {
+        "question": "En videospelskarta hade en total yta på 10 kvadratmeter. Om kartan var 5 meter lång, hur bred är den?",
+        "answer": "2 "
+    },
+    {
+        "question": "Marie kan cykla i en hastighet av 12 miles i timmen. Hur långt kan hon cykla på 31 timmar?",
+        "answer": "372.0"
+    },
+    {
+        "question": "Om 28 mindre än fem gånger ett visst tal är 232. Vilket är talet?",
+        "answer": "52"
+    },
+    {
+        "question": "En vas rymmer sju blommor. Om en florist hade niohundrafem blommor hon ville sätta lika mycket i vaser, hur många blommor skulle det vara i den sista vasen som inte är full?",
+        "answer": "2 "
+    },
+    {
+        "question": "En ö i Atlanten var 2 mil bred och 6 mil lång. Vilken yta har ön?",
+        "answer": "12 "
+    },
+    {
+        "question": "En kvadratisk trädgård har en omkrets på 48 meter. En damm inne i trädgården har en yta på 20 kvadratmeter. Vad är det för yta i trädgården som inte tas upp av dammen?",
+        "answer": "124 "
+    },
+    {
+        "question": "Jaden sätter ihop första hjälpen-kit. Han har 39 stora bandage och 26 små bandage, och han vill att varje kit ska vara identiskt, utan bandage över. Vilket är det största antalet första hjälpen-kit som Jaden kunde sätta ihop?",
+        "answer": "13 "
+    },
+    {
+        "question": "Det finns fyra papperslappar i en påse. Varje papper har ett nummer. Siffrorna är 19, 23, 34 och 38. Harry tog fram ett papper. Summan av de återstående siffrorna var 76. Vilket nummer tog Harry ur påsen?",
+        "answer": "38"
+    },
+    {
+        "question": "Mr Lee skördade 495 äpplen och han packade dem jämnt i några korgar. Om det finns 25 äpplen i varje korg, hur många äpplen var kvar uppackade?",
+        "answer": "20 "
+    },
+    {
+        "question": "Shannon gör identiska ballongarrangemang för en fest. Hon har 32 rödbruna ballonger, 24 vita ballonger och 16 orange ballonger. Hon vill att varje arrangemang ska ha samma antal av varje färg. Vad är det största antalet arrangemang som hon kan göra om varje ballong används?",
+        "answer": "8 "
+    },
+    {
+        "question": "Roger samlade in 42 öre, 36 nickel och 15 dimes. Han donerade några av sina mynt och hade 27 mynt kvar. Hur många mynt donerade Roger?",
+        "answer": "66 "
+    },
+    {
+        "question": "The Wholesome Bakery bakade 5 bröd på onsdagen, 7 bröd på torsdagen, 10 bröd på fredagen, 14 bröd på lördagen och 19 bröd på söndagen. Om detta mönster fortsätter, hur många bröd kommer de att baka på måndag?",
+        "answer": "25 "
+    },
+    {
+        "question": "En restaurang lade till en ny utomhusdel som var 35 kvadratmeter stor. Den var 7 fot bred. Hur lång är deras nya avdelning?",
+        "answer": "5 "
+    },
+    {
+        "question": "Ramon jobbar på snabbköpet. Han lade 26 lådor Choco Delights på hyllan. Det fanns redan 15 lådor där. Senare samma dag räknade Ramon 22 lådor på hyllan. Hur många lådor Choco Delights saknades?",
+        "answer": "19 "
+    },
+    {
+        "question": "Av en slump tränade Monicas Lydnadsskola lika många hundar och katter förra veckan. Skolan undervisar hundar i grupper om 18 och katter i grupper om 3. Vilket är det minsta antal katter som skolan kunde ha haft?",
+        "answer": "18 "
+    },
+    {
+        "question": "Cody hade 36 lådor. Tillsammans vägde lådorna 243 kilo. Hur mycket vägde varje låda ungefär?",
+        "answer": "6 "
+    },
+    {
+        "question": "Det finns 757 pund sand som ska fyllas i påsar. Om varje påse har en kapacitet på 65 pund, hur många pund sand finns det i påsen som inte är full?",
+        "answer": "42 "
+    },
+    {
+        "question": "Mr Lee skördade 495 äpplen och han packade dem jämnt i några korgar. Om det finns 25 äpplen i varje korg, hur många korgar med äpplen finns det?",
+        "answer": "19 "
+    },
+    {
+        "question": "Det finns 22 hundar på gården. De bor i 5 hundkojor lika mycket. Hur många hundar finns det i varje hundkoja?",
+        "answer": "4 "
+    },
+    {
+        "question": "Om Lillian delade 20 käglor mellan 8 personer i sin klass och behöll resterna, hur många käglor fick varje klasskamrat?",
+        "answer": "2 "
+    },
+    {
+        "question": "En arbetare behöver klippa ett 27-yard långt rep i några långa bitar på 4 yard vardera och några korta bitar på 1 yard vardera. För att göra det minsta antalet bitar, hur många långa bitar ska skäras till?",
+        "answer": "6 "
+    },
+    {
+        "question": "Det finns 33 pennor och 44 kritor i lådan. Joan lade 27 pennor i lådan. Hur många pennor finns det nu totalt?",
+        "answer": "60.0"
+    },
+    {
+        "question": "Mr Lee delade ut första plats band efter varje event. Han hade 38 band vid starten. Han gav bort 14 band på morgonen. Han gav ut 16 band på eftermiddagen. Hur många band hade Mr Lee kvar?",
+        "answer": "8 "
+    },
+    {
+        "question": "En längd tråd skärs i flera mindre bitar. Var och en av de mindre bitarna böjs till rutor. Varje ruta har en sida som mäter 2 centimeter. Den totala ytan av de mindre kvadraterna är 92 kvadratcentimeter. Vad var den ursprungliga längden på tråden?",
+        "answer": "184 "
+    },
+    {
+        "question": "Rachel köpte lite omslagspapper till jul som var 4 fot långt och med en yta på 20 kvadratfot. Vad är omslagspapprets bredd?",
+        "answer": "5 "
+    },
+    {
+        "question": "Om Tom planerar att fixa 158 klockor med en hastighet av 12 klockor per dag, hur många klockor kommer han att fixa den sista dagen?",
+        "answer": "2 "
+    },
+    {
+        "question": "En rektangel hade en längd av 2 tum och en bredd av 4 tum. Vilken yta har rektangeln?",
+        "answer": "8 "
+    },
+    {
+        "question": "Eddie tänker på ett tal som är delbart med både 8 och 5. Vilket är det minsta möjliga tal som Eddie kan tänka sig?",
+        "answer": "40"
+    },
+    {
+        "question": "Destiny fick precis två separata gåvor från sin gammelfarfars mormor. Den första presenten är en ask med 18 chokladkakor och den andra presenten är ett paket med 12 kakor. Destiny vill använda alla chokladkakor och kakor för att göra identiska snackspåsar till sina kusiner. Vilket är det största antalet snackspåsar som Destiny kan göra?",
+        "answer": "6 "
+    },
+    {
+        "question": "Billy försökte slå sin gamla poäng på sjuhundratjugofem poäng i ett videospel. Om han får exakt två poäng varje omgång, hur många rundor skulle han behöva spela för att slå sin gamla poäng?",
+        "answer": "363 "
+    },
+    {
+        "question": "Girl Scout cookies kommer packade 12 lådor till ett fodral. Scout Deborah sålde 31 lådor Lemon Chalet Cremes. Hur många lådor kommer inte att packas i ett fodral?",
+        "answer": "7 "
+    },
+    {
+        "question": "I ett tvåsiffrigt tal är summan av de två siffrorna 9. Om siffrorna är omvända ökas siffran med 9. Hitta numret.",
+        "answer": "45"
+    },
+    {
+        "question": "Virginia hade 13 Sweettarts. Om Virginia gav lika många sötsaker till sina fyra vänner och sedan åt det som var kvar, hur många sötsaker åt varje person?",
+        "answer": "3 "
+    },
+    {
+        "question": "Bill observerade två typer av fåglar i buskarna: sparvar och papegojor. Medan sparvarna var i flockar om 13, var papegojorna i flockar om 14. Om Bill observerade samma totala antal sparvar och papegojor, vilket är det minsta antalet sparvar som han kunde ha observerat?",
+        "answer": "182 "
+    },
+    {
+        "question": "Mike serverar grönsaker i ett soppkök. Han har 15 morotsstavar och 10 småpotatisar som han vill dela jämnt, utan mat över. Vilket är det största antalet tallrikar som Mike kan tillaga?",
+        "answer": "5 "
+    },
+    {
+        "question": "En skattjägare upptäckte en nedgrävd skattkista fylld med totalt 5155 ädelstenar. 45 av ädelstenarna var diamanter, och resten var rubiner. Hur många av ädelstenarna var rubiner?",
+        "answer": "5110.0"
+    },
+    {
+        "question": "Paul hade 7 baseballkort han lägger i en pärm med 3 på varje sida. Hur många kort kommer han att ha på sidan som inte är full?",
+        "answer": "1 "
+    },
+    {
+        "question": "Benny hittade 66 snäckskal och 49 sjöstjärnor på stranden. Han gav 52 av snäckskalen till Jason. Hur många snäckskal har Benny nu?",
+        "answer": "14.0"
+    },
+    {
+        "question": "Omkretsen av en rektangulär skärbräda är 50 tum. Den är 10 tum bred. Hur länge är det?",
+        "answer": "15 "
+    },
+    {
+        "question": "Kathleen är en tandvårdssäljare som vill distribuera 18 broschyrer och 12 broschyrer till lokala tandläkarmottagningar. Hon vill leverera samma kombination av broschyrer och pamfletter till varje kontor, utan att ha något material över. Vilket är det största antalet tandläkarmottagningar Kathleen kan distribuera material till?",
+        "answer": "6 "
+    },
+    {
+        "question": "Nancy köpte en läsk för 4 dollar och 6 godisbarer. Hon spenderade totalt 28 dollar. Hur mycket kostade varje godiskaka?",
+        "answer": "4 "
+    },
+    {
+        "question": "Shannon och hennes familj använder mycket jordgubbs- och blåbärsgelé, eftersom de äter rostat bröd varje morgon. För tillfället har de sammanlagt 6310 gram gelé. Om de har 4518 gram blåbärsgelé, hur många gram jordgubbsgelé har de?",
+        "answer": "1792.0"
+    },
+    {
+        "question": "Sandy odlade 8 morötter och 7 rovor. Mary odlade 6 morötter. Hur många morötter växte de totalt?",
+        "answer": "14.0"
+    },
+    {
+        "question": "Luke hade 48 dollar i januari. I mars hade han spenderat 11 dollar. Om han fick ytterligare 21 dollar från sin mamma, hur mycket pengar skulle han ha?",
+        "answer": "58 "
+    },
+    {
+        "question": "Ett kvadratiskt kök har en yta på 100 kvadratfot. Vad är kökets omkrets?",
+        "answer": "40 "
+    },
+    {
+        "question": "En papperspåse rymmer 16 kakor. Om Edgar köper 292 kakor, hur många papperspåsar behöver han?",
+        "answer": "19 "
+    },
+    {
+        "question": "Sam lade 86 kringlor i en skål för festen. Hans vänner åt 49 av dem. Sam satte i 27 kringlor till. Hur många kringlor var det i skålen då?",
+        "answer": "64 "
+    },
+    {
+        "question": "Medan hon organiserade tidningarna på läkarmottagningen lade Blanca 3 magasin i den första högen, 4 magasin i den andra högen, 6 magasin i den tredje högen och 9 magasin i den fjärde högen. Om detta mönster fortsätter, hur många tidningar kommer Blanca att lägga i den femte högen?",
+        "answer": "13 "
+    },
+    {
+        "question": "Carol gör pärlhalsband till sina vänner. Hon har 159 pärlor och varje halsband tar 37 pärlor. Ungefär hur många halsband kan Carol göra?",
+        "answer": "4 "
+    },
+    {
+        "question": "Som förberedelse för en fest lägger Brant upp desserter på fat. Chokladkakan skärs i 15 bitar och cheesecaken skärs i 6 bitar. Om han vill förbereda identiska fat utan att ha någon kaka över, vilket är det största antalet fat han kan förbereda?",
+        "answer": "3 "
+    },
+    {
+        "question": "Ett flygbolag har 41 stycken bagage att lägga undan. Om varje bagageutrymme rymmer 5 stycken bagage, hur många kommer det att finnas i det utrymme som inte är fullt?",
+        "answer": "1 "
+    },
+    {
+        "question": "Oscar behöver skicka 14 rock-cd-skivor, 12 klassiska cd-skivor och 8 pop-cd-skivor. Han kan bara packa en typ av CD i varje box och han måste packa samma antal CD-skivor i varje box. Vilket är det största antalet CD-skivor som Oscar kan packa i varje låda?",
+        "answer": "2 "
+    },
+    {
+        "question": "Bob slår på trummorna var 9:e sekund och på cymbalerna var 12:e sekund. Om han bara slog båda samtidigt, hur många sekunder tar det innan han slår dem samtidigt igen?",
+        "answer": "36 "
+    },
+    {
+        "question": "George försöker tjäna hundra nitton dollar för några nya leksaker. Om han tar tre dollar för att klippa en gräsmatta, hur många gräsmattor behöver han klippa för att tjäna pengarna?",
+        "answer": "40 "
+    },
+    {
+        "question": "På John's Pizza Palace under de 6 timmar de hade öppet sålde de följande antal pizzor: 92 pepperoni, 106 korv, 96 ost, 104 svampar, 96 ansjovis och 88 ananas. Vad är medelvärdet av antalet sålda pizzor?",
+        "answer": "97 "
+    },
+    {
+        "question": "Skogen bakom Jerrys hus var 6 miles bred och 3 miles lång. Vilken yta har skogen?",
+        "answer": "18 "
+    },
+    {
+        "question": "Summan av siffrorna i ett tvåtal är 15. Antalet minskas med 27, siffrorna är omvända. Hitta numret.",
+        "answer": "96"
+    },
+    {
+        "question": "Robin hade 30 låtar på sin mp3-spelare. Om hon raderade 8 gamla låtar från den och sedan lade till 10 nya låtar, hur många låtar har hon på sin mp3-spelare?",
+        "answer": "32 "
+    },
+    {
+        "question": "Maria har 3 lådor med ägg. Varje låda rymmer 7 ägg och det finns 8 lådor i ett fodral. Hur många ägg har Maria?",
+        "answer": "21.0"
+    },
+    {
+        "question": "Radiostationen Z-100 gav bort en sedel på 100 $ till var 100:e uppringare under en tävling och gav Jingle Ball-biljetter till var 40:e uppringare. Hur många som ringer måste ringa innan någon vinner både en $100-sedel och en Jingle Ball-biljett?",
+        "answer": "200 "
+    },
+    {
+        "question": "Kevin samlade in leksaker för att använda som priser på mässan. Han samlade 14 gosedjur. Han samlade också in 18 frisbees och flera jojo. Kevin har totalt 50 priser. Hur många jojo samlade Kevin?",
+        "answer": "18 "
+    },
+    {
+        "question": "Om fem subtraheras från tre gånger ett visst tal blir resultatet 10. Vilket är talet?",
+        "answer": "5"
+    },
+    {
+        "question": "Robin gör pärlhalsband. Hon vill använda 31 pärlor för att göra 4 halsband. Om hon vill att varje halsband ska ha samma antal pärlor, hur många pärlor kommer hon att ha över?",
+        "answer": "3 "
+    },
+    {
+        "question": "Brenda vill dela upp en samling suddgummin i grupper om 90. Brenda har 270 suddgummin. Hur många grupper kommer att skapas?",
+        "answer": "3.0"
+    },
+    {
+        "question": "Kate är 12 år gammal. Hans ålder är 4 gånger äldre än Robbie. Hitta Robbies ålder.",
+        "answer": "3 "
+    },
+    {
+        "question": "Din lokala radiostation har sin årliga musikspelare och konsertbiljetter. Under en minut kommer var 5:e uppringare att vinna en musikspelare och var 7:e uppringare vinner konsertbiljetter. Du var bara den första som ringde upp som vann både en musikspelare och konsertbiljetter! Vilket nummer ringde du?",
+        "answer": "35 "
+    },
+    {
+        "question": "Jennifer har ett 87 cm långt band. Hon använder 24 cm av bandet för att knyta en present till sin vän och 45 cm av bandet för att göra en rosett. Hur mycket av bandet är kvar till slut?",
+        "answer": "18 "
+    },
+    {
+        "question": "Cody räknade antalet gånger människor vässade sina pennor i klassen under en vecka. Han räknade: 13, 8, 13, 21, 7 och 23. Vad är medelvärdet av siffrorna?",
+        "answer": "14.2 "
+    },
+    {
+        "question": "Om Lawrence gick 4 kilometer i 3 kilometer i timmen, hur länge gick Lawrence?",
+        "answer": "1.0"
+    },
+    {
+        "question": "Melodi tryckte 53 likadana snögubbeteckningar. Om hon kunde förbereda kort med 4 identiska snögubbeteckningar var, hur många kort kunde hon förbereda?",
+        "answer": "13 "
+    },
+    {
+        "question": "Vivian skickade 5 försändelser i april, 10 försändelser i maj, 20 försändelser i juni och 40 försändelser i juli. Om detta mönster fortsätter, hur många brev kommer Vivian att skicka i augusti?",
+        "answer": "80 "
+    },
+    {
+        "question": "Nancy köpte 615 kritor som kom i förpackningar om 15. Hur många förpackningar med kritor köpte Nancy?",
+        "answer": "41.0"
+    },
+    {
+        "question": "En karusell har en cirkulär plattform med en diameter på 2 yards. Vad är plattformens område?",
+        "answer": "3.14 "
+    },
+    {
+        "question": "Citronhuvuden kommer i förpackningar om 6. Louis åt 54 citronhuvuden. Hur många hela lådor åt han och hur många citronhuvuden har han kvar?",
+        "answer": "9.0"
+    },
+    {
+        "question": "Mary hade 33 Pokémon-kort, och 6 var rivna. Sam gav Mary 23 nya Pokémon-kort. Hur många Pokémonkort har Mary nu?",
+        "answer": "56.0"
+    },
+    {
+        "question": "Ett postkontor har femhundraåttiotvå stycken skräppost som de vill fördela jämnt mellan sju postbilar. Hur många extra skräppost kommer de att ha om de ger varje lastbil lika mycket?",
+        "answer": "1 "
+    },
+    {
+        "question": "Förhållandet mellan längden på en rektangel och dess bredd är 6:5. Dess längd är 24 tum. Vad är dess bredd?",
+        "answer": "20 "
+    },
+    {
+        "question": "Tommy har $79. Han vill köpa en kamera för $35. Han vill också köpa en CD-spelare för $59. Hur mycket mer pengar behöver Tommy?",
+        "answer": "15 "
+    },
+    {
+        "question": "Camryn övar på trumpet var 11:e dag och flöjt var 3:e dag. Camryn tränade både trumpet och flöjt idag. Hur många dagar tills Camryn övar på trumpet och flöjt igen på samma dag?",
+        "answer": "33 "
+    },
+    {
+        "question": "Kapaciteten på en tank är 32 liter. Om ett företag köpte 728 liter olja, hur många tankar behövs för att hålla all olja?",
+        "answer": "23 "
+    },
+    {
+        "question": "En restaurang lade till en ny utomhusavdelning som var 4 fot bred och 6 fot lång. Vilken yta har deras nya utomhusavdelning?",
+        "answer": "24 "
+    },
+    {
+        "question": "En kommitté som anordnar ett maraton har 16 kannor vatten och 12 kannor sportdryck. Kommittén vill sätta upp ett antal förfriskningsstationer längs maratonbanan, med samma kombination av kannor vatten och kannor sportdryck vid varje station, utan drycker över. Vilket är det största antalet förfriskningsstationer som kan sättas upp?",
+        "answer": "4 "
+    },
+    {
+        "question": "Radiostationen gav bort en sedel på 100 dollar för varje 100:e uppringare. Var 30:e uppringare fick gratis konsertbiljetter. Hur många uppringare måste komma igenom innan en av dem får både en kupong och en konsertbiljett?",
+        "answer": "300 "
+    },
+    {
+        "question": "Henry och Margo började båda resa runt en cirkulär bana. Henry cyklar och Margo går. Det tar Henry 7 minuter att ta sig hela vägen runt, och Margo tar 12 minuter. Hur lång tid tar det innan de möts vid startlinjen?",
+        "answer": "84 "
+    },
+    {
+        "question": "John hade 33 strumpor. Om han slängde 19 gamla som inte fick plats och köpte 13 nya, hur många strumpor skulle han ha?",
+        "answer": "27 "
+    },
+    {
+        "question": "Ariel gör blomsterarrangemang. Han har 7 rosor och 14 prästkragar. Om Ariel vill göra alla arrangemang identiska och inte ha några blommor över, vilket är det största antalet blomsterarrangemang han kan göra?",
+        "answer": "7 "
+    },
+    {
+        "question": "Carmen skapar lussebullar med 4 körsbärsklubbor och 6 apelsinklubbor. Hon vill att varje bukett ska vara identisk, utan några klubbor över. Vad är det största antalet lussebullar som Carmen kan skapa?",
+        "answer": "2 "
+    },
+    {
+        "question": "Mary fick snabbmat till lunch. Mary spenderade 1,08 dollar på soppa och 4,80 dollar på en sallad. Mary betalade med en sedel på 20 dollar. Vad var summan av lunchräkningen?",
+        "answer": "5.88"
+    },
+    {
+        "question": "En elektronikaffär hade 163 tv-spel. Om de lägger dem på hyllor med 84 st på varje hylla, ungefär hur många hyllor skulle de behöva?",
+        "answer": "2 "
+    },
+    {
+        "question": "Monroe Vitamin Shop sålde lika stora mängder vitamin A och vitamin D-tillskott i morse, även om vitamin A-tillskotten kommer i förpackningar om 7 och vitamin D-tillskotten i förpackningar om 17. Vilket är det minsta antalet av varje typ som butiken kan ha såld?",
+        "answer": "119"
+    },
+    {
+        "question": "Daniel har 44 jubileumstallrikar och 33 jubileumsskedar. Han vill visa dem i grupper i hela sitt hus, var och en med samma kombination av tallrikar och skedar, utan någon över. Vilket är det största antalet grupper som Daniel kan visa?",
+        "answer": "11 "
+    },
+    {
+        "question": "Bridget vill vinna den gigantiska uppstoppade pandabjörnen. Hon behöver totalt 75 poäng för att få det. Bridget gjorde redan 35 poäng på penny pitch-båset. Hon fick 18 poäng till på sitt nästa försök. Hur många poäng till behöver Bridget?",
+        "answer": "22 "
+    },
+    {
+        "question": "Skillnaden mellan två siffror är 100. Om ett av talen är 91, hitta det andra talet.",
+        "answer": "191"
+    },
+    {
+        "question": "En spegelbutik har 78 speglar i lager. 8 speglar är trasiga, och 57 speglar är sålda. Hur många speglar finns kvar?",
+        "answer": "13 "
+    },
+    {
+        "question": "Om han var 25 år sedan för 10 år sedan, hur gammal är Rojer nu?",
+        "answer": "35 "
+    },
+    {
+        "question": "Det finns 84 blad. Det finns 139 nyckelpigor på varje blad. Hur många nyckelpigor finns det totalt?",
+        "answer": "11676.0"
+    },
+    {
+        "question": "Haley och hennes vänner återvann papper till sin klass. För varje 3 pund de återvunnade fick de en poäng. Om Haley återvann 11 pund och hennes vänner återvann 16 pund, hur många poäng fick de?",
+        "answer": "9.0"
+    },
+    {
+        "question": "Sean spelar Monopol med sina vänner. Han har redan 27 hus. Sean bytte in 8 hus för pengar för att köpa Park Place. Han samlade in så mycket hyra att han bestämde sig för att köpa ytterligare 12 hus. Hur många hus hade Sean då?",
+        "answer": "31 "
+    },
+    {
+        "question": "I en likbent triangel är en av vinklarna i en triangel 54 grader. Hitta triangelns basvinklar.",
+        "answer": "63 "
+    },
+    {
+        "question": "Sullivan Stationery säljer kort i förpackningar om 20 och kuvert i förpackningar om 17. Om Vera vill ha samma antal av varje, vilket är det minsta antalet kort som hon måste köpa?",
+        "answer": "340 "
+    },
+    {
+        "question": "Sandy sålde hälften av sina serietidningar och köpte sedan 6 till. Hon har nu 13. Hur många började hon med?",
+        "answer": "14.0"
+    },
+    {
+        "question": "Tim hittade 37 snäckskal och Sally hittade 13 snäckskal på stranden. När de rengjorde dem upptäckte de att 25 var spruckna. Hur många snäckskal hittade de tillsammans?",
+        "answer": "50.0"
+    },
+    {
+        "question": "Läraren delar ut anteckningskort till sina elever. Hon gav 3 anteckningskort till den första eleven, 12 anteckningskort till den andra eleven, 48 anteckningskort till den tredje eleven och 192 anteckningskort till den fjärde eleven. Om detta mönster fortsätter, hur många anteckningskort kommer läraren att ge till den femte eleven?",
+        "answer": "768 "
+    },
+    {
+        "question": "Vondra håller på att sätta ihop påsar med matvaror för att donera till välgörenhet. Hon har 7 lådor med makaroner och ost och 14 burkar grönsaker. Vondra vill dela upp dem jämnt, så att varje påse har samma innehåll och inga föremål blir över. Vilket är det största antalet påsar med matvaror som Vondra kan sätta ihop?",
+        "answer": "7 "
+    },
+    {
+        "question": "Sachin säger att han har 6 böcker mer än de 6 gångerna av böckerna Priyanka har. Sachin har 42 böcker. Hur många böcker har Priyanka?",
+        "answer": "6 "
+    },
+    {
+        "question": "Steve staplar koppar; han satte 17 plastmuggar i den första stapeln, 21 plastmuggar i den andra stapeln, 25 plastmuggar i den tredje stapeln och 29 plastmuggar i den fjärde stapeln. Om det här mönstret fortsätter, hur många plastmuggar kommer Steve att lägga i den femte stapeln?",
+        "answer": "33 "
+    },
+    {
+        "question": "En serietidning kostar 37 cent. Butiksägaren vände om siffrorna av misstag. Han skrev det numret på serietidningen. Hur mycket debiterade butiksägaren sin kund?",
+        "answer": "36 "
+    },
+    {
+        "question": "Zachary samlar in burkar till återvinningsklubben. Första dagen hittade han 4 burkar. Den andra dagen hittade han 9 burkar. Han hittade 14 burkar den tredje dagen. Om detta mönster fortsätter, hur många burkar tror du att Zachary kommer att hitta på den sjunde dagen?",
+        "answer": "34 "
+    },
+    {
+        "question": "Längden på ett rektangulärt fält är 75 meter. Dess bredd är 15 meter. Sofie sprang runt banan 3 gånger. Hur långt sprang hon?",
+        "answer": "540 "
+    },
+    {
+        "question": "Alec har en trädgård och gillar att sätta blommor från sin trädgård i vackra vaser. Alec satte 5 blommor i den första vasen, 7 blommor i den andra vasen, 10 blommor i den tredje vasen och 14 blommor i den fjärde vasen. Om det här mönstret fortsätter, hur många blommor kommer Alec att sätta i den femte vasen?",
+        "answer": "19 "
+    },
+    {
+        "question": "Varje sida av en fyrkantig tidningsannons är 8 centimeter lång. Vilken omkrets har tidningsannonsen?",
+        "answer": "32 "
+    },
+    {
+        "question": "Beth har 4 förpackningar med kritor. Varje förpackning har 10 kritor i sig. Hon har även 6 extra kritor. Hur många kritor har Beth totalt?",
+        "answer": "40.0"
+    },
+    {
+        "question": "Bruno hade några sagoböcker. Han förlorade 4 av dem och hans pappa gav honom 10 böcker till. Om han hade 39 böcker efter det, hur många böcker hade Bruno först?",
+        "answer": "33 "
+    },
+    {
+        "question": "Nancy räknade antalet människor på olika leksaker på lekplatsen. Hon räknade: 6, 12, 1, 12, 7, 3 och 8. Vad betyder folket?",
+        "answer": "7 "
+    },
+    {
+        "question": "Adam hade 5 dollar. I butiken spenderade han $2 på ett nytt spel. Om han fick ytterligare 5 dollar för sitt bidrag, hur mycket pengar har han nu?",
+        "answer": "8 "
+    },
+    {
+        "question": "Fru Hilt köpte 6 varmkorvar. Varje varmkorv kostade 50 cent. Hur mycket pengar betalade hon för alla varmkorvar?",
+        "answer": "300.0"
+    },
+    {
+        "question": "Ett badrum hade en längd på 4 fot och en total yta på 8 kvadratfot. Vad är badrummets bredd?",
+        "answer": "2 "
+    },
+    {
+        "question": "Heather tycker om fågelskådning och observerade två typer av fåglar som reser den här säsongen: ankor och måsar. Medan änderna reste i flockar om 18, reste måsarna i flockar om 10. Om Heather observerade samma totala antal ankor och måsar, vilket är det minsta antalet ankor som hon kunde ha observerat?",
+        "answer": "90 "
+    },
+    {
+        "question": "På karnevalen köpte 6 vänner 27 biljetter. Om de ville dela upp alla biljetter så att varje vän fick samma summa, hur många fler biljetter skulle de behöva köpa?",
+        "answer": "3 "
+    },
+    {
+        "question": "En restaurang serverade 9 varmkorvar under lunchen och 2 under middagen idag. Det tjänade 5 av dem igår. Hur många varmkorvar serverades idag?",
+        "answer": "11.0"
+    },
+    {
+        "question": "Gumballs kommer i förpackningar om 5. Nathan åt 20 gumballs. Hur många hela lådor åt han och hur många tuggummibollar har han kvar?",
+        "answer": "4.0"
+    },
+    {
+        "question": "Sandys hund fick 8 valpar och 4 hade prickar. Hon gav 4 till sina vänner. Hur många valpar har hon nu?",
+        "answer": "4.0"
+    },
+    {
+        "question": "Sarah sålde 24 lådor Lemon Chalet Cremes. Hur många lådor med 12 lådor plus extra lådor behöver Sarah?",
+        "answer": "2.0"
+    },
+    {
+        "question": "Det finns några passagerare på en buss. Vid en busshållplats steg ytterligare 7 passagerare på bussen och 9 passagerare steg av. Om det till slut är 26 passagerare i bussen, hur många passagerare var det först?",
+        "answer": "28 "
+    },
+    {
+        "question": "Ryan samlade 89 löv. Han tappade 24 löv. Efter ett tag gick 43 löv till. Hur många löv finns kvar i hans samling?",
+        "answer": "22 "
+    },
+    {
+        "question": "En bit plåt skars så att dess längd var 6 fot gånger 5 fot. Vilken yta har plåten?",
+        "answer": "30 "
+    },
+    {
+        "question": "Om du har 2 quarters, 1 dime och 3 pennies, hur mycket pengar har du?",
+        "answer": "0.63 "
+    },
+    {
+        "question": "En djuraffär hade 2 hundar. På söndagen fick de 5 till. I måndags fick de 3 till. Hur många hundar har djuraffären nu?",
+        "answer": "10 "
+    },
+    {
+        "question": "Fru Hilt köpte en glassstrut för 99 cent. Hur mycket skulle 2 glasstrutar kosta?",
+        "answer": "198.0"
+    },
+    {
+        "question": "Veronica gör nödberedskapspaket att dela med vänner. Hon har 20 flaskor vatten och 12 burkar mat, som hon skulle vilja fördela lika mellan kiten, utan något över. Vilket är det största antalet kit Veronica kan göra?",
+        "answer": "4 "
+    },
+    {
+        "question": "På en fest skärs ostpizzan i 6 skivor och vegopizzan skärs i 12 skivor. Om värden vill servera identiska tallrikar som innehåller samma kombination av ost- och grönsaksskivor, utan några skivor över, vilket är det största antalet fat som värden kan förbereda?",
+        "answer": "6 "
+    },
+    {
+        "question": "Basen på parallellogrammet är 11 tum och dess yta är 132 Sq. tum. Hitta höjden på parallellogrammet.",
+        "answer": "12 "
+    },
+    {
+        "question": "Malia plockar bär i bärfläcken. Hon plockar 3 bär från den första busken, 4 bär från den andra busken, 7 bär från den tredje busken och 12 bär från den fjärde busken. Om detta mönster fortsätter, hur många bär kommer Malia att plocka från den femte busken?",
+        "answer": "19 "
+    },
+    {
+        "question": "Två klockor slås på samtidigt. En klocka ringer var 15:e minut. Den andra klockan ringer var 25:e minut. Om hur många minuter kommer de att ringa ihop?",
+        "answer": "75 "
+    },
+    {
+        "question": "Det var 3 rosor i vasen. Alyssa klippte några rosor från sin blomsterträdgård. Det finns nu 14 rosor i vasen. Hur många rosor klippte hon?",
+        "answer": "11.0"
+    },
+    {
+        "question": "Sam klippte lika långa bitar av band från ett 3 730 cm långt band. Om varje bit var 73 cm lång, hur mycket av det ursprungliga bandet fanns kvar?",
+        "answer": "7 "
+    },
+    {
+        "question": "Keith älskar samlarkort. Hon köpte 4 paket Digimon-kort för $4,45 styck och en kortlek med baseballkort för $6,06. Hur mycket spenderade Keith på kort?",
+        "answer": "23.86"
+    },
+    {
+        "question": "På semestern tog Debby 24 bilder på djurparken och 12 på museet. Om hon senare raderade 14 av bilderna, hur många bilder från sin semester hade hon kvar?",
+        "answer": "22 "
+    },
+    {
+        "question": "Maggi hade 3 paket cupcakes. Det finns 4 cupcakes i varje förpackning. Hon åt 5 muffins. Hur många är kvar?",
+        "answer": "12.0"
+    },
+    {
+        "question": "En ny butik öppnade upp i gallerian. Under den första timmen kom 94 personer in och 27 personer lämnade. Under den andra timmen kom 18 personer in och 9 personer gick. Hur många personer var kvar i butiken efter 2 timmar?",
+        "answer": "76 "
+    },
+    {
+        "question": "En flygplanshangar är 300 fot lång. Hur många plan får plats i det, från början till slut, om varje plan är 40 fot långt?",
+        "answer": "7 "
+    },
+    {
+        "question": "Linda köper jordgubbsgummi i förpackningar om 6 st och blåbärsgummi i förpackningar om 5 st. Om Linda vill köpa samma mängd av varje typ av tuggummi, vad är det minsta antalet bitar av varje smak som hon måste köpa?",
+        "answer": "30 "
+    },
+    {
+        "question": "Jag planterar 50 äppelträd och 30 persikoträd. Jag vill ha samma antal och typ av träd per rad. Vad är det maximala antalet träd jag kan plantera per rad?",
+        "answer": "10 "
+    },
+    {
+        "question": "Karlene läste 3 sidor på tisdag, 6 sidor på onsdag, 12 sidor på torsdag, 24 sidor på fredag, och 48 sidor på lördag. Om detta mönster fortsätter, hur många sidor kommer Karlene att läsa på söndag?",
+        "answer": "96 "
+    },
+    {
+        "question": "Samuel hade 14 käglor. Om Samuel gav lika många käglor till sina fyra vänner och sedan åt det som var kvar, hur många käglor åt varje person?",
+        "answer": "3 "
+    },
+    {
+        "question": "Förpackningar med cheddarost kommer med 12 skivor, medan paket med schweizerost kommer med 28 skivor. Om Randy köpte samma antal skivor av varje typ av ost, vilket är det minsta antalet skivor av varje typ som Randy kunde ha köpt?",
+        "answer": "84 "
+    },
+    {
+        "question": "För tio år sedan var summan av två söners åldrar en tredjedel av deras fars ålder. En son är två år äldre än den andra och summan av deras nuvarande ålder är 14 år lägre än faderns nuvarande ålder. Hitta allas nuvarande åldrar.",
+        "answer": "21 "
+    },
+    {
+        "question": "Megan hade trehundrasjuttiotvå låtar på sin mp3-spelare. Om hon ville lägga in låtarna lika i nio olika spellistor, hur många låtar skulle hon ha över?",
+        "answer": "3 "
+    },
+    {
+        "question": "Ett kuvert från postkontoret är 4 tum brett och 4 tum långt. Vilken yta har kuvertet?",
+        "answer": "16 "
+    },
+    {
+        "question": "Jacqueline har 4 lådor med suddgummi. Varje låda rymmer 10 suddgummi och det finns 9 lådor i ett fodral. Hur många suddgummi har Jacqueline?",
+        "answer": "40.0"
+    },
+    {
+        "question": "Bryan har 50 käglor. Ben har 20 M&M:s. Vem har mer? Hur många fler har han?",
+        "answer": "30.0"
+    },
+    {
+        "question": "Omkretsen på en hexagonal displaytavla är 42 cm. Tavlan måste kantas runt med satinband. Hitta längden på bandet som krävs för att gränsa varje sida.",
+        "answer": "7 "
+    },
+    {
+        "question": "Melanie hade 30 baseballkort och 9 slets sönder. Sara köpte 18 av Melanies baseballkort. Hur många baseballkort har Melanie nu?",
+        "answer": "12.0"
+    },
+    {
+        "question": "Mike gick på 15 basketmatcher i år, men missade 41. Han gick till 39 matcher förra året. Hur många basketmatcher gick Mike på totalt?",
+        "answer": "54.0"
+    },
+    {
+        "question": "En bit plywood hade en total yta på 24 kvadratfot, med en bredd på 6 fot. Hur lång är träet?",
+        "answer": "4 "
+    },
+    {
+        "question": "På arkaden vann Dave 11 biljetter. Om han spenderade 5 biljetter på en mössa och senare vann ytterligare 10 biljetter, hur många skulle han ha?",
+        "answer": "16 "
+    },
+    {
+        "question": "Summan av tre på varandra följande jämna tal är 42. Välj lämplig variabel och skapa enstaka variabel algebraiska ekvationer och hitta skillnaden mellan det största och det minsta talet.",
+        "answer": "4"
+    },
+    {
+        "question": "Till skolans bakrea gjorde Katie 26 muffins. Om hon sålde 20 av dem och sedan gjorde 20 till, hur många cupcakes skulle hon ha?",
+        "answer": "26 "
+    },
+    {
+        "question": "Omar älskar att spela dam. Han spelade 37 matcher igår. Han spelade 49 matcher idag. Omar förlorade 18 matcher. Hur många matcher vann han?",
+        "answer": "68 "
+    },
+    {
+        "question": "Förhållandet mellan arean av en rektangel och arean av en triangel är 2:5. Rektangeln har en längd på 6 cm och en bredd på 4 cm. Vad är arean av triangeln?",
+        "answer": "60 "
+    },
+    {
+        "question": "Dave köpte en ny platt-TV. Skärmen var 2 fot bred och 4 fot hög. Vilken yta har skärmen?",
+        "answer": "8 "
+    },
+    {
+        "question": "Mary hittade 45 snäckskal, Melanie hittade 23 snäckskal och Jason hittade 32 snäckskal på stranden. När de rengjorde dem upptäckte de att 31 var spruckna. Hur många snäckskal hittade de tillsammans?",
+        "answer": "100.0"
+    },
+    {
+        "question": "I fru Hutchinsons dagisklass gör barn handavtryck i en rund lerform till sina föräldrar. Formen har en diameter på 4 tum. Vad är formens radie?",
+        "answer": "2 "
+    },
+    {
+        "question": "Efter en fest blir 0,625 av kakan över. Den kvällen äter storebror 0,25 av kakan. Hur mycket är över efter det?",
+        "answer": "0.375"
+    }
+]
