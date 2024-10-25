@@ -450,10 +450,10 @@ class M_ASDIV_MAWPS_Serbian(M_ASDIV_MAWPS):
     LANG_NAME = "Serbian"
     QUESTION = "Питање:"
 
-class M_ASDIV_MAWPS_Swedish(M_ASDIV_MAWPS):
+class M_ASDIV_MAWPS_Swahili(M_ASDIV_MAWPS):
     DATASET_NAME = "sv"
-    LANG_NAME = "Swedish"
-    QUESTION = "Fråga:"
+    LANG_NAME = "Swahili"
+    QUESTION = "Swali:"
 
 class M_ASDIV_MAWPS_Tamil(M_ASDIV_MAWPS):
     DATASET_NAME = "ta"
@@ -486,7 +486,8 @@ class M_ASDIV_MAWPS_Chinese(M_ASDIV_MAWPS):
     QUESTION = "问题:"
 
 LANGS = """
-ar  bn  ca  da  de  en  es  eu  fr  gu  hi  hr  hu  hy  id  is  it  ja  kn  ml  mr  nb  ne  nl  pt  ro  ru  sk  sr  sv  sw  ta  te  th  uk  vi  zh
+ar  af  bg  ca  cs  de  es  fr  fi  hi  hu  id  it  ko  kn  nb  nl  ro  sl  sk  sw  te  uk  zh  
+bn  be  da  en  eu  gu  ha  hr  hy  is  ja  ml  mr  ne  pl  pt  ru  sr  sv  ta  th  vi  mk  lb  
 """.split()
 
 LANG_CLASSES = [
@@ -510,7 +511,7 @@ LANG_CLASSES = [
     M_ASDIV_MAWPS_Romanian,
     M_ASDIV_MAWPS_Slovenian,
     M_ASDIV_MAWPS_Slovak,
-    M_ASDIV_MAWPS_Swedish,
+    M_ASDIV_MAWPS_Swahili,
     M_ASDIV_MAWPS_Telugu,
     M_ASDIV_MAWPS_Ukrainian,
     M_ASDIV_MAWPS_Chinese,
