@@ -27,7 +27,7 @@ import re
 from lm_eval.base import Task, rf
 from lm_eval.metrics import mean
 import datasets
-from lm_eval.utils import InstructionTemplates
+from lm_eval.utils import InstructionTemplates, extract_answer
 
 
 _CITATION = """
@@ -124,6 +124,8 @@ class M_ASDIV_MAWPS(Task):
             elif instruction_template == 'metamath' or instruction_template == 'wizardmath' or instruction_template == 'mammoth':
                 text = template.format(
                     user_message=text)
+            elif instruction_template == 'openmath':
+                text = template.replace("{user_message}", text)
             elif instruction_template == 'mathoctopus':
                 text = template.format(
                     input_lang=self.LANG_NAME,
@@ -207,7 +209,8 @@ class M_ASDIV_MAWPS(Task):
         assert gold != INVALID_ANS, "No ground truth answer found in the document."
         # direct_answer_trigger = ('####', 'The answer is')
         # return self._extract_answer(completion) == float(gold)
-        return abs(self._extract_answer(completion) - float(gold)) < 0.001
+        print(f'Gold: {gold}, Pred: {self._extract_answer(completion)} ')
+        return abs(self._extract_answer(completion) - float(gold)) < 0.001 or extract_answer(completion) == gold
 
     def process_results(self, doc, results):
         """Take a single document and the LM results and evaluates, returning a
