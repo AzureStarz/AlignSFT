@@ -21,7 +21,7 @@
     "file_name": "/home/export/base/ycsc_chenkh/hitici_02/online1/data/InstructData/AlignSFT/1st_stage_data.json"
   },
   "AlignSFT_2nd-stage_data": {
-    "file_name": "/home/export/base/ycsc_chenkh/hitici_02/online1/data/InstructData/mCoT-MATH/train.json"
+    "file_name": "/home/export/base/ycsc_chenkh/hitici_02/online1/data/InstructData/AlignSFT/2nd_stage_data.json"
   },
   "llama2_metamath_1st-stage_data": {
     "file_name": "/home/export/base/ycsc_chenkh/hitici_02/online1/QAlign/data/1st_stage_data.json"
