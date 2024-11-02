@@ -41,6 +41,12 @@ class InstructionTemplates:
     def get_template(template_name):
         if 'orca' in template_name:
             return "<|im_start|>system\n{system_message}<|im_end|>\n<|im_start|>user\n{user_message}<|im_end|>\n<|im_start|>assistant\n"
+        elif 'openmath' in template_name:
+            return (
+                "Solve the following math problem. "
+                "Make sure to put the answer (and only answer) inside \\boxed{}.\n\n" 
+                "### Problem:\n{user_message}\n\n### Response:"
+            )
         elif 'metamath' in template_name:
             return (
                 "Below is an instruction that describes a task. "
@@ -161,6 +167,8 @@ def read_mmlu_inputs(lang, file_path, template_name, lang_mapping):
                     language=MCOT_PROMPTS[lang].strip() if lang in MCOT_PROMPTS.keys() else MCOT_PROMPTS['en'].strip(),
                     user_message=instruction.strip(),
                 )
+            elif 'openmath' in template_name:
+                question = prompt.replace("{user_message}", instruction.strip())
             else:
                 question = prompt.format(
                     user_message=instruction.strip(),
@@ -196,6 +204,8 @@ def read_inputs(lang, file_path, template_name, lang_mapping=None):
                     language=MCOT_PROMPTS[lang].strip() if lang in MCOT_PROMPTS.keys() else MCOT_PROMPTS['en'].strip(),
                     user_message=line['question'].strip(),
                 )
+            elif 'openmath' in template_name:
+                question = prompt.replace("{user_message}", line['question'].strip())
             else:
                 question = prompt.format(
                     user_message=line['question'].strip(),
