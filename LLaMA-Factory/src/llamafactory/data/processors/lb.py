@@ -124,12 +124,14 @@ def preprocess_lb_dataset(
         # 获取最后一个 -100 之后的所有元素
         input_ids = input_ids[last_index + 1:]
         labels = labels[last_index + 1:]
+        # convert list to tensor
         input_ids = torch.tensor(input_ids, dtype=torch.int64)
         labels = torch.tensor(labels, dtype=torch.int64)
         # add bos token id to input_ids
         bos_token_id_tensor = torch.tensor([tokenizer.bos_token_id])
         input_ids = torch.cat((bos_token_id_tensor, input_ids), dim=0)
         labels = torch.cat((bos_token_id_tensor, labels), dim=0)
+        # original code
         model_inputs["input_ids"].append(input_ids)
         model_inputs["attention_mask"].append([1] * len(input_ids))
         model_inputs["labels"].append(labels)
