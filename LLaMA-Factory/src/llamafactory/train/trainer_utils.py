@@ -425,6 +425,38 @@ def _create_lb_optimizer(
     logger.info("Using llm optimizer with lr ratio {:.5f}.\nUsing Align optimizer with align_lr ratio {:.5f}.\nUsing Encoder optimizer with encoder_lr ratio {:.5f}.".format(finetuning_args.learning_rate_lm, finetuning_args.learning_rate_alignment, finetuning_args.learning_rate_enc))
     return optimizer
 
+def _create_ved_align_optimizer(
+    model: "PreTrainedModel",
+    training_args: "Seq2SeqTrainingArguments",
+    finetuning_args: "FinetuningArguments",
+) -> "torch.optim.Optimizer":
+    param_dict: Dict[str, List["torch.nn.Parameter"]] = {
+        "alignment": [],
+        "enc": [],
+        "lm": [],
+    }
+    for name, param in model.named_parameters():
+        if param.requires_grad:
+            if 'alignment' in name or 'bottleneck' in name or 'enc_eos' in name:
+                param_dict["alignment"].append(param)
+            elif "enc" in name:
+                param_dict["enc"].append(param)
+            elif "lm" in name:
+                param_dict["lm"].append(param)
+            else:
+                raise ValueError("unknown parameter: ", name)
+
+    optim_class, optim_kwargs = Trainer.get_optimizer_cls_and_kwargs(training_args)
+    param_groups = [
+        dict(params=param_dict["alignment"], lr=finetuning_args.learning_rate_alignment, weight_decay=finetuning_args.w_decay_alignment, name="align"),
+        dict(params=param_dict["enc"], lr=finetuning_args.learning_rate_enc, weight_decay=finetuning_args.w_decay_enc, name="encoder"),
+        dict(params=param_dict["lm"], lr=finetuning_args.learning_rate_lm, weight_decay=finetuning_args.w_decay_lm, name="lm"),
+    ]
+    optimizer = optim_class(param_groups, **optim_kwargs)
+    logger.info("Using llm optimizer with lr ratio {:.5f}.\nUsing Align optimizer with align_lr ratio {:.5f}.\nUsing Encoder optimizer with encoder_lr ratio {:.5f}.".format(finetuning_args.learning_rate_lm, finetuning_args.learning_rate_alignment, finetuning_args.learning_rate_enc))
+    return optimizer
+
+
 def create_custom_optimizer(
     model: "PreTrainedModel",
     training_args: "Seq2SeqTrainingArguments",
@@ -444,6 +476,9 @@ def create_custom_optimizer(
     
     if finetuning_args.use_lb_custom_optimizer:
         return _create_lb_optimizer(model, training_args, finetuning_args)
+
+    if finetuning_args.use_ved_align_custom_optimizer:
+        return _create_ved_align_optimizer(model, training_args, finetuning_args)
 
 
 def create_custom_scheduler(

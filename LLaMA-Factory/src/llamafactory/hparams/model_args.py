@@ -340,8 +340,58 @@ class ModelArguments(QuantizationArguments, ProcessorArguments, ExportArguments,
         default=True,
         metadata={"help": "Whether to add new lines to encoder. Better for True."},
     )
+    bottleneck_num_attention_heads: Optional[int] = field(
+        default=32,
+        metadata={"help": "Number of attention heads in the bottleneck encoder."},
+    )
+
+    bottleneck_model_dim: Optional[int] = field(
+        default=2048,
+        metadata={"help": "Dimensionality of the bottleneck encoder's hidden states."},
+    )
+
+    bottleneck_beta_individual: float = field(
+        default=1e-2,
+        metadata={"help": "individual divergence scalar for bottleneck forward."},
+    )
+
+    bottleneck_alpha_aggregate: float = field(
+        default=0.2,
+        metadata={"help": "aggregate divergence scalar for bottleneck forward."},
+    )
+
+    bottleneck_individual_posterior_kernel: Optional[str] = field(
+        default='kl_div',
+        metadata={"help": "Type of alignment module for the individual posterior kernel."},
+    )
+
+    bottleneck_use_fina_linear: bool = field(
+        default=False,
+        metadata={"help": "Whether to add final linear layers to the multiheadpooling module."},
+    )
+
+    bottleneck_loss_weight: float = field(
+        default=1.0,
+        metadata={"help": "Weight for the loss associated with the bottleneck module."},
+    )
+
+    divergence_kernel_individual_posterior_kernel: Optional[str] = field(
+        default='l2wass',
+        metadata={"help": "Type of alignment module for the divergence kernel."},
+    )
+
+    divergence_kernel_scaler: Optional[str] = field(
+        default=None,
+        metadata={"help": "Scaler for adjusting the multilevel crosslingual divergence loss."},
+    )
     
     def __post_init__(self):
+        def split_arg(arg):
+            if isinstance(arg, str):
+                return [float(item.strip()) for item in arg.split(",")]
+            return arg
+        self.divergence_kernel_scaler: List[float] = split_arg(self.divergence_kernel_scaler)
+        
         if self.model_name_or_path is None and self.lm_name_or_path is None and self.enc_name_or_path is None:
             raise ValueError("Please provide `model_name_or_path` or both of the 'lm_name_or_path' and 'lm_name_or_path'.")
 

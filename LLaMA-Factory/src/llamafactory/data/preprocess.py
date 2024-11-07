@@ -25,6 +25,7 @@ from .processors.supervised import (
 )
 from .processors.unsupervised import preprocess_unsupervised_dataset, print_unsupervised_dataset_example
 from .processors.lb import preprocess_lb_dataset, print_lb_dataset_example
+from .processors.ved_align import preprocess_ved_align_dataset, print_ved_align_dataset_example
 
 if TYPE_CHECKING:
     from transformers import PreTrainedTokenizer, ProcessorMixin
@@ -35,7 +36,7 @@ if TYPE_CHECKING:
 
 def get_preprocess_and_print_func(
     data_args: "DataArguments",
-    stage: Literal["pt", "sft", "rm", "ppo", "kto", "lb"],
+    stage: Literal["pt", "sft", "rm", "ppo", "kto", "lb", "ved_align"],
     template: "Template",
     tokenizer: "PreTrainedTokenizer",
     encoder_tokenizer: "PreTrainedTokenizer",
@@ -109,6 +110,16 @@ def get_preprocess_and_print_func(
                 data_args=data_args,
             )
         print_function = partial(print_lb_dataset_example, tokenizer=tokenizer, encoder_tokenizer=encoder_tokenizer)
+    elif stage == "ved_align":
+        preprocess_func = partial(
+                preprocess_ved_align_dataset,
+                template=template,
+                tokenizer=tokenizer,
+                encoder_tokenizer=encoder_tokenizer,
+                processor=processor,
+                data_args=data_args,
+            )
+        print_function = partial(print_ved_align_dataset_example, tokenizer=tokenizer, encoder_tokenizer=encoder_tokenizer)
     else:
         preprocess_func = partial(
             preprocess_unsupervised_dataset,

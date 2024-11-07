@@ -221,6 +221,64 @@ def convert_sharegpt(
     return output
 
 
+def convert_ved_align(
+    example: Dict[str, Any],
+    dataset_attr: "DatasetAttr",
+    data_args: "DataArguments",
+) -> Dict[str, Any]:
+    r"""
+    Converts ved_align format dataset to the standard format.
+    """
+    prompt = []
+    if dataset_attr.history and isinstance(example[dataset_attr.history], list):
+        for old_prompt, old_response in example[dataset_attr.history]:
+            prompt.append({"role": Role.USER.value, "content": old_prompt})
+            prompt.append({"role": Role.ASSISTANT.value, "content": old_response})
+
+    query = []
+    if dataset_attr.prompt and example[dataset_attr.prompt]:
+        query.append(example[dataset_attr.prompt])
+
+    if dataset_attr.query and example[dataset_attr.query]:
+        query.append(example[dataset_attr.query])
+
+    prompt.append({"role": Role.USER.value, "content": "\n".join(query)})  # "prompt\nquery"
+
+    if dataset_attr.kto_tag and isinstance(example[dataset_attr.kto_tag], bool):  # kto example
+        response = [{"role": Role.ASSISTANT.value, "content": example[dataset_attr.response]}]
+        if example[dataset_attr.kto_tag]:
+            response = response + [{"role": Role.ASSISTANT.value, "content": ""}]
+        else:
+            response = [{"role": Role.ASSISTANT.value, "content": ""}] + response
+    elif (
+        dataset_attr.ranking
+        and isinstance(example[dataset_attr.chosen], str)
+        and isinstance(example[dataset_attr.rejected], str)
+    ):  # pairwise example
+        response = [
+            {"role": Role.ASSISTANT.value, "content": example[dataset_attr.chosen]},
+            {"role": Role.ASSISTANT.value, "content": example[dataset_attr.rejected]},
+        ]
+    elif dataset_attr.response and isinstance(example[dataset_attr.response], str):  # normal example
+        response = [{"role": Role.ASSISTANT.value, "content": example[dataset_attr.response]}]
+    else:  # unsupervised
+        response = []
+
+    convert_images = partial(_convert_images, dataset_attr=dataset_attr, data_args=data_args)
+    convert_videos = partial(_convert_videos, dataset_attr=dataset_attr, data_args=data_args)
+    output = {
+        "_prompt": prompt,
+        "_response": response,
+        "_sent_src": example[dataset_attr.sent_src], 
+        "_sent_tgt": example[dataset_attr.sent_tgt],
+        "_system": example[dataset_attr.system] if dataset_attr.system else "",
+        "_tools": example[dataset_attr.tools] if dataset_attr.tools else "",
+        "_images": convert_images(example[dataset_attr.images]) if dataset_attr.images else None,
+        "_videos": convert_videos(example[dataset_attr.videos]) if dataset_attr.videos else None,
+    }
+    return output
+
+
 def align_dataset(
     dataset: Union["Dataset", "IterableDataset"],
     dataset_attr: "DatasetAttr",
@@ -238,6 +296,8 @@ def align_dataset(
     """
     if dataset_attr.formatting == "alpaca":
         convert_func = partial(convert_alpaca, dataset_attr=dataset_attr, data_args=data_args)
+    elif dataset_attr.formatting == "ved_align":
+        convert_func = partial(convert_ved_align, dataset_attr=dataset_attr, data_args=data_args)
     else:
         convert_func = partial(convert_sharegpt, dataset_attr=dataset_attr, data_args=data_args)
 

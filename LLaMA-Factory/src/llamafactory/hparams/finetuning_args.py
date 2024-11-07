@@ -125,6 +125,21 @@ class LoraArguments:
         metadata={"help": "Whether or not to create a new adapter with randomly initialized weight."},
     )
 
+@dataclass
+class AdditionalArguments:
+    r"""
+    Arguments needed by custom training.
+    """
+    
+    ### Additional Hparams
+    learning_rate_alignment: float = field(default=6e-4)
+    learning_rate_enc: float = field(default=2e-5)
+    learning_rate_lm: float = field(default=2e-5)
+    w_decay_alignment: float = field(default=0)
+    w_decay_enc: float = field(default=0.1)
+    w_decay_lm: float = field(default=0)
+    use_lb_custom_optimizer: bool = field(default=False)
+    use_ved_align_custom_optimizer: bool = field(default=False)
 
 @dataclass
 class RLHFArguments:
@@ -208,14 +223,6 @@ class RLHFArguments:
         default="lora",
         metadata={"help": "The type of the reward model in PPO training. Lora model only supports lora training."},
     )
-    ### Additional Hparams
-    learning_rate_alignment: float = field(default=6e-4)
-    learning_rate_enc: float = field(default=2e-5)
-    learning_rate_lm: float = field(default=2e-5)
-    w_decay_alignment: float = field(default=0)
-    w_decay_enc: float = field(default=0.1)
-    w_decay_lm: float = field(default=0)
-    use_lb_custom_optimizer: bool = field(default=False)
 
 @dataclass
 class GaloreArguments:
@@ -312,7 +319,7 @@ class BAdamArgument:
 
 
 @dataclass
-class FinetuningArguments(FreezeArguments, LoraArguments, RLHFArguments, GaloreArguments, BAdamArgument):
+class FinetuningArguments(FreezeArguments, LoraArguments, RLHFArguments, GaloreArguments, BAdamArgument, AdditionalArguments):
     r"""
     Arguments pertaining to which techniques we are going to fine-tuning with.
     """

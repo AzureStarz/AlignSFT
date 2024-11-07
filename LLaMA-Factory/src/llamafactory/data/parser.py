@@ -63,6 +63,9 @@ class DatasetAttr:
     observation_tag: Optional[str] = "observation"
     function_tag: Optional[str] = "function_call"
     system_tag: Optional[str] = "system"
+    # ved_align columns
+    sent_src: Optional[str] = "sent_src"
+    sent_tgt: Optional[str] = "sent_tgt"
 
     def __repr__(self) -> str:
         return self.dataset_name

@@ -1,2 +1,7 @@
 from .configuration_langbridge import LangBridgeConfig
 from .modeling_langbridge import LangBridgeModel
+from .multiheadedpooling import MultiHeadedPooling
+from .bottleneck import WassersteinBottleneck, JointPosteriorIndividualAggregateWassersteinBottleneck, VariationalBottleneck
+from .divergence_kernel import DivergenceKernel, JointPosteriorIndividualAggregateWassersteinKernel
+from .modeling_ved_align import VEDAlignModel
+from .configuration_ved_align import VEDAlignConfig

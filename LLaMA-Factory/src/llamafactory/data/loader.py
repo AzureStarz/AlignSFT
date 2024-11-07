@@ -142,7 +142,7 @@ def _get_merged_dataset(
     model_args: "ModelArguments",
     data_args: "DataArguments",
     training_args: "Seq2SeqTrainingArguments",
-    stage: Literal["pt", "sft", "rm", "ppo", "kto"],
+    stage: Literal["pt", "sft", "rm", "ppo", "kto", "lb", "ved_align"],
 ) -> Optional[Union["Dataset", "IterableDataset"]]:
     r"""
     Gets the merged datasets in the standard format.
@@ -215,7 +215,7 @@ def get_dataset(
     model_args: "ModelArguments",
     data_args: "DataArguments",
     training_args: "Seq2SeqTrainingArguments",
-    stage: Literal["pt", "sft", "rm", "ppo", "kto", "lb"],
+    stage: Literal["pt", "sft", "rm", "ppo", "kto", "lb", "ved_align"],
     tokenizer: "PreTrainedTokenizer",
     encoder_tokenizer: Optional["PreTrainedTokenizer"] = None,
     processor: Optional["ProcessorMixin"] = None,
