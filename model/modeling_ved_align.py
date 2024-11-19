@@ -19,9 +19,9 @@ from transformers.modeling_outputs import (
 )
 
 from .configuration_ved_align import VEDAlignConfig
-from .alignment_modules import LinearWithAddedEos, PerceiverResampler, FFNWithAddedEos
+from .alignment_modules import Linear, LinearWithAddedEos, PerceiverResampler, FFNWithAddedEos, FeedForward
 from .bottleneck import JointPosteriorIndividualAggregateWassersteinBottleneck
-from .divergence_kernel import DivergenceKernel, JointPosteriorIndividualAggregateWassersteinKernel
+from .divergence_kernel import DivergenceKernel, JointPosteriorIndividualAggregateWassersteinKernel, L2WassersteinDivergenceKernel
 
 @contextlib.contextmanager
 def suppress_model_loading_warnings(suppress: bool = True):
@@ -45,6 +45,8 @@ class VEDBaseModel(ABC, PreTrainedModel):
     embeddings: nn.Embedding
     divergence_kernel: DivergenceKernel
     divergence_kernel_scaler: Iterable
+    enc_eos: nn.Parameter
+    alignment: nn.Module
 
     config_class = VEDAlignConfig
 
@@ -70,7 +72,8 @@ class VEDBaseModel(ABC, PreTrainedModel):
             # gradient_checkpointing_kwargs={'use_reentrant': False})
 
         if config.alignments == 'linear':  # default
-            self.alignment = nn.Linear(config.dim_enc, config.dim_lm)
+            self.alignment = nn.Linear(config.dim_enc, config.dim_lm, bias=True)
+            self.bottelneck_alignment = nn.Linear(config.dim_enc, config.dim_lm, bias=True)
             self.enc_eos = nn.Parameter(torch.randn(config.dim_lm))
             # self.alignment = LinearWithAddedEos(
             #     dim=config.dim_enc, out_dim=config.dim_lm)
@@ -87,6 +90,7 @@ class VEDBaseModel(ABC, PreTrainedModel):
         self.bottleneck = JointPosteriorIndividualAggregateWassersteinBottleneck(
             num_attention_heads=config.bottleneck_num_attention_heads,
             model_dim=config.bottleneck_model_dim,
+            model_dim_out=config.bottleneck_model_dim,
             beta_individual=config.bottleneck_beta_individual,
             alpha_aggregate=config.bottleneck_alpha_aggregate,
             individual_posterior_kernel=config.bottleneck_individual_posterior_kernel,
@@ -94,11 +98,11 @@ class VEDBaseModel(ABC, PreTrainedModel):
         )
         self.bottleneck_loss_weight = config.bottleneck_loss_weight
         
-        self.divergence_kernel = JointPosteriorIndividualAggregateWassersteinKernel(
-            individual_posterior_kernel=config.divergence_kernel_individual_posterior_kernel,
-        )
+        # self.divergence_kernel = JointPosteriorIndividualAggregateWassersteinKernel(
+        #     individual_posterior_kernel=config.divergence_kernel_individual_posterior_kernel
+        # )
         
-        self.divergence_kernel_scaler = config.divergence_kernel_scaler
+        # self.divergence_kernel_scaler = [0.5, 0.01]
 
     def freeze_encoder(self):
         """freeze vision model """
@@ -120,8 +124,11 @@ class VEDBaseModel(ABC, PreTrainedModel):
     def freeze_alignment(self):
         for param in self.alignment.parameters():
             param.requires_grad = False
+        for param in self.bottelneck_alignment.parameters():
+            param.requires_grad = False
         for param in self.bottleneck.parameters():
             param.requires_grad = False
+        self.enc_eos.requires_grad = False
 
     # get soft prompts
     def get_encoder_features(self, enc_ids: torch.Tensor, enc_mask: torch.Tensor) -> torch.Tensor:
@@ -133,7 +140,6 @@ class VEDBaseModel(ABC, PreTrainedModel):
             enc_features = self.enc(
                 input_ids=enc_ids, attention_mask=enc_mask).last_hidden_state
         # enc_features = self.alignment(enc_features, enc_mask)
-        # enc_features = self.alignment(enc_features)
         return enc_features
 
     def _add_enc_eos(self, x):
@@ -142,8 +148,8 @@ class VEDBaseModel(ABC, PreTrainedModel):
         x = torch.cat((x, eos), dim=1)
         return x
 
-    def _project_enc_features(self, x):
-        return self._add_enc_eos(self.alignment(x))
+    # def _project_enc_features(self, x):
+    #     return self._add_enc_eos(self.alignment(x))
 
     def _bottleneck(self, enc_features: torch.Tensor, enc_mask: torch.Tensor, return_encoder_states: bool = False) -> Dict[str, torch.Tensor]:
 
@@ -214,22 +220,25 @@ class VEDBaseModel(ABC, PreTrainedModel):
 
             enc_features = self.get_encoder_features(
                 enc_ids, enc_mask)
-            bottleneck_state = self._bottleneck(enc_features, enc_mask.bool(), return_encoder_states=True)
-            enc_features = self._project_enc_features(bottleneck_state["encoder_outputs"])
+            bottleneck_enc_features = self.bottelneck_alignment(enc_features)
+            enc_features = self.alignment(enc_features)
+            bottleneck_state = self._bottleneck(bottleneck_enc_features, enc_mask.bool(), return_encoder_states=True)
+            enc_features += bottleneck_state["encoder_outputs"]
+            enc_features = self._add_enc_eos(enc_features)
             
             if not self.training:
                 del bottleneck_state['bottleneck_loss']
             
-            if self.training and not self.config.freeze_alignment:
-                src_enc_features = self.get_encoder_features(
-                    src_enc_ids, src_enc_mask)
-                src_bottleneck_state = self._bottleneck(src_enc_features, src_enc_mask.bool(), return_encoder_states=True)
-                src_bottleneck_state.update({"bottleneck_mean": src_enc_features})
-                tgt_enc_features = self.get_encoder_features(
-                    tgt_enc_ids, tgt_enc_mask)
-                tgt_bottleneck_state = self._bottleneck(tgt_enc_features, tgt_enc_mask.bool(), return_encoder_states=True)
-                tgt_bottleneck_state.update({"bottleneck_mean": tgt_enc_features})
-                divergence_kernel_loss = self.compute_crosslingual_alignmenmt_divergence(src_bottleneck_state, tgt_bottleneck_state)
+            # if self.training and src_enc_ids is not None:
+            #     src_enc_features = self.get_encoder_features(
+            #         src_enc_ids, src_enc_mask)
+            #     src_bottleneck_state = self._bottleneck(src_enc_features, src_enc_mask.bool(), return_encoder_states=True)
+            #     src_bottleneck_state.update({"bottleneck_mean": src_enc_features})
+            #     tgt_enc_features = self.get_encoder_features(
+            #         tgt_enc_ids, tgt_enc_mask)
+            #     tgt_bottleneck_state = self._bottleneck(tgt_enc_features, tgt_enc_mask.bool(), return_encoder_states=True)
+            #     tgt_bottleneck_state.update({"bottleneck_mean": tgt_enc_features})
+            #     divergence_kernel_loss = self.compute_crosslingual_alignmenmt_divergence(src_bottleneck_state, tgt_bottleneck_state)
 
             if input_ids is not None:
                 first_input_ids = input_ids[:, 0]
@@ -301,17 +310,27 @@ class VEDBaseModel(ABC, PreTrainedModel):
                 # remove soft promtps from loss
                 loss = loss[:, enc_feature_length:]
 
+        # 如果 loss 超过阈值，打印调试信息
+        # if loss.item() > 10.0:
+        #     print(f'[DEBUG] High loss detected: lm_loss = {loss.item()}')
         # print(f'[DEBUG] lm_loss: {loss}')
 
-        if "bottleneck_loss" in bottleneck_state:
+        if self.training and "bottleneck_loss" in bottleneck_state:
             if bottleneck_state["bottleneck_loss"] != None:
-                # print(f'[DEBUG] bottleneck_loss: {bottleneck_state["bottleneck_loss"] * self.bottleneck_loss_weight}')
-                loss += bottleneck_state['bottleneck_loss'] * self.bottleneck_loss_weight
+                bottleneck_loss = bottleneck_state["bottleneck_loss"] * self.bottleneck_loss_weight
+                # if bottleneck_loss > 10.0:
+                #     print(f'[DEBUG] High loss detected: bottleneck_loss: {bottleneck_loss}')
+                # print(f'[DEBUG] bottleneck_loss: {bottleneck_loss}')
+                loss += bottleneck_loss
         
-        if self.training and not self.config.freeze_alignment:
-            if divergence_kernel_loss is not None:
-                # print(f'[DEBUG] divergence_kernel_loss: {divergence_kernel_loss}')
-                loss += divergence_kernel_loss
+        # if self.training and not self.config.freeze_alignment:
+        #     if divergence_kernel_loss is not None:
+        #         if divergence_kernel_loss > 10.0:
+        #             print(f'[DEBUG] High loss detected: divergence_kernel_loss: {divergence_kernel_loss}')
+        #         print(f'[DEBUG] divergence_kernel_loss: {divergence_kernel_loss}')
+        #         loss += divergence_kernel_loss
+        #     else:
+        #         raise ValueError
         
         return CausalLMOutputWithPast(
             loss=loss,

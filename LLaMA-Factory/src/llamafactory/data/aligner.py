@@ -221,13 +221,13 @@ def convert_sharegpt(
     return output
 
 
-def convert_ved_align(
+def convert_la_align(
     example: Dict[str, Any],
     dataset_attr: "DatasetAttr",
     data_args: "DataArguments",
 ) -> Dict[str, Any]:
     r"""
-    Converts ved_align format dataset to the standard format.
+    Converts la_align format dataset to the standard format.
     """
     prompt = []
     if dataset_attr.history and isinstance(example[dataset_attr.history], list):
@@ -269,8 +269,11 @@ def convert_ved_align(
     output = {
         "_prompt": prompt,
         "_response": response,
-        "_sent_src": example[dataset_attr.sent_src], 
-        "_sent_tgt": example[dataset_attr.sent_tgt],
+        "_enc_input": example[dataset_attr.enc_input],
+        "_sent_src": example[dataset_attr.sent_src] if dataset_attr.sent_src in example.keys() else None,
+        "_sent_tgt": example[dataset_attr.sent_tgt] if dataset_attr.sent_tgt in example.keys() else None,
+        "_src_lang": example[dataset_attr.src_lang] if dataset_attr.src_lang in example.keys() else None,
+        "_tgt_lang": example[dataset_attr.tgt_lang] if dataset_attr.tgt_lang in example.keys() else None,
         "_system": example[dataset_attr.system] if dataset_attr.system else "",
         "_tools": example[dataset_attr.tools] if dataset_attr.tools else "",
         "_images": convert_images(example[dataset_attr.images]) if dataset_attr.images else None,
@@ -296,8 +299,8 @@ def align_dataset(
     """
     if dataset_attr.formatting == "alpaca":
         convert_func = partial(convert_alpaca, dataset_attr=dataset_attr, data_args=data_args)
-    elif dataset_attr.formatting == "ved_align":
-        convert_func = partial(convert_ved_align, dataset_attr=dataset_attr, data_args=data_args)
+    elif dataset_attr.formatting == "la_align":
+        convert_func = partial(convert_la_align, dataset_attr=dataset_attr, data_args=data_args)
     else:
         convert_func = partial(convert_sharegpt, dataset_attr=dataset_attr, data_args=data_args)
 

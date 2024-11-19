@@ -1,21 +1,20 @@
 ### model
 enc_name_or_path: /home/export/base/ycsc_chenkh/hitici_02/online1/LangBridge/pretrained-models/mt5-xl-lm-adapt
 lm_name_or_path: /home/export/base/ycsc_chenkh/hitici_02/online1/data/pretrained-models/Llama-2-7b
-alignments: linear
 enc_hidden_size: 2048
 lm_hidden_size: 4096
 add_new_lines_to_enc: True
-exp_run_name: debug
+exp_run_name: sft_llm_1st-stage_la_align
 
 ### method
-stage: lb
+stage: la_align
 do_train: true
 finetuning_type: full
 print_param_status: True
 deepspeed: /home/export/base/ycsc_chenkh/hitici_02/online1/AlignSFT/LLaMA-Factory/examples/deepspeed/ds_z2_config.json
 
 ### dataset
-dataset: AlignSFT_1st-stage-floresmt10langs-qamt10langs_data
+dataset: la_align_1st_stage
 remove_unused_columns: False
 template: empty
 cutoff_len: 1280
@@ -24,7 +23,7 @@ overwrite_cache: true
 preprocessing_num_workers: 16
 
 ### output
-output_dir: /home/export/base/ycsc_chenkh/hitici_02/online1/AlignSFT/LLaMA-Factory/saves/llama2-7b/full/ot_lb/debug
+output_dir: /home/export/base/ycsc_chenkh/hitici_02/online1/AlignSFT/LLaMA-Factory/saves/llama2-7b/full/la_align/sft_llm_1st-stage_la_align
 logging_steps: 10
 save_steps: 500
 save_total_limit: 1
@@ -35,7 +34,7 @@ overwrite_output_dir: true
 freeze_language_model: False
 freeze_encoder: True
 freeze_alignment: False
-use_lb_custom_optimizer: True
+use_la_align_custom_optimizer: True
 learning_rate_alignment: 6.0e-4
 learning_rate_enc: 2.0e-5
 learning_rate_lm: 2.0e-5
@@ -47,5 +46,7 @@ gradient_accumulation_steps: 8
 num_train_epochs: 1.0
 lr_scheduler_type: constant
 warmup_steps: 0
+# lr_scheduler_type: cosine
+# warmup_ratio: 0.03
 bf16: true
 ddp_timeout: 180000000

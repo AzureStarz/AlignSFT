@@ -12,7 +12,9 @@ ckpt_paths=(
     # "/home/export/base/ycsc_chenkh/hitici_02/online1/LLaMA-Factory/saves/llama2-7b/full/enhance_alignment_preliminary_exp" "metamath"
     # "${project_dir}/LLaMA-Factory/saves/llama2-7b/full/baseline/mCoT" "mcot"
     # "/home/export/base/ycsc_chenkh/hitici_02/online1/data/pretrained-models/MetaMath-7B-V1.0" "metamath"
-    "${project_dir}/LLaMA-Factory/saves/llama2-7b/full/baseline/MetaMath-Mistral-7B" "metamath"
+    # "${project_dir}/LLaMA-Factory/saves/llama2-7b/full/baseline/MetaMath-Mistral-7B" "metamath"
+    # "${project_dir}/LLaMA-Factory/saves/llama2-7b/full/baseline/llama2_baseline_openmath2_full_sft" "openmath2"
+    "${project_dir}/LLaMA-Factory/saves/llama2-7b/full/ot_lb/converted_ot_metamath" "metamath"
     # 你可以继续添加更多路径
 )
 

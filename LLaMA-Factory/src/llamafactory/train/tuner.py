@@ -33,6 +33,7 @@ from .rm import run_rm
 from .sft import run_sft
 from .lb import run_lb
 from .ved_align import run_ved_align
+from .la_align import run_la_align
 
 
 if TYPE_CHECKING:
@@ -52,8 +53,8 @@ def run_exp(args: Optional[Dict[str, Any]] = None, callbacks: List["TrainerCallb
         run_sft(model_args, data_args, training_args, finetuning_args, generating_args, callbacks)
     elif finetuning_args.stage == "lb":
         run_lb(model_args, data_args, training_args, finetuning_args, callbacks)
-    elif finetuning_args.stage == "ved_align":
-        run_ved_align(model_args, data_args, training_args, finetuning_args, callbacks)
+    elif finetuning_args.stage == "la_align":
+        run_la_align(model_args, data_args, training_args, finetuning_args, callbacks)
     elif finetuning_args.stage == "rm":
         run_rm(model_args, data_args, training_args, finetuning_args, callbacks)
     elif finetuning_args.stage == "ppo":

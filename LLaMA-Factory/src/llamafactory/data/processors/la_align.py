@@ -88,7 +88,7 @@ def _encode_supervised_example(
     return input_ids, labels
 
 
-def preprocess_ved_align_dataset(
+def preprocess_la_align_dataset(
     examples: Dict[str, List[Any]],
     template: "Template",
     tokenizer: "PreTrainedTokenizer",
@@ -121,29 +121,36 @@ def preprocess_ved_align_dataset(
         # Change to Langbridge format
         # 找到最后一个 -100 的索引
         last_index = len(labels) - 1 - labels[::-1].index(-100)
-        # 获取最后一个 -100 之后的所有元素
+        # Instruction input_ids 获取最后一个 -100 之前的所有元素
+        ins_input_ids = input_ids[:last_index + 1]
+        # input_ids 获取最后一个 -100 之后的所有元素
         input_ids = input_ids[last_index + 1:]
         labels = labels[last_index + 1:]
         # convert list to tensor
+        ins_input_ids = torch.tensor(ins_input_ids, dtype=torch.int64)
         input_ids = torch.tensor(input_ids, dtype=torch.int64)
         labels = torch.tensor(labels, dtype=torch.int64)
-        # add bos token id to input_ids
+        # add bos token id to labels
         bos_token_id_tensor = torch.tensor([tokenizer.bos_token_id])
-        input_ids = torch.cat((bos_token_id_tensor, input_ids), dim=0)
-        labels = torch.cat((bos_token_id_tensor, labels), dim=0)
+        ins_input_ids = torch.cat((bos_token_id_tensor, ins_input_ids), dim=0)
+        # labels = torch.cat((bos_token_id_tensor, labels), dim=0)
         # original code
         model_inputs["input_ids"].append(input_ids)
+        model_inputs["ins_input_ids"].append(ins_input_ids)
         model_inputs["attention_mask"].append([1] * len(input_ids))
+        model_inputs["ins_attention_mask"].append([1] * len(ins_input_ids))
         model_inputs["labels"].append(labels)
         model_inputs["images"].append(examples["_images"][i])
         model_inputs["videos"].append(examples["_videos"][i])
         # process encoder input
-        encoder_inputs = encoder_tokenizer(examples["_prompt"][i][0]["content"], padding=True, truncation=True, max_length=data_args.max_length_enc, return_tensors='pt')
+        encoder_tokenizer.add_bos_token = False
+        encoder_tokenizer.add_eos_token = False
+        encoder_inputs = encoder_tokenizer(examples["_enc_input"][i], padding=True, truncation=True, max_length=data_args.max_length_enc, return_tensors='pt')
         model_inputs["encoder_input_ids"].append(encoder_inputs["input_ids"][0])
         model_inputs["encoder_attention_mask"].append(encoder_inputs["attention_mask"][0])
         # process parallel data for align training
-        # print(f'[DEBUG] examples["_sent_src"][i][0]: {examples["_sent_src"][i]}')
-        if "_sent_src" in examples.keys() and "_sent_tgt" in examples.keys():
+        if examples["_sent_src"][i] is not None and examples["_sent_tgt"][i] is not None:
+            # process encoder input
             encoder_src_inputs = encoder_tokenizer(examples["_sent_src"][i], padding=True, truncation=True, max_length=data_args.max_length_enc, return_tensors='pt')
             model_inputs["encoder_src_ids"].append(encoder_src_inputs["input_ids"][0])
             model_inputs["encoder_src_attention_mask"].append(encoder_src_inputs["attention_mask"][0])
@@ -156,10 +163,12 @@ def preprocess_ved_align_dataset(
     return model_inputs
 
 
-def print_ved_align_dataset_example(example: Dict[str, List[int]], tokenizer: "PreTrainedTokenizer", encoder_tokenizer: "PreTrainedTokenizer") -> None:
+def print_la_align_dataset_example(example: Dict[str, List[int]], tokenizer: "PreTrainedTokenizer", encoder_tokenizer: "PreTrainedTokenizer") -> None:
     valid_labels = list(filter(lambda x: x != IGNORE_INDEX, example["labels"]))
     print("input_ids:\n{}".format(example["input_ids"]))
     print("inputs:\n{}".format(tokenizer.decode(example["input_ids"], skip_special_tokens=False)))
+    print("ins_input_ids:\n{}".format(example["ins_input_ids"]))
+    print("ins_inputs:\n{}".format(tokenizer.decode(example["ins_input_ids"], skip_special_tokens=False)))
     print("label_ids:\n{}".format(example["labels"]))
     print("labels:\n{}".format(tokenizer.decode(valid_labels, skip_special_tokens=False)))
     print("encoder_input_ids:\n{}".format(example["encoder_input_ids"]))

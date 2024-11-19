@@ -2,6 +2,7 @@ from argparse import ArgumentError
 from typing import Dict, Optional, Tuple
 import torch
 import torch.nn as nn
+import torch.nn.functional as F
 
 from .multiheadedpooling import MultiHeadedPooling
 
@@ -13,6 +14,31 @@ def gaussian_kl(mu, logvar):
     """
     return -0.5 * torch.mean(1 + logvar - mu.pow(2) - logvar.exp(), dim=-1)
 
+# def gaussian_kl(mu, logvar, mask):
+#     """
+#     Kullback-Leibler divergence between a Gaussian and the prior Gaussian N(0, I),
+#     with padding masked out.
+
+#     Args:
+#         mu (torch.Tensor): Mean of the posterior distribution, shape [bsz, seq_len, hidden_dim].
+#         logvar (torch.Tensor): Log variance of the posterior distribution, shape [bsz, seq_len, hidden_dim].
+#         mask (torch.Tensor): Padding mask, shape [bsz, seq_len], where True indicates valid tokens.
+    
+#     Returns:
+#         torch.Tensor: Summed KL divergence per batch, shape [bsz].
+#     """
+#     # Compute KL divergence for each element
+#     exponential = 1 + logvar - mu.pow(2) - logvar.exp()
+#     kl_div = -0.5 * exponential  # Shape: [bsz, seq_len, hidden_dim]
+    
+#     # Sum over hidden dimensions
+#     kl_div = torch.sum(kl_div, dim=-1)  # Shape: [bsz, seq_len]
+    
+#     # Apply the mask (only sum over valid tokens)
+#     kl_div_masked = kl_div * mask  # Mask out padding tokens
+#     return torch.sum(kl_div_masked, dim=-1)  # Summed KL divergence per batch, shape [bsz]
+
+
 def reparameterize_gaussian(mu, logvar, var_weight=1.0):
     """
     Sample a Gaussian from mu, logvar from the Encoder
@@ -21,6 +47,24 @@ def reparameterize_gaussian(mu, logvar, var_weight=1.0):
     eps = torch.randn_like(std)
 
     return mu + eps * std * var_weight
+
+class BNScalar(nn.Module):
+    """特殊的scale层"""
+    def __init__(self, model_dim, tau=0.5):
+        super(BNScalar, self).__init__()
+        self.tau = tau
+        self.scale = nn.Parameter(torch.zeros(model_dim), requires_grad=True)  # scale parameter will be created during forward
+
+    def forward(self, inputs, mode='positive'):
+        if mode == 'positive':
+            scale = self.tau + (1 - self.tau) * torch.sigmoid(self.scale)
+        else:
+            scale = (1 - self.tau) * torch.sigmoid(-self.scale)
+
+        return inputs * torch.sqrt(scale)
+
+    def extra_repr(self):
+        return f'tau={self.tau}'
 
 class Bottleneck(ABC, nn.Module):
     """
@@ -142,6 +186,16 @@ class WassersteinBottleneck(Bottleneck):
             use_final_linear=use_final_linear,
             use_bilinear=use_bilinear,
             use_layer_norm=use_layer_norm
+        )
+        self.bn_scalar = BNScalar(model_dim)
+        # self.z_mean_bn = nn.BatchNorm1d(model_dim, affine=False, eps=1e-8)
+        self.z_mean_ln = nn.LayerNorm(model_dim, elementwise_affine=False, eps=1e-8)
+        # self.z_std_bn = nn.BatchNorm1d(model_dim, affine=False, eps=1e-8)
+        self.z_std_ln = nn.LayerNorm(model_dim, elementwise_affine=False, eps=1e-8)
+        self.z_mean_dense = nn.Sequential(
+            nn.Linear(model_dim, model_dim * 2, True),
+            nn.GELU(),
+            nn.Linear(model_dim * 2, model_dim, True),
         )
 
     def forward(self, inputs: torch.Tensor, mask: torch.BoolTensor = None, return_encoder_states: bool = False) -> Tuple[torch.Tensor, torch.Tensor, Optional[torch.Tensor], Optional[torch.Tensor]]:
@@ -291,11 +345,17 @@ class JointPosteriorIndividualAggregateWassersteinBottleneck(WassersteinBottlene
     ) -> Tuple[torch.Tensor, torch.Tensor, Optional[torch.Tensor], Optional[torch.Tensor]]:
 
         # shape: (batch_size, max_input_sequence_length, encoder_output_dim)
-        encoding = inputs
+        encoding = self.z_mean_dense(inputs)
         var_weight = 1.0 # for now mimic hosking
 
         # shape: (batch_size, 1, encoder_output_dim)
         logvar = self.logvar_pooling(key=encoding, value=encoding, mask=mask)
+        
+        encoding = self.z_mean_ln(encoding)
+        encoding = self.bn_scalar(encoding, mode='positive')
+        
+        logvar = self.z_std_ln(logvar)
+        logvar = self.bn_scalar(logvar, mode='negative')
         
         # Reparameterise over a sequence
         # shape: (batch_size, max_input_sequence_length, encoder_output_dim)

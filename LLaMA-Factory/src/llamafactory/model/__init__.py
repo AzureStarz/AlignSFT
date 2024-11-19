@@ -16,6 +16,7 @@ from .loader import load_config, load_model, load_tokenizer
 from .model_utils.misc import find_all_linear_modules
 from .model_utils.quantization import QuantizationMethod
 from .model_utils.valuehead import load_valuehead_params
+from .model_utils.aligner import build_aligner
 from .configuration_langbridge import LangBridgeConfig
 from .modeling_langbridge import LangBridgeModel
 
@@ -28,4 +29,5 @@ __all__ = [
     "load_valuehead_params",
     "LangBridgeModel",
     "LangBridgeConfig",
+    "build_aligner"
 ]

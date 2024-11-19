@@ -406,7 +406,7 @@ def _create_lb_optimizer(
     }
     for name, param in model.named_parameters():
         if param.requires_grad:
-            if 'alignment' in name:
+            if 'alignment' in name or 'enc_eos' in name or 'la_adpater' in name:
                 param_dict["alignment"].append(param)
             elif "enc" in name:
                 param_dict["enc"].append(param)
@@ -425,7 +425,7 @@ def _create_lb_optimizer(
     logger.info("Using llm optimizer with lr ratio {:.5f}.\nUsing Align optimizer with align_lr ratio {:.5f}.\nUsing Encoder optimizer with encoder_lr ratio {:.5f}.".format(finetuning_args.learning_rate_lm, finetuning_args.learning_rate_alignment, finetuning_args.learning_rate_enc))
     return optimizer
 
-def _create_ved_align_optimizer(
+def _create_la_align_optimizer(
     model: "PreTrainedModel",
     training_args: "Seq2SeqTrainingArguments",
     finetuning_args: "FinetuningArguments",
@@ -437,7 +437,7 @@ def _create_ved_align_optimizer(
     }
     for name, param in model.named_parameters():
         if param.requires_grad:
-            if 'alignment' in name or 'bottleneck' in name or 'enc_eos' in name:
+            if 'mapping' in name or 'adapter' in name:
                 param_dict["alignment"].append(param)
             elif "enc" in name:
                 param_dict["enc"].append(param)
@@ -477,8 +477,8 @@ def create_custom_optimizer(
     if finetuning_args.use_lb_custom_optimizer:
         return _create_lb_optimizer(model, training_args, finetuning_args)
 
-    if finetuning_args.use_ved_align_custom_optimizer:
-        return _create_ved_align_optimizer(model, training_args, finetuning_args)
+    if finetuning_args.use_la_align_custom_optimizer:
+        return _create_la_align_optimizer(model, training_args, finetuning_args)
 
 
 def create_custom_scheduler(

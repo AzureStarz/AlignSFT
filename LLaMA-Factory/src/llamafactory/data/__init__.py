@@ -19,6 +19,7 @@ from .collator import (
     SFTDataCollatorWith4DAttentionMask,
     LangbridgeDataCollatorForSeq2Seq,
     VEDAlignDataCollatorForSeq2Seq,
+    LAAlignDataCollatorForSeq2Seq,
 )
 from .data_utils import Role, split_dataset
 from .loader import get_dataset
@@ -32,6 +33,7 @@ __all__ = [
     "SFTDataCollatorWith4DAttentionMask",
     "LangbridgeDataCollatorForSeq2Seq",
     "VEDAlignDataCollatorForSeq2Seq",
+    "LAAlignDataCollatorForSeq2Seq",
     "Role",
     "split_dataset",
     "get_dataset",

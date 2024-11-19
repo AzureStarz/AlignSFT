@@ -24,12 +24,11 @@ from typing import TYPE_CHECKING, List, Optional, Dict
 import torch
 import torch.distributed as dist
 
-from ...data import LangbridgeDataCollatorForSeq2Seq, get_dataset, get_template_and_fix_tokenizer
+from ...data import LAAlignDataCollatorForSeq2Seq, get_dataset, get_template_and_fix_tokenizer
 from ...extras.constants import IGNORE_INDEX
 from ...extras.ploting import plot_loss
 from ...model.adapter import init_adapter
 from ...model.configuration_langbridge import LangBridgeConfig
-# from ...model.modeling_langbridge import LangBridgeModel
 from ...model.modeling_la_align import LangBridgeModel
 from ...extras.misc import count_parameters
 from ..trainer_utils import create_modelcard_and_push
@@ -125,6 +124,13 @@ def _load_tokenizer(model_args):
     encoder_tokenizer = get_tokenizer(encoder_tokenizer_path, use_fast=True)
     lm_tokenizer = get_tokenizer(lm_tokenizer_path, use_fast=False, add_eos_token=True)
 
+    logger.info('llm tokenizer adding enc_input_token "<enc_input>"')
+    # lm_tokenizer.add_special_tokens(
+    #     {'additional_special_tokens': ["<enc_input>"]}
+    # )
+    lm_tokenizer.add_tokens(["<enc_input>"])
+
+    logger.info('llm tokenizer padding right')
     lm_tokenizer.padding_side = 'right'
 
     if not encoder_tokenizer.pad_token:
@@ -134,7 +140,7 @@ def _load_tokenizer(model_args):
 
     return {'tokenizer': lm_tokenizer, 'encoder_tokenizer': encoder_tokenizer, "processor": None}
 
-def run_lb(
+def run_la_align(
     model_args: "ModelArguments",
     data_args: "DataArguments",
     training_args: "Seq2SeqTrainingArguments",
@@ -189,9 +195,9 @@ def run_lb(
                 'Unfreezing encoder embedding layer since new tokens were added')
     
     template = get_template_and_fix_tokenizer(tokenizer_module['tokenizer'], data_args)
-    dataset_module = get_dataset(template, model_args, data_args, training_args, stage="lb", **tokenizer_module)
+    dataset_module = get_dataset(template, model_args, data_args, training_args, stage="la_align", **tokenizer_module)
 
-    data_collator = LangbridgeDataCollatorForSeq2Seq(
+    data_collator = LAAlignDataCollatorForSeq2Seq(
         template=template,
         pad_to_multiple_of=8 if training_args.do_train else None,  # for shift short attention
         label_pad_token_id=IGNORE_INDEX,

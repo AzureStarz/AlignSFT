@@ -139,7 +139,7 @@ class AdditionalArguments:
     w_decay_enc: float = field(default=0.1)
     w_decay_lm: float = field(default=0)
     use_lb_custom_optimizer: bool = field(default=False)
-    use_ved_align_custom_optimizer: bool = field(default=False)
+    use_la_align_custom_optimizer: bool = field(default=False)
 
 @dataclass
 class RLHFArguments:

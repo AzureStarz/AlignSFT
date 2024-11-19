@@ -66,6 +66,9 @@ class DatasetAttr:
     # ved_align columns
     sent_src: Optional[str] = "sent_src"
     sent_tgt: Optional[str] = "sent_tgt"
+    src_lang: Optional[str] = "src_lang"
+    tgt_lang: Optional[str] = "tgt_lang"
+    enc_input: Optional[str] = "enc_input"
 
     def __repr__(self) -> str:
         return self.dataset_name

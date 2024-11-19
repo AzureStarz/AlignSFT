@@ -5,17 +5,17 @@ alignments: linear
 enc_hidden_size: 2048
 lm_hidden_size: 4096
 add_new_lines_to_enc: True
-exp_run_name: debug
+exp_run_name: debug_ved_metamath
 
 ### method
-stage: lb
+stage: ved_align
 do_train: true
 finetuning_type: full
 print_param_status: True
 deepspeed: /home/export/base/ycsc_chenkh/hitici_02/online1/AlignSFT/LLaMA-Factory/examples/deepspeed/ds_z2_config.json
 
 ### dataset
-dataset: AlignSFT_1st-stage-floresmt10langs-qamt10langs_data
+dataset: llama2_metamath_2nd-stage_data
 remove_unused_columns: False
 template: empty
 cutoff_len: 1280
@@ -24,18 +24,29 @@ overwrite_cache: true
 preprocessing_num_workers: 16
 
 ### output
-output_dir: /home/export/base/ycsc_chenkh/hitici_02/online1/AlignSFT/LLaMA-Factory/saves/llama2-7b/full/ot_lb/debug
+output_dir: /home/export/base/ycsc_chenkh/hitici_02/online1/AlignSFT/LLaMA-Factory/saves/llama2-7b/full/ved_align/debug_ved_metamath
 logging_steps: 10
 save_steps: 500
 save_total_limit: 1
 plot_loss: true
 overwrite_output_dir: true
 
+### Bottleneck HyperParams
+bottleneck_num_attention_heads: 32
+bottleneck_model_dim: 2048
+bottleneck_beta_individual: 0.01
+bottleneck_alpha_aggregate: 0.2
+bottleneck_individual_posterior_kernel: kl_div
+bottleneck_loss_weight: 1.0
+bottleneck_use_fina_linear: False
+divergence_kernel_individual_posterior_kernel: l2wass
+divergence_kernel_scaler: 0.00005, 0.05
+
 ### train
 freeze_language_model: False
 freeze_encoder: True
-freeze_alignment: False
-use_lb_custom_optimizer: True
+freeze_alignment: True
+use_ved_align_custom_optimizer: True
 learning_rate_alignment: 6.0e-4
 learning_rate_enc: 2.0e-5
 learning_rate_lm: 2.0e-5

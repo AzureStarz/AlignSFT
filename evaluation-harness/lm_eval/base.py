@@ -754,7 +754,11 @@ class Task(abc.ABC):
 
         example = self.doc_to_text(
             doc, instruction_template=instruction_template)
-        return description + labeled_examples + example
+        
+        if isinstance(example, str):
+            return description + labeled_examples + example
+        else:
+            return example
 
 
 class MultipleChoiceTask(Task):

@@ -1,5 +1,5 @@
 ### model
-model_name_or_path: meta-llama/Meta-Llama-3-8B-Instruct
+model_name_or_path: /home/export/base/ycsc_chenkh/hitici_02/online1/data/pretrained-models/Llama-2-7b
 
 ### method
 stage: sft

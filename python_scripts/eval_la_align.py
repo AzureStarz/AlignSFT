@@ -8,12 +8,10 @@ import torch
 from transformers import AutoTokenizer
 
 from lm_eval import tasks, evaluator, utils
-from lm_eval.models.langbridge import LBSeq2SeqLM
+from lm_eval.models.la_align import LBSeq2SeqLM
 
 logging.getLogger("openai").setLevel(logging.WARNING)
 
-from model.modeling_langbridge import LangBridgeModel
-from model.modeling_ved_align import VEDAlignModel
 from model.modeling_la_align import LangBridgeModel
 
 
@@ -84,10 +82,12 @@ def main():
 
     try:
         lm_tokenizer = AutoTokenizer.from_pretrained(
-            args.checkpoint_path, use_fast=False)
+            args.checkpoint_path, use_fast=False, add_bos_token = True)
     except:
         lm_tokenizer = AutoTokenizer.from_pretrained(
-            args.checkpoint_path, use_fast=True)
+            args.checkpoint_path, use_fast=True, add_bos_token = True)
+
+    lm_tokenizer.add_tokens(["<enc_input>"])
 
     if not enc_tokenizer.pad_token:
         enc_tokenizer.pad_token = enc_tokenizer.eos_token

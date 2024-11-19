@@ -8,9 +8,13 @@
   "alpaca_zh_demo": {
     "file_name": "alpaca_zh_demo.json"
   },
-  "ved_align_1st_stage": {
-    "file_name": "/home/export/base/ycsc_chenkh/hitici_02/online1/data/InstructData/AlignSFT/VEDAlignSFT/1st_stage_floresmt10langs_qamt10langs_MGSM8KInstruct_data.json",
-    "formatting": "ved_align"
+  "la_align_1st_stage": {
+    "file_name": "/home/export/base/ycsc_chenkh/hitici_02/online1/data/InstructData/AlignSFT/LA_AlignSFT/1st_stage_querymt10langs_data.json",
+    "formatting": "la_align"
+  },
+  "la_align_2nd_stage": {
+    "file_name": "/home/export/base/ycsc_chenkh/hitici_02/online1/data/InstructData/MetaMathQA/la_align_train.json",
+    "formatting": "la_align"
   },
   "QAalign_1st-stage_data": {
     "file_name": "/home/export/base/ycsc_chenkh/hitici_02/online1/QAlign/data/gsmtrans/qa_mt.json"
