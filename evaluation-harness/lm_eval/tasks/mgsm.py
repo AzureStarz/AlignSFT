@@ -106,21 +106,14 @@ class MGSM(Task):
     def test_docs(self):
         return self.dataset["test"]
 
-    def doc_to_text(self, doc, instruction_template=None, need_instruction_context=True, need_lang_name=True):
-        
-        res = {}
-        
-        # if doc["answer"] is not None:
-        #     text = doc["question"]
-        # else:
-        #     text = self.QUESTION + " " + doc["question"]
+    def doc_to_text(self, doc, instruction_template=None):
+        if doc["answer"] is not None:
+            text = doc["question"]
+        else:
+            text = self.QUESTION + " " + doc["question"]
 
-        # if not instruction_template:
-        #     text = text + "\n" + self.ANSWER
-
-        enc_input = doc["question"]
-        
-        text = "<enc_input>"
+        if not instruction_template:
+            text = text + "\n" + self.ANSWER
 
         if instruction_template:
             template = InstructionTemplates.get_template(instruction_template)
@@ -128,26 +121,16 @@ class MGSM(Task):
                 text = template.format(
                     system_message=self.ORCA_SYSTEM,
                     user_message=text)
-                context = template.format(
-                    system_message=self.ORCA_SYSTEM,
-                    user_message=enc_input)
             elif instruction_template == 'metamath' or instruction_template == 'wizardmath' or instruction_template == 'mammoth':
                 text = template.format(
                     user_message=text)
-                context = template.format(
-                    user_message=enc_input)
             elif instruction_template == 'openmath':
                 text = template.replace("{user_message}", text)
-                context = template.replace("{user_message}", enc_input)
             elif instruction_template == 'mathoctopus':
                 text = template.format(
                     input_lang=self.LANG_NAME,
                     output_lang=self.LANG_NAME,
                     user_message=text)
-                context = template.format(
-                    input_lang=self.LANG_NAME,
-                    output_lang=self.LANG_NAME,
-                    user_message=enc_input)
             elif instruction_template == 'mcot':
                 text = doc["question"]
                 # Define prompts for different languages
@@ -167,16 +150,7 @@ class MGSM(Task):
                 text = template.format(
                     language=prompts[self.DATASET_NAME],
                     user_message=text)
-                context = template.format(
-                    language=prompts[self.DATASET_NAME],
-                    user_message=enc_input)
-        
-        res["enc_input"] = enc_input
-        res["instruction"] = text
-        res["language"] = self.LANG_NAME
-        res["context"] = context
-        
-        return res
+        return text
 
     def doc_to_target(self, doc, instruction_template=None):
         if doc["answer"] is not None:
