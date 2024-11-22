@@ -10,3 +10,4 @@ evaluation/
 preliminary_exp/
 preprocess_*
 deduplicate_*
+lm-evaluation-harness/*

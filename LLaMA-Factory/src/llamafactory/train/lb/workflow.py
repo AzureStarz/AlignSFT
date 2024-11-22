@@ -29,8 +29,7 @@ from ...extras.constants import IGNORE_INDEX
 from ...extras.ploting import plot_loss
 from ...model.adapter import init_adapter
 from ...model.configuration_langbridge import LangBridgeConfig
-# from ...model.modeling_langbridge import LangBridgeModel
-from ...model.modeling_la_align import LangBridgeModel
+from ...model.modeling_langbridge import LangBridgeModel
 from ...extras.misc import count_parameters
 from ..trainer_utils import create_modelcard_and_push
 from .trainer import CustomSeq2SeqTrainer

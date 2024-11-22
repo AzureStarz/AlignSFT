@@ -406,7 +406,7 @@ def _create_lb_optimizer(
     }
     for name, param in model.named_parameters():
         if param.requires_grad:
-            if 'alignment' in name or 'enc_eos' in name or 'la_adpater' in name:
+            if 'alignment' in name:
                 param_dict["alignment"].append(param)
             elif "enc" in name:
                 param_dict["enc"].append(param)

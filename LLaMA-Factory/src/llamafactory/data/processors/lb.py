@@ -143,15 +143,15 @@ def preprocess_lb_dataset(
         model_inputs["encoder_attention_mask"].append(encoder_inputs["attention_mask"][0])
         # process parallel data for align training
         # print(f'[DEBUG] examples["_sent_src"][i][0]: {examples["_sent_src"][i]}')
-        if "_sent_src" in examples.keys() and "_sent_tgt" in examples.keys():
-            encoder_src_inputs = encoder_tokenizer(examples["_sent_src"][i], padding=True, truncation=True, max_length=data_args.max_length_enc, return_tensors='pt')
-            model_inputs["encoder_src_ids"].append(encoder_src_inputs["input_ids"][0])
-            model_inputs["encoder_src_attention_mask"].append(encoder_src_inputs["attention_mask"][0])
-            model_inputs["src_lang"].append(examples["_src_lang"][i])
-            encoder_tgt_inputs = encoder_tokenizer(examples["_sent_tgt"][i], padding=True, truncation=True, max_length=data_args.max_length_enc, return_tensors='pt')
-            model_inputs["encoder_tgt_ids"].append(encoder_tgt_inputs["input_ids"][0])
-            model_inputs["encoder_tgt_attention_mask"].append(encoder_tgt_inputs["attention_mask"][0])
-            model_inputs["tgt_lang"].append(examples["_tgt_lang"][i])
+        # if "_sent_src" in examples.keys() and "_sent_tgt" in examples.keys():
+        #     encoder_src_inputs = encoder_tokenizer(examples["_sent_src"][i], padding=True, truncation=True, max_length=data_args.max_length_enc, return_tensors='pt')
+        #     model_inputs["encoder_src_ids"].append(encoder_src_inputs["input_ids"][0])
+        #     model_inputs["encoder_src_attention_mask"].append(encoder_src_inputs["attention_mask"][0])
+        #     model_inputs["src_lang"].append(examples["_src_lang"][i])
+        #     encoder_tgt_inputs = encoder_tokenizer(examples["_sent_tgt"][i], padding=True, truncation=True, max_length=data_args.max_length_enc, return_tensors='pt')
+        #     model_inputs["encoder_tgt_ids"].append(encoder_tgt_inputs["input_ids"][0])
+        #     model_inputs["encoder_tgt_attention_mask"].append(encoder_tgt_inputs["attention_mask"][0])
+        #     model_inputs["tgt_lang"].append(examples["_tgt_lang"][i])
 
     return model_inputs
 
@@ -164,10 +164,10 @@ def print_lb_dataset_example(example: Dict[str, List[int]], tokenizer: "PreTrain
     print("labels:\n{}".format(tokenizer.decode(valid_labels, skip_special_tokens=False)))
     print("encoder_input_ids:\n{}".format(example["encoder_input_ids"]))
     print("encoder_inputs:\n{}".format(encoder_tokenizer.decode(example["encoder_input_ids"], skip_special_tokens=False)))
-    if "encoder_src_ids" in example.keys():
-        print("encoder_src_ids:\n{}".format(example["encoder_src_ids"]))
-        print("encoder_src:\n{}".format(encoder_tokenizer.decode(example["encoder_src_ids"], skip_special_tokens=False)))
-        print("source language:\n{}".format(example["src_lang"]))
-        print("encoder_tgt_ids:\n{}".format(example["encoder_tgt_ids"]))
-        print("encoder_tgt:\n{}".format(encoder_tokenizer.decode(example["encoder_tgt_ids"], skip_special_tokens=False)))
-        print("target language:\n{}".format(example["tgt_lang"]))
+    # if "encoder_src_ids" in example.keys():
+    #     print("encoder_src_ids:\n{}".format(example["encoder_src_ids"]))
+    #     print("encoder_src:\n{}".format(encoder_tokenizer.decode(example["encoder_src_ids"], skip_special_tokens=False)))
+    #     print("source language:\n{}".format(example["src_lang"]))
+    #     print("encoder_tgt_ids:\n{}".format(example["encoder_tgt_ids"]))
+    #     print("encoder_tgt:\n{}".format(encoder_tokenizer.decode(example["encoder_tgt_ids"], skip_special_tokens=False)))
+    #     print("target language:\n{}".format(example["tgt_lang"]))

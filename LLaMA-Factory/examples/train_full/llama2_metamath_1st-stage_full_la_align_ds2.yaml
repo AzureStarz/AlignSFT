@@ -4,7 +4,7 @@ lm_name_or_path: /home/export/base/ycsc_chenkh/hitici_02/online1/data/pretrained
 enc_hidden_size: 2048
 lm_hidden_size: 4096
 add_new_lines_to_enc: True
-exp_run_name: sft_llm_1st-stage_la_align
+exp_run_name: sft_llm_1st-stage_la_align_more_parallel_data
 
 ### method
 stage: la_align
@@ -23,7 +23,7 @@ overwrite_cache: true
 preprocessing_num_workers: 16
 
 ### output
-output_dir: /home/export/base/ycsc_chenkh/hitici_02/online1/AlignSFT/LLaMA-Factory/saves/llama2-7b/full/la_align/sft_llm_1st-stage_la_align
+output_dir: /home/export/base/ycsc_chenkh/hitici_02/online1/AlignSFT/LLaMA-Factory/saves/llama2-7b/full/la_align/sft_llm_1st-stage_la_align_more_parallel_data
 logging_steps: 10
 save_steps: 500
 save_total_limit: 1
