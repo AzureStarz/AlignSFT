@@ -1,12 +1,12 @@
 ### model
-model_name_or_path: /home/export/base/ycsc_chenkh/hitici_02/online1/AlignSFT/LLaMA-Factory/saves/llama2-7b/full/la_align/sft_llm_1st-stage_code_switch_gsm8k
+model_name_or_path: /home/export/base/ycsc_chenkh/hitici_02/online1/AlignSFT/LLaMA-Factory/saves/llama2-7b/full/la_align/sft_llm_1st-stage_reasoning_mgsm8k
 enc_name_or_path: /home/export/base/ycsc_chenkh/hitici_02/online1/LangBridge/pretrained-models/mt5-xl-lm-adapt
 lm_name_or_path: /home/export/base/ycsc_chenkh/hitici_02/online1/data/pretrained-models/Llama-2-7b
 alignments: ffn
 enc_hidden_size: 2048
 lm_hidden_size: 4096
 add_new_lines_to_enc: True
-exp_run_name: metamath_2nd-stage_code_switch_gsm8k
+exp_run_name: metamath_2nd-stage_reasoning_mgsm8k
 
 ### method
 stage: lb
@@ -25,10 +25,10 @@ overwrite_cache: true
 preprocessing_num_workers: 16
 
 ### output
-output_dir: /home/export/base/ycsc_chenkh/hitici_02/online1/AlignSFT/LLaMA-Factory/saves/llama2-7b/full/la_align/metamath_2nd-stage_code_switch_gsm8k
+output_dir: /home/export/base/ycsc_chenkh/hitici_02/online1/AlignSFT/LLaMA-Factory/saves/llama2-7b/full/la_align/metamath_2nd-stage_reasoning_mgsm8k
 logging_steps: 10
-save_steps: 500
-save_total_limit: 5
+save_steps: 1000
+save_total_limit: 1
 plot_loss: true
 overwrite_output_dir: true
 
@@ -46,7 +46,9 @@ w_decay_lm: 0.01
 per_device_train_batch_size: 4
 gradient_accumulation_steps: 8
 num_train_epochs: 1.0
-lr_scheduler_type: constant
-warmup_steps: 0
+# lr_scheduler_type: constant
+# warmup_steps: 0
+lr_scheduler_type: cosine
+warmup_ratio: 0.03
 bf16: true
 ddp_timeout: 180000000

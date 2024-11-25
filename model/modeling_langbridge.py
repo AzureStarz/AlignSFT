@@ -85,10 +85,14 @@ class LBBaseModel(ABC, PreTrainedModel):
     def freeze_lm(self):
         for param in self.lm.parameters():
             param.requires_grad = False
+        # for param in self.lm_head.parameters():
+        #     param.requires_grad = False
 
     def unfreeze_lm(self):
         for param in self.lm.parameters():
             param.requires_grad = True
+        # for param in self.lm_head.parameters():
+        #     param.requires_grad = True
     
     def freeze_alignment(self):
         for param in self.alignment.parameters():

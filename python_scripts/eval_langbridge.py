@@ -13,8 +13,6 @@ from lm_eval.models.langbridge import LBSeq2SeqLM
 logging.getLogger("openai").setLevel(logging.WARNING)
 
 from model.modeling_langbridge import LangBridgeModel
-from model.modeling_ved_align import VEDAlignModel
-from model.modeling_la_align import LangBridgeModel
 
 
 def parse_args():

@@ -28,6 +28,18 @@
   "AlignSFT_1st-stage_code_switch_gsm8k_data": {
     "file_name": "/home/export/base/ycsc_chenkh/hitici_02/online1/data/InstructData/AlignSFT/code_switch/code_switch_gsm8k_1st_stage_data_epoch_3.json"
   },
+  "AlignSFT_1st-stage_code_switch_gsm8k_reasoning_mgsm8k_data": {
+    "file_name": "/home/export/base/ycsc_chenkh/hitici_02/online1/data/InstructData/AlignSFT/multi_task_1st_stage/code_switch_gsm8k_reasoning_mgsm8k_1st_stage_3epoch_data.json"
+  },
+  "AlignSFT_1st-stage_reasoning_mgsm8k_data": {
+    "file_name": "/home/export/base/ycsc_chenkh/hitici_02/online1/data/InstructData/AlignSFT/multi_task_1st_stage/reasoning_mgsm8k_1st_stage_3epoch_data.json"
+  },
+  "AlignSFT_1st-stage_code_switch_gsm8k_metamath_data": {
+    "file_name": "/home/export/base/ycsc_chenkh/hitici_02/online1/data/InstructData/AlignSFT/code_switch/code_switch_gsm8k_metamath_1st_stage_data.json"
+  },
+  "AlignSFT_1st-stage_code_switch_gsm8k_metamath_reasoning_mgsm8k_data": {
+    "file_name": "/home/export/base/ycsc_chenkh/hitici_02/online1/data/InstructData/AlignSFT/multi_task_1st_stage/code_switch_gsm8k_metamath_1epoch_reasoning_mgsm8k_3_epoch_1st_stage_data.json"
+  },
   "AlignSFT_1st-stage-floresmt10langs-qamt10langs_data": {
     "file_name": "/home/export/base/ycsc_chenkh/hitici_02/online1/data/InstructData/AlignSFT/1st_stage_floresmt10langs_qamt10langs_data.json"
   },
