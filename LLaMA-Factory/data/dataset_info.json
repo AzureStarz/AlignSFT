@@ -25,6 +25,12 @@
   "llama2_openmath2_2nd-stage_data": {
     "file_name": "/home/export/base/ycsc_chenkh/hitici_02/online1/data/InstructData/OpenMathInstruct-2/openmathinstruct2_1m.jsonl"
   },
+  "AlignSFT_1st-stage_mt_xnli": {
+    "file_name": "/home/export/base/ycsc_chenkh/hitici_02/online1/data/InstructData/AlignSFT/multi_task_1st_stage/NLI/mt_xnli.json"
+  },
+  "AlignSFT_2nd-stage_multinli": {
+    "file_name": "/home/export/base/ycsc_chenkh/hitici_02/online1/data/InstructData/AlignSFT/2nd-stage/nulti_nli.json"
+  },
   "AlignSFT_1st-stage_code_switch_gsm8k_data": {
     "file_name": "/home/export/base/ycsc_chenkh/hitici_02/online1/data/InstructData/AlignSFT/code_switch/code_switch_gsm8k_1st_stage_data_epoch_3.json"
   },
@@ -39,6 +45,9 @@
   },
   "AlignSFT_1st-stage_code_switch_gsm8k_metamath_reasoning_mgsm8k_data": {
     "file_name": "/home/export/base/ycsc_chenkh/hitici_02/online1/data/InstructData/AlignSFT/multi_task_1st_stage/code_switch_gsm8k_metamath_1epoch_reasoning_mgsm8k_3_epoch_1st_stage_data.json"
+  },
+  "AlignSFT_1st-stage_mt_gsm8k_metamath_reasoning_mgsm8k_data": {
+    "file_name": "/home/export/base/ycsc_chenkh/hitici_02/online1/data/InstructData/AlignSFT/multi_task_1st_stage/mt_gsm8k_metamath_1_epoch_reasoning_mgsm8k_3_epoch_1st_stage_data.json"
   },
   "AlignSFT_1st-stage-floresmt10langs-qamt10langs_data": {
     "file_name": "/home/export/base/ycsc_chenkh/hitici_02/online1/data/InstructData/AlignSFT/1st_stage_floresmt10langs_qamt10langs_data.json"

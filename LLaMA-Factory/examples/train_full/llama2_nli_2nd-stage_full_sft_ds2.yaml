@@ -16,7 +16,7 @@ print_param_status: True
 deepspeed: /home/export/base/ycsc_chenkh/hitici_02/online1/AlignSFT/LLaMA-Factory/examples/deepspeed/ds_z2_config.json
 
 ### dataset
-dataset: MetaMathQA
+dataset: AlignSFT_2nd-stage_multinli
 remove_unused_columns: False
 template: empty
 cutoff_len: 1280
