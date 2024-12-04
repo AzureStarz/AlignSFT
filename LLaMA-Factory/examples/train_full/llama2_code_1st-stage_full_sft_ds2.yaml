@@ -1,6 +1,6 @@
 ### model
 enc_name_or_path: /home/export/base/ycsc_chenkh/hitici_02/online1/LangBridge/pretrained-models/mt5-xl-lm-adapt
-lm_name_or_path: /home/export/base/ycsc_chenkh/hitici_02/online1/data/pretrained-models/Llama-2-7b
+lm_name_or_path: /home/export/base/ycsc_chenkh/hitici_02/online1/data/pretrained-models/deepseek-coder-6.7b-base
 alignments: ffn
 enc_hidden_size: 2048
 lm_hidden_size: 4096

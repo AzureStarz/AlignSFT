@@ -40,6 +40,9 @@
   "AlignSFT_2nd-stage_logiqa": {
     "file_name": "/home/export/base/ycsc_chenkh/hitici_02/online1/data/InstructData/AlignSFT/2nd-stage/logiqa.json"
   },
+  "AlignSFT_2nd-stage_code": {
+    "file_name": "/home/export/base/ycsc_chenkh/hitici_02/online1/data/InstructData/AlignSFT/2nd-stage/code/train.json"
+  },
   "AlignSFT_2nd-stage_unified_mrc": {
     "file_name": "/home/export/base/ycsc_chenkh/hitici_02/online1/data/InstructData/AlignSFT/2nd-stage/unified_mrc_logiqa_belebele.json"
   },

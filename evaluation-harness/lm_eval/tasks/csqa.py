@@ -131,7 +131,7 @@ E. {choice_E}
         """
         gold = doc['answerKey']
         completion = results[0]
-        pred = re.search(r'\b([A-Za-z])\b\.', completion)
+        pred = re.search(r'\b([A-Za-z])\b\.', completion)[0][0]
         acc = 1.0 if gold == pred else 0.0
         return {"acc": acc}
 

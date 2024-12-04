@@ -11,7 +11,7 @@ batch_size=1
 python python_scripts/eval_langbridge.py \
   --checkpoint_path ${ckpt_path} \
   --enc_tokenizer ${enc_tokenizer_path} \
-  --tasks csqa_en \
+  --tasks csqa_ar,csqa_de,csqa_en,csqa_es,csqa_fr,csqa_hi,csqa_it,csqa_ja,csqa_nl,csqa_pl,csqa_pt,csqa_ru,csqa_sw,csqa_ur,csqa_vi,csqa_zh \
   --instruction_template base \
   --batch_size ${batch_size} \
   --output_path ${output_path} \
