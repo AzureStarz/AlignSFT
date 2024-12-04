@@ -71,6 +71,8 @@ from . import bigbench_bn
 from . import msvamp
 from . import m_mmlu_math
 from . import m_asdiv_mawps
+from . import csqa
+from . import mlogiqa
 
 ########################################
 # Translation tasks
@@ -361,6 +363,8 @@ TASK_REGISTRY = {
     **msvamp.construct_tasks(),
     **m_mmlu_math.construct_tasks(),
     **m_asdiv_mawps.construct_tasks(),
+    **csqa.construct_tasks(),
+    **mlogiqa.construct_tasks(),
 }
 
 

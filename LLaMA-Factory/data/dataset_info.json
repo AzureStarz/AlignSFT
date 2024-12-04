@@ -31,6 +31,24 @@
   "AlignSFT_2nd-stage_multinli": {
     "file_name": "/home/export/base/ycsc_chenkh/hitici_02/online1/data/InstructData/AlignSFT/2nd-stage/nulti_nli.json"
   },
+  "AlignSFT_1st-stage_mt_xcsqa": {
+    "file_name": "/home/export/base/ycsc_chenkh/hitici_02/online1/data/InstructData/AlignSFT/multi_task_1st_stage/CSQA/mt_xcsqa.json"
+  },
+  "AlignSFT_1st-stage_xcsqa": {
+    "file_name": "/home/export/base/ycsc_chenkh/hitici_02/online1/data/InstructData/commonsense_reasoning/X-CSR_datasets/x_csqa/xcsqa.json"
+  },
+  "AlignSFT_2nd-stage_logiqa": {
+    "file_name": "/home/export/base/ycsc_chenkh/hitici_02/online1/data/InstructData/AlignSFT/2nd-stage/logiqa.json"
+  },
+  "AlignSFT_2nd-stage_unified_mrc": {
+    "file_name": "/home/export/base/ycsc_chenkh/hitici_02/online1/data/InstructData/AlignSFT/2nd-stage/unified_mrc_logiqa_belebele.json"
+  },
+  "AlignSFT_2nd-stage_unified_csqa": {
+    "file_name": "/home/export/base/ycsc_chenkh/hitici_02/online1/data/InstructData/AlignSFT/2nd-stage/unified_csqa.json"
+  },
+  "AlignSFT_2nd-stage_sciq_unified_csqa": {
+    "file_name": "/home/export/base/ycsc_chenkh/hitici_02/online1/data/InstructData/AlignSFT/2nd-stage/unified_sciq_csqa.json"
+  },
   "AlignSFT_1st-stage_code_switch_gsm8k_data": {
     "file_name": "/home/export/base/ycsc_chenkh/hitici_02/online1/data/InstructData/AlignSFT/code_switch/code_switch_gsm8k_1st_stage_data_epoch_3.json"
   },
@@ -48,6 +66,9 @@
   },
   "AlignSFT_1st-stage_mt_gsm8k_metamath_reasoning_mgsm8k_data": {
     "file_name": "/home/export/base/ycsc_chenkh/hitici_02/online1/data/InstructData/AlignSFT/multi_task_1st_stage/mt_gsm8k_metamath_1_epoch_reasoning_mgsm8k_3_epoch_1st_stage_data.json"
+  },
+  "AlignSFT_1st-stage_mt_gsm8k_reasoning_mgsm8k_mindmerger_data": {
+    "file_name": "/online1/ycsc_chenkh/hitici_02/data/InstructData/AlignSFT/multi_task_1st_stage/mt_gsm8k_reasoning_mgsm8k_mindmerger_3_epoch_1st_stage_data.json"
   },
   "AlignSFT_1st-stage-floresmt10langs-qamt10langs_data": {
     "file_name": "/home/export/base/ycsc_chenkh/hitici_02/online1/data/InstructData/AlignSFT/1st_stage_floresmt10langs_qamt10langs_data.json"

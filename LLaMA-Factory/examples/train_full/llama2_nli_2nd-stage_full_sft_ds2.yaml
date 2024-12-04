@@ -1,12 +1,12 @@
 ### model
-model_name_or_path: /home/export/base/ycsc_chenkh/hitici_02/online1/AlignSFT/LLaMA-Factory/saves/llama2-7b/full/la_align/freeze_llm_1st-stage_mt_gsm8k_metamath_reasoning_mgsm8k
+model_name_or_path: /home/export/base/ycsc_chenkh/hitici_02/online1/AlignSFT/LLaMA-Factory/saves/llama2-7b/full/lb/nli/sft_llm_1st-stage_mt_xnli
 enc_name_or_path: /home/export/base/ycsc_chenkh/hitici_02/online1/LangBridge/pretrained-models/mt5-xl-lm-adapt
 lm_name_or_path: /home/export/base/ycsc_chenkh/hitici_02/online1/data/pretrained-models/Llama-2-7b
 alignments: ffn
 enc_hidden_size: 2048
 lm_hidden_size: 4096
 add_new_lines_to_enc: True
-exp_run_name: metamath_2nd-stage_freeze_llm_1st-stage_mt_gsm8k_metamath_reasoning_mgsm8k
+exp_run_name: sft_llm_multi-nli_2nd-stage_sft_llm_1st-stage_mt_xnli
 
 ### method
 stage: lb
@@ -25,7 +25,7 @@ overwrite_cache: true
 preprocessing_num_workers: 16
 
 ### output
-output_dir: /home/export/base/ycsc_chenkh/hitici_02/online1/AlignSFT/LLaMA-Factory/saves/llama2-7b/full/la_align/metamath_2nd-stage_freeze_llm_1st-stage_mt_gsm8k_metamath_reasoning_mgsm8k
+output_dir: /home/export/base/ycsc_chenkh/hitici_02/online1/AlignSFT/LLaMA-Factory/saves/llama2-7b/full/lb/nli/sft_llm_multi-nli_2nd-stage_sft_llm_1st-stage_mt_xnli
 logging_steps: 10
 save_steps: 1000
 save_total_limit: 1

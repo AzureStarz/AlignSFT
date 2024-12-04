@@ -41,13 +41,15 @@ _CITATIONS = """
 
 class XNLIBase(Task):
     VERSION = 0
-    DATASET_PATH = "xnli"
+    DATASET_PATH = "/GLOBALFS/hitsz_khchen_3_2/data/eval_data/xnli"
     DATASET_NAME = None
 
     QUESTION_WORD = None  # 'right'
-    ENTAILMENT_LABEL = None  # 'Yes'
-    NEUTRAL_LABEL = None  # 'Also'
-    CONTRADICTION_LABEL = None  # 'No'
+    ENTAILMENT_LABEL = "Entailment"  # 'Yes'
+    NEUTRAL_LABEL = "Neutral"  # 'Also'
+    CONTRADICTION_LABEL = "Contradiction"  # 'No'
+    
+    _INSTRUCTIONS_XNLI = "I will give you a premise and a hypothesis. Choose the most appropriate relationship from the following options: Entailment, Neutral, Contradiction.\n### Premise:\n{premise}\n\n### Hypothesis:\n{hypo}\n\n### Answer:"
 
     def has_training_docs(self):
         return True
@@ -67,35 +69,35 @@ class XNLIBase(Task):
     def test_docs(self):
         return self.dataset["test"]
 
-    def doc_to_text(self, doc):
+    def doc_to_text(self, doc, instruction_template=None):
         # Example:
         # The girl that can help me is all the way across town, right? Yes, The girl I need help from lives a ways away.
         # [MASK] is replaced with ENTAILMENT_LABEL, NEUTRAL_LABEL, or CONTRADICTION_LABEL
-        return (
-            doc["premise"]
-            + ", "
-            + self.QUESTION_WORD
-            + "? [MASK], "
-            + doc["hypothesis"]
+        return self._INSTRUCTIONS_XNLI.format(
+            premise=doc["premise"],
+            hypo=doc["hypothesis"],
         )
+        # return (
+        #     doc["premise"]
+        #     + ", "
+        #     + self.QUESTION_WORD
+        #     + "? [MASK], "
+        #     + doc["hypothesis"]
+        # )
 
-    def doc_to_target(self, doc):
+    def doc_to_target(self, doc, instruction_template=None):
         # True = entailment
         # False = contradiction
         # Neither = neutral
-        return (
-            " "
-            + [self.ENTAILMENT_LABEL, self.NEUTRAL_LABEL, self.CONTRADICTION_LABEL][
-                doc["label"]
-            ]
-        )
+        return [self.ENTAILMENT_LABEL, self.NEUTRAL_LABEL, self.CONTRADICTION_LABEL][doc["label"]]
 
-    def doc_to_fewshot_prompt(self, doc):
+    def doc_to_fewshot_prompt(self, doc, instruction_template=None):
 
         prompt = self.doc_to_text(doc)
-        return prompt.replace("[MASK]", self.doc_to_target(doc)[1:])
+        return prompt + self.doc_to_target(doc)
+        # return prompt.replace("[MASK]", self.doc_to_target(doc)[1:])
 
-    def construct_requests(self, doc, ctx):
+    def construct_requests(self, doc, ctx, instruction_template=None):
         """Uses RequestFactory to construct Requests and returns an iterable of
         Requests which will be sent to the LM.
 
@@ -106,13 +108,11 @@ class XNLIBase(Task):
             language description, as well as the few shot examples, and the question
             part of the document for `doc`.
         """
-        ll_true = rf.loglikelihood_rolling(ctx.replace("[MASK]", self.ENTAILMENT_LABEL))
-        ll_neither = rf.loglikelihood_rolling(ctx.replace("[MASK]", self.NEUTRAL_LABEL))
-        ll_false = rf.loglikelihood_rolling(
-            ctx.replace("[MASK]", self.CONTRADICTION_LABEL)
-        )
-
-        return ll_true, ll_neither, ll_false
+        # ll_true = rf.loglikelihood(ctx, " " + self.ENTAILMENT_LABEL)
+        # ll_neither = rf.loglikelihood(ctx, " " + self.NEUTRAL_LABEL)
+        # ll_false = rf.loglikelihood(ctx, " " + self.CONTRADICTION_LABEL)
+        return rf.greedy_until(ctx, {"until": ['</s>']})
+        # return ll_true, ll_neither, ll_false
 
     def process_results(self, doc, results):
         """Take a single document and the LM results and evaluates, returning a
@@ -124,9 +124,11 @@ class XNLIBase(Task):
         :param results:
             The results of the requests created in construct_requests.
         """
-        gold = doc["label"]
-        pred = np.argmax(results)
-        return {"acc": pred == gold}
+        gold = [self.ENTAILMENT_LABEL, self.NEUTRAL_LABEL, self.CONTRADICTION_LABEL][doc["label"]]
+        completion = results[0]
+        # pred = np.argmax(results)
+        acc = 1.0 if gold in completion else 0.0
+        return {"acc": acc}
 
     def aggregation(self):
         """
@@ -146,7 +148,7 @@ class XNLIBase(Task):
 
     @utils.positional_deprecated
     def fewshot_context(
-        self, doc, num_fewshot, provide_description=None, rnd=None, description=None
+        self, doc, num_fewshot, instruction_template=None, provide_description=None, rnd=None, description=None
     ):
         """Returns a fewshot context string that is made up of a prepended description
         (if provided), the `num_fewshot` number of examples, and an appended prompt example.
@@ -218,134 +220,89 @@ class XNLIBase(Task):
 class XNLI_en(XNLIBase):  # English
     DATASET_NAME = "en"
 
-    QUESTION_WORD = "right"
-    ENTAILMENT_LABEL = "Yes"
-    NEUTRAL_LABEL = "Also"
-    CONTRADICTION_LABEL = "No"
+    
 
 
 class XNLI_de(XNLIBase):  # German
-    DATASET_NAME = "en"
+    DATASET_NAME = "de"
 
-    QUESTION_WORD = "right"
-    ENTAILMENT_LABEL = "Yes"
-    NEUTRAL_LABEL = "Also"
-    CONTRADICTION_LABEL = "No"
+    
 
 
 class XNLI_ar(XNLIBase):  # Arabic
-    DATASET_NAME = "en"
+    DATASET_NAME = "ar"
 
-    QUESTION_WORD = "right"
-    ENTAILMENT_LABEL = "Yes"
-    NEUTRAL_LABEL = "Also"
-    CONTRADICTION_LABEL = "No"
+    
 
 
 class XNLI_bg(XNLIBase):  # Bulgarian
-    DATASET_NAME = "en"
+    DATASET_NAME = "bg"
 
-    QUESTION_WORD = "right"
-    ENTAILMENT_LABEL = "Yes"
-    NEUTRAL_LABEL = "Also"
-    CONTRADICTION_LABEL = "No"
+    
 
 
 class XNLI_el(XNLIBase):  # Greek
-    DATASET_NAME = "en"
+    DATASET_NAME = "el"
 
-    QUESTION_WORD = "right"
-    ENTAILMENT_LABEL = "Yes"
-    NEUTRAL_LABEL = "Also"
-    CONTRADICTION_LABEL = "No"
+    
 
 
 class XNLI_es(XNLIBase):  # Spanish
-    DATASET_NAME = "en"
+    DATASET_NAME = "es"
 
-    QUESTION_WORD = "right"
-    ENTAILMENT_LABEL = "Yes"
-    NEUTRAL_LABEL = "Also"
-    CONTRADICTION_LABEL = "No"
+    
 
 
 class XNLI_fr(XNLIBase):  # French
-    DATASET_NAME = "en"
+    DATASET_NAME = "fr"
 
-    QUESTION_WORD = "right"
-    ENTAILMENT_LABEL = "Yes"
-    NEUTRAL_LABEL = "Also"
-    CONTRADICTION_LABEL = "No"
+    
 
 
 class XNLI_hi(XNLIBase):  # Hindi
-    DATASET_NAME = "en"
+    DATASET_NAME = "hi"
 
-    QUESTION_WORD = "right"
-    ENTAILMENT_LABEL = "Yes"
-    NEUTRAL_LABEL = "Also"
-    CONTRADICTION_LABEL = "No"
+    
 
 class XNLI_ru(XNLIBase):  # Russian
-    DATASET_NAME = "en"
+    DATASET_NAME = "ru"
 
-    QUESTION_WORD = "right"
-    ENTAILMENT_LABEL = "Yes"
-    NEUTRAL_LABEL = "Also"
-    CONTRADICTION_LABEL = "No"
+    
 
 
 class XNLI_sw(XNLIBase):  # Swahili
-    DATASET_NAME = "en"
+    DATASET_NAME = "sw"
 
-    QUESTION_WORD = "right"
-    ENTAILMENT_LABEL = "Yes"
-    NEUTRAL_LABEL = "Also"
-    CONTRADICTION_LABEL = "No"
+    
 
 
 class XNLI_th(XNLIBase):  # Thai
-    DATASET_NAME = "en"
+    DATASET_NAME = "th"
 
-    QUESTION_WORD = "right"
-    ENTAILMENT_LABEL = "Yes"
-    NEUTRAL_LABEL = "Also"
-    CONTRADICTION_LABEL = "No"
+    
 
 
 class XNLI_tr(XNLIBase):  # Turkish
-    DATASET_NAME = "en"
+    DATASET_NAME = "tr"
 
-    QUESTION_WORD = "right"
-    ENTAILMENT_LABEL = "Yes"
-    NEUTRAL_LABEL = "Also"
-    CONTRADICTION_LABEL = "No"
+    
 
 
 class XNLI_ur(XNLIBase):  # Urdu
-    DATASET_NAME = "en"
+    DATASET_NAME = "ur"
 
-    QUESTION_WORD = "right"
-    ENTAILMENT_LABEL = "Yes"
-    NEUTRAL_LABEL = "Also"
-    CONTRADICTION_LABEL = "No"
+    
 
 class XNLI_vi(XNLIBase):  # Vietnamese
-    DATASET_NAME = "en"
+    DATASET_NAME = "vi"
 
-    QUESTION_WORD = "right"
-    ENTAILMENT_LABEL = "Yes"
-    NEUTRAL_LABEL = "Also"
-    CONTRADICTION_LABEL = "No"
+    
 
 
 class XNLI_zh(XNLIBase):  # Chinese
-    DATASET_NAME = "en"
+    DATASET_NAME = "zh"
 
-    QUESTION_WORD = "right"
-    ENTAILMENT_LABEL = "Yes"
-    NEUTRAL_LABEL = "Also"
-    CONTRADICTION_LABEL = "No"
+    
 
 
 LANGS = [
